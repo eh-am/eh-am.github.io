@@ -5,28 +5,26 @@ url: "http://example.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Type Theme
+  title: eduardo aleixo
   avatar: avatar.png
   gravatar: # email md5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "a webdev from votorantim/brazil" # used by search engines
   
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
      
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
   
   # Icons
   rss: false
-  email_address: # full email address, e.g. "sam@example.com"
+  email_address: eduardoaleixomartins@gmail.com # full email address, e.g. "sam@example.com"
   behance:
   bitbucket: 
   dribbble: 
   facebook: 
   flickr: 
-  github: "rohanchandra/type-theme"
+  github: "eh-am"
   google_plus: 
   instagram: 
   linkedin:  # full URL
@@ -36,7 +34,7 @@ theme:
   stack_exchange:  # full URL
   steam: 
   tumblr: 
-  twitter: "twitter"
+  twitter: #"twitter"
   wordpress: 
   youtube: 
   

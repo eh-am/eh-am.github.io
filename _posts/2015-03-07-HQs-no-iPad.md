@@ -8,7 +8,9 @@ Porém, tem coisas que não dá para comprar por não terem edição, ou pelo pr
 
 
 # Participantes
-## O Ipad
+
+## O iPad
+
 É um antigo iPad que comprei de um ex-chefe. Devidamente fiz um jailbreak (desculpem puristas).
 
 ## O Aplicativo
@@ -16,7 +18,7 @@ Dentre os pesquisados, o [ComicFlow](https://itunes.apple.com/br/app/comicflow/i
 
 
 ## O problema
-![Interface web do ComicFlow]({{ site.url }}/images/07_03_2015/comicFlow-webServer.png)
+![Interface web do ComicFlow](/images/07_03_2015/comicFlow-webServer.png)
 
 O ComicFlow tem uma ótima interface via web para enviar as HQs para o iPad. Porém vem com uma limitação de 50 arquivos, depois disso só comprando uma versão Premium Deluxe. Acho overkill resolver todos os problemas pagando, então resolvi lidar com o problema de outra forma.
 
@@ -38,7 +40,7 @@ senha: alpine
 Essa senha "alpine" é a padrão do root do iOS. 
 
 Certo... como funciona essa árvore de diretórios?
-![Árvore diretórios iPad]({{ site.url }}/images/07_03_2015/ipadtree.png)
+![Árvore diretórios iPad](/images/07_03_2015/ipadtree.png)
 
 Ok, não faço ideia de onde esteja a pasta do ComicFlow. Então abro uma janela no terminal e acesso via SSH o iPad:
 ```
@@ -76,7 +78,9 @@ rsync NOME_DO_ARQUIVO root@IP_DO_IPAD:/ComicFlow/
 
 
 Agora é só ler um Animal Man da fase do Grant Morrisson :-)
-![Animal Man]({{ site.url }}/images/07_03_2015/animalMan.PNG)
+
+
+![Animal Man](/images/07_03_2015/animalMan.PNG)
 
 
 

@@ -9,39 +9,39 @@ theme:
   avatar: avatar.png
   gravatar: # email md5 hash
   description: "a webdev from votorantim/brazil" # used by search engines
-  
+
   # Header and footer text
   header_text: >
-     
+
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
-  
+
   # Icons
   rss: false
   email_address: eduardoaleixomartins@gmail.com # full email address, e.g. "sam@example.com"
   behance:
-  bitbucket: 
-  dribbble: 
-  facebook: 
-  flickr: 
+  bitbucket:
+  dribbble:
+  facebook:
+  flickr:
   github: "eh-am"
-  google_plus: 
-  instagram: 
+  google_plus:
+  instagram:
   linkedin:  # full URL
-  pinterest: 
-  reddit: 
-  soundcloud: 
+  pinterest:
+  reddit:
+  soundcloud:
   stack_exchange:  # full URL
-  steam: 
-  tumblr: 
+  steam:
+  tumblr:
   twitter: #"twitter"
-  wordpress: 
-  youtube: 
-  
+  wordpress:
+  youtube:
+
   # Scripts
   google_analytics: # tracking id, e.g. "UA-000000-01"
   disqus_shortname:
-  
+
   # Localization strings
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
@@ -49,7 +49,7 @@ theme:
   str_next: "Next"
   str_prev: "Prev"
   str_continue_reading: "Continue reading"
-  
+
   # Colors, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
 

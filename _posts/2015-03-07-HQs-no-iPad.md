@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Lendo HQs num caduco iPad2
+category: project
 ---
 
-Recentemente desenvolvi esse hábito de ler HQs. Marvel, DC, MSP, Vertigo, DarkHorse etc, o que achar na banca e for massa tá valendo. 
+Recentemente desenvolvi esse hábito de ler HQs. Marvel, DC, MSP, Vertigo, DarkHorse etc, o que achar na banca e for massa tá valendo.
 Porém, tem coisas que não dá para comprar por não terem edição, ou pelo preço ser abusivo. Nesse caso, meu velho companheiro de guerra iPad2 vem ao resgate.
 
 
@@ -24,7 +25,7 @@ O ComicFlow tem uma ótima interface via web para enviar as HQs para o iPad. Por
 
 # A solução
 
-Primeiramente, instalei o OpenSSH via Cydia (se você fez jailbreak, saberá do que estou falando). 
+Primeiramente, instalei o OpenSSH via Cydia (se você fez jailbreak, saberá do que estou falando).
 
 Na minha máquina instalei um cliente de FTP, o Filezilla. Cuidado de onde forem baixar, pois do [SoundForge vem com malware](http://trac.filezilla-project.org/ticket/8888).
 
@@ -37,7 +38,7 @@ usuário: root
 senha: alpine
 {% endhighlight %}
 
-Essa senha "alpine" é a padrão do root do iOS. 
+Essa senha "alpine" é a padrão do root do iOS.
 
 Certo... como funciona essa árvore de diretórios?
 ![Árvore diretórios iPad](/images/07_03_2015/ipadtree.png)
@@ -81,6 +82,3 @@ Agora é só ler um Animal Man da fase do Grant Morrisson :-)
 
 
 ![Animal Man](/images/07_03_2015/animalMan.PNG)
-
-
-

@@ -1,36 +1,34 @@
 ---
 layout: default
-title: Blog
+title: Projects
+permalink: /projects/
 ---
-
 <div class="home">
-
   {% if site.theme.header_text %}
-  <div class="call-out">
-    {{ #site.theme.header_text }}
-    <h1>{{ page.title }}</h1>
-  </div>
+  <div class="call-out"><h1>{{ page.title }}</h1></div>
   {% endif %}
 
   <div class="posts">
-    {% for post in paginator.posts %}
-    <div class="post-teaser">
+    {% for post in site.categories.project %}
+      <div class="post-teaser">
 
-      <header>
-        <h1>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h1>
+        <header>
+          <h1>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h1>
 
-        <p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
-      </header>
+          <p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+        </header>
 
-      <div class="excerpt">
-        {{ post.excerpt }}
+        <div class="excerpt">
+          {{ post.excerpt }}
 
-        <a class="button" href="{{ post.url | prepend: site.baseurl }}">{{ site.theme.str_continue_reading }}</a>
+          <a class="button" href="{{ post.url | prepend: site.baseurl }}">{{ site.theme.str_continue_reading }}</a>
+        </div>
+
       </div>
 
-    </div>
+
     {% endfor %}
   </div>
 

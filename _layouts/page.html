@@ -1,11 +1,18 @@
 ---
 layout: default
 ---
+
+<div class="call-out">
+  {{ #site.theme.header_text }}
+  <h1>{{ page.title }}</h1>
+</div>
+
 <article {% if page.feature-img %}class="feature-image"{% endif %}>
 
-  <header style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
+
+  <!-- <header style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
     <h1 class="title">{{ page.title }}</h1>
-  </header>
+  </header> -->
 
   <section class="post-content">
     {{ content }}

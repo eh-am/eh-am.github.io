@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://eh-am.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: eduardo aleixo
+  title: eduardo aleixo's blog
   avatar: avatar.png
   gravatar: # email md5 hash
-  description: "a webdev from votorantim/brazil" # used by search engines
+  description: "brazilian web developer currently living in toronto" # used by search engines
 
   # Header and footer text
   header_text: >
@@ -34,12 +34,12 @@ theme:
   stack_exchange:  # full URL
   steam:
   tumblr:
-  twitter: #"twitter"
+  twitter: "invalidindex" #"twitter"
   wordpress:
   youtube:
 
   # Scripts
-  google_analytics: # tracking id, e.g. "UA-000000-01"
+  google_analytics: UA-59191973-2 # tracking id, e.g. "UA-000000-01"
   disqus_shortname:
 
   # Localization strings

@@ -10,14 +10,17 @@
 			<img class="avatar" src="/img/{{ site.theme.avatar }}" alt=""/>
 		</a>
 		{% endif %}
-		
+
 		<h1 class="site-title">
 			<a href="{{ site.baseurl }}/">{{ site.theme.title }}</a>
 		</h1>
 	</div>
-	
+
 	<nav class="site-nav">
 		<ul>
+			<li>
+				<a class="page-link" href="/">Blog</a>
+			</li>
 			{% for page in site.pages %}
 				{% if page.title and page.hide != true %}
 				<li>
@@ -30,5 +33,5 @@
 			{% include icons.html %}
 		</ul>
 	</nav>
-	
+
 </header>

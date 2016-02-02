@@ -8,9 +8,13 @@
   text-align: center;
   color: $header-desc-text-color;
 }
+.call-out h1{
+  margin: 0;
+}
 .call-out p:last-child {
   margin-bottom: 0;
 }
+
 // post listing
 .posts {
   .post-teaser {
@@ -38,4 +42,13 @@
 .pagination {
   padding: $padding-small $padding-large 0 $padding-large;
   text-align: center;
+}
+
+
+//pages
+.Projects .call-out{
+  background-color: #16a085;
+}
+.About .call-out{
+  background-color: #c0392b;
 }

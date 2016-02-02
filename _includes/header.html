@@ -7,10 +7,13 @@
 		</a>
 		{% elsif site.theme.avatar %}
 		<a href="{{ site.baseurl }}/">
-			<img class="avatar" src="/img/{{ site.theme.avatar }}" alt=""/>
+			<img class="avatar" src="{{ site.theme.avatar }}" alt=""/>
+		</a>
+		{% else %}
+		<a href="{{ site.baseurl }}/">
+			<img class="avatar" src="img/avatar.png" alt=""/>
 		</a>
 		{% endif %}
-
 		<h1 class="site-title">
 			<a href="{{ site.baseurl }}/">{{ site.theme.title }}</a>
 		</h1>

@@ -1,20 +1,20 @@
 # SITE CONFIGURATION
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://eh-am.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: eduardo aleixo's blog
-  avatar: avatar.png
+  title: eduardo aleixo
+  avatar: https://avatars0.githubusercontent.com/u/6951209?v=3&s=460
   gravatar: # email md5 hash
-  description: "brazilian web developer currently living in toronto" # used by search engines
+  description: personal webpage for brazilian web developer Eduardo Aleixo # used by search engines
 
   # Header and footer text
   header_text: >
 
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>, modified by eduardo aleixo
 
   # Icons
   rss: false

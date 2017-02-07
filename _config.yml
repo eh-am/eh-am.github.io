@@ -7,7 +7,7 @@ theme:
   # Meta
   title: eduardo aleixo
   avatar: https://avatars0.githubusercontent.com/u/6951209?v=3&s=460
-  gravatar: '' # email md5 hash
+  # gravatar: '' # email md5 hash
   description: personal webpage for brazilian web developer Eduardo Aleixo # used by search engines
 
   # Header and footer text

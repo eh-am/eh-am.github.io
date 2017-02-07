@@ -5,4 +5,4 @@ slug: about
 permalink: /about/
 ---
 
-brazilian web developer, currently living in Toronto
+just an ordinary brazilian web developer 

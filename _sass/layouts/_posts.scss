@@ -16,6 +16,11 @@ article {
   .footnotes {
     font-size: 0.9em;
   }
+
+  p > img {
+    display: block;
+    margin: 0 auto;
+  }
 }
 header {
   h1 {

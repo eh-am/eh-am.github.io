@@ -5,4 +5,6 @@ slug: about
 permalink: /about/
 ---
 
-just an ordinary brazilian web developer 
+just an ordinary brazilian web developer/devops wannabe
+
+contact me at eduardo@eduardoaleixo.com 

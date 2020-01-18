@@ -21,7 +21,8 @@ pygmentscodefencesguesssyntax = true
   keywords="developer,personal"
   since = 2020
 
-  custom_scss = ["scss/custom.scss"]
+  colorscheme = "light"
+  custom_scss = ["scss/custom.scss", "scss/normalize.css"]
 
 [languages]
     [languages.en]

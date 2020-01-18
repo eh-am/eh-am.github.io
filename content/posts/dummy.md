@@ -1,9 +1,8 @@
 +++ 
-date = "2018-12-31"
+date = "2020-01-18"
 title = "Dummy"
 slug = "dummy" 
-tags = ["hugo", "i18n"]
 categories = ["blog"]
 +++
 
-Nothing to see here
+hello world

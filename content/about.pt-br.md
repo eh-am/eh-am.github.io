@@ -1,7 +1,6 @@
 +++
-title = "About me"
-slug = "about"
-translationKey = "about"
+title = "Quem sou eu"
+slug = "quem-sou-eu"
 +++
 
-I am Eduardo Aleixo.
+Eduardo Aleixo.

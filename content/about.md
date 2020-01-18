@@ -4,4 +4,4 @@ slug = "about"
 translationKey = "about"
 +++
 
-I am Eduardo Aleixo.
+I am Eduardo Aleixo!.

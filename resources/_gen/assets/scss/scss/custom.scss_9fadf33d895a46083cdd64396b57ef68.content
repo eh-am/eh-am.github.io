@@ -1,9 +1,0 @@
-[data-emoji] {
-  font-style: normal;
-  font-weight: normal !important; }
-
-[data-emoji]:before {
-  content: attr(data-emoji);
-  margin-right: 0.125em; }
-
-/*# sourceMappingURL=custom.css.map */

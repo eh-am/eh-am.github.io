@@ -5,7 +5,7 @@
   // try to normalize emoji
   font-family: apple color emoji, segoe ui emoji, noto color emoji,
     android emoji, emojisymbols, emojione mozilla, twemoji mozilla,
-    segoe ui symbol;
+    segoe ui symbol !important;
 }
 [data-emoji]:before {
   content: attr(data-emoji);

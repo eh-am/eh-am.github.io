@@ -1,3 +1,5 @@
+@import 'variables';
+
 // https://codepen.io/niklass/pen/MXzJBQ
 [data-emoji] {
   font-style: normal;
@@ -17,4 +19,28 @@
 .list ul li .date {
   width: initial;
   text-align: initial;
+}
+
+// reimplement without using font-awesome
+@media only screen and (max-width: 768px) {
+  .navigation .menu-button {
+    display: flex;
+    height: 6rem;
+  }
+}
+
+.menu-button .wrap {
+  width: 2.5rem;
+  height: 2.4rem;
+
+  justify-content: space-between;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+}
+.menu-button .stripe {
+  display: inline-block;
+  height: 0.4rem;
+  background-color: $fg-color;
+  border-radius: 3px;
 }

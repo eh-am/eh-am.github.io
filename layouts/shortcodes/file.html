@@ -1,0 +1,15 @@
+{{/* thanks to https://github.com/MunifTanjim/minimo/blob/e61d1498fdcd22712c9afdaa81d742f92d2f2b3f/layouts/shortcodes/file.html#L1-L13 */}}
+{{- if gt ( len .Params ) 1 -}}
+  {{- $.Scratch.Set "format" ( .Get 1 ) -}}
+{{- else -}}
+  {{- $splits := ( split ( .Get 0 ) "." ) -}}
+  {{- $splitsLength := ( len $splits ) -}}
+  {{- $format := ( index $splits ( sub $splitsLength 1 ) ) -}}
+  {{- $.Scratch.Set "format" $format -}}
+{{- end -}}
+
+{{- $file := ( .Get 0 ) -}}
+{{- $format := ( $.Scratch.Get "format" ) -}}
+
+{{- ( print "```" $format "\n" ( readFile $file ) "```" ) | markdownify -}}
+{{- print "Source: `" $file "`<br/></br>" | markdownify }}

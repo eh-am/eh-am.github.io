@@ -44,3 +44,9 @@
   background-color: $fg-color;
   border-radius: 3px;
 }
+
+// a bug with "code's" shortcode
+// makes it display an additional empty p tag
+code + p {
+  display: none;
+}

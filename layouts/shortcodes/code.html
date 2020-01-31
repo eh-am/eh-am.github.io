@@ -1,0 +1,8 @@
+{{/* thanks to https://stackoverflow.com/a/45421343 */}}
+{{ $file := .Get "file" | readFile }}
+{{ $lang := .Get "language" }}
+{{ $md5 := $file | md5 }}
+{{ print " ```\n" ($file | safeHTML) "```" }}
+{{ print "2" }}
+{{ (print "```" $lang "\n" $file "\n```" ) }}
+{{ print "aaaaa" }}

@@ -23,7 +23,7 @@ My personal interests revolve around:
 
 I am trying to get more into (as of 2020):
 
-- cooking (since my girlfriend introduced me to japanese dishes a new world opened to me)
+- cooking (a new world has opened to me since my girlfriend introduced me to traditional japanese dishes)
 - japanese language
 - karaoke
 - non-technical reading (comics, manga, novels)

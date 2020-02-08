@@ -5,7 +5,7 @@ translationKey = "about"
 +++
 
 Meu nome é Eduardo Aleixo! Sou originalmente do interior de São Paulo, mas agora vivo na capital. Ainda me adaptando à cidade grande.
-Atualmente faço trabalho remoto para [Translucent Computing](https://www.translucentcomputing.com/), têm sido bastante divertido!
+Atualmente faço trabalho remoto para [Translucent Computing](https://www.translucentcomputing.com/), tem sido bastante divertido!
 
 No momento estou interessado profissionalmente em:
 

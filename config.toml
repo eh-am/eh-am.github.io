@@ -14,15 +14,18 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+googleAnalytics = "UA-59191973-2"
+
 [params]
   author = "eduardo aleixo"
-  info = "self-reliant fullstack dev"
+  info = "dev, ops and everything in-between"
   description = "eduardo aleixo's personal website"
   keywords="developer,personal"
   since = 2020
 
   colorscheme = "light"
-  custom_scss = ["scss/custom.scss", "scss/normalize.css"]
+#  custom_scss = ["scss/custom.scss", "scss/normalize.css"]
+  custom_scss = ["scss/custom.scss"]
 
 [languages]
     [languages.en]
@@ -51,7 +54,7 @@ pygmentscodefencesguesssyntax = true
         dateformat = "02/01/2006"
 
         [languages.pt-br.params]
-	    info = "fullstack dev auto-suficiente"
+	    info = "dev, ops e tudo mais"
             description = "site pessoal de eduardo aleixo"
 	    keywords="desenvolvedor,pessoal"
 	    languageLink = "versão em português"

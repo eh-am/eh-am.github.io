@@ -24,7 +24,6 @@ googleAnalytics = "UA-59191973-2"
   since = 2020
 
   colorscheme = "light"
-#  custom_scss = ["scss/custom.scss", "scss/normalize.css"]
   custom_scss = ["scss/custom.scss"]
 
 [languages]

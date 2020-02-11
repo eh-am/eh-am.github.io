@@ -1,0 +1,22 @@
+{
+  "name": "eduardoaleixo.com",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "bats": "bats"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eh-am/eh-am.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/eh-am/eh-am.github.io/issues"
+  },
+  "homepage": "https://github.com/eh-am/eh-am.github.io#readme",
+  "devDependencies": {
+    "bats-assert": "git+https://github.com/ztombol/bats-assert.git",
+    "bats-support": "git+https://github.com/ztombol/bats-support.git"
+  }
+}

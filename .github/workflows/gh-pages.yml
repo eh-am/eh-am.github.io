@@ -14,7 +14,9 @@ jobs:
           submodules: true
 
       - name: Run tests
-        run: bash ./scripts/test.sh
+        run: |
+          bash ./scripts/init..sh
+          bash ./scripts/test.sh
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2

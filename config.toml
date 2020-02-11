@@ -15,6 +15,13 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 googleAnalytics = "UA-59191973-2"
+[markup.goldmark.renderer]
+unsafe=true
+
+[markup.highlight]
+lineNos = true
+tabWidth = 2
+lineNoStart = 1
 
 [params]
   author = "eduardo aleixo"

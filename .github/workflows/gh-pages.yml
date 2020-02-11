@@ -15,7 +15,7 @@ jobs:
 
       - name: Run tests
         run: |
-          bash ./scripts/init..sh
+          bash ./scripts/init.sh
           bash ./scripts/test.sh
 
       - name: Setup Hugo

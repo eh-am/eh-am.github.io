@@ -1,7 +1,7 @@
 +++
 date = "2020-02-08"
 title = "Unnoficial Bash Strict Mode"
-slug = "unnoficial-bash-strict-mode"
+slug = "bash-strict-mode"
 categories = ["blog", "bash", "technical"]
 +++
 

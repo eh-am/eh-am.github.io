@@ -7,12 +7,27 @@ translationKey = "about"
 Meu nome é Eduardo Aleixo! Sou originalmente do interior de São Paulo, mas agora vivo na capital. Ainda me adaptando à cidade grande.
 Atualmente faço trabalho remoto para [Translucent Computing](https://www.translucentcomputing.com/), tem sido bastante divertido!
 
+Voce pode me contatar em [eduardo@eduardoaleixo.com](mailto:eduardo@eduardoaleixo.com)
+
 No momento estou interessado profissionalmente em:
 
 - desenvolvimento/operações/devops (eu acredito firmemente na cultura devops)
 - kubernetes (é um tanto complexo, mas nos permite fazer várias coisas legais) e todo os seus amigos (containers, sistemas distribuidos, observability, workloads sem estado)
-- programação funcional, tipagem estática etc
-- user experience (gosto de coisas simples, bonitas e úteis)
+- programação funcional, tipagem estática
+- elm, haskell, elixir
+- linux
+
+No trabalho mexo com:
+
+- kubernetes (raw yaml, helm charts)
+- groovy (jenkins pipeline)
+- typescript (ferramentas internas em nodejs e um pouco de angular)
+- golang (ferramentas internas)
+- prometheus (instrumentalizacao)
+- grafana dashboards
+- um pouco de bash
+- ci/cd com jenkins/spinnaker
+- infrastructure as code (terraform/ansible)
 
 Meus interesses pessoais giram em torno de:
 
@@ -23,8 +38,7 @@ Meus interesses pessoais giram em torno de:
 
 Estou tentando aprender mais sobre (em 2020):
 
-- cozinha (um mundo novo se abriu depois que minha namorada me apresentou à culinária tradicional japonesa)
+- cozinhar
 - lingua japonesa
-- karaoke
 - leitura não-técnica (quadrinhos, manga, novelas, romances)
 - filmes

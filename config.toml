@@ -32,6 +32,7 @@ lineNoStart = 1
 
   colorscheme = "light"
   custom_scss = ["scss/custom.scss"]
+  custom_js = ["js/script.js"]
 
 [languages]
     [languages.en]

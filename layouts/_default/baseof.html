@@ -3,7 +3,7 @@
 
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <style>
         /* https://stackoverflow.com/a/53364612 */
 	html {
@@ -67,7 +67,7 @@
     {{ end }}
 
     {{ range .Site.Params.custom_js }}
-      <script src="{{ . | relURL }}"></script>
+      <script type="text/javascript" src="{{ . | relURL }}"></script>
     {{ end }}
 
     {{ range .Site.Params.custom_scss }}
@@ -105,6 +105,7 @@
     {{ $csClass = "colorscheme-auto" }}
   {{ end }}
   <body class="{{ $csClass }}{{ if .Site.Params.rtl }} rtl{{ end }}">
+    <div id="page-transitioner"></div>
     <main class="wrapper">
       {{ partial "header.html" . }}
 
@@ -120,6 +121,7 @@
 
     {{ $styles := resources.Get "scss/fouc.scss" | toCSS }}
     <link rel="stylesheet" href="{{ $styles.RelPermalink }}" media="screen">
+    
   </body>
 
 </html>

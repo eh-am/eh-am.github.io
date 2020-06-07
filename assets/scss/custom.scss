@@ -50,3 +50,59 @@
 code + p {
   display: none;
 }
+
+
+
+// PAGE TRANSITIONS
+#page-transitioner.start {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	transform: translate(-50%, 50%);
+
+	border-radius: 100%;
+	animation: fade-in 500ms forwards;
+	z-index: 9999;
+	background-color: black;
+}
+
+// make the transition bit faster on smaller screens
+@media (max-width: 768px){
+	#page-transitioner.start {
+		animation-duration: 300ms;
+	}
+}
+
+@media (orientation: landscape) {
+	#page-transitioner.start {
+		width: 1vw;
+		height: 1vw;
+	}
+	@keyframes fade-in {
+		100% {
+			// 100vw -> screen height
+			// 200vw -> since we are translating half of the circle to outside the screen
+			// 20vw to compensate for the corners
+			height: calc(200vw + 20vw);
+			width: calc(200vw + 20vw);
+		}
+	}
+}
+
+@media (orientation: portrait) {
+	#page-transitioner.start {
+		height: 1vh;
+		width: 1vh;
+	}
+
+	@keyframes fade-in {
+		100% {
+			// 100vh -> screen height
+			// 200vh -> since we are translating half of the circle to outside the screen
+			// 30vh to compensate for the corners
+			height: calc(200vh + 30vh);
+			width: calc(200vh + 30vh);
+		}
+	}
+}
+// /PAGE TRANSITION

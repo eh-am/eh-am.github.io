@@ -1,6 +1,6 @@
 +++
 date = "2020-06-22"
-title = "Angular, proxies"
+title = "Mocking endpoints granularly in Angular"
 slug = "angular-proxy"
 categories = ["blog", "angular", "technical"]
 +++

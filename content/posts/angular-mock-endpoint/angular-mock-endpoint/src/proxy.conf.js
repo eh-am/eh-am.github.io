@@ -1,9 +1,18 @@
-const PROXY_CONFIG = [
+module.exports = [
   {
-    context: ["/api/"],
-    target: "https://swapi.dev/",
-    secure: false,
+    context: ["/api/planets"],
+    target: "http://localhost:3000",
+    logLevel: "debug",
   },
+  {
+    context: ["/api/planets/*"],
+    target: "http://localhost:3000",
+    logLevel: "debug",
+  },
+  //{
+  //  context: ["/api/"],
+  //  target: "https://swapi.dev/",
+  //  secure: false,
+  //  logLevel: "debug",
+  //},
 ];
-
-module.exports = PROXY_CONFIG;

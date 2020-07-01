@@ -89,7 +89,8 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "angular-mock-endpoint:build"
+            "browserTarget": "angular-mock-endpoint:build",
+	    "proxyConfig": "src/proxy.conf.js"
           },
           "configurations": {
             "production": {

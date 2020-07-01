@@ -1,0 +1,4 @@
+{
+	"/api/planets": "/all-planets",
+	"/api/planets/:id": "/planets/:id"
+}

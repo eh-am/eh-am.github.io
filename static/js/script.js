@@ -16,7 +16,6 @@ function calculateDesiredDiamater() {
   // hypotenuse^2 = width^2 + height^2
   // hypotenuse = radius = diameter/2
   // (diam/2)^2 = w^2 + h^2
-  // d = 2 * sqrt(w^2 + h^2)
   return 2 * Math.sqrt(Math.pow(window.innerHeight,2) + Math.pow(window.innerWidth, 2));
 }
 
@@ -27,8 +26,14 @@ function addAnimationToAnchor(anchor) {
     // delay going to new url
     event.preventDefault();
 
+    // Prerender the page while animation is running
+    anchor.setAttribute("rel", "prerender");
+
     const pt = getPageTransitioner();
-    const desiredDiameter = calculateDesiredDiamater();
+
+    // The circle size is 100x100 when scaling
+    // otherwise certain engines aren't able to scale a 1x1 circle
+    const desiredDiameter = calculateDesiredDiamater() / 100;
 
     // start animation
     pt.style.setProperty("--pageTransitionDiameter", desiredDiameter);

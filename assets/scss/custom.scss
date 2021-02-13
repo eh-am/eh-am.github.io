@@ -54,17 +54,20 @@ code + p {
 
 
 // PAGE TRANSITIONS
-#page-transitioner.start {
+#page-transitioner {
 	position: fixed;
   bottom: 0;
   left: 0;
-	border-radius: 100%;
-	animation: fade-in 300ms forwards;
 	z-index: 9999;
 	background-color: black;
-
+  height: 1px;
+  width: 1px;
+  transform: translate(-50%, 50%);
+  border-radius: 100%;
+  &.start {
+    animation: fade-in 300ms forwards;
+  }
 }
-
 
 // Since there's more room to cover
 // Let's make it bit slower
@@ -74,15 +77,25 @@ code + p {
   }
 }
 
-#page-transitioner.start {
-  height: 1px;
-  width: 1px;
-}
 
+// we need to initially increase the circle to a reasonable value
+// here 100x100
+// otherwise, certain engines (like in ios) won't be able to
+// properly scale a 1x1 circle
 @keyframes fade-in {
+  10% {
+    opacity: 1;
+    width: 100px;
+    height: 100px;
+  }
+
   100% {
+    opacity: 1;
+    width: 100px;
+    height: 100px;
+
     /* variable is set with javascript */
     transform: scale(var(--pageTransitionDiameter));
   }
 }
-// /PAGE TRANSITION
+//// /PAGE TRANSITION

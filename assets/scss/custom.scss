@@ -54,55 +54,48 @@ code + p {
 
 
 // PAGE TRANSITIONS
-#page-transitioner.start {
+#page-transitioner {
 	position: fixed;
-	bottom: 0;
-	left: 0;
-	transform: translate(-50%, 50%);
-
-	border-radius: 100%;
-	animation: fade-in 500ms forwards;
+  bottom: 0;
+  left: 0;
 	z-index: 9999;
 	background-color: black;
+  height: 1px;
+  width: 1px;
+  transform: translate(-50%, 50%);
+  border-radius: 100%;
+  &.start {
+    animation: fade-in 300ms forwards;
+  }
 }
 
-// make the transition bit faster on smaller screens
-@media (max-width: 768px){
-	#page-transitioner.start {
-		animation-duration: 300ms;
-	}
-}
-
+// Since there's more room to cover
+// Let's make it bit slower
 @media (orientation: landscape) {
-	#page-transitioner.start {
-		width: 1vw;
-		height: 1vw;
-	}
-	@keyframes fade-in {
-		100% {
-			// 100vw -> screen height
-			// 200vw -> since we are translating half of the circle to outside the screen
-			// 20vw to compensate for the corners
-			height: calc(200vw + 20vw);
-			width: calc(200vw + 20vw);
-		}
-	}
+  #page-transitioner.start {
+		animation-duration: 500ms;
+  }
 }
 
-@media (orientation: portrait) {
-	#page-transitioner.start {
-		height: 1vh;
-		width: 1vh;
-	}
 
-	@keyframes fade-in {
-		100% {
-			// 100vh -> screen height
-			// 200vh -> since we are translating half of the circle to outside the screen
-			// 30vh to compensate for the corners
-			height: calc(200vh + 30vh);
-			width: calc(200vh + 30vh);
-		}
-	}
+// we need to initially increase the circle to a reasonable value
+// here 100x100
+// otherwise, certain engines (like in ios) won't be able to
+// properly scale a 1x1 circle
+@keyframes fade-in {
+  10% {
+    opacity: 1;
+    width: 100px;
+    height: 100px;
+  }
+
+  100% {
+    opacity: 1;
+    width: 100px;
+    height: 100px;
+
+    /* variable is set with javascript */
+    transform: scale(var(--pageTransitionDiameter));
+  }
 }
-// /PAGE TRANSITION
+//// /PAGE TRANSITION

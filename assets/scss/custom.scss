@@ -53,13 +53,14 @@ code + p {
 
 
 
+
 // PAGE TRANSITIONS
 #page-transitioner {
-	position: fixed;
+  position: fixed;
   bottom: 0;
   left: 0;
-	z-index: 9999;
-	background-color: black;
+  z-index: 9999;
+  background-color: black;
   height: 1px;
   width: 1px;
   transform: translate(-50%, 50%);
@@ -73,7 +74,7 @@ code + p {
 // Let's make it bit slower
 @media (orientation: landscape) {
   #page-transitioner.start {
-		animation-duration: 500ms;
+    animation-duration: 500ms;
   }
 }
 
@@ -98,4 +99,53 @@ code + p {
     transform: scale(var(--pageTransitionDiameter));
   }
 }
-//// /PAGE TRANSITION
+// /PAGE TRANSITION
+
+.post video, .post iframe {
+  max-width: 100%;
+}
+
+// syntax highlight
+.highlight tr td:first-child pre {
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+}
+@media only screen and (max-width: 1024px) {
+  .highlight code {
+    font-size: 1.2rem;
+  }
+
+  .highlight tr pre {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+
+  // line number
+  .highlight tr td:first-child pre {
+    padding-right: 0;
+  }
+
+  // content
+  .highlight tr td:not(:first-child) pre {
+    padding-left: 0;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  body {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  // use as much space as possible
+  .container.post {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  // code is stuck to the sides
+  .container.post .highlight {
+    margin-left: -1rem;
+    margin-right: -1rem;
+  }
+}

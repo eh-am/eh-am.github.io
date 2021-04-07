@@ -122,6 +122,11 @@
 
     {{ $styles := resources.Get "scss/fouc.scss" | toCSS }}
     <link rel="stylesheet" href="{{ $styles.RelPermalink }}" media="screen">
+
+    {{ if (.Params.mermaid) }}
+    <script async src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    {{ end }}
+    
   </body>
 
 </html>

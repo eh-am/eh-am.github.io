@@ -39,7 +39,7 @@ lineNoStart = 1
     [languages.en]
 	languagename = "english"
 	flag="🇺🇸"
-
+        dateformat = "2006/01/02"
         [languages.en.params]
 	   languageLink = "english version"
 
@@ -59,7 +59,7 @@ lineNoStart = 1
     	languagename = "português"
 	flag="🇧🇷"
 
-        dateformat = "02/01/2006"
+        dateformat = "2006/01/02"
 
         [languages.pt-br.params]
 	    info = "dev, ops e tudo mais"

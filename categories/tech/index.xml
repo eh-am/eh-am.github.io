@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>tech on eduardoaleixo</title><link>https://www.eduardoaleixo.com/categories/tech/</link><description>Recent content in tech on eduardoaleixo</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.eduardoaleixo.com/categories/tech/index.xml" rel="self" type="application/rss+xml"/><item><title>search under cursor in vim</title><link>https://www.eduardoaleixo.com/posts/search-under-cursor-vim/</link><pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate><guid>https://www.eduardoaleixo.com/posts/search-under-cursor-vim/</guid><description>here's a vim tip i've learned recently
+let's say you want to search other occurences of a keyword in that case, just press *
+and then n to move forward and N (that's capital N) to move backwards
+keep in mind vim's definition of keyword, ie spider-man is considered 2 words
+in that (and other more advanced) cases, you may want to use visual selection
+unfortunately it's not as straightforward as we would want, but here's how it is done:</description></item></channel></rss>

@@ -36,4 +36,8 @@ naturally there's no test with empty name, otherwise the parser would fail, i th
 
 therefore it ends up filtering out all tests, so only benchmarks run
 
+one minor inconvenience is that in the fish shell we need to escape the `$`:
+```
+Fish: Expected a variable name after this $.
+```
 

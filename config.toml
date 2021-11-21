@@ -55,28 +55,10 @@ lineNoStart = 1
             weight = 2
             url = "posts/"
 
-    [languages.pt-br]
-    	languagename = "português"
-	flag="🇧🇷"
-
-        dateformat = "2006/01/02"
-
-        [languages.pt-br.params]
-	    info = "dev, ops e tudo mais"
-            description = "site pessoal de eduardo aleixo"
-	    keywords="desenvolvedor,pessoal"
-	    languageLink = "versão em português"
-
-        [languages.pt-br.menu]
-            [[languages.pt-br.menu.main]]
-            name = "Sobre"
-            weight = 1
-            url = "quem-sou-eu/"
-
-            [[languages.pt-br.menu.main]]
-            name = "Blog"
+            [[languages.en.menu.main]]
+            name = "Photos"
             weight = 2
-            url = "posts/"
+            url = "photos/"
 
 #    [languages.es]
 #        languagename = "español"

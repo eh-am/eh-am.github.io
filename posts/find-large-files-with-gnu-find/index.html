@@ -1,0 +1,297 @@
+<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1,user-scalable=no"><style>html{display:none}</style><meta name=author content="eduardo aleixo"><meta name=description content="eduardo aleixo's personal website"><meta name=keywords content="developer,personal"><meta name=twitter:card content="summary"><meta name=twitter:title content="Find large files with GNU find"><meta name=twitter:description content="I edit my podcast using Audacity, which creates big (>1GB) project files (.aup3). In an ideal world, I would keep these project files, for a nice remaster when I get better at editing. In the real world, however, these files occupy space. I can technically backup them. But contrary to what people say, for the end user, storage is still expensive. I don't have the calculations in my hand right now, but it's either store in the cloud ($$$ expensive) or manage your backups at time (time expensive)."><meta property="og:title" content="Find large files with GNU find"><meta property="og:description" content="I edit my podcast using Audacity, which creates big (>1GB) project files (.aup3). In an ideal world, I would keep these project files, for a nice remaster when I get better at editing. In the real world, however, these files occupy space. I can technically backup them. But contrary to what people say, for the end user, storage is still expensive. I don't have the calculations in my hand right now, but it's either store in the cloud ($$$ expensive) or manage your backups at time (time expensive)."><meta property="og:type" content="article"><meta property="og:url" content="https://www.eduardoaleixo.com/posts/find-large-files-with-gnu-find/"><meta property="article:published_time" content="2021-11-21T00:00:00+00:00"><meta property="article:modified_time" content="2021-11-21T00:00:00+00:00"><base href=https://www.eduardoaleixo.com/posts/find-large-files-with-gnu-find/><title>Find large files with GNU find · eduardoaleixo</title><link rel=canonical href=https://www.eduardoaleixo.com/posts/find-large-files-with-gnu-find/><link rel=stylesheet href=https://www.eduardoaleixo.com/css/coder.min.44853a577245f7921bf33f840dc0c75f95e1cf33e28d213ebae0a34700988d76.css integrity="sha256-RIU6V3JF95Ib8z+EDcDHX5XhzzPijSE+uuCjRwCYjXY=" crossorigin=anonymous media=screen><script type=text/javascript src=https://www.eduardoaleixo.com/js/script.js></script><script>if(!sessionStorage.getItem("_swa")&&document.referrer.indexOf(location.protocol+"//"+location.host)!==0){fetch("https://counter.dev/track?"+new URLSearchParams({referrer:document.referrer,screen:screen.width+"x"+screen.height,user:"eham",utcoffset:"-3"}))};sessionStorage.setItem("_swa","1");</script><script type=application/javascript>var doNotTrack=false;if(!doNotTrack){(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create','UA-59191973-2','auto');ga('send','pageview');}</script><link rel=stylesheet href=https://www.eduardoaleixo.com/scss/custom.min.a61c5015384488cd9b25dbf361f7e4b43c46de1b772adbaca8b184416b47802b.css integrity="sha256-phxQFThEiM2bJdvzYffktDxG3ht3KtusqLGEQWtHgCs=" crossorigin=anonymous media=screen><link rel=icon type=image/png href=https://www.eduardoaleixo.com/images/favicon-32x32.png sizes=32x32><link rel=icon type=image/png href=https://www.eduardoaleixo.com/images/favicon-16x16.png sizes=16x16><meta name=generator content="Hugo 0.62.2"></head><body class=colorscheme-light><div id=page-transitioner></div><main class=wrapper><nav class=navigation><section class=container><a class=navigation-title href=https://www.eduardoaleixo.com/>eduardoaleixo</a>
+<input type=checkbox id=menu-toggle>
+<label class="menu-button float-right" for=menu-toggle><div class=wrap><span class=stripe></span><span class=stripe></span><span class=stripe></span></div></label><ul class=navigation-list><li class=navigation-item><a class=navigation-link href=https://www.eduardoaleixo.com/about/>About</a></li><li class=navigation-item><a class=navigation-link href=https://www.eduardoaleixo.com/posts/>Blog</a></li></ul></section></nav><div class=content><section class="container post"><article><header><div class=post-title><h1 class=title>Find large files with GNU find</h1></div><div class=post-meta><div class=date><span class=posted-on><i class="fas fa-calendar"></i><time datetime=2021-11-21T00:00:00Z>2021/11/21</time></span>
+<span class=reading-time><i class="fas fa-clock"></i>5-minute read</span></div><div class=categories><i class="fas fa-folder"></i><a href=https://www.eduardoaleixo.com/categories/blog/>blog</a>
+<span class=separator>•</span>
+<a href=https://www.eduardoaleixo.com/categories/shell/>shell</a>
+<span class=separator>•</span>
+<a href=https://www.eduardoaleixo.com/categories/technical/>technical</a></div></div></header><div><p>I edit my <a href=www.triceratops.show>podcast</a> using Audacity, which creates big (>1GB) project files (.aup3).
+In an ideal world, I would keep these project files, for a nice remaster when I get better at editing.
+In the real world, however, these files occupy space. I can technically backup them. But contrary to what people say, for the end user, storage is still expensive. I don't have the calculations in my hand right now, but it's either store in the cloud ($$$ expensive) or manage your backups at time (time expensive).</p><p>So I decided to take the L and just delete these files from time to time.</p><p>In practice, I already know the files I want to delete (the ones named <code>.aup3</code>). But more than that, I want to first identify what are them and their sizes.</p><h1 id=find-files-bigger-than-x>Find files bigger than X</h1><p>First step is to find what are the files bigger than X. Find has a <code>-size</code> parameter that can help here:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 1
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 2
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 3
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 4
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 5
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 6
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 7
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 8
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 9
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">10
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">11
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">12
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">13
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">14
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">15
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">16
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">17
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">18
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">19
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">20
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">21
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">22
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">23
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">24
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">25
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">26
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-shell data-lang=shell>$ find . -size +1G
+
+&gt;
+./episodio-8/decupagem.aup3
+./episodio-8/episodio-8.aup3
+./episodio-10/ep-10.aup3
+./episodio-15/ep15.aup3
+./episodio-15/decupagem halloween.aup3
+./episodio-7/episodio-7.aup3
+./episodio-12/decupagem.aup3
+./episodio-12/ep12.aup3
+./episodio-13/decupagem.aup3
+./episodio-13/ep13.aup3
+./episodio-18/episodio-18.aup3
+./episodio-5/Episodio-5.aup3
+./episodio-6/episodio-6-de-verdade.aup3
+./episodio-6/episodio-6.aup3
+./episodio-9/epi-9.aup3
+./episodio-9/decupagem.aup3
+./episodio-17/ep17.aup3
+./episodio-17/ep 17du1.aup3
+./episodio-11/2021-09-23_21-15-20 audio track 1.aup3
+./episodio-11/epi-11.aup3
+./bah.aup3
+./episodio-16/episodio-16.aup3
+./episodio-14/decupagem.aup3
+</code></pre></td></tr></table></div></div><p>Cool, but what are their sizes?</p><h1 id=find-files-bigger-than-x-and-printing-their-sizes>Find files bigger than X and printing their sizes</h1><p><code>find</code> has a parameter <code>-printf</code>, <a href=https://man7.org/linux/man-pages/man1/find.1.html>which allows us to do many things</a>:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-fallback data-lang=fallback> %s     File&#39;s size in bytes.
+</code></pre></td></tr></table></div></div><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">2
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-shell data-lang=shell>$ find . -size +1G -printf <span style=color:#e6db74>&#34;%s&#34;</span>
+50197299202410676224237626982414056161281581056000369596825633111408642186543104446188748827419607041681915904167877017623684055041110310912281247744038853017601447886848151873126452540866563044802560529668505615465840642232942592⏎
+</code></pre></td></tr></table></div></div><p>Huh oh, I need to format that. And add the file names back.</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 1
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 2
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 3
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 4
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 5
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 6
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 7
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 8
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 9
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">10
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">11
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">12
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">13
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">14
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">15
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">16
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">17
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">18
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">19
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">20
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">21
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">22
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">23
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">24
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">25
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">26
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-shell data-lang=shell>$ find . -size +1G -printf <span style=color:#e6db74>&#34;%s\t%p\n&#34;</span>
+
+&gt;
+5019729920	./episodio-8/decupagem.aup3
+2410676224	./episodio-8/episodio-8.aup3
+2376269824	./episodio-10/ep-10.aup3
+1405616128	./episodio-15/ep15.aup3
+1581056000	./episodio-15/decupagem halloween.aup3
+3695968256	./episodio-7/episodio-7.aup3
+3311140864	./episodio-12/decupagem.aup3
+2186543104	./episodio-12/ep12.aup3
+4461887488	./episodio-13/decupagem.aup3
+2741960704	./episodio-13/ep13.aup3
+1681915904	./episodio-18/episodio-18.aup3
+1678770176	./episodio-5/Episodio-5.aup3
+2368405504	./episodio-6/episodio-6-de-verdade.aup3
+1110310912	./episodio-6/episodio-6.aup3
+2812477440	./episodio-9/epi-9.aup3
+3885301760	./episodio-9/decupagem.aup3
+1447886848	./episodio-17/ep17.aup3
+1518731264	./episodio-17/ep 17du1.aup3
+5254086656	./episodio-11/2021-09-23_21-15-20 audio track 1.aup3
+3044802560	./episodio-11/epi-11.aup3
+5296685056	./bah.aup3
+1546584064	./episodio-16/episodio-16.aup3
+2232942592	./episodio-14/decupagem.aup3
+</code></pre></td></tr></table></div></div><p>Nice! But would be nice to know their sizes in human readable format.</p><h1 id=find-files-bigger-than-x-and-printing-their-sizes-in-human-readable-format>Find files bigger than X and printing their sizes in human readable format</h1><p>Here we will use the <code>numfmt</code> tool, which allows us to <strong>format numbers</strong>. God I love boring, clear names.</p><p>To be fair, as it description says, <strong>Convert numbers from/to human-readable strings</strong>. So the human part is not that obvious.</p><p>Anyway, since I am not familiar with that tool, let's see an example on <a href=https://tldr.sh/>tl;dr</a></p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">2
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">3
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">4
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-fallback data-lang=fallback>
+Convert 5th field (1-indexed) to IEC Units without converting header:
+
+ls -l | numfmt --header={{1}} --field={{5}} --to={{iec}}
+</code></pre></td></tr></table></div></div><p>Cool this is more or less what I want to do. I want to convert the first field to IEC.</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">2
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">3
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">4
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-shell data-lang=shell>$ find . -size +1G -printf <span style=color:#e6db74>&#34;%s\t%p\n&#34;</span> | numfmt --field<span style=color:#f92672>=</span><span style=color:#f92672>{</span><span style=color:#f92672>{</span>1<span style=color:#f92672>}</span><span style=color:#f92672>}</span> --to<span style=color:#f92672>=</span><span style=color:#f92672>{</span><span style=color:#f92672>{</span>iec<span style=color:#f92672>}</span><span style=color:#f92672>}</span>
+
+numfmt: invalid field value ‘<span style=color:#f92672>{</span><span style=color:#f92672>{</span>1<span style=color:#f92672>}</span><span style=color:#f92672>}</span>’
+Try <span style=color:#e6db74>&#39;numfmt --help&#39;</span> <span style=color:#66d9ef>for</span> more information.
+</code></pre></td></tr></table></div></div><p>Right. Let me try without the curly brackets.</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 1
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 2
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 3
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 4
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 5
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 6
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 7
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 8
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 9
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">10
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">11
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">12
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">13
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">14
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">15
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">16
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">17
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">18
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">19
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">20
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">21
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">22
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">23
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">24
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">25
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">26
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-shell data-lang=shell>$ find . -size +1G -printf <span style=color:#e6db74>&#34;%s\t%p\n&#34;</span> | numfmt --field<span style=color:#f92672>=</span><span style=color:#ae81ff>1</span> --to<span style=color:#f92672>=</span>iec
+
+&gt;
+4.7G ./episodio-8/decupagem.aup3
+2.3G ./episodio-8/episodio-8.aup3
+2.3G ./episodio-10/ep-10.aup3
+1.4G ./episodio-15/ep15.aup3
+1.5G ./episodio-15/decupagem halloween.aup3
+3.5G ./episodio-7/episodio-7.aup3
+3.1G ./episodio-12/decupagem.aup3
+2.1G ./episodio-12/ep12.aup3
+4.2G ./episodio-13/decupagem.aup3
+2.6G ./episodio-13/ep13.aup3
+1.6G ./episodio-18/episodio-18.aup3
+1.6G ./episodio-5/Episodio-5.aup3
+2.3G ./episodio-6/episodio-6-de-verdade.aup3
+1.1G ./episodio-6/episodio-6.aup3
+2.7G ./episodio-9/epi-9.aup3
+3.7G ./episodio-9/decupagem.aup3
+1.4G ./episodio-17/ep17.aup3
+1.5G ./episodio-17/ep 17du1.aup3
+4.9G ./episodio-11/2021-09-23_21-15-20 audio track 1.aup3
+2.9G ./episodio-11/epi-11.aup3
+5.0G ./bah.aup3
+1.5G ./episodio-16/episodio-16.aup3
+2.1G ./episodio-14/decupagem.aup3
+</code></pre></td></tr></table></div></div><p>Awesome! But it's missing something!</p><h1 id=find-files-bigger-than-x-and-printing-their-sizes-in-human-readable-format-sorted-by-size>Find files bigger than X and printing their sizes in human readable format sorted by size</h1><p>In this case we can simply use <code>sort</code> tool, in <code>--reverse</code>.</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 1
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 2
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 3
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 4
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 5
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 6
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 7
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 8
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 9
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">10
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">11
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">12
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">13
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">14
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">15
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">16
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">17
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">18
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">19
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">20
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">21
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">22
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">23
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">24
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">25
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">26
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-shell data-lang=shell>$ find . -size +1G -printf <span style=color:#e6db74>&#34;%s\t%p\n&#34;</span> | numfmt --field<span style=color:#f92672>=</span><span style=color:#ae81ff>1</span> --to<span style=color:#f92672>=</span>iec | sort -h --reverse
+
+&gt;
+5.0G ./bah.aup3
+4.9G ./episodio-11/2021-09-23_21-15-20 audio track 1.aup3
+4.7G ./episodio-8/decupagem.aup3
+4.2G ./episodio-13/decupagem.aup3
+3.7G ./episodio-9/decupagem.aup3
+3.5G ./episodio-7/episodio-7.aup3
+3.1G ./episodio-12/decupagem.aup3
+2.9G ./episodio-11/epi-11.aup3
+2.7G ./episodio-9/epi-9.aup3
+2.6G ./episodio-13/ep13.aup3
+2.3G ./episodio-8/episodio-8.aup3
+2.3G ./episodio-6/episodio-6-de-verdade.aup3
+2.3G ./episodio-10/ep-10.aup3
+2.1G ./episodio-14/decupagem.aup3
+2.1G ./episodio-12/ep12.aup3
+1.6G ./episodio-5/Episodio-5.aup3
+1.6G ./episodio-18/episodio-18.aup3
+1.5G ./episodio-17/ep 17du1.aup3
+1.5G ./episodio-16/episodio-16.aup3
+1.5G ./episodio-15/decupagem halloween.aup3
+1.4G ./episodio-17/ep17.aup3
+1.4G ./episodio-15/ep15.aup3
+1.1G ./episodio-6/episodio-6.aup3
+</code></pre></td></tr></table></div></div><p>To be fair. In my first try I didn't assume sort could work with human readable values. So as an alternative, I a) printed another column with the sizes in non human format and used that to sort or b) sorted before <code>numfmt</code>:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 1
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 2
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 3
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 4
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 5
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 6
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 7
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 8
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 9
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">10
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">11
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">12
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">13
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">14
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">15
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">16
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">17
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">18
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">19
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">20
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">21
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">22
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">23
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">24
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">25
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-shell data-lang=shell>$ find . -size +1G -printf <span style=color:#e6db74>&#34;%s\t%p\n&#34;</span> | sort --reverse | numfmt --field<span style=color:#f92672>=</span><span style=color:#ae81ff>1</span> --to<span style=color:#f92672>=</span>iec
+
+5.0G ./bah.aup3
+4.9G ./episodio-11/2021-09-23_21-15-20 audio track 1.aup3
+4.7G ./episodio-8/decupagem.aup3
+4.2G ./episodio-13/decupagem.aup3
+3.7G ./episodio-9/decupagem.aup3
+3.5G ./episodio-7/episodio-7.aup3
+3.1G ./episodio-12/decupagem.aup3
+2.9G ./episodio-11/epi-11.aup3
+2.7G ./episodio-9/epi-9.aup3
+2.6G ./episodio-13/ep13.aup3
+2.3G ./episodio-8/episodio-8.aup3
+2.3G ./episodio-10/ep-10.aup3
+2.3G ./episodio-6/episodio-6-de-verdade.aup3
+2.1G ./episodio-14/decupagem.aup3
+2.1G ./episodio-12/ep12.aup3
+1.6G ./episodio-18/episodio-18.aup3
+1.6G ./episodio-5/Episodio-5.aup3
+1.5G ./episodio-15/decupagem halloween.aup3
+1.5G ./episodio-16/episodio-16.aup3
+1.5G ./episodio-17/ep 17du1.aup3
+1.4G ./episodio-17/ep17.aup3
+1.4G ./episodio-15/ep15.aup3
+1.1G ./episodio-6/episodio-6.aup3
+</code></pre></td></tr></table></div></div><h1 id=bonus-finding-the-total-size>Bonus: finding the total size</h1><p>Here we throw my beloved <code>awk</code> into the mix. Basically we print all sizes, and iterate over each line summing into a variable <code>s</code>, which we then print in the <code>END</code>. Then we just format that to <code>iec</code> (see how you don't actually need to pass <code>--field</code> if it's the first column?):</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">2
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-shell data-lang=shell>$ find . -size +1G -printf <span style=color:#e6db74>&#34;%s\n&#34;</span> | awk <span style=color:#e6db74>&#39;{ s+=$1 } END {print s}&#39;</span> | numfmt --to<span style=color:#f92672>=</span>iec
+&gt; 59G
+</code></pre></td></tr></table></div></div><h1 id=conclusion>Conclusion</h1><p>Then from that point on I just deleted the files manually, since I needed to manually think &ldquo;do I want to delete this?".</p><p>But anyway, this post shows one thing I really love about these unix tools: composability. I can go iteratively adding tools on top of each other and it just&mldr;works (most of the time).</p></div><footer></footer></article></section></div><footer class=footer><section class=container>© 2020 - 2021
+eduardo aleixo
+·
+Powered by <a href=https://gohugo.io/>Hugo</a> & <a href=https://github.com/luizdepra/hugo-coder/>Coder</a>.</section></footer></main><link rel=stylesheet href=https://www.eduardoaleixo.com/scss/fouc.css media=screen></body></html>

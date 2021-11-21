@@ -1,23 +1,120 @@
-<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1,user-scalable=no"><style>html{display:none}</style><meta name=author content="eduardo aleixo"><meta name=description content="eduardo aleixo's personal website"><meta name=keywords content="developer,personal"><meta name=twitter:card content="summary"><meta name=twitter:title content="ORing label selectors with kubectl"><meta name=twitter:description content="Let's say you want, using the kubectl, to get all pods with label tier=backend OR tier=frontend.
+<!doctype html><html lang=en>
+<head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1,user-scalable=no">
+<style>html{display:none}</style>
+<meta name=author content="eduardo aleixo">
+<meta name=description content="eduardo aleixo's personal website">
+<meta name=keywords content="developer,personal">
+<meta name=twitter:card content="summary">
+<meta name=twitter:title content="ORing label selectors with kubectl">
+<meta name=twitter:description content="Let&rsquo;s say you want, using the kubectl, to get all pods with label tier=backend OR tier=frontend.
 Did you know you could do the following?
 1  kubectl get pods -l 'tier in (backend, frontend)'   We at $WORK did not.
-It's actually even more powerful, you can use notin, you can combine with , to perform AND. I recommend reading the docs for more examples.
-Also, if you are at the exploration phase, don't forget to pass --show-labels to have a understanding of the existing labels."><meta property="og:title" content="ORing label selectors with kubectl"><meta property="og:description" content="Let's say you want, using the kubectl, to get all pods with label tier=backend OR tier=frontend.
+It&rsquo;s actually even more powerful, you can use notin, you can combine with , to perform AND. I recommend reading the docs for more examples.
+Also, if you are at the exploration phase, don&rsquo;t forget to pass --show-labels to have a understanding of the existing labels.">
+<meta property="og:title" content="ORing label selectors with kubectl">
+<meta property="og:description" content="Let&rsquo;s say you want, using the kubectl, to get all pods with label tier=backend OR tier=frontend.
 Did you know you could do the following?
 1  kubectl get pods -l 'tier in (backend, frontend)'   We at $WORK did not.
-It's actually even more powerful, you can use notin, you can combine with , to perform AND. I recommend reading the docs for more examples.
-Also, if you are at the exploration phase, don't forget to pass --show-labels to have a understanding of the existing labels."><meta property="og:type" content="article"><meta property="og:url" content="https://www.eduardoaleixo.com/posts/oring-label-selectors-with-kubectl/"><meta property="article:published_time" content="2021-04-05T00:00:00+00:00"><meta property="article:modified_time" content="2021-04-05T00:00:00+00:00"><base href=https://www.eduardoaleixo.com/posts/oring-label-selectors-with-kubectl/><title>ORing label selectors with kubectl · eduardoaleixo</title><link rel=canonical href=https://www.eduardoaleixo.com/posts/oring-label-selectors-with-kubectl/><link rel=stylesheet href=https://www.eduardoaleixo.com/css/coder.min.44853a577245f7921bf33f840dc0c75f95e1cf33e28d213ebae0a34700988d76.css integrity="sha256-RIU6V3JF95Ib8z+EDcDHX5XhzzPijSE+uuCjRwCYjXY=" crossorigin=anonymous media=screen><script type=text/javascript src=https://www.eduardoaleixo.com/js/script.js></script><script>if(!sessionStorage.getItem("_swa")&&document.referrer.indexOf(location.protocol+"//"+location.host)!==0){fetch("https://counter.dev/track?"+new URLSearchParams({referrer:document.referrer,screen:screen.width+"x"+screen.height,user:"eham",utcoffset:"-3"}))};sessionStorage.setItem("_swa","1");</script><script type=application/javascript>var doNotTrack=false;if(!doNotTrack){(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create','UA-59191973-2','auto');ga('send','pageview');}</script><link rel=stylesheet href=https://www.eduardoaleixo.com/scss/custom.min.a61c5015384488cd9b25dbf361f7e4b43c46de1b772adbaca8b184416b47802b.css integrity="sha256-phxQFThEiM2bJdvzYffktDxG3ht3KtusqLGEQWtHgCs=" crossorigin=anonymous media=screen><link rel=icon type=image/png href=https://www.eduardoaleixo.com/images/favicon-32x32.png sizes=32x32><link rel=icon type=image/png href=https://www.eduardoaleixo.com/images/favicon-16x16.png sizes=16x16><meta name=generator content="Hugo 0.62.2"></head><body class=colorscheme-light><div id=page-transitioner></div><main class=wrapper><nav class=navigation><section class=container><a class=navigation-title href=https://www.eduardoaleixo.com/>eduardoaleixo</a>
+It&rsquo;s actually even more powerful, you can use notin, you can combine with , to perform AND. I recommend reading the docs for more examples.
+Also, if you are at the exploration phase, don&rsquo;t forget to pass --show-labels to have a understanding of the existing labels.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.eduardoaleixo.com/posts/oring-label-selectors-with-kubectl/"><meta property="article:section" content="posts">
+<meta property="article:published_time" content="2021-04-05T00:00:00+00:00">
+<meta property="article:modified_time" content="2021-04-05T00:00:00+00:00">
+<base href=https://www.eduardoaleixo.com/posts/oring-label-selectors-with-kubectl/>
+<title>
+ORing label selectors with kubectl · eduardoaleixo
+</title>
+<link rel=canonical href=https://www.eduardoaleixo.com/posts/oring-label-selectors-with-kubectl/>
+<link rel=stylesheet href=https://www.eduardoaleixo.com/css/coder.min.44853a577245f7921bf33f840dc0c75f95e1cf33e28d213ebae0a34700988d76.css integrity="sha256-RIU6V3JF95Ib8z+EDcDHX5XhzzPijSE+uuCjRwCYjXY=" crossorigin=anonymous media=screen>
+<script type=text/javascript src=https://www.eduardoaleixo.com/js/script.js></script>
+<script>!sessionStorage.getItem("_swa")&&document.referrer.indexOf(location.protocol+"//"+location.host)!==0&&fetch("https://counter.dev/track?"+new URLSearchParams({referrer:document.referrer,screen:screen.width+"x"+screen.height,user:"eham",utcoffset:"-3"})),sessionStorage.setItem("_swa","1")</script>
+<script type=application/javascript>var doNotTrack=!1;doNotTrack||(function(a,e,f,g,b,c,d){a.GoogleAnalyticsObject=b,a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)},a[b].l=1*new Date,c=e.createElement(f),d=e.getElementsByTagName(f)[0],c.async=1,c.src=g,d.parentNode.insertBefore(c,d)}(window,document,'script','https://www.google-analytics.com/analytics.js','ga'),ga('create','UA-59191973-2','auto'),ga('send','pageview'))</script>
+<link rel=stylesheet href=https://www.eduardoaleixo.com/scss/custom.min.a61c5015384488cd9b25dbf361f7e4b43c46de1b772adbaca8b184416b47802b.css integrity="sha256-phxQFThEiM2bJdvzYffktDxG3ht3KtusqLGEQWtHgCs=" crossorigin=anonymous media=screen>
+<link rel=icon type=image/png href=https://www.eduardoaleixo.com/images/favicon-32x32.png sizes=32x32>
+<link rel=icon type=image/png href=https://www.eduardoaleixo.com/images/favicon-16x16.png sizes=16x16>
+<meta name=generator content="Hugo 0.87.0">
+</head>
+<body class=colorscheme-light>
+<div id=page-transitioner></div>
+<main class=wrapper>
+<nav class=navigation>
+<section class=container>
+<a class=navigation-title href=https://www.eduardoaleixo.com/>
+eduardoaleixo
+</a>
 <input type=checkbox id=menu-toggle>
-<label class="menu-button float-right" for=menu-toggle><div class=wrap><span class=stripe></span><span class=stripe></span><span class=stripe></span></div></label><ul class=navigation-list><li class=navigation-item><a class=navigation-link href=https://www.eduardoaleixo.com/about/>About</a></li><li class=navigation-item><a class=navigation-link href=https://www.eduardoaleixo.com/posts/>Blog</a></li><li class=navigation-item><a class=navigation-link href=https://www.eduardoaleixo.com/photos/>Photos</a></li></ul></section></nav><div class=content><section class="container post"><article><header><div class=post-title><h1 class=title>ORing label selectors with kubectl</h1></div><div class=post-meta><div class=date><span class=posted-on><i class="fas fa-calendar"></i><time datetime=2021-04-05T00:00:00Z>2021/04/05</time></span>
-<span class=reading-time><i class="fas fa-clock"></i>1-minute read</span></div><div class=categories><i class="fas fa-folder"></i><a href=https://www.eduardoaleixo.com/categories/blog/>blog</a>
+<label class="menu-button float-right" for=menu-toggle>
+<div class=wrap>
+<span class=stripe></span>
+<span class=stripe></span>
+<span class=stripe></span>
+</div>
+</label>
+<ul class=navigation-list>
+<li class=navigation-item>
+<a class=navigation-link href=https://www.eduardoaleixo.com/about/>About</a>
+</li>
+<li class=navigation-item>
+<a class=navigation-link href=https://www.eduardoaleixo.com/posts/>Blog</a>
+</li>
+<li class=navigation-item>
+<a class=navigation-link href=https://www.eduardoaleixo.com/photos/>Photos</a>
+</li>
+</ul>
+</section>
+</nav>
+<div class=content>
+<section class="container post">
+<article>
+<header>
+<div class=post-title>
+<h1 class=title>ORing label selectors with kubectl</h1>
+</div>
+<div class=post-meta>
+<div class=date>
+<span class=posted-on>
+<i class="fas fa-calendar"></i>
+<time datetime=2021-04-05T00:00:00Z>
+2021/04/05
+</time>
+</span>
+<span class=reading-time>
+<i class="fas fa-clock"></i>
+1-minute read
+</span>
+</div>
+<div class=categories>
+<i class="fas fa-folder"></i>
+<a href=https://www.eduardoaleixo.com/categories/blog/>blog</a>
 <span class=separator>•</span>
 <a href=https://www.eduardoaleixo.com/categories/technical/>technical</a>
 <span class=separator>•</span>
-<a href=https://www.eduardoaleixo.com/categories/kubernetes/>kubernetes</a></div></div></header><div><p>Let's say you want, using the <code>kubectl</code>, to get all <code>pods</code> with label <code>tier=backend</code> <strong>OR</strong> <code>tier=frontend</code>.</p><p>Did you know you could do the following?</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
-</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-bash data-lang=bash>kubectl get pods -l <span style=color:#e6db74>&#39;tier in (backend, frontend)&#39;</span>
-</code></pre></td></tr></table></div></div><p>We at $WORK did not.</p><p>It's actually even more powerful, you can use <code>notin</code>, you can combine with <code>,</code>
-to perform AND. I recommend reading the docs for more examples.</p><p>Also, if you are at the exploration phase, don't forget to pass <code>--show-labels</code>
-to have a understanding of the existing labels.</p><p>Or, if you want to reduce the clutter and only display the fields you are interested in:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+<a href=https://www.eduardoaleixo.com/categories/kubernetes/>kubernetes</a></div>
+</div>
+</header>
+<div>
+<p>Let&rsquo;s say you want, using the <code>kubectl</code>, to get all <code>pods</code> with label <code>tier=backend</code> <strong>OR</strong> <code>tier=frontend</code>.</p>
+<p>Did you know you could do the following?</p>
+<div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2>
+<table style=border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block><tr><td style=vertical-align:top;padding:0;margin:0;border:0>
+<pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span></code></pre></td>
+<td style=vertical-align:top;padding:0;margin:0;border:0;width:100%>
+<pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-bash data-lang=bash>kubectl get pods -l <span style=color:#e6db74>&#39;tier in (backend, frontend)&#39;</span>
+</code></pre></td></tr></table>
+</div>
+</div><p>We at $WORK did not.</p>
+<p>It&rsquo;s actually even more powerful, you can use <code>notin</code>, you can combine with <code>,</code>
+to perform AND. I recommend reading the docs for more examples.</p>
+<p>Also, if you are at the exploration phase, don&rsquo;t forget to pass <code>--show-labels</code>
+to have a understanding of the existing labels.</p>
+<p>Or, if you want to reduce the clutter and only display the fields you are interested in:</p>
+<div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2>
+<table style=border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block><tr><td style=vertical-align:top;padding:0;margin:0;border:0>
+<pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
 </span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">2
 </span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">3
 </span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">4
@@ -25,7 +122,9 @@ to have a understanding of the existing labels.</p><p>Or, if you want to reduce 
 </span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">6
 </span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">7
 </span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">8
-</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-bash data-lang=bash>kubectl get pods -l <span style=color:#e6db74>&#39;tier in (backend, frontend)&#39;</span> <span style=color:#ae81ff>\
+</span></code></pre></td>
+<td style=vertical-align:top;padding:0;margin:0;border:0;width:100%>
+<pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-bash data-lang=bash>kubectl get pods -l <span style=color:#e6db74>&#39;tier in (backend, frontend)&#39;</span> <span style=color:#ae81ff>\
 </span><span style=color:#ae81ff></span>  -o custom-columns<span style=color:#f92672>=</span>name:.metadata.name,labels:.metadata.labels
 
 NAME                           LABELS
@@ -33,7 +132,12 @@ admin-699855c9c6-s8fc6         map<span style=color:#f92672>[</span>app:admin ti
 authserver-646864ddf8-jt2f6    map<span style=color:#f92672>[</span>app:authserver tier:backend<span style=color:#f92672>]</span>
 client-79678bf8c-qgp8j         map<span style=color:#f92672>[</span>app:client tier:frontend<span style=color:#f92672>]</span>
 <span style=color:#f92672>(</span>...<span style=color:#f92672>)</span>
-</code></pre></td></tr></table></div></div><p>Here's a confession: sometimes I give up and just pipe to classic unix tools:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</code></pre></td></tr></table>
+</div>
+</div><p>Here&rsquo;s a confession: sometimes I give up and just pipe to classic unix tools:</p>
+<div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2>
+<table style=border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block><tr><td style=vertical-align:top;padding:0;margin:0;border:0>
+<pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
 </span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">2
 </span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">3
 </span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">4
@@ -41,7 +145,9 @@ client-79678bf8c-qgp8j         map<span style=color:#f92672>[</span>app:client t
 </span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">6
 </span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">7
 </span><span style="margin-right:.4em;padding:0 .4em;color:#7f7f7f">8
-</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-bash data-lang=bash>kubectl get pods -l <span style=color:#e6db74>&#39;tier in (backend, frontend)&#39;</span> --show-labels | <span style=color:#ae81ff>\
+</span></code></pre></td>
+<td style=vertical-align:top;padding:0;margin:0;border:0;width:100%>
+<pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-bash data-lang=bash>kubectl get pods -l <span style=color:#e6db74>&#39;tier in (backend, frontend)&#39;</span> --show-labels | <span style=color:#ae81ff>\
 </span><span style=color:#ae81ff></span>  awk <span style=color:#e6db74>&#39;{ print $1, $6 }&#39;</span> | column -t
 
 &gt; NAME                        LABELS
@@ -49,7 +155,25 @@ admin-699855c9c6-s8fc6        app<span style=color:#f92672>=</span>admin,tier<sp
 authserver-646864ddf8-jt2f6   app<span style=color:#f92672>=</span>authserver,tier<span style=color:#f92672>=</span>backend
 client-79678bf8c-qgp8j        app<span style=color:#f92672>=</span>client,tier<span style=color:#f92672>=</span>frontend
 <span style=color:#f92672>(</span>...<span style=color:#f92672>)</span>
-</code></pre></td></tr></table></div></div><h1 id=links>Links</h1><p><a href=https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/#set-based-requirement>Labels and Selectors | Kubernetes</a></p></div><footer></footer></article></section></div><footer class=footer><section class=container>© 2020 - 2021
+</code></pre></td></tr></table>
+</div>
+</div><h1 id=links>Links</h1>
+<p><a href=https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/#set-based-requirement>Labels and Selectors | Kubernetes</a></p>
+</div>
+<footer>
+</footer>
+</article>
+</section>
+</div>
+<footer class=footer>
+<section class=container>
+© 2020 - 2021
 eduardo aleixo
 ·
-Powered by <a href=https://gohugo.io/>Hugo</a> & <a href=https://github.com/luizdepra/hugo-coder/>Coder</a>.</section></footer></main><link rel=stylesheet href=https://www.eduardoaleixo.com/scss/fouc.css media=screen></body></html>
+Powered by <a href=https://gohugo.io/>Hugo</a> & <a href=https://github.com/luizdepra/hugo-coder/>Coder</a>.
+</section>
+</footer>
+</main>
+<link rel=stylesheet href=https://www.eduardoaleixo.com/scss/fouc.css media=screen>
+</body>
+</html>

@@ -23,7 +23,7 @@
           </div>
 
           <div id="nanogallery2" data-nanogallery2 = '{
-                        "thumbnailHeight":  400,
+                        "thumbnailHeight":  "auto",
                         "thumbnailWidth":   600,
                         "thumbnailBorderVertical": 0,
                         "thumbnailBorderHorizontal": 0,
@@ -39,7 +39,7 @@
                       }' >
       {{ with .Resources.ByType "image" }}
       {{ range . }}
-      <a href="{{ .RelPermalink }}" data-ngthumb="{{ (.Fill "600x400").RelPermalink }}">
+      <a href="{{ .RelPermalink }}" data-ngthumb="{{ (.Resize "600x").RelPermalink }}">
       </a>
       {{ end }}
       {{ end }}

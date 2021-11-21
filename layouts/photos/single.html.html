@@ -39,7 +39,7 @@
                       }' >
       {{ with .Resources.ByType "image" }}
       {{ range . }}
-        {{ if eq .ResourceType "image" }}
+        {{ if eq .MediaType.SubType "jpeg" }}
         {{ $resized := (.Resize "600x") }}
 
         {{ if (fileExists (replace .Name "jpg" "NEF")) -}}

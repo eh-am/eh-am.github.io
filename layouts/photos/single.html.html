@@ -39,6 +39,7 @@
                       }' >
       {{ with .Resources.ByType "image" }}
       {{ range . }}
+        {{ if eq .ResourceType "image" }}
         {{ $resized := (.Resize "600x") }}
 
         {{ if (fileExists (replace .Name "jpg" "NEF")) -}}
@@ -52,6 +53,7 @@
 
         <a href="{{ .RelPermalink }}" data-ngthumb="{{ $resized.RelPermalink }}" data-ngdownloadurl="{{ $downloadURL }}">
         </a>
+      {{ end }}
       {{ end }}
       {{ end }}
           </div>

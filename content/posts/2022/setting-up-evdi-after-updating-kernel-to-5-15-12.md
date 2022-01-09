@@ -6,7 +6,7 @@ categories = ["blog", "technical", "linux"]
 +++
 
 # intro
-[as you may know, I use an old ipad as a second screen.](./ipad-second-monitor-setup).
+[as you may know, I use an old ipad as a second screen.]({{< ref "/posts/ipad-second-monitor-setup/index.md" >}})
 in a nutshell, it relies on the `evdi` kernel module to create a virtual display which is then accessed by the ipad via a VNC Viewer.
 
 pne quirk is that almost every time I update the kernel, `evdi` (and consequently my ipad setup) also breaks. I am not super familiar with kernel shenanigans so I don't know if it's a fundamental issue or not. [^1]

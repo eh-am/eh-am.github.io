@@ -1,5 +1,9 @@
-function isAnchorToSamePage(anchor) {
+function isAnchorToSameHost(anchor) {
   return anchor.hostname === window.location.hostname;
+}
+
+function isAnchorToSamePage(anchor) {
+  return anchor.hash.length > 0;
 }
 
 function getPageTransitioner() {
@@ -16,7 +20,10 @@ function calculateDesiredDiamater() {
   // hypotenuse^2 = width^2 + height^2
   // hypotenuse = radius = diameter/2
   // (diam/2)^2 = w^2 + h^2
-  return 2 * Math.sqrt(Math.pow(window.innerHeight,2) + Math.pow(window.innerWidth, 2));
+  return (
+    2 *
+    Math.sqrt(Math.pow(window.innerHeight, 2) + Math.pow(window.innerWidth, 2))
+  );
 }
 
 // TODO: what happens if two links are clicked at the same time?
@@ -51,5 +58,8 @@ function addAnimationToAnchor(anchor) {
 document.addEventListener("DOMContentLoaded", function () {
   const anchors = document.getElementsByTagName("a");
 
-  Array.from(anchors).filter(isAnchorToSamePage).forEach(addAnimationToAnchor);
+  Array.from(anchors)
+    .filter(isAnchorToSameHost)
+    .filter((a) => !isAnchorToSamePage(a))
+    .forEach(addAnimationToAnchor);
 });

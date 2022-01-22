@@ -73,4 +73,4 @@ Which `taskwiki` will dynamically render into
 ```
 
 
-If you are interested in creating vimwiki pages for each task, check out my poorly made fork [github.com/eh-am/taskwiki](github.com/eh-am/taskwiki)
+If you are interested in creating vimwiki pages for each task, check out my poorly made fork [github.com/eh-am/taskwiki](http://github.com/eh-am/taskwiki)

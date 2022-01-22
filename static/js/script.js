@@ -48,12 +48,10 @@ function addAnimationToAnchor(anchor) {
 
     // go to link after animation ends
     const listener = pt.addEventListener("animationend", () => {
+      window.location.assign(anchor.href);
+
       // we don't care about this listener anymore
       pt.removeEventListener("animationEnd", listener);
-      // remove the animation class since we may get redirect back when hitting the back button
-      pt.classList.remove("start");
-
-      window.location.assign(anchor.href);
     });
   });
 }
@@ -65,4 +63,19 @@ document.addEventListener("DOMContentLoaded", function () {
     .filter(isAnchorToSameHost)
     .filter((a) => !isAnchorToSamePage(a))
     .forEach(addAnimationToAnchor);
+});
+
+// if user is moving through history
+// remove the transition
+// https://stackoverflow.com/questions/43043113/how-to-force-reloading-a-page-when-using-browser-back-button
+window.addEventListener("pageshow", function (event) {
+  var historyTraversal =
+    event.persisted ||
+    (typeof window.performance != "undefined" &&
+      window.performance.navigation.type === 2);
+  if (historyTraversal) {
+    const pt = getPageTransitioner();
+
+    pt.classList.remove("start");
+  }
 });

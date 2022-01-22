@@ -48,9 +48,12 @@ function addAnimationToAnchor(anchor) {
 
     // go to link after animation ends
     const listener = pt.addEventListener("animationend", () => {
-      window.location.assign(anchor.href);
       // we don't care about this listener anymore
       pt.removeEventListener("animationEnd", listener);
+      // remove the animation class since we may get redirect back when hitting the back button
+      pt.classList.remove("start");
+
+      window.location.assign(anchor.href);
     });
   });
 }

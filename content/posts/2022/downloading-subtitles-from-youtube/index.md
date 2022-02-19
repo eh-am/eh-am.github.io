@@ -1,6 +1,6 @@
 +++
 date = "2022-02-19"
-title = "downloading subtitles from youtube"
+title = "downloading subtitles from youtube to help studying japanese"
 categories = ["blog", "technical", "japanese", "quality of life"]
 +++
 
@@ -72,3 +72,6 @@ Yields
 
 Then I can just manipulate that subtitle file as normal:
 ![](./img.png)
+
+Or better yet, opening in the browser and leveraging [yomichan](https://foosoft.net/projects/yomichan/)
+![](./yomichan.png)

@@ -58,7 +58,7 @@ lineNoStart = 1
             [[languages.en.menu.main]]
             name = "Photos"
             weight = 2
-            url = "photos/"
+            url = "https://photos.eduardoaleixo.com/"
 
 #    [languages.es]
 #        languagename = "español"

@@ -1,0 +1,575 @@
+<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1,user-scalable=no"><style>html{display:none}</style><meta name=author content="eduardo aleixo"><meta name=description content="eduardo aleixo's personal website"><meta name=keywords content="developer,personal"><meta name=twitter:card content="summary"><meta name=twitter:title content="Mocking endpoints granularly in Angular"><meta name=twitter:description content="Introduction At $WORK the frontend team usually develops against the real backend (exposed internally), since running the backend locally involves some additional setup (and resources, such as RAM).
+The normal flows goes as follows:
+Backend developers start implementing the feature Frontend devs start working on the feature only after the backend is finished Which works fine most of the time. However, sometimes a feature is being developed in parallel, so the frontend crew doesn&rsquo;t have an API to code against!"><meta property="og:title" content="Mocking endpoints granularly in Angular"><meta property="og:description" content="Introduction At $WORK the frontend team usually develops against the real backend (exposed internally), since running the backend locally involves some additional setup (and resources, such as RAM).
+The normal flows goes as follows:
+Backend developers start implementing the feature Frontend devs start working on the feature only after the backend is finished Which works fine most of the time. However, sometimes a feature is being developed in parallel, so the frontend crew doesn&rsquo;t have an API to code against!"><meta property="og:type" content="article"><meta property="og:url" content="https://www.eduardoaleixo.com/posts/angular-mock-endpoint/"><meta property="article:section" content="posts"><meta property="article:published_time" content="2020-06-22T00:00:00+00:00"><meta property="article:modified_time" content="2020-06-22T00:00:00+00:00"><base href=https://www.eduardoaleixo.com/posts/angular-mock-endpoint/><title>Mocking endpoints granularly in Angular · eduardoaleixo</title><link rel=canonical href=https://www.eduardoaleixo.com/posts/angular-mock-endpoint/><link rel=stylesheet href=https://www.eduardoaleixo.com/css/coder.min.44853a577245f7921bf33f840dc0c75f95e1cf33e28d213ebae0a34700988d76.css integrity="sha256-RIU6V3JF95Ib8z+EDcDHX5XhzzPijSE+uuCjRwCYjXY=" crossorigin=anonymous media=screen><script type=text/javascript src=https://www.eduardoaleixo.com/js/script.js></script>
+<script>!sessionStorage.getItem("_swa")&&document.referrer.indexOf(location.protocol+"//"+location.host)!==0&&fetch("https://counter.dev/track?"+new URLSearchParams({referrer:document.referrer,screen:screen.width+"x"+screen.height,user:"eham",utcoffset:"-3"})),sessionStorage.setItem("_swa","1")</script><script type=application/javascript>var doNotTrack=!1;doNotTrack||(function(e,t,n,s,o,i,a){e.GoogleAnalyticsObject=o,e[o]=e[o]||function(){(e[o].q=e[o].q||[]).push(arguments)},e[o].l=1*new Date,i=t.createElement(n),a=t.getElementsByTagName(n)[0],i.async=1,i.src=s,a.parentNode.insertBefore(i,a)}(window,document,"script","https://www.google-analytics.com/analytics.js","ga"),ga("create","UA-59191973-2","auto"),ga("send","pageview"))</script><link rel=stylesheet href=https://www.eduardoaleixo.com/scss/custom.min.5c487e1eccd403acac4cb7f4add9b97934afcd16a4fdbd4f168ce4122fd34785.css integrity="sha256-XEh+HszUA6ysTLf0rdm5eTSvzRak/b1PFozkEi/TR4U=" crossorigin=anonymous media=screen><link rel=icon type=image/png href=https://www.eduardoaleixo.com/images/favicon-32x32.png sizes=32x32><link rel=icon type=image/png href=https://www.eduardoaleixo.com/images/favicon-16x16.png sizes=16x16><meta name=generator content="Hugo 0.101.0"></head><body class=colorscheme-light><div id=page-transitioner></div><main class=wrapper><nav class=navigation><section class=container><a class=navigation-title href=https://www.eduardoaleixo.com/>eduardoaleixo</a>
+<input type=checkbox id=menu-toggle>
+<label class="menu-button float-right" for=menu-toggle><div class=wrap><span class=stripe></span>
+<span class=stripe></span>
+<span class=stripe></span></div></label><ul class=navigation-list><li class=navigation-item><a class=navigation-link href=https://www.eduardoaleixo.com/about/>About</a></li><li class=navigation-item><a class=navigation-link href=https://www.eduardoaleixo.com/posts/>Blog</a></li><li class=navigation-item><a class=navigation-link href=https://photos.eduardoaleixo.com/>Photos</a></li></ul></section></nav><div class=content><section class="container post"><article><header><div class=post-title><h1 class=title>Mocking endpoints granularly in Angular</h1></div><div class=post-meta><div class=date><span class=posted-on><i class="fas fa-calendar"></i>
+<time datetime=2020-06-22T00:00:00Z>2020/06/22</time></span>
+<span class=reading-time><i class="fas fa-clock"></i>
+13-minute read</span></div><div class=categories><i class="fas fa-folder"></i>
+<a href=https://www.eduardoaleixo.com/categories/blog/>blog</a>
+<span class=separator>•</span>
+<a href=https://www.eduardoaleixo.com/categories/angular/>angular</a>
+<span class=separator>•</span>
+<a href=https://www.eduardoaleixo.com/categories/technical/>technical</a></div></div></header><div><h2 id=introduction>Introduction</h2><p>At $WORK the frontend team usually develops against the real backend (exposed internally), since running the backend locally involves some additional setup (and resources, such as RAM).</p><p>The normal flows goes as follows:</p><ol><li>Backend developers start implementing the feature</li><li>Frontend devs start working on the feature only after the backend is finished</li></ol><p>Which works fine most of the time. However, sometimes a feature is being developed in parallel, so the frontend crew doesn&rsquo;t have an API to code against!</p><p>The suggestion is to mock until backend is finished, but where to mock?</p><ul><li>a) Component level</li><li>b) Service level</li><li>c) Store (NGRX/Redux) level</li><li>d) Server level?</li></ul><p>a), b) and c) are just variations of the same solution (as in they all involve modifying the code). They all work fine. Here&rsquo;s an example of a Data Service:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 1
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 2
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 3
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 4
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 5
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 6
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 7
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 8
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 9
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">10
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">11
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">12
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">13
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">14
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">15
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">16
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-typescript data-lang=typescript><span style=display:flex><span><span style=color:#a6e22e>getPerson</span>()<span style=color:#f92672>:</span> <span style=color:#a6e22e>Observable</span>&lt;<span style=color:#f92672>Person</span>&gt; {
+</span></span><span style=display:flex><span>	<span style=color:#75715e>// commented, since we want to use a mocked value
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>	<span style=color:#75715e>// return this.http.get(&#39;/foo&#39;);
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>	<span style=color:#66d9ef>return</span> <span style=color:#66d9ef>of</span>([{
+</span></span><span style=display:flex><span>		    <span style=color:#a6e22e>_id</span><span style=color:#f92672>:</span> <span style=color:#e6db74>&#34;5ef0fc66e63676479d09d6c0&#34;</span>,
+</span></span><span style=display:flex><span>		    <span style=color:#a6e22e>index</span>: <span style=color:#66d9ef>0</span>,
+</span></span><span style=display:flex><span>		    <span style=color:#a6e22e>guid</span><span style=color:#f92672>:</span> <span style=color:#e6db74>&#34;3b7095f1-2629-4734-b2e0-8fc412ef0b18&#34;</span>,
+</span></span><span style=display:flex><span>		    <span style=color:#a6e22e>isActive</span>: <span style=color:#66d9ef>false</span>,
+</span></span><span style=display:flex><span>		    <span style=color:#a6e22e>age</span>: <span style=color:#66d9ef>26</span>,
+</span></span><span style=display:flex><span>		    <span style=color:#a6e22e>eyeColor</span><span style=color:#f92672>:</span> <span style=color:#e6db74>&#34;blue&#34;</span>,
+</span></span><span style=display:flex><span>		    <span style=color:#a6e22e>name</span><span style=color:#f92672>:</span> <span style=color:#e6db74>&#34;Lidia Hughes&#34;</span>,
+</span></span><span style=display:flex><span>		    <span style=color:#a6e22e>company</span><span style=color:#f92672>:</span> <span style=color:#e6db74>&#34;CABLAM&#34;</span>,
+</span></span><span style=display:flex><span>		    <span style=color:#a6e22e>email</span><span style=color:#f92672>:</span> <span style=color:#e6db74>&#34;lidiahughes@cablam.com&#34;</span>,
+</span></span><span style=display:flex><span>	 }
+</span></span><span style=display:flex><span>	])
+</span></span><span style=display:flex><span>}
+</span></span></code></pre></td></tr></table></div></div><p>It feels dirty.
+After implementing the feature, it&rsquo;s easy to forget to remove that mocked code and uncomment the real one (I&rsquo;ve been guilty of that myself).
+Also, it doesn&rsquo;t scale very well. Let&rsquo;s say you want to mock just a specific <code>Person</code>:</p><p>(for example, the endpoint already exists, but it will soon return more fields, such as <code>address</code>, <code>date of birth</code> etc. So you want to validate both versions work, progressively enhancing the UI):</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 1
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 2
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 3
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 4
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 5
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 6
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 7
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 8
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 9
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">10
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">11
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">12
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">13
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">14
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">15
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">16
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">17
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">18
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">19
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-typescript data-lang=typescript><span style=display:flex><span><span style=color:#a6e22e>getIndividualPerson</span>(<span style=color:#a6e22e>f</span>: <span style=color:#66d9ef>Person</span>)<span style=color:#f92672>:</span> <span style=color:#a6e22e>Observable</span>&lt;<span style=color:#f92672>Person</span>&gt; {
+</span></span><span style=display:flex><span>	<span style=color:#66d9ef>if</span> (<span style=color:#a6e22e>f</span>.<span style=color:#a6e22e>id</span> <span style=color:#f92672>===</span> <span style=color:#ae81ff>1</span>) {
+</span></span><span style=display:flex><span>		<span style=color:#66d9ef>return</span> <span style=color:#66d9ef>of</span>([
+</span></span><span style=display:flex><span>		  {
+</span></span><span style=display:flex><span>		    <span style=color:#a6e22e>_id</span><span style=color:#f92672>:</span> <span style=color:#e6db74>&#34;5ef0fc66e63676479d09d6c0&#34;</span>,
+</span></span><span style=display:flex><span>		    <span style=color:#a6e22e>index</span>: <span style=color:#66d9ef>0</span>,
+</span></span><span style=display:flex><span>		    <span style=color:#a6e22e>guid</span><span style=color:#f92672>:</span> <span style=color:#e6db74>&#34;3b7095f1-2629-4734-b2e0-8fc412ef0b18&#34;</span>,
+</span></span><span style=display:flex><span>		    <span style=color:#a6e22e>isActive</span>: <span style=color:#66d9ef>false</span>,
+</span></span><span style=display:flex><span>		    <span style=color:#a6e22e>age</span>: <span style=color:#66d9ef>26</span>,
+</span></span><span style=display:flex><span>		    <span style=color:#a6e22e>eyeColor</span><span style=color:#f92672>:</span> <span style=color:#e6db74>&#34;blue&#34;</span>,
+</span></span><span style=display:flex><span>		    <span style=color:#a6e22e>name</span><span style=color:#f92672>:</span> <span style=color:#e6db74>&#34;Lidia Hughes&#34;</span>,
+</span></span><span style=display:flex><span>		    <span style=color:#a6e22e>company</span><span style=color:#f92672>:</span> <span style=color:#e6db74>&#34;CABLAM&#34;</span>,
+</span></span><span style=display:flex><span>		    <span style=color:#a6e22e>email</span><span style=color:#f92672>:</span> <span style=color:#e6db74>&#34;lidiahughes@cablam.com&#34;</span>,
+</span></span><span style=display:flex><span>		  }
+</span></span><span style=display:flex><span>		])
+</span></span><span style=display:flex><span>	}
+</span></span><span style=display:flex><span>	
+</span></span><span style=display:flex><span>	<span style=color:#66d9ef>return</span> <span style=color:#66d9ef>this</span>.<span style=color:#a6e22e>http</span>.<span style=color:#66d9ef>get</span>(<span style=color:#e6db74>`/persons/</span><span style=color:#e6db74>${</span><span style=color:#a6e22e>id</span><span style=color:#e6db74>}</span><span style=color:#e6db74>`</span>);
+</span></span><span style=display:flex><span>}
+</span></span></code></pre></td></tr></table></div></div><p>Following a different approach, mocking at server level (option d) provides a nice boundary.
+The idea is to create an HTTP Server and forward traffic to it, instead of the original server.</p><p>The advantages are:</p><ul><li>Clear boundary. When the backend if finished it&rsquo;s not necessary to change any application code.</li><li>Granularity. It&rsquo;s possible to override only a single endpoint (<code>/foo/1</code> for example).</li><li>Straightforward setup in Angular, since it uses Webpack which ships with <a href=https://github.com/chimurai/http-proxy-middleware>http-proxy-middleware</a>.</li><li>You may already using a local proxy.</li></ul><p>Let&rsquo;s go over an example to showcase how it would work in a real project.</p><h2 id=use-case>Use case</h2><p>Consider we are developing a simple UI to display Star Wars planets, using the <a href=https://swapi.dev/>Star Wars API</a>.</p><p>We will display a (paginated) list of Planets. Let&rsquo;s start with a Data Service:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 1
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 2
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 3
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 4
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 5
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 6
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 7
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 8
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 9
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">10
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-typescript data-lang=typescript><span style=display:flex><span><span style=color:#66d9ef>@Injectable</span>({
+</span></span><span style=display:flex><span>  <span style=color:#a6e22e>providedIn</span><span style=color:#f92672>:</span> <span style=color:#e6db74>&#34;root&#34;</span>,
+</span></span><span style=display:flex><span>})
+</span></span><span style=display:flex><span><span style=color:#66d9ef>export</span> <span style=color:#66d9ef>class</span> <span style=color:#a6e22e>PlanetsDataService</span> {
+</span></span><span style=display:flex><span>  <span style=color:#66d9ef>constructor</span>(<span style=color:#66d9ef>private</span> <span style=color:#a6e22e>http</span>: <span style=color:#66d9ef>HttpClient</span>) {}
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>  <span style=color:#a6e22e>getPaginated() {</span>
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>return</span> <span style=color:#66d9ef>this</span>.<span style=color:#a6e22e>http</span>.<span style=color:#66d9ef>get</span>&lt;<span style=color:#f92672>StarWarsApiPaginatedResult</span><span style=color:#960050;background-color:#1e0010>&lt;</span><span style=color:#a6e22e>Planet</span>&gt;<span style=color:#f92672>&gt;</span>(<span style=color:#e6db74>&#34;/api/planets&#34;</span>);
+</span></span><span style=display:flex><span>  }
+</span></span><span style=display:flex><span>}
+</span></span></code></pre></td></tr></table></div></div><p>And the types:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 1
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 2
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 3
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 4
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 5
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 6
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 7
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 8
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 9
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">10
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">11
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-typescript data-lang=typescript><span style=display:flex><span><span style=color:#66d9ef>interface</span> <span style=color:#a6e22e>StarWarsApiPaginatedResult</span>&lt;<span style=color:#f92672>T</span>&gt; {
+</span></span><span style=display:flex><span>  <span style=color:#a6e22e>count</span>: <span style=color:#66d9ef>number</span>;
+</span></span><span style=display:flex><span>  <span style=color:#a6e22e>next</span>: <span style=color:#66d9ef>string</span> <span style=color:#f92672>|</span> <span style=color:#66d9ef>null</span>;
+</span></span><span style=display:flex><span>  <span style=color:#a6e22e>previous</span>: <span style=color:#66d9ef>string</span> <span style=color:#f92672>|</span> <span style=color:#66d9ef>null</span>;
+</span></span><span style=display:flex><span>  <span style=color:#a6e22e>results</span>: <span style=color:#66d9ef>T</span>[];
+</span></span><span style=display:flex><span>}
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:#66d9ef>export</span> <span style=color:#66d9ef>interface</span> <span style=color:#a6e22e>Planet</span> {
+</span></span><span style=display:flex><span>  <span style=color:#a6e22e>name</span>: <span style=color:#66d9ef>string</span>;
+</span></span><span style=display:flex><span>  <span style=color:#a6e22e>url</span>: <span style=color:#66d9ef>string</span>;
+</span></span><span style=display:flex><span>}
+</span></span></code></pre></td></tr></table></div></div><p>The API actually brings more resources, but let&rsquo;s ignore for the sake of the example.</p><p>The first question to arise is &ldquo;what URL to hit&rdquo;? Technically, we know we are going to use <code>https://swapi.dev/api/planets</code>, since it&rsquo;s a static API. But normally you have different environments with different URLs, for example: <a href=https://staging.my-website.com>https://staging.my-website.com</a>, <a href=https://dev.my-website.com>https://dev.my-website.com</a>. One pattern people use is to <a href=https://stackoverflow.com/a/47427464>inject an API URL at build time</a>, which in my opinion is not a good approach since it assumes you know where your code is going to be deployed, and also requires another build to deploy to a different environment, as opposed to simply redeploying the same artifact. It&rsquo;s also <a href=https://12factor.net/config>a violation of the 12-factor principles</a>.</p><p>What to do then? My approach has been to always hit a relative URL (for example, <code>/api</code>), which can be set at the reverse proxy level. In nginx, would be something along these lines:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">2
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">3
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">4
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">5
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">6
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">7
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">8
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">9
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-nginx data-lang=nginx><span style=display:flex><span><span style=color:#66d9ef>server</span> {
+</span></span><span style=display:flex><span>    <span style=color:#f92672>location</span> <span style=color:#e6db74>/api</span> {
+</span></span><span style=display:flex><span>        <span style=color:#f92672>proxy_pass</span> <span style=color:#e6db74>http://api-server:8080</span>;
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>    <span style=color:#f92672>location</span> <span style=color:#e6db74>/</span> {
+</span></span><span style=display:flex><span>        <span style=color:#f92672>proxy_pass</span> <span style=color:#e6db74>http://frontend:8080</span>;
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>}
+</span></span></code></pre></td></tr></table></div></div><p>However, if our service hits <code>http://localhost:4200/api/planets</code>, it will end up hitting the internal server with the Angular application itself, which doesn&rsquo;t know how to handle <code>/api/planets</code>.</p><p>We need a proxy here to redirect all <code>/api</code> requests to somewhere else. Let&rsquo;s create a proxy file named <code>src/proxy.conf.js</code>.</p><p>And update the Angular CLI configuration to use it (in the <code>angular.json</code> file):</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">2
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">3
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">4
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">5
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">6
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">7
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">8
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-json data-lang=json><span style=display:flex><span><span style=color:#e6db74>&#34;architect&#34;</span><span style=color:#960050;background-color:#1e0010>:</span> {
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;serve&#34;</span>: {
+</span></span><span style=display:flex><span>    <span style=color:#f92672>&#34;builder&#34;</span>: <span style=color:#e6db74>&#34;@angular-devkit/build-angular:dev-server&#34;</span>,
+</span></span><span style=display:flex><span>    <span style=color:#f92672>&#34;options&#34;</span>: {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;browserTarget&#34;</span>: <span style=color:#e6db74>&#34;your-application-name:build&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;proxyConfig&#34;</span>: <span style=color:#e6db74>&#34;src/proxy.conf.js&#34;</span>
+</span></span><span style=display:flex><span>    },
+</span></span><span style=display:flex><span>    <span style=color:#960050;background-color:#1e0010>...</span>
+</span></span></code></pre></td></tr></table></div></div><p>Or optionally, update <code>package.json</code>:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-json data-lang=json><span style=display:flex><span><span style=color:#e6db74>&#34;start&#34;</span><span style=color:#960050;background-color:#1e0010>:</span> <span style=color:#e6db74>&#34;ng serve --proxy-config src/proxy.conf.js&#34;</span><span style=color:#960050;background-color:#1e0010>,</span>
+</span></span></code></pre></td></tr></table></div></div><p>I personally recommend updating the <code>angular.json</code> file which is cleaner.
+Another option is to simply not update anywhere and run the command yourself:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-bash data-lang=bash><span style=display:flex><span>npm run serve -- --proxy-config src/proxy.conf.js
+</span></span></code></pre></td></tr></table></div></div><p>In the case you are likely to be the only one using the proxy.</p><h3 id=a-quick-detour>A quick detour</h3><p>Obs.: the <code>--</code> is necessary to indicate to <code>npm</code> that the subsequent arguments are to be passed down to <code>ng serve</code> and are not <code>npm</code> arguments.
+To illustrate this issue, let&rsquo;s compare two examples.</p><p>Given a <code>package.json</code> with:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">2
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">3
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-json data-lang=json><span style=display:flex><span><span style=color:#e6db74>&#34;scripts&#34;</span><span style=color:#960050;background-color:#1e0010>:</span> {
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;foo&#34;</span>: <span style=color:#e6db74>&#34;echo hi&#34;</span>,
+</span></span><span style=display:flex><span>}
+</span></span></code></pre></td></tr></table></div></div><p>Running <code>npm run foo -- --silent</code> returns:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">2
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">3
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">4
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-fallback data-lang=fallback><span style=display:flex><span>&gt; my-app@0.0.0 foo ~/myapp
+</span></span><span style=display:flex><span>&gt; echo hi &#34;--silent&#34;
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>hi --silent
+</span></span></code></pre></td></tr></table></div></div><p>Whereas running <code>npm run foo --silent</code> returns just:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-fallback data-lang=fallback><span style=display:flex><span>hi
+</span></span></code></pre></td></tr></table></div></div><p>The difference is that in the first case <code>--silent</code> is being passed as an argument to <code>echo</code>, where in the second case it&rsquo;s passed as an argument to <code>npm</code> itself.</p><p>By the way, that&rsquo;s a <a href=https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap12.html>POSIX thing</a>, not strict to <code>npm</code>:</p><blockquote><p>Guideline 10:
+The first &ndash; argument that is not an option-argument should be accepted as a delimiter indicating the end of options. Any following arguments should be treated as operands, even if they begin with the &lsquo;-&rsquo; character.</p></blockquote><h2 id=using-the-proxy>Using the proxy</h2><p>Now it&rsquo;s a matter of telling the proxy that anything that hits <code>/api</code> should be forwarded to <code>https://swapi.dev/api/</code>.</p><p>In your <code>proxy.conf.js</code>:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">2
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">3
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">4
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">5
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">6
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">7
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-javascript data-lang=javascript><span style=display:flex><span><span style=color:#a6e22e>module</span>.<span style=color:#a6e22e>exports</span> <span style=color:#f92672>=</span> [{
+</span></span><span style=display:flex><span>    <span style=color:#a6e22e>context</span><span style=color:#f92672>:</span> [<span style=color:#e6db74>&#34;/api/&#34;</span>],
+</span></span><span style=display:flex><span>    <span style=color:#a6e22e>target</span><span style=color:#f92672>:</span> <span style=color:#e6db74>&#34;https://swapi.dev/&#34;</span>,
+</span></span><span style=display:flex><span>    <span style=color:#a6e22e>secure</span><span style=color:#f92672>:</span> <span style=color:#66d9ef>false</span>,
+</span></span><span style=display:flex><span>    <span style=color:#a6e22e>logLevel</span><span style=color:#f92672>:</span> <span style=color:#e6db74>&#34;debug&#34;</span>
+</span></span><span style=display:flex><span>  }
+</span></span><span style=display:flex><span>]
+</span></span></code></pre></td></tr></table></div></div><p>I recommend using <code>logLevel: "debug"</code> at least in the beginning to see it working in your terminal. Here&rsquo;s an example:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-fallback data-lang=fallback><span style=display:flex><span>[HPM] GET /api/planets/ -&gt; https://swapi.dev/
+</span></span></code></pre></td></tr></table></div></div><p>(Don&rsquo;t forget to restart your Angular server every time <code>proxy.conf.js</code> changes!)</p><p>That is fine and can serve you for a long time.</p><p><img src=https://www.eduardoaleixo.com/posts/angular-mock-endpoint/assets/planets-list.png alt="List of Planets UI"></p><p>Then a new requirement comes up: when clicking on a planet, there should be a card displaying more information about that planet.
+The backend folks are working on it, but the frontend dev would like to work in parallel. In a quick agreement, it&rsquo;s been decided that the endpoint will be <code>/api/planets/:planetId</code> and a sample response is:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 1
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 2
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 3
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 4
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 5
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 6
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 7
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 8
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 9
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">10
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-json data-lang=json><span style=display:flex><span>{
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;id&#34;</span>: <span style=color:#ae81ff>1</span>,
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;name&#34;</span>:<span style=color:#e6db74>&#34;Tatooine&#34;</span>,
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;diameter&#34;</span>:<span style=color:#e6db74>&#34;10465&#34;</span>,
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;climate&#34;</span>:<span style=color:#e6db74>&#34;arid&#34;</span>,
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;gravity&#34;</span>:<span style=color:#e6db74>&#34;1 standard&#34;</span>,
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;terrain&#34;</span>:<span style=color:#e6db74>&#34;desert&#34;</span>,
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;surface_water&#34;</span>:<span style=color:#e6db74>&#34;1&#34;</span>,
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;population&#34;</span>:<span style=color:#e6db74>&#34;200000&#34;</span>
+</span></span><span style=display:flex><span>}
+</span></span></code></pre></td></tr></table></div></div><p>(Obs: this is a fake requirement, since the real Star Wars API already returns these fields in the <code>/api/planets</code> call).</p><h2 id=introducing-json-server>Introducing json-server</h2><p><code>json-server</code> is a fake REST API server written in Node.js that really shines in cases like this. We can use our proxy to point to <code>json-server</code> instead of the real thing!</p><p>First, we need to install it:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-bash data-lang=bash><span style=display:flex><span>npm install --save-dev json-server
+</span></span></code></pre></td></tr></table></div></div><p>As opposed to the official documentation, I prefer to install locally, per project, so it&rsquo;s easy to track down the version and supposedly gives anyone the ability to get up and running quickly with a simple <code>npm install</code>, without having to install any tool globally.</p><p>Set it up in your <code>package.json</code>:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-json data-lang=json><span style=display:flex><span>    <span style=color:#e6db74>&#34;db&#34;</span><span style=color:#960050;background-color:#1e0010>:</span> <span style=color:#e6db74>&#34;json-server --watch db.json&#34;</span><span style=color:#960050;background-color:#1e0010>,</span>
+</span></span></code></pre></td></tr></table></div></div><p>And run <code>npm run db</code>, which will start <code>json-server</code> under port <code>3000</code>, and will serve anything that&rsquo;s in the <code>db.json</code> file.</p><p>In our case, we want to serve a fake planet. Let&rsquo;s create a file <code>db.json</code> with the following content:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 1
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 2
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 3
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 4
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 5
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 6
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 7
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 8
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 9
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">10
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">11
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">12
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-json data-lang=json><span style=display:flex><span>{
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;planets&#34;</span>: [{
+</span></span><span style=display:flex><span>    <span style=color:#f92672>&#34;id&#34;</span>: <span style=color:#ae81ff>1</span>,
+</span></span><span style=display:flex><span>    <span style=color:#f92672>&#34;name&#34;</span>:<span style=color:#e6db74>&#34;Tatooine&#34;</span>,
+</span></span><span style=display:flex><span>    <span style=color:#f92672>&#34;diameter&#34;</span>:<span style=color:#e6db74>&#34;10465&#34;</span>,
+</span></span><span style=display:flex><span>    <span style=color:#f92672>&#34;climate&#34;</span>:<span style=color:#e6db74>&#34;arid&#34;</span>,
+</span></span><span style=display:flex><span>    <span style=color:#f92672>&#34;gravity&#34;</span>:<span style=color:#e6db74>&#34;1 standard&#34;</span>,
+</span></span><span style=display:flex><span>    <span style=color:#f92672>&#34;terrain&#34;</span>:<span style=color:#e6db74>&#34;desert&#34;</span>,
+</span></span><span style=display:flex><span>    <span style=color:#f92672>&#34;surface_water&#34;</span>:<span style=color:#e6db74>&#34;1&#34;</span>,
+</span></span><span style=display:flex><span>    <span style=color:#f92672>&#34;population&#34;</span>:<span style=color:#e6db74>&#34;200000&#34;</span>
+</span></span><span style=display:flex><span>  }]
+</span></span><span style=display:flex><span>}
+</span></span></code></pre></td></tr></table></div></div><p>So if you hit <code>http://localhost:3000/planets/1</code> it will return response above.</p><p>Amazing, now we just need to set up our proxy to use that planet instead of hitting the real server (which hasn&rsquo;t implemented the endpoint yet!)</p><p>Update your <code>proxy.conf.js</code> with this new item:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">2
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">3
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">4
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">5
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">6
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">7
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-javascript data-lang=javascript><span style=display:flex><span>  {
+</span></span><span style=display:flex><span>    <span style=color:#a6e22e>context</span><span style=color:#f92672>:</span> [<span style=color:#e6db74>&#34;/api/planets/1/&#34;</span>],
+</span></span><span style=display:flex><span>    <span style=color:#a6e22e>target</span><span style=color:#f92672>:</span> <span style=color:#e6db74>&#34;http://localhost:3000&#34;</span>,
+</span></span><span style=display:flex><span>    <span style=color:#a6e22e>pathRewrite</span><span style=color:#f92672>:</span> {
+</span></span><span style=display:flex><span>      <span style=color:#e6db74>&#34;^/api&#34;</span><span style=color:#f92672>:</span> <span style=color:#e6db74>&#34;/&#34;</span>,
+</span></span><span style=display:flex><span>    },
+</span></span><span style=display:flex><span>  },
+</span></span></code></pre></td></tr></table></div></div><p>Which will map</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-fallback data-lang=fallback><span style=display:flex><span>GET /api/planets/1/ ~&gt; http://localhost:3000/planets/1
+</span></span></code></pre></td></tr></table></div></div><p>So now, planet 1 (Tatooine) would work. Let&rsquo;s update our service to fetch information about that Planet:</p><p>First, create the type:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">2
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">3
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">4
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">5
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">6
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-typescript data-lang=typescript><span style=display:flex><span><span style=color:#66d9ef>export</span> <span style=color:#66d9ef>interface</span> <span style=color:#a6e22e>DetailedPlanet</span> <span style=color:#66d9ef>extends</span> <span style=color:#a6e22e>Planet</span> {
+</span></span><span style=display:flex><span>  <span style=color:#a6e22e>climate</span>: <span style=color:#66d9ef>string</span>;
+</span></span><span style=display:flex><span>  <span style=color:#a6e22e>diameter</span>: <span style=color:#66d9ef>string</span>;
+</span></span><span style=display:flex><span>  <span style=color:#a6e22e>terrain</span>: <span style=color:#66d9ef>string</span>;
+</span></span><span style=display:flex><span>  <span style=color:#a6e22e>gravity</span>: <span style=color:#66d9ef>string</span>;
+</span></span><span style=display:flex><span>}
+</span></span></code></pre></td></tr></table></div></div><p>This creates a type <code>DetailedPlanet</code>, which is the sum of all fields from <code>Planet</code> + the fields defined above. The code is equivalent to</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 1
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 2
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 3
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 4
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 5
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 6
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 7
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 8
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 9
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">10
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">11
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-typescript data-lang=typescript><span style=display:flex><span><span style=color:#66d9ef>export</span> <span style=color:#66d9ef>interface</span> <span style=color:#a6e22e>DetailedPlanet</span> {
+</span></span><span style=display:flex><span>  <span style=color:#75715e>// fields from planet
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>  <span style=color:#a6e22e>name</span>: <span style=color:#66d9ef>string</span>;
+</span></span><span style=display:flex><span>  <span style=color:#a6e22e>url</span>: <span style=color:#66d9ef>string</span>;
+</span></span><span style=display:flex><span>  
+</span></span><span style=display:flex><span>  <span style=color:#75715e>// fields defined here
+</span></span></span><span style=display:flex><span><span style=color:#75715e></span>  <span style=color:#a6e22e>climate</span>: <span style=color:#66d9ef>string</span>;
+</span></span><span style=display:flex><span>  <span style=color:#a6e22e>diameter</span>: <span style=color:#66d9ef>string</span>;
+</span></span><span style=display:flex><span>  <span style=color:#a6e22e>terrain</span>: <span style=color:#66d9ef>string</span>;
+</span></span><span style=display:flex><span>  <span style=color:#a6e22e>gravity</span>: <span style=color:#66d9ef>string</span>;
+</span></span><span style=display:flex><span>}
+</span></span></code></pre></td></tr></table></div></div><p>And then, create the method:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">2
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">3
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-typescript data-lang=typescript><span style=display:flex><span>  <span style=color:#a6e22e>getDetails</span>(<span style=color:#a6e22e>p</span>: <span style=color:#66d9ef>Planet</span>) {
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>return</span> <span style=color:#66d9ef>this</span>.<span style=color:#a6e22e>http</span>.<span style=color:#66d9ef>get</span>&lt;<span style=color:#f92672>DetailedPlanet</span>&gt;(<span style=color:#e6db74>`/api/planets/</span><span style=color:#e6db74>${</span><span style=color:#a6e22e>p</span>.<span style=color:#a6e22e>id</span><span style=color:#e6db74>}</span><span style=color:#e6db74>`</span>);
+</span></span><span style=display:flex><span>  }
+</span></span></code></pre></td></tr></table></div></div><p>But if you have paid attention, there&rsquo;s an <code>url</code> field we can use:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">2
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">3
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-typescript data-lang=typescript><span style=display:flex><span>  <span style=color:#a6e22e>getDetails</span>(<span style=color:#a6e22e>p</span>: <span style=color:#66d9ef>Planet</span>) {
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>return</span> <span style=color:#66d9ef>this</span>.<span style=color:#a6e22e>http</span>.<span style=color:#66d9ef>get</span>&lt;<span style=color:#f92672>DetailedPlanet</span>&gt;(<span style=color:#a6e22e>p</span>.<span style=color:#a6e22e>url</span>);
+</span></span><span style=display:flex><span>  }
+</span></span></code></pre></td></tr></table></div></div><p>Wait, <code>p.url</code>? What&rsquo;s that?</p><p>You are probably familiar with REST (<strong>RE</strong>presentational <strong>S</strong>tate <strong>T</strong>ransfer), but what you may not know it&rsquo;s REST also has a &ldquo;Maturity Levels&rdquo; specification, which means your API can be more or less RESTful compared to others.</p><p>What matters to us is that Level 3 refers to the ugly acronym HATEOAS (<em>Hypertext As the Engine of Application State</em>), which, to simply put, makes your APIs traverseable, as if they were webpages themselves, where you get to other pages by accessing <code>links</code>.</p><p>In that case, <code>p.url</code> is a link to the planet resource itself (<code>/api/planets/1</code>). What&rsquo;s cool here is that the server is smart enough to realize where the request is coming from and rewrite the response. So if the request comes from <code>curl</code>, it will return <code>"url": "http://swapi.dev/api/planets/1/"</code>, but if it comes from <code>http://localhost:4200</code> (where our Angular server is located), it returns <code>"url": "http://localhost:4200/api/planets/1/"</code>.</p><p>In the case above, there&rsquo;s no functional difference. But technically, by using the link, we empower the server to tell us where to look next. Imagine they are reimplementing the API using a different language, and they change the <code>url</code> response from <code>https://swapi.dev/api/planets/1</code> to be <code>https://beta.dev/api/planets/1</code>. Our application would work just fine.</p><p>Now, let&rsquo;s quickly implement that.</p><p>In the HTML:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">2
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">3
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">4
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">5
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-html data-lang=html><span style=display:flex><span>&lt;<span style=color:#f92672>li</span>
+</span></span><span style=display:flex><span>  <span style=color:#a6e22e>class</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;planet-item&#34;</span>
+</span></span><span style=display:flex><span>  <span style=color:#960050;background-color:#1e0010>*</span><span style=color:#a6e22e>ngFor</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;let p of planets$ | async&#34;</span>
+</span></span><span style=display:flex><span>  <span style=color:#960050;background-color:#1e0010>(</span><span style=color:#a6e22e>click</span><span style=color:#960050;background-color:#1e0010>)=&#34;</span><span style=color:#a6e22e>onClick</span><span style=color:#960050;background-color:#1e0010>(</span><span style=color:#a6e22e>p</span><span style=color:#960050;background-color:#1e0010>)&#34;</span>
+</span></span><span style=display:flex><span>&gt;
+</span></span></code></pre></td></tr></table></div></div><p>In the component:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">2
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">3
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-typescript data-lang=typescript><span style=display:flex><span><span style=color:#a6e22e>onClick</span>(<span style=color:#a6e22e>p</span>: <span style=color:#66d9ef>Planet</span>) {
+</span></span><span style=display:flex><span>	<span style=color:#66d9ef>this</span>.<span style=color:#a6e22e>detailedPlanet$</span> <span style=color:#f92672>=</span> <span style=color:#66d9ef>this</span>.<span style=color:#a6e22e>planetsDataService</span>.<span style=color:#a6e22e>getDetails</span>(<span style=color:#a6e22e>p</span>);
+</span></span><span style=display:flex><span>}
+</span></span></code></pre></td></tr></table></div></div><p>And now displaying that loaded planet (don&rsquo;t mind the classes, they come from <img src=https://tailwindcss.com/ alt=tailwindcss>):</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 1
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 2
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 3
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 4
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 5
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 6
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 7
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 8
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 9
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">10
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">11
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">12
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">13
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">14
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">15
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">16
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">17
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">18
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">19
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">20
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">21
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">22
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">23
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-html data-lang=html><span style=display:flex><span>	      &lt;<span style=color:#f92672>div</span> <span style=color:#a6e22e>class</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;w-full p-4 bg-gray-100&#34;</span> <span style=color:#960050;background-color:#1e0010>*</span><span style=color:#a6e22e>ngIf</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;(detailedPlanet) as dp&#34;</span>&gt;
+</span></span><span style=display:flex><span>		      &lt;<span style=color:#f92672>h1</span> <span style=color:#a6e22e>class</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;md:text-xl mb-6 font-bold&#34;</span>&gt;{{ dp.name }}&lt;/<span style=color:#f92672>h1</span>&gt;
+</span></span><span style=display:flex><span>		      &lt;<span style=color:#f92672>table</span> <span style=color:#a6e22e>class</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;w-full text-left text-sm&#34;</span>&gt;
+</span></span><span style=display:flex><span>			      &lt;<span style=color:#f92672>tbody</span>&gt;
+</span></span><span style=display:flex><span>				      &lt;<span style=color:#f92672>tr</span>&gt;
+</span></span><span style=display:flex><span>					      &lt;<span style=color:#f92672>td</span> <span style=color:#a6e22e>class</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;p-3 border-t font-bold&#34;</span>&gt;Gravity&lt;/<span style=color:#f92672>td</span>&gt;
+</span></span><span style=display:flex><span>					      &lt;<span style=color:#f92672>td</span> <span style=color:#a6e22e>class</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;p-3 border-t&#34;</span>&gt; {{ dp.gravity }} &lt;/<span style=color:#f92672>td</span>&gt;
+</span></span><span style=display:flex><span>				      &lt;/<span style=color:#f92672>tr</span>&gt;
+</span></span><span style=display:flex><span>				      &lt;<span style=color:#f92672>tr</span>&gt;
+</span></span><span style=display:flex><span>					      &lt;<span style=color:#f92672>td</span> <span style=color:#a6e22e>class</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;p-3 border-t font-bold&#34;</span>&gt;Terrain&lt;/<span style=color:#f92672>td</span>&gt;
+</span></span><span style=display:flex><span>					      &lt;<span style=color:#f92672>td</span> <span style=color:#a6e22e>class</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;p-3 border-t&#34;</span>&gt; {{ dp.terrain }} &lt;/<span style=color:#f92672>td</span>&gt;
+</span></span><span style=display:flex><span>				      &lt;/<span style=color:#f92672>tr</span>&gt;
+</span></span><span style=display:flex><span>				      &lt;<span style=color:#f92672>tr</span>&gt;
+</span></span><span style=display:flex><span>					      &lt;<span style=color:#f92672>td</span> <span style=color:#a6e22e>class</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;p-3 border-t font-bold&#34;</span>&gt;Population&lt;/<span style=color:#f92672>td</span>&gt;
+</span></span><span style=display:flex><span>					      &lt;<span style=color:#f92672>td</span> <span style=color:#a6e22e>class</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;p-3 border-t&#34;</span>&gt; {{ dp.population }} &lt;/<span style=color:#f92672>td</span>&gt;
+</span></span><span style=display:flex><span>				      &lt;/<span style=color:#f92672>tr</span>&gt;
+</span></span><span style=display:flex><span>				      &lt;<span style=color:#f92672>tr</span>&gt;
+</span></span><span style=display:flex><span>					      &lt;<span style=color:#f92672>td</span> <span style=color:#a6e22e>class</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;p-3 border-t border-b font-bold&#34;</span>&gt;Diameter&lt;/<span style=color:#f92672>td</span>&gt;
+</span></span><span style=display:flex><span>					      &lt;<span style=color:#f92672>td</span> <span style=color:#a6e22e>class</span><span style=color:#f92672>=</span><span style=color:#e6db74>&#34;p-3 border-t border-b&#34;</span>&gt; {{ dp.diameter }} &lt;/<span style=color:#f92672>td</span>&gt;
+</span></span><span style=display:flex><span>				      &lt;/<span style=color:#f92672>tr</span>&gt;
+</span></span><span style=display:flex><span>			      &lt;/<span style=color:#f92672>tbody</span>&gt;
+</span></span><span style=display:flex><span>		      &lt;/<span style=color:#f92672>table</span>&gt;
+</span></span><span style=display:flex><span>	      &lt;/<span style=color:#f92672>div</span>&gt;
+</span></span></code></pre></td></tr></table></div></div><p>(Keep in mind this is an over-simplification, the real code would deal with errors, loading state etc.)</p><p><img src=https://www.eduardoaleixo.com/posts/angular-mock-endpoint/assets/detailed-planet.gif alt="Clicking on a planet to show its details"></p><p>That works, but just for Planet 1 (as per <code>proxy.conf.js</code>). What if want ALL planets to work for now?</p><p>Thankfully the proxy supports a custom function, so instead of fiddling with regexes, we can simply return a custom string:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">2
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">3
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">4
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">5
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">6
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">7
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-javascript data-lang=javascript><span style=display:flex><span>{
+</span></span><span style=display:flex><span>  <span style=color:#a6e22e>context</span><span style=color:#f92672>:</span> [<span style=color:#e6db74>&#34;/api/planets/*/&#34;</span>],
+</span></span><span style=display:flex><span>  <span style=color:#a6e22e>target</span><span style=color:#f92672>:</span> <span style=color:#e6db74>&#34;http://localhost:3000&#34;</span>,
+</span></span><span style=display:flex><span>  <span style=color:#a6e22e>pathRewrite</span><span style=color:#f92672>:</span> <span style=color:#66d9ef>function</span> (<span style=color:#a6e22e>req</span>) {
+</span></span><span style=display:flex><span>    <span style=color:#66d9ef>return</span> <span style=color:#e6db74>&#34;/planets/1&#34;</span>;
+</span></span><span style=display:flex><span>  },
+</span></span><span style=display:flex><span>},
+</span></span></code></pre></td></tr></table></div></div><p>Now every request will be redirected to our mocked planet 1:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">2
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">3
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-fallback data-lang=fallback><span style=display:flex><span>GET /api/planets/1/ ~&gt; http://localhost:3000/planets/1
+</span></span><span style=display:flex><span>GET /api/planets/8/ ~&gt; http://localhost:3000/planets/1
+</span></span><span style=display:flex><span>GET /api/planets/10/ ~&gt; http://localhost:3000/planets/1
+</span></span></code></pre></td></tr></table></div></div><p>As it&rsquo;s just a function, you can have some logic such as redirecting to <code>/planets/1</code> if it&rsquo;s odd, and <code>/planets/2</code> if it&rsquo;s even. Or redirecting the first 10 planets to mocked versions (updated in <code>db.json</code>), and fallback to <code>/planet/1</code> for the other planets. The sky is the limit.</p><h2 id=the-end>The end</h2><p>Now it&rsquo;s where the solution shines.
+<strong>Once the backend is implemented and deployed, it&rsquo;s just a matter of deleting the rules from the proxy, and not having to mess up with the application code.</strong></p><p>Now that you know the existence of the proxy, feel free to explore the <a href=https://github.com/chimurai/http-proxy-middleware>documentation</a> and try new ideas:</p><ul><li>Even though Angular compilation is faster (as of Angular 9/10), it&rsquo;s quicker to change the JSON file. For example, one would want to quickly check how the UI looks like when receiving different values (a long string, a large number etc.)</li><li>Mocking the whole happy path instead of hitting the real server over the network can save you some minutes. In our case, we could mock the entire <code>/api/planets</code></li></ul><p>Also, let&rsquo;s not forget the caveats.</p><h3 id=caveats>Caveats</h3><ul><li>It requires restarting the Angular server, which may become boring, specially when first getting familiar with the setup.</li><li>It requires running two processes (the Angular server + <code>json-server</code>).</li><li>Low latency may hide some issues in your application which would happen in the real world. For example, there&rsquo;s a delay between clicking on an item and making it selected:</li></ul><p><img src=https://www.eduardoaleixo.com/posts/angular-mock-endpoint/assets/slow-loading.gif alt="Loading may take a while in slow connections"></p><h3 id=bonus>Bonus</h3><p>I&rsquo;ve lied to you. Hitting <code>https://swapi.dev/api/planets/</code> actually returns</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 1
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 2
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 3
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 4
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 5
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 6
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 7
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 8
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 9
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">10
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">11
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">12
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">13
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">14
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">15
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">16
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">17
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">18
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">19
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">20
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">21
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">22
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">23
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">24
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">25
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">26
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">27
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">28
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">29
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">30
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">31
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">32
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">33
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">34
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">35
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">36
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">37
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">38
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">39
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">40
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">41
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-json data-lang=json><span style=display:flex><span>{
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;count&#34;</span>: <span style=color:#ae81ff>60</span>,
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;next&#34;</span>: <span style=color:#e6db74>&#34;http://swapi.dev/api/planets/?page=2&#34;</span>,
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;previous&#34;</span>: <span style=color:#66d9ef>null</span>,
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;results&#34;</span>: [
+</span></span><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Tatooine&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;rotation_period&#34;</span>: <span style=color:#e6db74>&#34;23&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;orbital_period&#34;</span>: <span style=color:#e6db74>&#34;304&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;diameter&#34;</span>: <span style=color:#e6db74>&#34;10465&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;climate&#34;</span>: <span style=color:#e6db74>&#34;arid&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;gravity&#34;</span>: <span style=color:#e6db74>&#34;1 standard&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;terrain&#34;</span>: <span style=color:#e6db74>&#34;desert&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;surface_water&#34;</span>: <span style=color:#e6db74>&#34;1&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;population&#34;</span>: <span style=color:#e6db74>&#34;200000&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;residents&#34;</span>: [
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/people/1/&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/people/2/&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/people/4/&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/people/6/&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/people/7/&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/people/8/&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/people/9/&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/people/11/&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/people/43/&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/people/62/&#34;</span>
+</span></span><span style=display:flex><span>      ],
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;films&#34;</span>: [
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/films/1/&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/films/3/&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/films/4/&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/films/5/&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/films/6/&#34;</span>
+</span></span><span style=display:flex><span>      ],
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;created&#34;</span>: <span style=color:#e6db74>&#34;2014-12-09T13:50:49.641000Z&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;edited&#34;</span>: <span style=color:#e6db74>&#34;2014-12-20T20:58:18.411000Z&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;url&#34;</span>: <span style=color:#e6db74>&#34;http://swapi.dev/api/planets/1/&#34;</span>
+</span></span><span style=display:flex><span>    },
+</span></span><span style=display:flex><span>    <span style=color:#960050;background-color:#1e0010>...</span>
+</span></span><span style=display:flex><span>  ]
+</span></span><span style=display:flex><span>}
+</span></span></code></pre></td></tr></table></div></div><p>The problem here is it returns a few more fields (<code>count, next, previous</code> and <code>results</code>). Where if you used <code>json-server</code>, it wouldn&rsquo;t return those!</p><p>So if you ever want to mock something like that, you can</p><ul><li><a href=https://github.com/typicode/json-server#custom-routes-example>Write your own server on top of <code>json-server</code></a></li><li>Write a custom route</li></ul><p>To write a custom route, create a <code>routes.json</code> file:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">2
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">3
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">4
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-json data-lang=json><span style=display:flex><span>{
+</span></span><span style=display:flex><span>	<span style=color:#f92672>&#34;/api/planets&#34;</span>: <span style=color:#e6db74>&#34;/all-planets&#34;</span>,
+</span></span><span style=display:flex><span>	<span style=color:#f92672>&#34;/api/planets/:id&#34;</span>: <span style=color:#e6db74>&#34;/planets/:id&#34;</span>
+</span></span><span style=display:flex><span>}
+</span></span></code></pre></td></tr></table></div></div><p>Update <code>json-server</code> to use that file:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">1
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-json data-lang=json><span style=display:flex><span>    <span style=color:#e6db74>&#34;db&#34;</span><span style=color:#960050;background-color:#1e0010>:</span> <span style=color:#e6db74>&#34;json-server --watch db.json --routes routes.json&#34;</span><span style=color:#960050;background-color:#1e0010>,</span>
+</span></span></code></pre></td></tr></table></div></div><p>Now when hitting <code>http://localhost:3000/api/planets</code>, you gonna get:</p><div class=highlight><div style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><table style=border-spacing:0;padding:0;margin:0;border:0><tr><td style=vertical-align:top;padding:0;margin:0;border:0><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 1
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 2
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 3
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 4
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 5
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 6
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 7
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 8
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f"> 9
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">10
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">11
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">12
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">13
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">14
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">15
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">16
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">17
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">18
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">19
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">20
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">21
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">22
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">23
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">24
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">25
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">26
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">27
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">28
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">29
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">30
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">31
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">32
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">33
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">34
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">35
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">36
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">37
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">38
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">39
+</span><span style="white-space:pre;user-select:none;margin-right:.4em;padding:0 .4em;color:#7f7f7f">40
+</span></code></pre></td><td style=vertical-align:top;padding:0;margin:0;border:0;width:100%><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2><code class=language-json data-lang=json><span style=display:flex><span>{
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;count&#34;</span>: <span style=color:#ae81ff>60</span>,
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;next&#34;</span>: <span style=color:#e6db74>&#34;http://swapi.dev/api/planets/?page=2&#34;</span>,
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;previous&#34;</span>: <span style=color:#66d9ef>null</span>,
+</span></span><span style=display:flex><span>  <span style=color:#f92672>&#34;results&#34;</span>: [
+</span></span><span style=display:flex><span>    {
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;name&#34;</span>: <span style=color:#e6db74>&#34;Tatooine&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;rotation_period&#34;</span>: <span style=color:#e6db74>&#34;23&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;orbital_period&#34;</span>: <span style=color:#e6db74>&#34;304&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;diameter&#34;</span>: <span style=color:#e6db74>&#34;10465&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;climate&#34;</span>: <span style=color:#e6db74>&#34;arid&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;gravity&#34;</span>: <span style=color:#e6db74>&#34;1 standard&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;terrain&#34;</span>: <span style=color:#e6db74>&#34;desert&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;surface_water&#34;</span>: <span style=color:#e6db74>&#34;1&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;population&#34;</span>: <span style=color:#e6db74>&#34;200000&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;residents&#34;</span>: [
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/people/1/&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/people/2/&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/people/4/&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/people/6/&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/people/7/&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/people/8/&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/people/9/&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/people/11/&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/people/43/&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/people/62/&#34;</span>
+</span></span><span style=display:flex><span>      ],
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;films&#34;</span>: [
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/films/1/&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/films/3/&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/films/4/&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/films/5/&#34;</span>,
+</span></span><span style=display:flex><span>        <span style=color:#e6db74>&#34;http://swapi.dev/api/films/6/&#34;</span>
+</span></span><span style=display:flex><span>      ],
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;created&#34;</span>: <span style=color:#e6db74>&#34;2014-12-09T13:50:49.641000Z&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;edited&#34;</span>: <span style=color:#e6db74>&#34;2014-12-20T20:58:18.411000Z&#34;</span>,
+</span></span><span style=display:flex><span>      <span style=color:#f92672>&#34;url&#34;</span>: <span style=color:#e6db74>&#34;http://swapi.dev/api/planets/1/&#34;</span>
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>  ]
+</span></span><span style=display:flex><span>}
+</span></span></code></pre></td></tr></table></div></div><p>Obs.: don&rsquo;t forget to update the <code>url</code> manually to point to your application, if you are using HATEOAS.</p><h2 id=conclusion>Conclusion</h2><p>This post illustrates many concepts, the main being how to use <code>http-proxy-middleware</code> and <code>json-server</code> to mock individual routes for your Angular application.</p><p>As always, source code can be found in the <a href=https://github.com/eh-am/eh-am.github.io/tree/dev>blog repository</a>.</p><h2 id=references>References</h2><ul><li>Richardson Maturiy Model - <a href=https://martinfowler.com/articles/richardsonMaturityModel.html>https://martinfowler.com/articles/richardsonMaturityModel.html</a></li><li>Http Proxy Middleware - <a href=https://github.com/chimurai/http-proxy-middleware>https://github.com/chimurai/http-proxy-middleware</a></li></ul></div><footer></footer></article></section></div><footer class=footer><section class=container>© 2020 - 2022
+eduardo aleixo
+·
+Powered by <a href=https://gohugo.io/>Hugo</a> & <a href=https://github.com/luizdepra/hugo-coder/>Coder</a>.</section></footer></main><link rel=stylesheet href=https://www.eduardoaleixo.com/scss/fouc.css media=screen></body></html>

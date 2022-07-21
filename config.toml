@@ -55,11 +55,6 @@ lineNoStart = 1
             weight = 2
             url = "posts/"
 
-            [[languages.en.menu.main]]
-            name = "Photos"
-            weight = 2
-            url = "https://photos.eduardoaleixo.com/"
-
 #    [languages.es]
 #        languagename = "español"
 #

@@ -151,3 +151,8 @@ code + p {
     margin-right: -1rem;
   }
 }
+
+// add a scrollbar to large codeblocks
+.highlight > div {
+  overflow-x: auto;
+}

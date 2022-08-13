@@ -133,6 +133,12 @@ Suggested by my SO, instead of creating a custom element, we can use a "data-som
 
 However, that is considered a pseudo class and therefore has the same specificity of a class.
 
+## Option 7: iframe/shadow DOM
+Iframes are kinda cumbersome for this case, since we expect people to integrate their react code with our component.
+
+Same for for shadow DOM.
+
+Decided to not go with this solution.
 
 # Conclusion
 Ended up going with #5, which is a clean enough solution.

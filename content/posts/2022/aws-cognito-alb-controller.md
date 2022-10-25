@@ -49,8 +49,10 @@ https://myproject.auth.us-east-1.amazoncognito.com/oauth2/idpresponse
 
 Copy the `client id` and `client secret`.
 
+<!--
 ## TODO criar a parada de Consent Screen
 https://aws.amazon.com/premiumsupport/knowledge-center/cognito-google-social-identity-provider/#Configure_the_OAuth_consent_screen
+-->
 
 
 ## 3. Identity provider
@@ -69,6 +71,27 @@ resource "aws_cognito_identity_provider" "google_provider" {
 
   attribute_mapping = {
     email    = "email"
+  }
+}
+```
+
+### ignore changes
+As you login state will be updated, which terraform is not aware about. To make terraform ignore it use:
+
+```terraform
+resource "aws_cognito_identity_provider" "google_provider" {
+  (...)
+
+  lifecycle {
+    ignore_changes = [
+      attribute_mapping["username"],
+      provider_details["attributes_url"],
+      provider_details["attributes_url_add_attributes"],
+      provider_details["oidc_issuer"],
+      provider_details["token_request_method"],
+      provider_details["token_url"],
+      provider_details["authorize_url"],
+    ]
   }
 }
 ```
@@ -178,3 +201,4 @@ It's a JSON, so let's break it down
 
 
 And that should be it.
+

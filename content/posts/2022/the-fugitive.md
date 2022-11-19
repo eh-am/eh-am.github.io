@@ -6,11 +6,11 @@ categories = ["blog", "random", "movie"]
 
 ![The fugitive](https://m.media-amazon.com/images/M/MV5BYTEzNWJmZDctNzcxMS00NGVhLTllYzAtZDQ3ZDE2MzUwYWNiXkEyXkFqcGdeQXVyMjg0MzA5NQ@@._V1_.jpg)
 
-The other day we caught the movie US Marshals on TV. I always thought it was a crappy movie due to its subtitle in Brazil: "Os Federais", ie "The Federals". It was surprisingly a good movie! I mean, it went into the category "I liked it, but wouldn't watch again" which to is a win. Also it was a perfect movie for a lazy Saturday.
+The other day we caught the movie US Marshals on TV. I always thought it was a crappy movie due to its subtitle in Brazil: "Os Federais", ie "The Federals". It was surprisingly a good movie! I mean, it went into the category "I liked it, but wouldn't watch again" which to me is a win. Also it was a perfect movie for a lazy Saturday.
 
-I liked Wesley Snipes there, there was an young Robert Downey Jr. (remember him before becoming Iron Man? I didn't). But the one that stolen the scene was Tommy Lee Jones, he even got a Support Actor Oscar for it.
+I liked Wesley Snipes there, there was an young Robert Downey Jr. (remember him before becoming Iron Man? I didn't). But the one that stolen the scene was Tommy Lee Jones.
 
-Looking up on Wikipedia I found that it was kinda of a sequel of another movie, **The Fugitive (1993)**, starring Harrison Ford. It was based on a TV series from the 60s which I assumed was never aired in Brazil so I knew nothing about it.
+Looking up on Wikipedia I found that it was kinda of a sequel of another movie, **The Fugitive (1993)**, starring Harrison Ford and TLJ (which even got a Supporting Actor Oscar for it!). It was based on a TV series from the 60s which I assumed was never aired in Brazil so I knew nothing about it.
 
 Anyway, you can google up the synopsis, but basically TLJ and his gang of US Marshals have to pursue Harrison Ford, which was allegedly wrongly convicted to capital punishment!
 

@@ -1,6 +1,7 @@
 package internal_test
 
 import (
+	"reflect"
 	"testing"
 	"time"
 	"weekly_digest/internal"
@@ -8,31 +9,42 @@ import (
 
 // TODO: write a table test
 func TestWeekFinder(t *testing.T) {
-	// Monday
-	monday := time.Date(2022, 12, 5, 0, 0, 0, 0, time.UTC)
+	tests := []struct {
+		input string
+		want  []string
+	}{
+		// Previous week
+		{input: "2022-12-04", want: []string{"2022-11-28", "2022-12-04"}},
 
-	start, end := internal.FindWeek(monday)
+		// New week
+		{input: "2022-12-05", want: []string{"2022-12-05", "2022-12-11"}},
+		{input: "2022-12-06", want: []string{"2022-12-05", "2022-12-11"}},
+		{input: "2022-12-07", want: []string{"2022-12-05", "2022-12-11"}},
+		{input: "2022-12-08", want: []string{"2022-12-05", "2022-12-11"}},
+		{input: "2022-12-09", want: []string{"2022-12-05", "2022-12-11"}},
+		{input: "2022-12-10", want: []string{"2022-12-05", "2022-12-11"}},
+		{input: "2022-12-11", want: []string{"2022-12-05", "2022-12-11"}},
 
-	_, _, startDay := start.Date()
-	if startDay != 5 {
-		t.Fatal("start is not monday, 5th: ", start)
+		// New week
+		{input: "2022-12-12", want: []string{"2022-12-12", "2022-12-18"}},
 	}
 
-	_, _, endDay := end.Date()
-	if endDay != 11 {
-		t.Fatal("end is not sunday, 11: ", end, end.Weekday())
-	}
+	for _, tc := range tests {
+		d, err := time.Parse("2006-01-02", tc.input)
+		if err != nil {
+			panic(err)
+		}
+		start, end := internal.FindWeek(d)
 
-	// Sunday
-	sunday := time.Date(2022, 12, 4, 0, 0, 0, 0, time.UTC)
-	start, end = internal.FindWeek(sunday)
-	_, _, startDay = start.Date()
-	if startDay != 28 {
-		t.Fatal("start is not monday, 28th: ", start)
-	}
+		gotStart := start.Format("2006-01-02")
+		gotEnd := end.Format("2006-01-02")
 
-	_, _, endDay = end.Date()
-	if endDay != 4 {
-		t.Fatal("end is not sunday, 4: ", end, end.Weekday())
+		if !reflect.DeepEqual(tc.want[0], gotStart) {
+			t.Fatalf("expected: %v, got: %v", tc.want[0], gotStart)
+		}
+
+		if !reflect.DeepEqual(tc.want[1], gotEnd) {
+			t.Fatalf("expected: %v, got: %v", tc.want[1], gotEnd)
+		}
 	}
 }

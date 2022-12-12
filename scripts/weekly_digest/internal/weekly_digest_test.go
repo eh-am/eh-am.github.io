@@ -23,7 +23,7 @@ func TestWeeklyDigest(t *testing.T) {
 	}
 	defer os.RemoveAll(tmpDir)
 
-	mag := MockArticlesGetter{}
+	//	mag := MockArticlesGetter{}
 	//	digest := wd.NewArticlesDigest(tmpDir, mag)
 	//	digest.Run(from time.Time, until time.Time)
 }

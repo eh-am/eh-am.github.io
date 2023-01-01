@@ -1,12 +1,8 @@
 +++ 
 date = 2023-01-01T15:22:09Z
 title = "Douglas Adams on our reaction to Technological Progress"
-description = ""
-slug = "" 
-tags = []
-categories = []
-externalLink = ""
-series = []
+tags = ["quotes"]
+categories = ["life"]
 +++
 
 Interesting quote from Douglas Adams:

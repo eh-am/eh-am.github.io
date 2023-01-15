@@ -18,7 +18,7 @@ It also talks about family. Loss. Personal relationships. Empathy. And other hum
 all are familiar with ~~unless you work in tech~~.
 
 In a world where characters are written for a zoomer audience, where they are all
-quirky, woke, hip and whetever-the-new-word-of-the-year is, this show presents a very realistic view of people. Of course, it still falls on a few cliches here and there 
+quirky, woke, hip and whatever-the-new-word-of-the-year is, this show presents a very realistic view of people. Of course, it still falls on a few cliches here and there 
 (as the struggles between Sydney and Tina, the latino woman). But it doesn't stretch
 anything enough to make me cringe. The interactions all seem believable, especially
 in a high paced environment such as a restaurant kitchen.

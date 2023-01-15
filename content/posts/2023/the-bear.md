@@ -13,7 +13,7 @@ enough recommendations from different people came in, so I could be sure it had 
 
 The show itself is about a chef taking over his brother's restaurant in Chicago.
 I won't spoil it too much since it's only eight ~30-minute episodes. It touches
-on restaurant life, which I'm not very familiar with, but the potrayal matches the stories I've been told.
+on restaurant life, which I'm not very familiar with, but matches the stories I've been told.
 It also talks about family. Loss. Personal relationships. Empathy. And other human subjects we
 all are familiar with ~~unless you work in tech~~.
 

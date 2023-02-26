@@ -7,7 +7,7 @@ categories = ["life"]
 
 I have an extensive list of movies to watch that sparked my interest somehow.
 I don't keep notes on why I wanted to watch them, or where I first learned about them.
-Most often enough time passes that when I finally get to watch it, I have no idea what's about.
+Most often, enough time passes that when I finally get to watch it, I have no idea what's it about.
 It ends up being a good strategy, since I get to see it with completely fresh eyes.
 
 This week I got to watch Africa Addio (1996), or Africa: Blood and Guts.

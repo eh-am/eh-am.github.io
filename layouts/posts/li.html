@@ -1,5 +1,11 @@
-<li>
-   <span class="date"> {{ partial "date.html" . }} </span>
+<li class="list-item">
+  <div class="date"> {{ partial "date.html" . }} </div>
 
   <a class="title" href="{{ .Params.ExternalLink | default .RelPermalink }}">{{ .Title }}</a>
+
+  <div class="category">
+  {{ range $key, $category := .Page.Params.Categories }}
+   <a href="{{ ( printf "categories/%s/" ( . | urlize ) ) | relLangURL }}">{{ . }}</a>
+  {{ end }}
+  </div>
 </li>

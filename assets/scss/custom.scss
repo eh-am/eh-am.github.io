@@ -161,12 +161,18 @@ body, a {
 	font-weight: 500;
 }
 
-.list ul li .category {
+.list ul li .categories {
   a {
     display: inline-block;
-    background: $link-color;
     color: $bg-color;
     padding: 0 1rem;
+  }
+
+  a.category-technical {
+    background: $link-color;
+  }
+  a.category-life {
+    background: #128a52;
   }
 }
 

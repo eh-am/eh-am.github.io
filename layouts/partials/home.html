@@ -1,0 +1,18 @@
+
+<div class="container">
+  <section class="hero">
+    <div class="about">
+      <h1>{{ .Site.Params.author }}</h1>
+      <h2>{{ .Site.Params.info }}</h2>
+    </div>
+  </section>
+
+  <section class="list">
+    <h1>Latest stuff</h1>
+    <ul>
+      {{- range .Paginator.Pages | first 5 -}}
+        {{- .Render "li" -}}
+      {{- end -}}
+    </ul>
+  </section>
+</div>

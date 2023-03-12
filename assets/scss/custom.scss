@@ -160,3 +160,20 @@ code + p {
 body, a {
 	font-weight: 500;
 }
+
+.list ul li .category {
+  a {
+    display: inline-block;
+    background: $link-color;
+    color: $bg-color;
+    padding: 0 1rem;
+  }
+}
+
+.list ul li .date {
+  display: block;
+}
+
+.list .list-item {
+  margin: 4rem 0;
+}

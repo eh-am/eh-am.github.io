@@ -1,7 +1,8 @@
 +++
 date = "2022-06-26"
 title = "'Too many authentication failures' when using SSH with password"
-categories = ["blog", "technical", "ssh"]
+tags = ["ssh"]
+categories = ["technical"]
 +++
 
 Disclaimer: This happened some time ago and the details are fuzzy. This post only purposes is for my own documentation.

@@ -1,7 +1,7 @@
 +++
 date = "2022-08-09"
 title = "How I record my podcasts"
-categories = ["blog", "technical", "obs", "podcast"]
+categories = ["life"]
 +++
 
 As you may be aware, I have a music podcast called [Triceratops Show](www.triceratops.show).

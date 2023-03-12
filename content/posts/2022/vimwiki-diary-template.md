@@ -1,7 +1,8 @@
 +++
 date = "2022-01-22"
 title = "Vimwiki/Taskwiki diary template"
-categories = ["blog", "technical", "vimwiki"]
+categories = ["technical"]
+tags = ["vimwiki"]
 +++
 
 I've been using a `vim + vimwiki + taskwiki + taskwarrior + timewarrior` setup for a while. It works really well!

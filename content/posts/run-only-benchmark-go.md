@@ -2,7 +2,8 @@
 date = "2021-07-22"
 title = "Run only benchmark in go(lang)"
 slug = "run-only-benchmark-go"
-categories = ["blog", "go", "golang", "technical"]
+categories = ["technical"]
+tags = ["go", "golang"]
 +++
 
 a quick go(lang) tip

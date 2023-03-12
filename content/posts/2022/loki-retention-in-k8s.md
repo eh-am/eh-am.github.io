@@ -1,7 +1,8 @@
 +++
 date = "2022-11-29"
 title = "loki retention in k8s"
-categories = ["blog", "technical", "loki", "kubernetes"]
+tags = ["loki", "kubernetes"]
+categories = ["technical"]
 +++
 
 Requirements:

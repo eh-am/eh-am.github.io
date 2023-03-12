@@ -1,6 +1,7 @@
 ---
 title: "Pagination"
 date: 2022-12-30T16:28:02Z
+categories: ['technical']
 ---
 
 I was looking into how to do proper pagination. I already knew about offset based pagination, normally used (among other places)in forums. It works as follows:

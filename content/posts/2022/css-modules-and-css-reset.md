@@ -1,7 +1,8 @@
 +++
 date = "2022-08-13"
 title = "css modules, sanitize.css and publishing a standalone react component"
-categories = ["blog", "technical", "css"]
+categories = ["technical"]
+tags = ["css", "css modules"]
 +++
 
 At $WORK we started with a simple web app, I think its boilerplate was copied from grafana or something, so it came with custom webpack scripts.

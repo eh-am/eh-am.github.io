@@ -1,7 +1,8 @@
 +++
 date = "2022-02-19"
 title = "picture-in-picture in i3"
-categories = ["blog", "technical", "linux", "i3", "quality of life"]
+tags = ["i3"]
+categories = ["technical"]
 +++
 
 # intro

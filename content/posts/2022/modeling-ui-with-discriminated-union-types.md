@@ -2,7 +2,8 @@
 +++
 date = "2022-12-12"
 title = "Modeling UI with Discriminated Union Types"
-categories = ["blog", "technical", "typescript"]
+tags = ["typescript"]
+categories = ["technical"]
 +++
 
 

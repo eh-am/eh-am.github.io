@@ -2,7 +2,8 @@
 date = "2021-04-04"
 title = "my setup: ipad as a second monitor for quick note taking"
 slug = "ipad-second-monitor-note-taking"
-categories = ["blog", "technical", "ipad", "vimwiki", "vnc", "x11vnc"]
+tags = ["ipad", "vimwiki", "vnc", "x11vnc"]
+categories = ["technical"]
 mermaid = true
 +++
 

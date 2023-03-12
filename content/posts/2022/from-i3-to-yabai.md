@@ -1,7 +1,8 @@
 +++
 date = "2022-07-17"
 title = "from i3 to yabai / setting up a new mac"
-categories = ["blog", "i3", "yabai", "linux", "osx", "mac"]
+tags = ["i3", "yabai", "linux", "osx", "mac"]
+categories = ["technical"]
 +++
 
 I've been using linux (fedora/arch) + i3 for a few years by now.

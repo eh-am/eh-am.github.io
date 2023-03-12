@@ -1,7 +1,8 @@
 +++
 date = "2022-02-19"
 title = "downloading subtitles from youtube to help studying japanese"
-categories = ["blog", "technical", "japanese", "quality of life"]
+categories = ["life"]
+tags = ["japanese", "quality of life"]
 +++
 
 # intro

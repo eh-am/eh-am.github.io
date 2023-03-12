@@ -1,7 +1,7 @@
 +++
 date = "2021-11-30"
 title = "Adding more addresses than allowed in MercadoLivre"
-categories = ["blog", "life"]
+categories = ["life"]
 +++
 
 Lately I've been more empathic, affable, gentle etc. I don't know exactly why. Maybe it's because I am getting older. Maybe it's something else.

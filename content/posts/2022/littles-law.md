@@ -2,7 +2,7 @@
 date = 2022-12-31T15:00:40Z
 title = "Little's law"
 tags = ["queues"]
-categories = ["blog", "technical"]
+categories = ["technical"]
 +++
 
 I've came across this interesting theorem by John Little about queues.

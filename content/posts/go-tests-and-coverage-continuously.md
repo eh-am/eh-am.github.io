@@ -1,7 +1,8 @@
 +++
 date = "2021-11-24"
 title = "Continuously check code coverage while developing tests in go"
-categories = ["blog", "go", "technical"]
+categories = ["technical"]
+tags = ["go"]
 +++
 
 I have this workflow where while developing tests I also check for code coverage. The idea is to see if I am really touching that piece of code I am adding tests for. Similar to TDD, there's a certain primal endorphine rush from seeing the coverage go from red to green.

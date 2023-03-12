@@ -2,7 +2,8 @@
 date = "2020-02-08"
 title = "Unnoficial Bash Strict Mode"
 slug = "bash-strict-mode"
-categories = ["blog", "bash", "technical"]
+categories = ["technical"]
+tags = ["bash"]
 +++
 
 Bash (and shell scripting in general) is NOT straightforward. It's easy to mess up if you don't know what you are doing. If you come from a traditional programming background and just want to plumb a few lines of code, there are a few behaviours that will confuse the hell out of you.

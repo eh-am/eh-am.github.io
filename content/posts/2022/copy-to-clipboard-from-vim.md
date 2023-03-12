@@ -2,7 +2,8 @@
 +++
 date = "2022-10-25"
 title = "Copy to clipboard from vim using visual selection"
-categories = ["blog", "vim"]
+tags = ["vim"]
+categories = ["technical"]
 +++
 
 I don't remember the first time I found this tip, but the other day I was trying to find the exact syntax and couldn't, hence this post.

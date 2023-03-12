@@ -1,7 +1,8 @@
 +++
 date = "2022-09-06"
 title = "debugging a trigged on hover tooltip style"
-categories = ["blog", "css", "hover", "tooltip"]
+categories = ["technical"]
+tags = ["css", "hover", "tooltip"]
 +++
 
 At $WORK we have a tooltip component triggered on hover via javascript:

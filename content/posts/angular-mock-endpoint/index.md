@@ -2,7 +2,8 @@
 date = "2020-06-22"
 title = "Mocking endpoints granularly in Angular"
 slug = "angular-mock-endpoint"
-categories = ["blog", "angular", "technical"]
+tags = ["angular"]
+categories = ["technical"]
 +++
 
 ## Introduction

@@ -2,7 +2,8 @@
 date = "2022-06-05"
 title = "Export Firefox Synced Tabs"
 slug = "export-firefox-synced-tabs"
-categories = ["blog", "technical", "firefox"]
+tags = ["firefox"]
+categories = ["technical"]
 +++
 
 I tend to have many tabs open. Like way too many.

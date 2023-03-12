@@ -1,7 +1,7 @@
 +++
 date = "2022-06-22"
 title = "Creating Windows bootable USB on Linux"
-categories = ["blog", "technical", "bootable", "usb", "linux"]
+categories = ["technical"]
 +++
 
 This is more for self documentation than anything else.

@@ -1,7 +1,8 @@
 +++
 date = "2022-07-21"
 title = "yarn and 'Extracting tar content of undefined failed, the file appears to be corrupt'"
-categories = ["blog", "yarn", "npm", "node"]
+categories = ["technical"]
+tags = ["yarn", "npm", "node"]
 +++
 
 Here's a funny one.

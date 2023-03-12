@@ -1,5 +1,16 @@
-<li>
-   <span class="date"> {{ partial "date.html" . }} </span>
+<li class="list-item">
+  <div class="date"> {{ partial "date.html" . }} </div>
 
   <a class="title" href="{{ .Params.ExternalLink | default .RelPermalink }}">{{ .Title }}</a>
+
+  <div class="categories">
+  {{ $invalidCategories := complement (slice "life" "technical") .Page.Params.Categories }}
+  {{ if (ne (len $invalidCategories) 0) }}
+  {{ errorf "Page '%s' has invalid categories: '%s'\n" .Title $invalidCategories }}
+  {{- end }}
+
+  {{ range $key, $category := .Page.Params.Categories }}
+  <a class="category-{{ $category }}" href="{{ ( printf "categories/%s/" ( . | urlize ) ) | relLangURL }}">{{ . }}</a>
+  {{ end }}
+  </div>
 </li>

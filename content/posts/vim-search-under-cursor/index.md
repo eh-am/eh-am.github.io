@@ -2,7 +2,8 @@
 date = "2021-06-20"
 title = "search under cursor in vim"
 slug = "search-under-cursor-vim"
-categories = ["blog", "vim", "tech"]
+categories = ["technical"]
+tags = ["vim"]
 +++
 
 

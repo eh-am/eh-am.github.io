@@ -2,7 +2,8 @@
 date = "2022-01-09"
 title = "Setting up evdi after updating kernel to 5.15.12"
 slug = "setting-up-evdi-after-updating-kernel-to-5-15-12"
-categories = ["blog", "technical", "linux"]
+tags = ["linux"]
+categories = ["technical"]
 +++
 
 # intro

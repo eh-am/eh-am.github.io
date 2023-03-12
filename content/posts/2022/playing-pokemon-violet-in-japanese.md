@@ -1,7 +1,8 @@
 +++
 date = "2022-11-27"
 title = "playing pokemon violet in japanese cheatsheet"
-categories = ["blog", "fun", "pokemon", "japanese"]
+categories = ["life"]
+tags = ["pokemon", "japanese"]
 +++
 I've been playing Pokemon Violet in japanese. It's definitely challenging to both my japanese skills and my patience. I frequently skip text messages, making me miss some important info. On the other hand, it makes me feel like a child again, learning new things one at a time.
 

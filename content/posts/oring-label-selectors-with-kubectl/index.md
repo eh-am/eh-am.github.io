@@ -2,7 +2,8 @@
 date = "2021-04-05"
 title = "ORing label selectors with kubectl"
 slug = "oring-label-selectors-with-kubectl"
-categories = ["blog", "technical", "kubernetes"]
+categories = ["technical"]
+tags = ["kubernetes"]
 +++
 
 Let's say you want, using the `kubectl`, to get all `pods` with label `tier=backend` **OR** `tier=frontend`.

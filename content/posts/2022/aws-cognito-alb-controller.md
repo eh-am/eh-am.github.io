@@ -2,7 +2,8 @@
 +++
 date = "2022-05-05"
 title = "ALB Controller with AWS Cognito and Google Oauth"
-categories = ["blog", "kubernetes", "aws"]
+tags = ["aws", "kubernetes"]
+categories = ["technical"]
 +++
 
 At $WORK we needed to expose some apps that don't have a login flow (eg alertmanager, prometheus), these are running in kubernetes.

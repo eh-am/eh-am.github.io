@@ -1,7 +1,8 @@
 +++
 date = "2022-12-22"
 title = "open tmux in a certain directory"
-categories = ["blog", "technical", "tmux"]
+categories = ["technical"]
+tags = ["tmux"]
 +++
 
 When I start working on a project, I start tmux and then `cd` into its directory.

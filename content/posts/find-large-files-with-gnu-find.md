@@ -2,7 +2,8 @@
 date = "2021-11-21"
 title = "Find large files with GNU find"
 slug = "find-large-files-with-gnu-find"
-categories = ["blog", "shell", "technical"]
+categories = ["technical"]
+tags = ["shell", "find"]
 +++
 
 I edit my [podcast](www.triceratops.show) using Audacity, which creates big (>1GB) project files (.aup3).

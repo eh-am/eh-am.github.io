@@ -1,7 +1,7 @@
 +++
 date = "2022-11-19"
 title = "The Fugitive (1993)"
-categories = ["blog", "random", "movie"]
+categories = ["life"]
 +++
 
 ![The fugitive](https://m.media-amazon.com/images/M/MV5BYTEzNWJmZDctNzcxMS00NGVhLTllYzAtZDQ3ZDE2MzUwYWNiXkEyXkFqcGdeQXVyMjg0MzA5NQ@@._V1_.jpg)

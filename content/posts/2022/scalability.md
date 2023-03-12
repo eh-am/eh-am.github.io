@@ -1,7 +1,7 @@
 +++ 
 date = 2022-12-31T15:26:17Z
 title = "Scalability"
-categories = ["blog", "technical"]
+categories = ["technical"]
 +++
 
 We often talk how "this don't scale", but what does scalability mean anyway?

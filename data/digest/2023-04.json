@@ -1,0 +1,133 @@
+{
+ "year": "2023",
+ "week": "4",
+ "sortKey": "2023-04",
+ "items": [
+  {
+   "item_id": "3792367097",
+   "given_url": "https://poligrafo.sapo.pt/fact-check/imagem-de-tendas-que-servem-de-abrigo-a-dezenas-de-pessoas-junto-a-igreja-em-lisboa-e-real",
+   "given_title": "Imagem de tendas que servem de abrigo a dezenas de pessoas junto a igreja e",
+   "resolved_title": "Imagem de tendas que servem de abrigo a dezenas de pessoas junto a igreja em Lisboa é real?",
+   "resolved_url": "https://poligrafo.sapo.pt/fact-check/imagem-de-tendas-que-servem-de-abrigo-a-dezenas-de-pessoas-junto-a-igreja-em-lisboa-e-real",
+   "time_updated": "2023-01-24T12:11:33Z",
+   "time_added": "2023-01-24T12:11:33Z"
+  },
+  {
+   "item_id": "2804542360",
+   "given_url": "https://github.com/KilledByAPixel/JSONCrush",
+   "given_title": "GitHub - KilledByAPixel/JSONCrush: Compress JSON into URL friendly strings",
+   "resolved_title": "JSONCrush - Compress JSON into URL friendly strings",
+   "resolved_url": "https://github.com/KilledByAPixel/JSONCrush",
+   "time_updated": "2023-01-23T18:56:58Z",
+   "time_added": "2023-01-23T10:25:11Z"
+  },
+  {
+   "item_id": "3793451286",
+   "given_url": "https://mobile.twitter.com/SuperPodSaga/status/1614724222219354112",
+   "given_title": "Aaron \u0026 Tommy: Super Pod Saga ? no Twitter: \"What is the most useless piece",
+   "resolved_title": "Aaron \u0026 Tommy: Super Pod Saga 🎉",
+   "resolved_url": "https://mobile.twitter.com/SuperPodSaga/status/1614724222219354112",
+   "time_updated": "2023-01-24T21:00:09Z",
+   "time_added": "2023-01-24T21:00:08Z"
+  },
+  {
+   "item_id": "2608439916",
+   "given_url": "https://mediamythalert.com/2011/06/14/too-early-to-say-zhou-was-speaking-about-1968-not-1789/",
+   "given_title": "‘Too early to say’: Zhou was speaking about 1968, not 1789 | Media Myth Ale",
+   "resolved_title": "‘Too early to say’: Zhou was speaking about 1968, not 1789",
+   "resolved_url": "https://mediamythalert.com/2011/06/14/too-early-to-say-zhou-was-speaking-about-1968-not-1789/",
+   "time_updated": "2023-01-23T23:08:02Z",
+   "time_added": "2023-01-23T23:08:02Z"
+  },
+  {
+   "item_id": "3796617689",
+   "given_url": "https://twitter.com/TechEmails/status/1619818349525086208",
+   "given_title": "(1) Internal Tech Emails no Twitter: \"Mark Zuckerberg: \"VR / AR strategy\" J",
+   "resolved_title": "Internal Tech Emails",
+   "resolved_url": "https://twitter.com/TechEmails/status/1619818349525086208",
+   "time_updated": "2023-01-29T22:41:33Z",
+   "time_added": "2023-01-29T22:41:33Z"
+  },
+  {
+   "item_id": "2105913966",
+   "given_url": "https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#Replication_crisis",
+   "given_title": "Thinking, Fast and Slow - Wikipedia",
+   "resolved_title": "Thinking, Fast and Slow",
+   "resolved_url": "https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow",
+   "time_updated": "2023-01-29T13:41:15Z",
+   "time_added": "2023-01-29T13:41:15Z"
+  },
+  {
+   "item_id": "3794688306",
+   "given_url": "https://www.latimes.com/archives/la-xpm-1996-03-16-me-47523-story.html",
+   "given_title": "Learning Facts Is a Waste - Los Angeles Times",
+   "resolved_title": "Learning Facts Is a Waste",
+   "resolved_url": "https://www.latimes.com/archives/la-xpm-1996-03-16-me-47523-story.html",
+   "time_updated": "2023-01-26T17:31:16Z",
+   "time_added": "2023-01-26T17:31:13Z"
+  },
+  {
+   "item_id": "3697242525",
+   "given_url": "https://bitfieldconsulting.com/golang/test-scripts",
+   "given_title": "Test scripts in Go — Bitfield Consulting",
+   "resolved_title": "Test scripts in Go — Bitfield Consulting",
+   "resolved_url": "https://bitfieldconsulting.com/golang/test-scripts",
+   "time_updated": "2023-01-23T15:15:00Z",
+   "time_added": "2023-01-23T15:15:00Z"
+  },
+  {
+   "item_id": "1588432",
+   "given_url": "https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox",
+   "given_title": "Banach–Tarski paradox - Wikipedia",
+   "resolved_title": "Banach–Tarski paradox",
+   "resolved_url": "https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox",
+   "time_updated": "2023-01-29T13:18:14Z",
+   "time_added": "2023-01-29T13:18:14Z"
+  },
+  {
+   "item_id": "2930084733",
+   "given_url": "https://jisho.hlorenzi.com/",
+   "given_title": "Lorenzi's Jisho",
+   "resolved_title": "Lorenzi's Jisho",
+   "resolved_url": "https://jisho.hlorenzi.com/",
+   "time_updated": "2023-01-23T18:56:58Z",
+   "time_added": "2023-01-23T18:56:57Z"
+  },
+  {
+   "item_id": "3762030784",
+   "given_url": "https://developer.chrome.com/blog/devtools-modern-web-debugging/#more-improvements-to-stack-traces",
+   "given_title": "Modern web debugging in Chrome DevTools - Chrome Developers",
+   "resolved_title": "Modern web debugging in Chrome DevTools",
+   "resolved_url": "https://developer.chrome.com/blog/devtools-modern-web-debugging/#linked-stack-traces",
+   "time_updated": "2023-01-23T20:07:48Z",
+   "time_added": "2023-01-23T20:07:48Z"
+  },
+  {
+   "item_id": "3796534513",
+   "given_url": "https://twitter.com/Comrade_Bullski/status/1619475984591503360",
+   "given_title": "(1) Comrade_Bullski no Twitter: \"Alright folks it's time for us to take a l",
+   "resolved_title": "Comrade_Bullski",
+   "resolved_url": "https://twitter.com/Comrade_Bullski/status/1619475984591503360",
+   "time_updated": "2023-01-29T19:01:36Z",
+   "time_added": "2023-01-29T19:01:34Z"
+  },
+  {
+   "item_id": "1189180740",
+   "given_url": "https://blog.thecodewhisperer.com/permalink/beyond-mock-objects",
+   "given_title": "Beyond Mock Objects - The Code Whisperer",
+   "resolved_title": "Beyond Mock Objects",
+   "resolved_url": "https://blog.thecodewhisperer.com/permalink/beyond-mock-objects",
+   "time_updated": "2023-01-29T13:08:25Z",
+   "time_added": "2023-01-29T13:08:25Z"
+  },
+  {
+   "item_id": "3792691279",
+   "given_url": "https://store.asmustoys.com/products/8-inch-kiryu-kazuma",
+   "given_title": "8 inch KIRYU KAZUMA – Asmus Collectibles",
+   "resolved_title": "8 inch KIRYU KAZUMA",
+   "resolved_url": "https://store.asmustoys.com/products/8-inch-kiryu-kazuma",
+   "time_updated": "2023-01-23T18:56:59Z",
+   "time_added": "2023-01-23T18:38:50Z"
+  }
+ ]
+}

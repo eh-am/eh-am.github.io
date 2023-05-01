@@ -1,0 +1,367 @@
+{
+ "year": "2023",
+ "week": "1",
+ "sortKey": "2023-01",
+ "items": [
+  {
+   "item_id": "88814072",
+   "given_url": "https://en.wikipedia.org/wiki/China_brain",
+   "given_title": "China brain - Wikipedia",
+   "resolved_title": "China brain",
+   "resolved_url": "https://en.wikipedia.org/wiki/China_brain",
+   "time_updated": "2023-01-07T22:14:20Z",
+   "time_added": "2023-01-07T22:14:20Z"
+  },
+  {
+   "item_id": "3779164116",
+   "given_url": "https://archive.org/details/BroughtToLightShadowplayTheSecretTeam/mode/1up?view=theater",
+   "given_title": "Brought To Light: Shadowplay - The Secret Team : Alan Moore and Bill Sienki",
+   "resolved_title": "Brought To Light: Shadowplay - The Secret Team",
+   "resolved_url": "https://archive.org/details/BroughtToLightShadowplayTheSecretTeam/mode/1up?view=theater",
+   "time_updated": "2023-01-03T18:18:12Z",
+   "time_added": "2023-01-03T18:18:08Z"
+  },
+  {
+   "item_id": "3779945731",
+   "given_url": "https://neugierig.org/software/blog/2023/01/browser-crashes.html",
+   "given_title": "Tech Notes: Two surprises in browser crashes",
+   "resolved_title": "Two surprises in browser crashes",
+   "resolved_url": "https://neugierig.org/software/blog/2023/01/browser-crashes.html",
+   "time_updated": "2023-01-05T10:07:40Z",
+   "time_added": "2023-01-05T10:07:40Z"
+  },
+  {
+   "item_id": "3777635296",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Wingdings",
+   "given_title": "Wingdings – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Wingdings",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Wingdings",
+   "time_updated": "2023-01-03T14:54:33Z",
+   "time_added": "2023-01-01T12:29:58Z"
+  },
+  {
+   "item_id": "3755009255",
+   "given_url": "https://about.gitlab.com/blog/2022/11/28/how-we-diagnosed-and-resolved-redis-latency-spikes/",
+   "given_title": "How we diagnosed and resolved Redis latency spikes with BPF and other tools",
+   "resolved_title": "How we diagnosed and resolved Redis latency spikes with BPF and other tools",
+   "resolved_url": "https://about.gitlab.com/blog/2022/11/28/how-we-diagnosed-and-resolved-redis-latency-spikes/",
+   "time_updated": "2023-01-04T12:57:19Z",
+   "time_added": "2023-01-04T12:57:19Z"
+  },
+  {
+   "item_id": "3778916229",
+   "given_url": "https://community.wanikani.com/t/reorder-ultimate-23-2022/59834",
+   "given_title": "Reorder Ultimate 2.3 (2022) - WaniKani / API And Third-Party Apps - WaniKan",
+   "resolved_title": "Reorder Ultimate 2.3 (2022)",
+   "resolved_url": "https://community.wanikani.com/t/reorder-ultimate-23-2022/59834",
+   "time_updated": "2023-01-03T10:56:05Z",
+   "time_added": "2023-01-03T10:56:04Z"
+  },
+  {
+   "item_id": "12440574",
+   "given_url": "https://en.m.wikipedia.org/wiki/Hypnagogia",
+   "given_title": "Hypnagogia - Wikipedia",
+   "resolved_title": "Hypnagogia",
+   "resolved_url": "https://en.wikipedia.org/wiki/Hypnagogia",
+   "time_updated": "2023-01-07T09:30:52Z",
+   "time_added": "2023-01-07T09:30:51Z"
+  },
+  {
+   "item_id": "3777967485",
+   "given_url": "https://mobile.twitter.com/nntaleb/status/1609576801168228352?t=Nu91JOIxyFLn684vyYz3aQ\u0026s=19",
+   "given_title": "Nassim Nicholas Taleb no Twitter: \"If you don't get why, between 2019 and 2",
+   "resolved_title": "Nassim Nicholas Taleb",
+   "resolved_url": "https://mobile.twitter.com/nntaleb/status/1609576801168228352",
+   "time_updated": "2023-01-03T14:54:33Z",
+   "time_added": "2023-01-01T17:33:20Z"
+  },
+  {
+   "item_id": "3781023250",
+   "given_url": "https://m.youtube.com/watch?v=FF6Am0N6eq4\u0026t=840s\u0026ab_channel=Zup",
+   "given_title": "Implementando Mensageria com PostgreSQL com Rafael Ponte | ? Zup Tech Hour⌚",
+   "resolved_title": "Implementando Mensageria com PostgreSQL com Rafael Ponte | 🚀 Zup Tech Hour⌚",
+   "resolved_url": "http://www.youtube.com/watch?v=FF6Am0N6eq4",
+   "time_updated": "2023-01-06T08:03:25Z",
+   "time_added": "2023-01-03T20:58:56Z"
+  },
+  {
+   "item_id": "3781023253",
+   "given_url": "https://mobile.twitter.com/B1N4T/status/1610011833544450049",
+   "given_title": "Bibi no Twitter: \"Minha família trabalha há uns dois anos com vendas no mer",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://mobile.twitter.com/b1n4t/status/1610011833544450049",
+   "time_updated": "2023-01-06T08:03:25Z",
+   "time_added": "2023-01-04T12:48:17Z"
+  },
+  {
+   "item_id": "3777936051",
+   "given_url": "https://twitter.com/jamesdleech/status/1609605873344864257",
+   "given_title": "James no Twitter: \"Alan Moore and Bill Sienkiewicz’s out-of-print book abou",
+   "resolved_title": "James",
+   "resolved_url": "https://twitter.com/jamesdleech/status/1609605873344864257",
+   "time_updated": "2023-01-03T15:23:17Z",
+   "time_added": "2023-01-03T15:23:17Z"
+  },
+  {
+   "item_id": "3776432017",
+   "given_url": "https://mobile.twitter.com/simas_luiz/status/1608759146299686913",
+   "given_title": "LUIZ ANTONIO SIMAS no Twitter: \"O ENIGMA DO 1000 Uma das histórias mais cur",
+   "resolved_title": "LUIZ ANTONIO SIMAS",
+   "resolved_url": "https://mobile.twitter.com/simas_luiz/status/1608759146299686913",
+   "time_updated": "2023-01-03T14:54:33Z",
+   "time_added": "2022-12-30T11:05:42Z"
+  },
+  {
+   "item_id": "3779056976",
+   "given_url": "https://www.youtube.com/watch?v=P4eA5vCx_B4\u0026t=1s",
+   "given_title": "Brought to Light - YouTube",
+   "resolved_title": "Brought to Light",
+   "resolved_url": "https://www.youtube.com/watch?v=P4eA5vCx_B4\u0026t=1s",
+   "time_updated": "2023-01-03T15:10:42Z",
+   "time_added": "2023-01-03T15:10:42Z"
+  },
+  {
+   "item_id": "3216338680",
+   "given_url": "https://sudhir.io/the-big-little-guide-to-message-queues",
+   "given_title": "",
+   "resolved_title": "The Big Little Guide to Message Queues",
+   "resolved_url": "https://sudhir.io/the-big-little-guide-to-message-queues",
+   "time_updated": "2023-01-02T22:49:44Z",
+   "time_added": "2023-01-02T22:49:44Z"
+  },
+  {
+   "item_id": "3776960774",
+   "given_url": "https://sailboatui.com/",
+   "given_title": "Sailboat UI - Modern UI component library for Tailwind CSS",
+   "resolved_title": "",
+   "resolved_url": "https://sailboatui.com/",
+   "time_updated": "2023-01-06T08:03:23Z",
+   "time_added": "2023-01-05T10:19:25Z"
+  },
+  {
+   "item_id": "3191895507",
+   "given_url": "https://clig.dev/#subcommands",
+   "given_title": "Command Line Interface Guidelines",
+   "resolved_title": "Command Line Interface Guidelines",
+   "resolved_url": "https://clig.dev/#subcommands",
+   "time_updated": "2023-01-03T14:54:33Z",
+   "time_added": "2022-12-31T13:28:21Z"
+  },
+  {
+   "item_id": "3776764426",
+   "given_url": "https://m.youtube.com/watch?v=5V5t1JfxzRM\u0026feature=youtu.be",
+   "given_title": "Humidade - YouTube",
+   "resolved_title": "Humidade",
+   "resolved_url": "http://www.youtube.com/watch?v=5V5t1JfxzRM",
+   "time_updated": "2023-01-03T14:54:33Z",
+   "time_added": "2022-12-31T00:35:38Z"
+  },
+  {
+   "item_id": "3770831062",
+   "given_url": "https://developer.chrome.com/articles/reporting-api/",
+   "given_title": "Monitor your web application with the Reporting API - Chrome Developers",
+   "resolved_title": "Monitor your web application with the Reporting API",
+   "resolved_url": "https://developer.chrome.com/articles/reporting-api/#report-status",
+   "time_updated": "2023-01-05T14:35:04Z",
+   "time_added": "2023-01-05T14:35:04Z"
+  },
+  {
+   "item_id": "3782135718",
+   "given_url": "https://m.youtube.com/watch?v=3FWVKu1gnWs\u0026feature=youtu.be",
+   "given_title": "The Music of Breath of the Wild | GMTK Extra - YouTube",
+   "resolved_title": "The Music of Breath of the Wild | GMTK Extra",
+   "resolved_url": "http://www.youtube.com/watch?v=3FWVKu1gnWs",
+   "time_updated": "2023-01-07T22:52:19Z",
+   "time_added": "2023-01-07T22:52:17Z"
+  },
+  {
+   "item_id": "3220753373",
+   "given_url": "https://sudhir.io/understanding-connections-pools",
+   "given_title": "",
+   "resolved_title": "Understanding Connections \u0026 Pools",
+   "resolved_url": "https://sudhir.io/understanding-connections-pools/",
+   "time_updated": "2023-01-03T23:19:35Z",
+   "time_added": "2023-01-03T23:19:35Z"
+  },
+  {
+   "item_id": "3782646022",
+   "given_url": "https://entretenimento.uol.com.br/noticias/redacao/2020/06/11/lembra-o-show-do-radiohead-em-sp-de-2018-ele-foi-parar-inteiro-no-youtube.htm",
+   "given_title": "Show do Radiohead no YouTube: banda de Thom Yorke disponbiliza íntegra",
+   "resolved_title": "Lembra o show do Radiohead em SP de 2018? Ele foi parar inteiro no YouTube",
+   "resolved_url": "https://entretenimento.uol.com.br/noticias/redacao/2020/06/11/lembra-o-show-do-radiohead-em-sp-de-2018-ele-foi-parar-inteiro-no-youtube.htm",
+   "time_updated": "2023-01-08T18:40:00Z",
+   "time_added": "2023-01-08T18:39:56Z"
+  },
+  {
+   "item_id": "3779047468",
+   "given_url": "https://twitter.com/t_NYC/status/1551201670570336257",
+   "given_title": "thomas ? IATSE STRIKE! no Twitter: \"I worked on all three seasons of Netfli",
+   "resolved_title": "thomas Jr. 🛠 IATSE STRIKE!",
+   "resolved_url": "https://twitter.com/t_nyc/status/1551201670570336257",
+   "time_updated": "2023-01-03T14:54:30Z",
+   "time_added": "2023-01-03T14:54:29Z"
+  },
+  {
+   "item_id": "3778596330",
+   "given_url": "https://old.reddit.com/r/RocketLeagueEsports/comments/z77p7e/game_breaking_hack_client_in_rocket_league/",
+   "given_title": "Game Breaking Hack Client in Rocket League (  Additional Context Behind Exp",
+   "resolved_title": "Game Breaking Hack Client in Rocket League (+ Additional Context Behind Exposing the Cheats)",
+   "resolved_url": "https://www.reddit.com/r/RocketLeagueEsports/comments/z77p7e/game_breaking_hack_client_in_rocket_league/",
+   "time_updated": "2023-01-02T23:01:13Z",
+   "time_added": "2023-01-02T23:01:07Z"
+  },
+  {
+   "item_id": "3780642003",
+   "given_url": "https://t.co/NaXAGVschA",
+   "given_title": "Anthony Hobday no Twitter: \"Someone sent me a question about imagery in web",
+   "resolved_title": "Anthony Hobday",
+   "resolved_url": "https://twitter.com/hobdaydesign/status/1611023577737723909/photo/1",
+   "time_updated": "2023-01-06T08:03:23Z",
+   "time_added": "2023-01-06T08:03:21Z"
+  },
+  {
+   "item_id": "2985884039",
+   "given_url": "https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/#setting-state-while-rendering",
+   "given_title": "Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior · Ma",
+   "resolved_title": "Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior",
+   "resolved_url": "https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/",
+   "time_updated": "2023-01-04T12:17:27Z",
+   "time_added": "2023-01-04T12:17:27Z"
+  },
+  {
+   "item_id": "515325268",
+   "given_url": "https://gamesdonequick.com/schedule",
+   "given_title": "Games Done Quick",
+   "resolved_title": "Games Done Quick",
+   "resolved_url": "https://gamesdonequick.com/schedule",
+   "time_updated": "2023-01-08T21:47:49Z",
+   "time_added": "2023-01-08T21:47:49Z"
+  },
+  {
+   "item_id": "1258631112",
+   "given_url": "https://rollingstone.uol.com.br/noticia/ramones-e-o-brasil-banda-deixou-uma-impressao-duradoura-nos-fas-do-pais/",
+   "given_title": "Ramones e o Brasil: banda deixou uma impressão duradoura nos fãs do país",
+   "resolved_title": "Ramones e o Brasil: banda deixou uma impressão duradoura nos fãs do país",
+   "resolved_url": "https://rollingstone.uol.com.br/noticia/ramones-e-o-brasil-banda-deixou-uma-impressao-duradoura-nos-fas-do-pais/",
+   "time_updated": "2023-01-08T16:20:04Z",
+   "time_added": "2023-01-08T16:20:03Z"
+  },
+  {
+   "item_id": "93220188",
+   "given_url": "https://en.m.wikipedia.org/wiki/Inner-platform_effect",
+   "given_title": "Inner-platform effect - Wikipedia",
+   "resolved_title": "Inner-platform effect",
+   "resolved_url": "https://en.wikipedia.org/wiki/Inner-platform_effect",
+   "time_updated": "2023-01-06T08:03:23Z",
+   "time_added": "2023-01-05T10:20:41Z"
+  },
+  {
+   "item_id": "3776432018",
+   "given_url": "https://m.youtube.com/watch?v=1taOri_LtVg",
+   "given_title": "3DS Games I Can't Live Without - YouTube",
+   "resolved_title": "3DS Games I Can't Live Without",
+   "resolved_url": "http://www.youtube.com/watch?v=1taOri_LtVg",
+   "time_updated": "2023-01-03T14:54:33Z",
+   "time_added": "2022-12-30T13:17:35Z"
+  },
+  {
+   "item_id": "3782167206",
+   "given_url": "https://m.youtube.com/watch?v=IdaM5UKZT1Q",
+   "given_title": "The Howard Stern Show - Joey and Marky Ramone Visit 1999 - YouTube",
+   "resolved_title": "The Howard Stern Show - Joey and Marky Ramone Visit 1999",
+   "resolved_url": "http://www.youtube.com/watch?v=IdaM5UKZT1Q",
+   "time_updated": "2023-01-08T00:11:29Z",
+   "time_added": "2023-01-08T00:11:28Z"
+  },
+  {
+   "item_id": "3762003153",
+   "given_url": "https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/",
+   "given_title": "New in Go 1.20: wrapping multiple errors - lzap",
+   "resolved_title": "New in Go 1.20: wrapping multiple errors",
+   "resolved_url": "https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/",
+   "time_updated": "2023-01-07T12:12:50Z",
+   "time_added": "2023-01-07T12:12:50Z"
+  },
+  {
+   "item_id": "3777967488",
+   "given_url": "https://m.youtube.com/watch?v=RyTlSAkoGJg",
+   "given_title": "The Biggest Cheater In Rocket League History - YouTube",
+   "resolved_title": "The Biggest Cheater In Rocket League History",
+   "resolved_url": "http://www.youtube.com/watch?v=RyTlSAkoGJg",
+   "time_updated": "2023-01-03T14:54:33Z",
+   "time_added": "2023-01-02T01:00:14Z"
+  },
+  {
+   "item_id": "3776181465",
+   "given_url": "https://www.arte.tv/en/videos/107194-056-A/re-sold-out-lisbon/",
+   "given_title": "Re: Sold-Out Lisbon - Gentrification in Portugal - Watch the full documenta",
+   "resolved_title": "Gentrification in Portugal",
+   "resolved_url": "https://www.arte.tv/en/videos/107194-056-A/re-sold-out-lisbon/",
+   "time_updated": "2023-01-03T14:54:33Z",
+   "time_added": "2023-01-01T11:23:11Z"
+  },
+  {
+   "item_id": "42147721",
+   "given_url": "https://en.m.wikipedia.org/wiki/Barbary_pirates",
+   "given_title": "Barbary pirates - Wikipedia",
+   "resolved_title": "Barbary pirates",
+   "resolved_url": "https://en.wikipedia.org/wiki/Barbary_pirates",
+   "time_updated": "2023-01-03T14:54:33Z",
+   "time_added": "2022-12-30T13:23:11Z"
+  },
+  {
+   "item_id": "3777967484",
+   "given_url": "https://mobile.twitter.com/StorySlug/status/1608848688046305280",
+   "given_title": "Sean Kelly no Twitter: \"The other day I saw a meme saying that in Home Alon",
+   "resolved_title": "Sean Kelly",
+   "resolved_url": "https://mobile.twitter.com/storyslug/status/1608848688046305280",
+   "time_updated": "2023-01-03T14:54:33Z",
+   "time_added": "2023-01-01T13:57:14Z"
+  },
+  {
+   "item_id": "3781023251",
+   "given_url": "https://mobile.twitter.com/raphafernandes/status/1610388460317167617?t=4BlY2Ws2rM7l7xf3VvyTjg\u0026s=19",
+   "given_title": "Raphael Fernandes no Twitter: \"Tenho um sonho que dificilmente vou realizar",
+   "resolved_title": "Raphael Fernandes",
+   "resolved_url": "https://mobile.twitter.com/raphafernandes/status/1610388460317167617",
+   "time_updated": "2023-01-06T08:03:24Z",
+   "time_added": "2023-01-03T23:33:33Z"
+  },
+  {
+   "item_id": "3771058640",
+   "given_url": "https://typoes.github.io/harry-potter-gen-z/",
+   "given_title": "Book Index: | harry-potter-gen-z",
+   "resolved_title": "harry-potter-gen-z",
+   "resolved_url": "https://typoes.github.io/harry-potter-gen-z/",
+   "time_updated": "2023-01-08T13:11:59Z",
+   "time_added": "2023-01-08T13:11:58Z"
+  },
+  {
+   "item_id": "3781182164",
+   "given_url": "https://pt.quora.com/Por-que-os-brasileiros-dizem-kkkk-quando-est%C3%A3o-rindo/answer/Melissa-Mel-Silva?ch=15\u0026oid=405537152\u0026share=5be53eaf\u0026srid=h8BBDM\u0026target_type=answer",
+   "given_title": "Resposta para Por que os brasileiros dizem \"kkkk\" quando estão rindo? por M",
+   "resolved_title": "Por que os brasileiros dizem \"kkkk\" quando estão rindo?",
+   "resolved_url": "https://pt.quora.com/Por-que-os-brasileiros-dizem-kkkk-quando-est%C3%A3o-rindo/answer/Melissa-Mel-Silva?ch=15\u0026oid=405537152\u0026share=5be53eaf\u0026srid=h8BBDM\u0026target_type=answer",
+   "time_updated": "2023-01-06T12:51:40Z",
+   "time_added": "2023-01-06T12:51:38Z"
+  },
+  {
+   "item_id": "633917607",
+   "given_url": "https://en.wikipedia.org/wiki/Kemari",
+   "given_title": "Kemari - Wikipedia",
+   "resolved_title": "Kemari",
+   "resolved_url": "https://en.wikipedia.org/wiki/Kemari",
+   "time_updated": "2023-01-06T16:29:21Z",
+   "time_added": "2023-01-06T16:29:21Z"
+  },
+  {
+   "item_id": "2147144107",
+   "given_url": "https://www.youtube.com/watch?v=4rbkp6xpTq4",
+   "given_title": "(16) Explore The Clash’s London Calling (in 5 Minutes) | Liner Notes - YouT",
+   "resolved_title": "Explore The Clash’s London Calling (in 5 Minutes) | Liner Notes",
+   "resolved_url": "https://www.youtube.com/watch?v=4rbkp6xpTq4",
+   "time_updated": "2023-01-02T19:14:20Z",
+   "time_added": "2023-01-02T19:14:20Z"
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "year": "2018",
+ "week": "35",
+ "sortKey": "2018-35",
+ "items": [
+  {
+   "item_id": "736034032",
+   "given_url": "https://vimeo.com/108441214",
+   "given_title": "Greg Young - The art of destroying software on Vimeo",
+   "resolved_title": "Greg Young - The art of destroying software",
+   "resolved_url": "https://vimeo.com/108441214",
+   "time_updated": "2018-08-29T00:14:11+01:00",
+   "time_added": "2018-08-29T00:14:11+01:00"
+  },
+  {
+   "item_id": "1050460324",
+   "given_url": "https://standardebooks.org/",
+   "given_title": "Standard Ebooks: Free and liberated ebooks, carefully produced for the true",
+   "resolved_title": "",
+   "resolved_url": "https://standardebooks.org/",
+   "time_updated": "2018-09-02T20:57:01+01:00",
+   "time_added": "2018-09-02T20:57:01+01:00"
+  },
+  {
+   "item_id": "1606410086",
+   "given_url": "https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/",
+   "given_title": "The Myers diff algorithm: part 1 – The If Works",
+   "resolved_title": "The Myers diff algorithm : part 1 – The If Works",
+   "resolved_url": "https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/",
+   "time_updated": "2018-08-29T23:46:50+01:00",
+   "time_added": "2018-08-29T23:46:50+01:00"
+  },
+  {
+   "item_id": "968233914",
+   "given_url": "http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/",
+   "given_title": "Elixir in times of microservices « Plataformatec Blog",
+   "resolved_title": "Elixir in times of microservices",
+   "resolved_url": "http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/",
+   "time_updated": "2018-08-29T02:45:12+01:00",
+   "time_added": "2018-08-29T02:45:12+01:00"
+  }
+ ]
+}

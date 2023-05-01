@@ -1,0 +1,34 @@
+{
+ "year": "2023",
+ "week": "18",
+ "sortKey": "2023-18",
+ "items": [
+  {
+   "item_id": "382282994",
+   "given_url": "https://en.wikipedia.org/wiki/RWBY",
+   "given_title": "RWBY - Wikipedia",
+   "resolved_title": "RWBY",
+   "resolved_url": "https://en.wikipedia.org/wiki/RWBY",
+   "time_updated": "2023-05-01T13:07:21+01:00",
+   "time_added": "2023-05-01T13:07:21+01:00"
+  },
+  {
+   "item_id": "3857146871",
+   "given_url": "https://twitter.com/RevivedOziach/status/1652764503694622720",
+   "given_title": "Oziach no Twitter: \"This is one of the most good-faith/benefit-of-the-doubt",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/RevivedOziach/status/1652764503694622720",
+   "time_updated": "2023-05-01T13:07:27+01:00",
+   "time_added": "2023-05-01T13:07:26+01:00"
+  },
+  {
+   "item_id": "3857147796",
+   "given_url": "https://www.joshwcomeau.com/blog/the-end-of-frontend-development/?from=newsletter\u0026ref=apisyouwonthate.com",
+   "given_title": "The End of Front-End Development",
+   "resolved_title": "The End of Front-End Development",
+   "resolved_url": "https://www.joshwcomeau.com/blog/the-end-of-frontend-development/",
+   "time_updated": "2023-05-01T13:11:37+01:00",
+   "time_added": "2023-05-01T13:11:37+01:00"
+  }
+ ]
+}

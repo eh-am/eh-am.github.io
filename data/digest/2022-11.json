@@ -1,0 +1,205 @@
+{
+ "year": "2022",
+ "week": "11",
+ "sortKey": "2022-11",
+ "items": [
+  {
+   "item_id": "3526269811",
+   "given_url": "https://joeldenning.com/?p=29",
+   "given_title": "Joel Denning",
+   "resolved_title": "My boundaries as an open source developer",
+   "resolved_url": "https://joeldenning.com/?p=29",
+   "time_updated": "2022-03-17T10:59:18Z",
+   "time_added": "2022-03-17T10:59:12Z"
+  },
+  {
+   "item_id": "3574287466",
+   "given_url": "https://mobile.twitter.com/benskuhn/status/1477072484092375040",
+   "given_title": "Ben (hiring 65/∞ teammates) on Twitter: \"Relatedly, the accountant who repl",
+   "resolved_title": "Ben (hiring 65/∞ teammates)",
+   "resolved_url": "https://mobile.twitter.com/benskuhn/status/1477072484092375040",
+   "time_updated": "2022-03-15T11:32:29Z",
+   "time_added": "2022-03-15T11:32:22Z"
+  },
+  {
+   "item_id": "212716268",
+   "given_url": "https://en.m.wikipedia.org/wiki/Thirty_pieces_of_silver",
+   "given_title": "Thirty pieces of silver - Wikipedia",
+   "resolved_title": "Thirty pieces of silver",
+   "resolved_url": "https://en.wikipedia.org/wiki/Thirty_pieces_of_silver",
+   "time_updated": "2022-03-20T16:13:27Z",
+   "time_added": "2022-03-20T16:13:24Z"
+  },
+  {
+   "item_id": "219956258",
+   "given_url": "https://ninedegreesbelow.com/photography/articles.html",
+   "given_title": "Articles and tutorials on Color management",
+   "resolved_title": "This page has links to all the Nine Degrees Below articles and tutorials on color management and image editing, arranged by topic.",
+   "resolved_url": "https://ninedegreesbelow.com/photography/articles.html",
+   "time_updated": "2022-03-20T17:52:10Z",
+   "time_added": "2022-03-20T17:52:09Z"
+  },
+  {
+   "item_id": "3576106118",
+   "given_url": "https://dynomight.net/lists/",
+   "given_title": "How I learned to stop worrying and structure all writing as a list",
+   "resolved_title": "How I learned to stop worrying and structure all writing as a list",
+   "resolved_url": "https://dynomight.net/lists/",
+   "time_updated": "2022-03-20T19:47:03Z",
+   "time_added": "2022-03-20T19:47:00Z"
+  },
+  {
+   "item_id": "3576070811",
+   "given_url": "https://aaronhertzmann.com/2022/03/17/photography-is-not-objective.html",
+   "given_title": "Photography is not Objective, Art is a Set of Choices | Aaron Hertzmann’s b",
+   "resolved_title": "Photography is not Objective, Art is a Set of Choices",
+   "resolved_url": "https://aaronhertzmann.com/2022/03/17/photography-is-not-objective.html",
+   "time_updated": "2022-03-20T17:53:06Z",
+   "time_added": "2022-03-20T17:53:05Z"
+  },
+  {
+   "item_id": "3189219336",
+   "given_url": "https://slack.engineering/scaling-datastores-at-slack-with-vitess/",
+   "given_title": "",
+   "resolved_title": "Scaling Datastores at Slack with Vitess",
+   "resolved_url": "https://slack.engineering/scaling-datastores-at-slack-with-vitess/",
+   "time_updated": "2022-03-15T00:31:54Z",
+   "time_added": "2022-03-15T00:31:54Z"
+  },
+  {
+   "item_id": "3276475641",
+   "given_url": "https://olhardigital.com.br/2021/03/09/seguranca/entre-amigos-4-apps-mensagens-seguros-funcionam-ate-sem-internet/",
+   "given_title": "Entre amigos: 4 apps de mensagens seguros e que funcionam até sem internet ",
+   "resolved_title": "Entre amigos: 4 apps de mensagens seguros e que funcionam até sem internet",
+   "resolved_url": "https://olhardigital.com.br/2021/03/09/seguranca/entre-amigos-4-apps-mensagens-seguros-funcionam-ate-sem-internet/",
+   "time_updated": "2022-03-20T19:48:14Z",
+   "time_added": "2022-03-20T19:48:12Z"
+  },
+  {
+   "item_id": "86951530",
+   "given_url": "https://en.m.wikipedia.org/wiki/John_Dee",
+   "given_title": "John Dee - Wikipedia",
+   "resolved_title": "John Dee",
+   "resolved_url": "https://en.wikipedia.org/wiki/John_Dee",
+   "time_updated": "2022-03-16T01:04:31Z",
+   "time_added": "2022-03-16T01:04:26Z"
+  },
+  {
+   "item_id": "3571444468",
+   "given_url": "https://www.redhat.com/sysadmin/podman-transfer-container-images-without-registry",
+   "given_title": "How Podman can transfer container images without a registry | Enable Sysadm",
+   "resolved_title": "How Podman can transfer container images without a registry",
+   "resolved_url": "https://www.redhat.com/sysadmin/podman-transfer-container-images-without-registry",
+   "time_updated": "2022-03-20T17:47:06Z",
+   "time_added": "2022-03-20T17:47:06Z"
+  },
+  {
+   "item_id": "3475459430",
+   "given_url": "https://shorez.de/linux-on-the-m-1-with-gpu-acceleration",
+   "given_title": "",
+   "resolved_title": "Linux on the M1, with GPU acceleration",
+   "resolved_url": "https://shorez.de/linux-on-the-m-1-with-gpu-acceleration",
+   "time_updated": "2022-03-16T02:14:44Z",
+   "time_added": "2022-03-16T02:14:38Z"
+  },
+  {
+   "item_id": "3995829",
+   "given_url": "https://www.animenewsnetwork.com/encyclopedia/lexicon.php?id=36",
+   "given_title": "-de gozaru - Anime News Network:W",
+   "resolved_title": "-de gozaru",
+   "resolved_url": "https://www.animenewsnetwork.com/encyclopedia/lexicon.php?id=36",
+   "time_updated": "2022-03-14T16:39:29Z",
+   "time_added": "2022-03-14T16:39:24Z"
+  },
+  {
+   "item_id": "3568897341",
+   "given_url": "https://twitter.com/sebastienlorber/status/1500872668727451651",
+   "given_title": "Sebastien Lorber ?? ? ⚛️ ? no Twitter: \"? Progressive enhancement   dark mo",
+   "resolved_title": "Sebastien Lorber 🇫🇷 🦖 ⚛️ 📨",
+   "resolved_url": "https://twitter.com/sebastienlorber/status/1500872668727451651",
+   "time_updated": "2022-03-20T19:16:12Z",
+   "time_added": "2022-03-20T19:16:12Z"
+  },
+  {
+   "item_id": "3572558656",
+   "given_url": "https://tylercipriani.com/blog/2022/03/12/code-review-procrastination-and-clarity/",
+   "given_title": "Code Review Decision Fatigue - Tyler Cipriani",
+   "resolved_title": "Code Review Decision Fatigue",
+   "resolved_url": "https://tylercipriani.com/blog/2022/03/12/code-review-procrastination-and-clarity/",
+   "time_updated": "2022-03-20T17:48:10Z",
+   "time_added": "2022-03-20T17:48:09Z"
+  },
+  {
+   "item_id": "3573688095",
+   "given_url": "https://mitchellh.com/writing/contributing-to-complex-projects",
+   "given_title": "Contributing to Complex Projects – Mitchell Hashimoto",
+   "resolved_title": "Contributing to Complex Projects",
+   "resolved_url": "https://mitchellh.com/writing/contributing-to-complex-projects",
+   "time_updated": "2022-03-20T17:43:33Z",
+   "time_added": "2022-03-20T17:43:33Z"
+  },
+  {
+   "item_id": "3449562641",
+   "given_url": "https://www.notion.so/blog/sharding-postgres-at-notion",
+   "given_title": "",
+   "resolved_title": "Herding elephants: Lessons learned from sharding Postgres at Notion",
+   "resolved_url": "https://www.notion.so/blog/sharding-postgres-at-notion",
+   "time_updated": "2022-03-15T00:32:03Z",
+   "time_added": "2022-03-15T00:32:02Z"
+  },
+  {
+   "item_id": "232377142",
+   "given_url": "https://ninedegreesbelow.com/photography/monitor-profile-calibrate-confuse.html",
+   "given_title": "Monitor profile, calibrate, system install",
+   "resolved_title": "Monitor profile, calibrate, system install",
+   "resolved_url": "https://ninedegreesbelow.com/photography/monitor-profile-calibrate-confuse.html",
+   "time_updated": "2022-03-20T17:52:22Z",
+   "time_added": "2022-03-20T17:52:22Z"
+  },
+  {
+   "item_id": "3570241452",
+   "given_url": "https://danluu.com/nothing-works/",
+   "given_title": "Why is it so hard to buy things that work well?",
+   "resolved_title": "Why is it so hard to buy things that work well?",
+   "resolved_url": "https://danluu.com/nothing-works/",
+   "time_updated": "2022-03-15T16:19:21Z",
+   "time_added": "2022-03-15T16:19:15Z"
+  },
+  {
+   "item_id": "3571046034",
+   "given_url": "https://aaronhertzmann.com/2022/03/10/photographic-tone.html",
+   "given_title": "Why Dark and Light is Complicated in Photographs | Aaron Hertzmann’s blog",
+   "resolved_title": "Why Dark and Light is Complicated in Photographs",
+   "resolved_url": "https://aaronhertzmann.com/2022/03/10/photographic-tone.html",
+   "time_updated": "2022-03-14T02:52:52Z",
+   "time_added": "2022-03-14T02:52:52Z"
+  },
+  {
+   "item_id": "3573690920",
+   "given_url": "https://twitter.com/alexxubyte/status/1503401413107347456/photo/1",
+   "given_title": "Alex Xu no Twitter: \"Popular interview question - what are the ??????????? ",
+   "resolved_title": "Alex Xu",
+   "resolved_url": "https://twitter.com/alexxubyte/status/1503401413107347456/photo/1",
+   "time_updated": "2022-03-20T17:50:24Z",
+   "time_added": "2022-03-20T17:50:24Z"
+  },
+  {
+   "item_id": "3575121411",
+   "given_url": "https://erikhoel.substack.com/p/why-we-stopped-making-einsteins?s=r",
+   "given_title": "",
+   "resolved_title": "Why we stopped making Einsteins",
+   "resolved_url": "https://erikhoel.substack.com/p/why-we-stopped-making-einsteins",
+   "time_updated": "2022-03-17T11:07:48Z",
+   "time_added": "2022-03-17T11:07:42Z"
+  },
+  {
+   "item_id": "3573705231",
+   "given_url": "https://www.reddit.com/r/OnePiece/comments/h8180g/de_gozaru/",
+   "given_title": "De gozaru???? : r/OnePiece",
+   "resolved_title": "De gozaru????",
+   "resolved_url": "https://www.reddit.com/r/OnePiece/comments/h8180g/de_gozaru/",
+   "time_updated": "2022-03-14T16:34:28Z",
+   "time_added": "2022-03-14T16:34:21Z"
+  }
+ ]
+}

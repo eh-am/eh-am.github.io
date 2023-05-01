@@ -1,0 +1,43 @@
+{
+ "year": "2016",
+ "week": "4",
+ "sortKey": "2016-04",
+ "items": [
+  {
+   "item_id": "618602786",
+   "given_url": "http://www.troyhunt.com/2014/05/the-cobra-effect-that-is-disabling.html",
+   "given_title": "",
+   "resolved_title": "The “Cobra Effect” that is disabling paste on password fields",
+   "resolved_url": "http://www.troyhunt.com/2014/05/the-cobra-effect-that-is-disabling.html",
+   "time_updated": "2016-01-29T04:51:14Z",
+   "time_added": "2016-01-29T04:51:14Z"
+  },
+  {
+   "item_id": "1170676935",
+   "given_url": "https://wdrl.info/archive/121",
+   "given_title": "",
+   "resolved_title": "WDRL 121 from 22.01.2016",
+   "resolved_url": "https://wdrl.info/archive/121",
+   "time_updated": "2016-01-28T22:57:47Z",
+   "time_added": "2016-01-28T22:57:47Z"
+  },
+  {
+   "item_id": "1028575236",
+   "given_url": "https://blog.barricade.io/cross-site-scripting-attacks-explained-visually/",
+   "given_title": "",
+   "resolved_title": "",
+   "resolved_url": "https://blog.barricade.io/cross-site-scripting-attacks-explained-visually/",
+   "time_updated": "2016-01-28T23:20:12Z",
+   "time_added": "2016-01-28T23:20:12Z"
+  },
+  {
+   "item_id": "1163449892",
+   "given_url": "http://blog.doismellburning.co.uk/cover-letters-always-send-one/",
+   "given_title": "",
+   "resolved_title": "Cover Letters: Always Send One",
+   "resolved_url": "https://blog.doismellburning.co.uk/cover-letters-always-send-one/",
+   "time_updated": "2016-01-29T02:03:17Z",
+   "time_added": "2016-01-29T00:10:11Z"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "year": "2021",
+ "week": "49",
+ "sortKey": "2021-49",
+ "items": [
+  {
+   "item_id": "2223580906",
+   "given_url": "https://ownyourbits.com/2018/06/13/transparently-running-binaries-from-any-architecture-in-linux-with-qemu-and-binfmt_misc/",
+   "given_title": "Transparently running binaries from any architecture in Linux with QEMU and",
+   "resolved_title": "Transparently running binaries from any architecture in Linux with QEMU and binfmt_misc – Own your bits",
+   "resolved_url": "https://ownyourbits.com/2018/06/13/transparently-running-binaries-from-any-architecture-in-linux-with-qemu-and-binfmt_misc/",
+   "time_updated": "2021-12-09T00:32:53Z",
+   "time_added": "2021-12-09T00:32:53Z"
+  },
+  {
+   "item_id": "3499973900",
+   "given_url": "https://www.livescience.com/little-known-sleep-stage-may-be-creative-sweet-spot",
+   "given_title": "Sleep technique used by Salvador Dalí really works | Live Science",
+   "resolved_title": "Sleep technique used by Salvador Dalí really works",
+   "resolved_url": "https://www.livescience.com/little-known-sleep-stage-may-be-creative-sweet-spot",
+   "time_updated": "2021-12-11T10:54:16Z",
+   "time_added": "2021-12-11T10:54:13Z"
+  },
+  {
+   "item_id": "84883859",
+   "given_url": "https://en.m.wikipedia.org/wiki/Sokushinbutsu",
+   "given_title": "Sokushinbutsu - Wikipedia",
+   "resolved_title": "Sokushinbutsu",
+   "resolved_url": "https://en.wikipedia.org/wiki/Sokushinbutsu",
+   "time_updated": "2021-12-09T22:47:28Z",
+   "time_added": "2021-12-09T22:47:26Z"
+  },
+  {
+   "item_id": "2204699731",
+   "given_url": "https://en.m.wikipedia.org/wiki/Infrasound#Infrasonic_17_Hz_tone_experiment",
+   "given_title": "Infrasound - Wikipedia",
+   "resolved_title": "Infrasound",
+   "resolved_url": "https://en.wikipedia.org/wiki/Infrasound",
+   "time_updated": "2021-12-09T22:52:54Z",
+   "time_added": "2021-12-09T22:52:53Z"
+  },
+  {
+   "item_id": "2564295340",
+   "given_url": "https://www.amazon.com/Convict-Conditioning-Weakness-Survival-Strength/dp/1942812159",
+   "given_title": "Amazon.com: Convict Conditioning: How to Bust Free of All Weakness--Using t",
+   "resolved_title": "",
+   "resolved_url": "https://www.amazon.com/Convict-Conditioning-Weakness-Survival-Strength/dp/1942812159",
+   "time_updated": "2021-12-09T23:36:07Z",
+   "time_added": "2021-12-09T23:36:05Z"
+  },
+  {
+   "item_id": "2881203066",
+   "given_url": "https://gitlab.com/esr/reposurgeon/-/blob/master/GoNotes.adoc",
+   "given_title": "GoNotes.adoc · master · Eric S. Raymond / reposurgeon · GitLab",
+   "resolved_title": "GoNotes.adoc · master · Eric S. Raymond / reposurgeon",
+   "resolved_url": "https://gitlab.com/esr/reposurgeon/-/blob/master/GoNotes.adoc",
+   "time_updated": "2021-12-10T20:18:35Z",
+   "time_added": "2021-12-10T20:18:33Z"
+  }
+ ]
+}

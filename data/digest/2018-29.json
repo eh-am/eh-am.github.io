@@ -1,0 +1,52 @@
+{
+ "year": "2018",
+ "week": "29",
+ "sortKey": "2018-29",
+ "items": [
+  {
+   "item_id": "2264987781",
+   "given_url": "https://www.diariodocentrodomundo.com.br/editora-abril-do-brilho-dos-anos-70-ao-esgoto-de-veja-por-luis-nassif/amp/?__twitter_impression=true",
+   "given_title": "",
+   "resolved_title": "Editora Abril, do brilho dos anos 70 ao esgoto de Veja. Por Luis Nassif",
+   "resolved_url": "https://www.diariodocentrodomundo.com.br/editora-abril-do-brilho-dos-anos-70-ao-esgoto-de-veja-por-luis-nassif/amp/",
+   "time_updated": "2018-07-21T02:04:49+01:00",
+   "time_added": "2018-07-21T02:04:43+01:00"
+  },
+  {
+   "item_id": "676197584",
+   "given_url": "https://en.wikipedia.org/wiki/Dog_meat_consumption_in_South_Korea",
+   "given_title": "Dog meat consumption in South Korea - Wikipedia",
+   "resolved_title": "Dog meat consumption in South Korea",
+   "resolved_url": "https://en.wikipedia.org/wiki/Dog_meat_consumption_in_South_Korea",
+   "time_updated": "2018-07-17T15:39:30+01:00",
+   "time_added": "2018-07-17T15:39:30+01:00"
+  },
+  {
+   "item_id": "2265578560",
+   "given_url": "https://www.bbc.com/portuguese/amp/internacional-44911345?__twitter_impression=true",
+   "given_title": "",
+   "resolved_title": "Quem é o índio isolado filmado pela Funai na Amazônia, último sobrevivente de sua tribo e 'o homem mais solitário do mundo'",
+   "resolved_url": "https://www.bbc.com/portuguese/internacional-44911345",
+   "time_updated": "2018-07-21T19:38:14+01:00",
+   "time_added": "2018-07-21T19:38:14+01:00"
+  },
+  {
+   "item_id": "2251790196",
+   "given_url": "https://blog.angularindepth.com/the-extensive-guide-to-creating-streams-in-rxjs-aaa02baaff9a",
+   "given_title": "The Extensive Guide to Creating Streams in RxJS – Angular In Depth",
+   "resolved_title": "",
+   "resolved_url": "https://blog.angularindepth.com/the-extensive-guide-to-creating-streams-in-rxjs-aaa02baaff9a",
+   "time_updated": "2018-07-17T22:41:22+01:00",
+   "time_added": "2018-07-17T22:41:21+01:00"
+  },
+  {
+   "item_id": "1168820736",
+   "given_url": "https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+   "given_title": "",
+   "resolved_title": "The Wrong Abstraction — Sandi Metz",
+   "resolved_url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+   "time_updated": "2018-07-20T23:40:07+01:00",
+   "time_added": "2018-07-20T23:40:06+01:00"
+  }
+ ]
+}

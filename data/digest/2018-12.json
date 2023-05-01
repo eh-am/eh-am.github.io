@@ -1,0 +1,160 @@
+{
+ "year": "2018",
+ "week": "12",
+ "sortKey": "2018-12",
+ "items": [
+  {
+   "item_id": "1722778113",
+   "given_url": "http://2ality.com/2017/04/flatmap.html",
+   "given_title": "Functional pattern: flatMap",
+   "resolved_title": "ES2019: Functional pattern – flatMap",
+   "resolved_url": "http://2ality.com/2017/04/flatmap.html",
+   "time_updated": "2018-03-24T17:48:46Z",
+   "time_added": "2018-03-24T17:48:43Z"
+  },
+  {
+   "item_id": "2064653935",
+   "given_url": "https://mesosphere.com/blog/java-container/",
+   "given_title": "Running Java in a Container - Mesosphere",
+   "resolved_title": "Running Java in a Container",
+   "resolved_url": "https://mesosphere.com/blog/java-container/",
+   "time_updated": "2018-03-21T13:55:30Z",
+   "time_added": "2018-03-21T13:55:30Z"
+  },
+  {
+   "item_id": "1309883976",
+   "given_url": "https://egghead.io/courses/introduction-to-reactive-programming",
+   "given_title": "Introduction to Reactive Programming from @andrestaltz on @eggheadio",
+   "resolved_title": "Introduction to Reactive Programming",
+   "resolved_url": "https://egghead.io/courses/introduction-to-reactive-programming",
+   "time_updated": "2018-03-23T23:05:17Z",
+   "time_added": "2018-03-23T23:05:17Z"
+  },
+  {
+   "item_id": "2113894109",
+   "given_url": "https://www.cartacapital.com.br/revista/994/boulos-sobe-a-rampa",
+   "given_title": "Boulos sobe a rampa — CartaCapital",
+   "resolved_title": "",
+   "resolved_url": "https://www.cartacapital.com.br/revista/994/boulos-sobe-a-rampa",
+   "time_updated": "2018-03-20T01:11:41Z",
+   "time_added": "2018-03-20T01:11:41Z"
+  },
+  {
+   "item_id": "2127277174",
+   "given_url": "https://veja.abril.com.br/politica/as-taticas-e-os-truques-do-mbl/",
+   "given_title": "As táticas e os truques do MBL | VEJA.com",
+   "resolved_title": "As táticas e os truques do MBL",
+   "resolved_url": "https://veja.abril.com.br/politica/as-taticas-e-os-truques-do-mbl/",
+   "time_updated": "2018-03-25T23:06:03+01:00",
+   "time_added": "2018-03-25T23:06:02+01:00"
+  },
+  {
+   "item_id": "2091759471",
+   "given_url": "https://sebastian-holstein.de/post/error-handling-angular-async-pipe/",
+   "given_title": "Error Handling with Angular`s async Pipe · Sebastian Holstein",
+   "resolved_title": "Error Handling with Angular`s async Pipe",
+   "resolved_url": "https://sebastian-holstein.de/post/error-handling-angular-async-pipe/",
+   "time_updated": "2018-03-21T23:42:30Z",
+   "time_added": "2018-03-21T23:42:30Z"
+  },
+  {
+   "item_id": "654429292",
+   "given_url": "https://gist.github.com/staltz/868e7e9bc2a7b8c1f754",
+   "given_title": "The introduction to Reactive Programming you've been missing",
+   "resolved_title": "The introduction to Reactive Programming you've been missing",
+   "resolved_url": "https://gist.github.com/staltz/868e7e9bc2a7b8c1f754",
+   "time_updated": "2018-03-23T23:05:50Z",
+   "time_added": "2018-03-23T23:05:50Z"
+  },
+  {
+   "item_id": "2128411130",
+   "given_url": "http://imgur.com/47C2ns2",
+   "given_title": "Imgur Post - Imgur",
+   "resolved_title": "Imgur",
+   "resolved_url": "https://imgur.com/47C2ns2",
+   "time_updated": "2018-03-25T23:07:34+01:00",
+   "time_added": "2018-03-25T23:07:31+01:00"
+  },
+  {
+   "item_id": "2127842235",
+   "given_url": "https://viajandoconchupetes.com/que-hacer-con-ninos-en-toronto/?utm_source=blogsterapp\u0026utm_medium=twitter",
+   "given_title": "",
+   "resolved_title": "¿Qué hacer con niños en Toronto?",
+   "resolved_url": "https://viajandoconchupetes.com/que-hacer-con-ninos-en-toronto/",
+   "time_updated": "2018-03-25T09:18:49+01:00",
+   "time_added": "2018-03-25T09:18:43+01:00"
+  },
+  {
+   "item_id": "1708566275",
+   "given_url": "https://cheesecakelabs.com/blog/reactivex-and-async-programming/",
+   "given_title": "My experience with ReactiveX and asynchronous programming | Cheesecake Labs",
+   "resolved_title": "My experience with ReactiveX and asynchronous programming",
+   "resolved_url": "https://cheesecakelabs.com/blog/reactivex-and-async-programming/",
+   "time_updated": "2018-03-23T23:04:58Z",
+   "time_added": "2018-03-23T23:04:58Z"
+  },
+  {
+   "item_id": "2052215619",
+   "given_url": "https://github.com/ngx-translate/core/issues/783",
+   "given_title": "Discussion: future of the library · Issue #783 · ngx-translate/core",
+   "resolved_title": "Discussion: future of the library #783",
+   "resolved_url": "https://github.com/ngx-translate/core/issues/783",
+   "time_updated": "2018-03-20T02:34:46Z",
+   "time_added": "2018-03-20T02:34:46Z"
+  },
+  {
+   "item_id": "2121950178",
+   "given_url": "http://www.kerrang.com/features/sixteen-post-rock-masterpieces-you-need-in-your-life/",
+   "given_title": "16 Post-Rock Masterpieces You Need In Your Life — Kerrang!",
+   "resolved_title": "16 Of The Greatest Post-Rock Albums",
+   "resolved_url": "https://www.kerrang.com/features/sixteen-post-rock-masterpieces-you-need-in-your-life/",
+   "time_updated": "2018-03-23T22:55:15Z",
+   "time_added": "2018-03-23T22:55:15Z"
+  },
+  {
+   "item_id": "1435697730",
+   "given_url": "https://egghead.io/courses/rxjs-subjects-and-multicasting-operators",
+   "given_title": "RxJS Subjects and Multicasting Operators from @andrestaltz on @eggheadio",
+   "resolved_title": "RxJS Subjects and Multicasting Operators",
+   "resolved_url": "https://egghead.io/courses/rxjs-subjects-and-multicasting-operators",
+   "time_updated": "2018-03-23T23:05:05Z",
+   "time_added": "2018-03-23T23:05:05Z"
+  },
+  {
+   "item_id": "2112294084",
+   "given_url": "http://feckingbahamas.com/100-great-math-rock-albums-youve-never-heard",
+   "given_title": "100 great math rock albums you’ve never heard: Part 1 – Fecking Bahamas",
+   "resolved_title": "100 great math rock albums you’ve never heard",
+   "resolved_url": "https://feckingbahamas.com/100-great-math-rock-albums-youve-never-heard",
+   "time_updated": "2018-03-19T01:04:33Z",
+   "time_added": "2018-03-19T01:04:31Z"
+  },
+  {
+   "item_id": "2124189864",
+   "given_url": "https://www.thenation.com/article/the-world-of-crime-and-punishment/",
+   "given_title": "The World of ‘Crime and Punishment’ | The Nation",
+   "resolved_title": "",
+   "resolved_url": "https://www.thenation.com/article/the-world-of-crime-and-punishment/",
+   "time_updated": "2018-03-24T22:38:53Z",
+   "time_added": "2018-03-24T22:38:51Z"
+  },
+  {
+   "item_id": "1728135312",
+   "given_url": "https://alligator.io/angular/async-pipe/",
+   "given_title": "Managing Subscriptions in Angular With the Async Pipe ← Alligator.io",
+   "resolved_title": "Managing Subscriptions in Angular With the Async Pipe",
+   "resolved_url": "https://alligator.io/angular/async-pipe/",
+   "time_updated": "2018-03-21T21:03:48Z",
+   "time_added": "2018-03-21T21:03:48Z"
+  },
+  {
+   "item_id": "2094699030",
+   "given_url": "https://www.technologyreview.com/s/610392/ethereums-smart-contracts-are-full-of-holes/",
+   "given_title": "Ethereum’s smart contracts are full of holes",
+   "resolved_title": "Ethereum’s smart contracts are full of holes",
+   "resolved_url": "https://www.technologyreview.com/s/610392/ethereums-smart-contracts-are-full-of-holes/",
+   "time_updated": "2018-03-21T16:32:36Z",
+   "time_added": "2018-03-21T16:32:37Z"
+  }
+ ]
+}

@@ -1,0 +1,421 @@
+{
+ "year": "2023",
+ "week": "3",
+ "sortKey": "2023-03",
+ "items": [
+  {
+   "item_id": "3791664455",
+   "given_url": "https://mobile.twitter.com/44/status/1616852806169952258",
+   "given_title": "@44@macaw.social no Twitter: \"Now that I'm officially separated from Twitte",
+   "resolved_title": "@44@macaw.social",
+   "resolved_url": "https://twitter.com/44/status/1616852806169952258",
+   "time_updated": "2023-01-22T05:07:32Z",
+   "time_added": "2023-01-22T05:07:30Z"
+  },
+  {
+   "item_id": "3743643488",
+   "given_url": "https://www.mydistributed.systems/2022/10/dynamodb-ten-years-later.html",
+   "given_title": "DynamoDB, Ten Years Later",
+   "resolved_title": "DynamoDB, Ten Years Later",
+   "resolved_url": "https://www.mydistributed.systems/2022/10/dynamodb-ten-years-later.html",
+   "time_updated": "2023-01-22T17:33:15Z",
+   "time_added": "2023-01-22T17:33:15Z"
+  },
+  {
+   "item_id": "3435280475",
+   "given_url": "https://www.destructoid.com/celebrating-20-years-of-suikoden-ii-the-best-game-ever-made/",
+   "given_title": "Celebrating 20 years of Suikoden II, the best game ever made – Destructoid",
+   "resolved_title": "Celebrating 20 years of Suikoden II, the best game ever made",
+   "resolved_url": "https://www.destructoid.com/celebrating-20-years-of-suikoden-ii-the-best-game-ever-made/",
+   "time_updated": "2023-01-17T13:02:11Z",
+   "time_added": "2023-01-17T13:02:11Z"
+  },
+  {
+   "item_id": "104745372",
+   "given_url": "https://en.m.wikipedia.org/wiki/Confessions_of_an_Economic_Hit_Man",
+   "given_title": "Confessions of an Economic Hit Man - Wikipedia",
+   "resolved_title": "Confessions of an Economic Hit Man",
+   "resolved_url": "https://en.wikipedia.org/wiki/Confessions_of_an_Economic_Hit_Man",
+   "time_updated": "2023-01-19T00:04:05Z",
+   "time_added": "2023-01-19T00:04:04Z"
+  },
+  {
+   "item_id": "3750309266",
+   "given_url": "https://kentcdodds.com/blog/i-migrated-from-a-postgres-cluster-to-distributed-sqlite-with-litefs",
+   "given_title": "I Migrated from a Postgres Cluster to Distributed SQLite with LiteFS",
+   "resolved_title": "I Migrated from a Postgres Cluster to Distributed SQLite with LiteFS",
+   "resolved_url": "https://kentcdodds.com/blog/i-migrated-from-a-postgres-cluster-to-distributed-sqlite-with-litefs",
+   "time_updated": "2023-01-21T11:29:12Z",
+   "time_added": "2023-01-21T11:29:12Z"
+  },
+  {
+   "item_id": "3787294394",
+   "given_url": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-2/",
+   "given_title": "Speeding up the JavaScript ecosystem - module resolution",
+   "resolved_title": "Speeding up the JavaScript ecosystem - module resolution",
+   "resolved_url": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-2/",
+   "time_updated": "2023-01-16T18:02:25Z",
+   "time_added": "2023-01-16T18:02:25Z"
+  },
+  {
+   "item_id": "3383878712",
+   "given_url": "https://pt.m.wikipedia.org/wiki/The_Shock_Doctrine",
+   "given_title": "The Shock Doctrine – Wikipédia, a enciclopédia livre",
+   "resolved_title": "The Shock Doctrine",
+   "resolved_url": "https://pt.wikipedia.org/wiki/The_Shock_Doctrine",
+   "time_updated": "2023-01-19T11:23:13Z",
+   "time_added": "2023-01-19T11:23:12Z"
+  },
+  {
+   "item_id": "3788697702",
+   "given_url": "https://www.builder.io/blog/satisfies-operator",
+   "given_title": "Better Configuration in TypeScript with the `satisfies` Operator",
+   "resolved_title": "Better Configuration in TypeScript with the `satisfies` Operator",
+   "resolved_url": "https://www.builder.io/blog/satisfies-operator",
+   "time_updated": "2023-01-19T17:53:54Z",
+   "time_added": "2023-01-19T17:53:53Z"
+  },
+  {
+   "item_id": "484445241",
+   "given_url": "https://en.m.wikipedia.org/wiki/Frequency_illusion",
+   "given_title": "Frequency illusion - Wikipedia",
+   "resolved_title": "List of cognitive biases",
+   "resolved_url": "https://en.wikipedia.org/wiki/List_of_cognitive_biases",
+   "time_updated": "2023-01-22T16:42:50Z",
+   "time_added": "2023-01-22T16:42:49Z"
+  },
+  {
+   "item_id": "25611872",
+   "given_url": "https://en.wikipedia.org/wiki/Hindsight_bias",
+   "given_title": "Hindsight bias - Wikipedia",
+   "resolved_title": "Hindsight bias",
+   "resolved_url": "https://en.wikipedia.org/wiki/Hindsight_bias",
+   "time_updated": "2023-01-17T13:39:38Z",
+   "time_added": "2023-01-17T13:39:38Z"
+  },
+  {
+   "item_id": "3788125465",
+   "given_url": "https://t.co/WFqA0X27Dc",
+   "given_title": "Matt Pocock no Twitter: \"Use Zod to parse your environment variables once, ",
+   "resolved_title": "Matt Pocock",
+   "resolved_url": "https://twitter.com/mattpocockuk/status/1615110808219918352/photo/1",
+   "time_updated": "2023-01-16T23:07:02Z",
+   "time_added": "2023-01-16T23:07:00Z"
+  },
+  {
+   "item_id": "3788722678",
+   "given_url": "https://t.co/HuomrMgurA",
+   "given_title": "Matt Pocock no Twitter: \"All of TypeScript's utility types explained in 3 m",
+   "resolved_title": "Blazing Fast Tips: TypeScript Utility Types",
+   "resolved_url": "http://www.youtube.com/watch?v=EU0TB_8KHpY",
+   "time_updated": "2023-01-17T19:32:08Z",
+   "time_added": "2023-01-17T19:32:05Z"
+  },
+  {
+   "item_id": "12003581",
+   "given_url": "https://plato.stanford.edu/entries/truth/",
+   "given_title": "Truth (Stanford Encyclopedia of Philosophy)",
+   "resolved_title": "Truth",
+   "resolved_url": "https://plato.stanford.edu/entries/truth/",
+   "time_updated": "2023-01-21T18:42:46Z",
+   "time_added": "2023-01-21T18:42:45Z"
+  },
+  {
+   "item_id": "3617547489",
+   "given_url": "https://github.com/esbuild-kit/tsx",
+   "given_title": "GitHub - esbuild-kit/tsx: ⚡️ TypeScript Execute (tsx): Node.js enhanced wit",
+   "resolved_title": "tsx",
+   "resolved_url": "https://github.com/esbuild-kit/tsx",
+   "time_updated": "2023-01-16T23:08:28Z",
+   "time_added": "2023-01-16T23:08:27Z"
+  },
+  {
+   "item_id": "3787207532",
+   "given_url": "https://www.devever.net/~hl/stringtemplates",
+   "given_title": "",
+   "resolved_title": "",
+   "resolved_url": "https://www.devever.net/~hl/stringtemplates",
+   "time_updated": "2023-01-16T12:48:49Z",
+   "time_added": "2023-01-16T12:48:48Z"
+  },
+  {
+   "item_id": "3788462453",
+   "given_url": "https://www.bbc.com/news/entertainment-arts-64302944",
+   "given_title": "Nick Cave says ChatGPT's AI attempt to write Nick Cave lyrics 'sucks' - BBC",
+   "resolved_title": "Nick Cave criticises AI attempt to write Nick Cave lyrics: 'This song sucks'",
+   "resolved_url": "https://www.bbc.com/news/entertainment-arts-64302944",
+   "time_updated": "2023-01-18T10:31:52Z",
+   "time_added": "2023-01-18T10:31:51Z"
+  },
+  {
+   "item_id": "3791786523",
+   "given_url": "https://pitchfork.com/features/rising/dry-cleanings-everyday-surrealism/?utm_social-type=owned\u0026utm_brand=p4k\u0026utm_medium=social\u0026utm_source=twitter\u0026mbid=social_twitter",
+   "given_title": "Dry Cleaning’s Everyday Surrealism | Pitchfork",
+   "resolved_title": "Dry Cleaning’s Everyday Surrealism",
+   "resolved_url": "https://pitchfork.com/features/rising/dry-cleanings-everyday-surrealism/",
+   "time_updated": "2023-01-22T10:37:32Z",
+   "time_added": "2023-01-22T10:37:30Z"
+  },
+  {
+   "item_id": "3450319074",
+   "given_url": "https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/",
+   "given_title": "20 Things I've Learned in my 20 Years as a Software Engineer - Simple Threa",
+   "resolved_title": "20 Things I’ve Learned in my 20 Years as a Software Engineer",
+   "resolved_url": "https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/",
+   "time_updated": "2023-01-19T16:11:54Z",
+   "time_added": "2023-01-19T16:11:53Z"
+  },
+  {
+   "item_id": "3790795215",
+   "given_url": "https://twitter.com/ahmetb/status/1616493676716490752",
+   "given_title": "(1) ahmetb no Twitter: \"I noticed this very recently: Amazon Dynamo (2007 p",
+   "resolved_title": "ahmetb",
+   "resolved_url": "https://twitter.com/ahmetb/status/1616493676716490752",
+   "time_updated": "2023-01-20T18:24:06Z",
+   "time_added": "2023-01-20T18:24:04Z"
+  },
+  {
+   "item_id": "1186698354",
+   "given_url": "https://en.m.wikipedia.org/wiki/Naomi_Uemura",
+   "given_title": "Naomi Uemura - Wikipedia",
+   "resolved_title": "Naomi Uemura",
+   "resolved_url": "https://en.wikipedia.org/wiki/Naomi_Uemura",
+   "time_updated": "2023-01-16T00:18:25Z",
+   "time_added": "2023-01-16T00:18:24Z"
+  },
+  {
+   "item_id": "3789327337",
+   "given_url": "https://www.builder.io/blog/structured-clone",
+   "given_title": "Deep Cloning Objects in JavaScript, the Modern Way",
+   "resolved_title": "Deep Cloning Objects in JavaScript, the Modern Way",
+   "resolved_url": "https://www.builder.io/blog/structured-clone",
+   "time_updated": "2023-01-18T21:39:23Z",
+   "time_added": "2023-01-18T21:39:23Z"
+  },
+  {
+   "item_id": "188250041",
+   "given_url": "https://www.mail-tester.com/",
+   "given_title": "Newsletters spam test by mail-tester.com",
+   "resolved_title": "Test the Spammyness of your Emails",
+   "resolved_url": "https://www.mail-tester.com",
+   "time_updated": "2023-01-19T17:54:17Z",
+   "time_added": "2023-01-19T17:54:17Z"
+  },
+  {
+   "item_id": "1616184318",
+   "given_url": "https://www.foundry.com/",
+   "given_title": "Imagination Engineered | Foundry",
+   "resolved_title": "Imagination Engineered",
+   "resolved_url": "https://www.foundry.com",
+   "time_updated": "2023-01-16T21:46:09Z",
+   "time_added": "2023-01-16T21:46:08Z"
+  },
+  {
+   "item_id": "3786435481",
+   "given_url": "https://www1.folha.uol.com.br/poder/2023/01/comparar-ataques-em-brasilia-a-capitolio-oculta-dedo-de-militares-diz-antropologo.shtml",
+   "given_title": "Entrevista: Comparar DF a Capitólio oculta dedo de militar - 14/01/2023 - P",
+   "resolved_title": "Comparar ataques em Brasília a Capitólio oculta dedo de militares, diz antropólogo",
+   "resolved_url": "https://www1.folha.uol.com.br/poder/2023/01/comparar-ataques-em-brasilia-a-capitolio-oculta-dedo-de-militares-diz-antropologo.shtml",
+   "time_updated": "2023-01-17T10:52:40Z",
+   "time_added": "2023-01-17T10:52:40Z"
+  },
+  {
+   "item_id": "3789365048",
+   "given_url": "https://educatedguesswork.org/posts/transport-protocols-intro/",
+   "given_title": "Internet Transport Protocols, Part I: Reliable Transports",
+   "resolved_title": "Internet Transport Protocols, Part I: Reliable Transports",
+   "resolved_url": "https://educatedguesswork.org/posts/transport-protocols-intro/",
+   "time_updated": "2023-01-20T15:12:26Z",
+   "time_added": "2023-01-20T15:12:26Z"
+  },
+  {
+   "item_id": "3787477555",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Tarot_Franc%C3%AAs",
+   "given_title": "Tarot Francês – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Tarot Francês",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Tarot_Franc%C3%AAs",
+   "time_updated": "2023-01-16T00:53:20Z",
+   "time_added": "2023-01-16T00:53:19Z"
+  },
+  {
+   "item_id": "3787692856",
+   "given_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2023/01/16/o-que-significam-as-girias-usadas-pelo-pcc.htm",
+   "given_title": "O que significam as gírias usadas pelo PCC?",
+   "resolved_title": "Ganso, pote, valete e mais: o que significam as gírias usadas pelo PCC?",
+   "resolved_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2023/01/16/o-que-significam-as-girias-usadas-pelo-pcc.htm",
+   "time_updated": "2023-01-16T10:01:01Z",
+   "time_added": "2023-01-16T10:01:00Z"
+  },
+  {
+   "item_id": "3776916736",
+   "given_url": "https://blogs.gnome.org/chergert/2022/12/31/frame-pointers-and-other-practical-near-term-solutions/",
+   "given_title": "Frame pointers and other practical near-term solutions – Happenings in GNOM",
+   "resolved_title": "Frame pointers and other practical near-term solutions",
+   "resolved_url": "https://blogs.gnome.org/chergert/2022/12/31/frame-pointers-and-other-practical-near-term-solutions/",
+   "time_updated": "2023-01-18T15:54:11Z",
+   "time_added": "2023-01-18T15:54:11Z"
+  },
+  {
+   "item_id": "3789982174",
+   "given_url": "https://twitter.com/superlorna69/status/1615933857311719424/photo/1",
+   "given_title": "Amanda no Twitter: \"the craziest thing David Lynch has ever done https://t.",
+   "resolved_title": "superlorna69",
+   "resolved_url": "https://twitter.com/superlorna69/status/1615933857311719424/photo/1",
+   "time_updated": "2023-01-19T14:49:22Z",
+   "time_added": "2023-01-19T14:49:21Z"
+  },
+  {
+   "item_id": "3789576458",
+   "given_url": "https://t.co/eWjNZWauUY",
+   "given_title": "Dhiordan Lovestain no Twitter: \"Leite de pombo? Vem conhecer essa peculiar ",
+   "resolved_title": "Dhiordan Lovestain",
+   "resolved_url": "https://twitter.com/dhiordanlove/status/1615849495962570752/photo/1",
+   "time_updated": "2023-01-19T00:13:44Z",
+   "time_added": "2023-01-19T00:13:40Z"
+  },
+  {
+   "item_id": "3779136536",
+   "given_url": "https://mhlakhani.com/blog/2023/01/tech-job-market/",
+   "given_title": "Job Hunting in 2022",
+   "resolved_title": "Job Hunting in 2022",
+   "resolved_url": "https://mhlakhani.com/blog/2023/01/tech-job-market/",
+   "time_updated": "2023-01-20T23:51:57Z",
+   "time_added": "2023-01-20T23:51:56Z"
+  },
+  {
+   "item_id": "3681717066",
+   "given_url": "https://www.youtube.com/watch?v=TZhgvr2rbwE",
+   "given_title": "(3) Depression, I was wrong - YouTube",
+   "resolved_title": "Depression, I was wrong",
+   "resolved_url": "http://www.youtube.com/watch?v=TZhgvr2rbwE",
+   "time_updated": "2023-01-21T19:20:21Z",
+   "time_added": "2023-01-21T19:20:21Z"
+  },
+  {
+   "item_id": "2010181342",
+   "given_url": "https://m.letras.mus.br/quim-barreiros/392321/",
+   "given_title": "A Cabritinha - Quim Barreiros - LETRAS.MUS.BR",
+   "resolved_title": "Quim Barreiros",
+   "resolved_url": "https://m.letras.mus.br/quim-barreiros/392321/",
+   "time_updated": "2023-01-22T20:17:31Z",
+   "time_added": "2023-01-22T20:17:30Z"
+  },
+  {
+   "item_id": "1347745558",
+   "given_url": "https://m.youtube.com/watch?v=owI7DOeO_yg",
+   "given_title": "Mitchell and Webb - Kill The Poor - YouTube",
+   "resolved_title": "Mitchell and Webb - Kill The Poor",
+   "resolved_url": "https://www.youtube.com/watch?v=owI7DOeO_yg",
+   "time_updated": "2023-01-22T00:26:15Z",
+   "time_added": "2023-01-22T00:26:14Z"
+  },
+  {
+   "item_id": "3477537139",
+   "given_url": "https://containertoolbx.org/",
+   "given_title": "toolbx",
+   "resolved_title": "toolbx",
+   "resolved_url": "https://containertoolbx.org",
+   "time_updated": "2023-01-18T15:57:32Z",
+   "time_added": "2023-01-18T15:57:32Z"
+  },
+  {
+   "item_id": "3789273146",
+   "given_url": "https://lwn.net/SubscriberLink/919940/0df8e6f5ecfb284c/",
+   "given_title": "Fedora's tempest in a stack frame [LWN.net]",
+   "resolved_title": "Fedora's tempest in a stack frame",
+   "resolved_url": "https://lwn.net/SubscriberLink/919940/0df8e6f5ecfb284c/",
+   "time_updated": "2023-01-18T16:38:19Z",
+   "time_added": "2023-01-18T16:38:19Z"
+  },
+  {
+   "item_id": "3788512181",
+   "given_url": "https://www.npmjs.com/package/@karmaniverous/serify-deserify",
+   "given_title": "@karmaniverous/serify-deserify - npm",
+   "resolved_title": "@karmaniverous/serify-deserify",
+   "resolved_url": "https://www.npmjs.com/package/@karmaniverous/serify-deserify",
+   "time_updated": "2023-01-17T13:15:41Z",
+   "time_added": "2023-01-17T13:15:37Z"
+  },
+  {
+   "item_id": "2815893966",
+   "given_url": "https://en.wikipedia.org/wiki/Ch%C5%ABniby%C5%8D",
+   "given_title": "Chūnibyō - Wikipedia",
+   "resolved_title": "Chūnibyō",
+   "resolved_url": "https://en.wikipedia.org/wiki/Ch%C5%ABniby%C5%8D",
+   "time_updated": "2023-01-20T18:30:01Z",
+   "time_added": "2023-01-20T18:30:01Z"
+  },
+  {
+   "item_id": "3787769146",
+   "given_url": "https://twitter.com/adamwathan/status/1614811345941061634",
+   "given_title": "Adam Wathan no Twitter: \"I've never worked on a site where dark mode was as",
+   "resolved_title": "Adam Wathan",
+   "resolved_url": "https://twitter.com/adamwathan/status/1614811345941061634",
+   "time_updated": "2023-01-16T12:01:25Z",
+   "time_added": "2023-01-16T12:01:24Z"
+  },
+  {
+   "item_id": "3321057280",
+   "given_url": "https://www.swyx.io/create-luck/",
+   "given_title": "How to Create Luck",
+   "resolved_title": "",
+   "resolved_url": "https://www.swyx.io/create-luck/",
+   "time_updated": "2023-01-18T16:55:09Z",
+   "time_added": "2023-01-18T16:55:09Z"
+  },
+  {
+   "item_id": "3755855989",
+   "given_url": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem/",
+   "given_title": "Speeding up the JavaScript ecosystem - one library at a time",
+   "resolved_title": "Speeding up the JavaScript ecosystem - one library at a time",
+   "resolved_url": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem/",
+   "time_updated": "2023-01-16T18:00:12Z",
+   "time_added": "2023-01-16T18:00:12Z"
+  },
+  {
+   "item_id": "3788538058",
+   "given_url": "https://www.theguardian.com/tv-and-radio/2023/jan/17/the-makanai-cooking-for-the-maiko-house-netflix-the-joyful-japanese-food-and-friendship-drama-you-should-never-watch-hungry",
+   "given_title": "‘A modern-day fairytale’: the joyful Japanese food and friendship drama you",
+   "resolved_title": "‘A modern-day fairytale’: the joyful Japanese food and friendship drama you should never watch hungry",
+   "resolved_url": "https://www.theguardian.com/tv-and-radio/2023/jan/17/the-makanai-cooking-for-the-maiko-house-netflix-the-joyful-japanese-food-and-friendship-drama-you-should-never-watch-hungry",
+   "time_updated": "2023-01-18T22:58:57Z",
+   "time_added": "2023-01-18T22:58:56Z"
+  },
+  {
+   "item_id": "3616622671",
+   "given_url": "https://www.trueup.io/layoffs",
+   "given_title": "All Tech and Startup Layoffs - tracked by TrueUp",
+   "resolved_title": "TrueUp | CareerOS for people in tech",
+   "resolved_url": "https://www.trueup.io",
+   "time_updated": "2023-01-21T12:55:59Z",
+   "time_added": "2023-01-21T12:55:58Z"
+  },
+  {
+   "item_id": "3791492417",
+   "given_url": "https://ja.m.wiktionary.org/wiki/%E9%83%B7%E3%81%AB%E5%85%A5%E3%81%A3%E3%81%A6%E3%81%AF%E9%83%B7%E3%81%AB%E5%BE%93%E3%81%88",
+   "given_title": "郷に入っては郷に従え - ウィクショナリー日本語版",
+   "resolved_title": "郷に入っては郷に従え",
+   "resolved_url": "https://ja.wiktionary.org/wiki/%E9%83%B7%E3%81%AB%E5%85%A5%E3%81%A3%E3%81%A6%E3%81%AF%E9%83%B7%E3%81%AB%E5%BE%93%E3%81%88",
+   "time_updated": "2023-01-21T22:34:44Z",
+   "time_added": "2023-01-21T22:34:43Z"
+  },
+  {
+   "item_id": "3788707605",
+   "given_url": "https://elm-widgets.netlify.app/overview",
+   "given_title": "Overview - elm-widgets | Stateless \u0026 Tasteful",
+   "resolved_title": "uncover/elm-theme",
+   "resolved_url": "https://elm-widgets.netlify.app/overview",
+   "time_updated": "2023-01-17T19:02:08Z",
+   "time_added": "2023-01-17T19:02:07Z"
+  },
+  {
+   "item_id": "3791984069",
+   "given_url": "https://www.ft.com/content/5347d263-7f24-4966-8da4-79485d1287b4?accessToken=zwAAAYXZfvvakc9TR9JjfyRJZtONpHlIXRKHtA.MEQCIBk67kwxX3JUQNUHzsJYKE7pN0LG2B3ueS_KVLshrDkLAiADpJXmBDeLdShiAPewk3cLDtxLTI7Bxp8sw14s5NtE9Q\u0026sharetype=gift\u0026token=3ed2e4bc-8096-4291-b89a-9baf633c5216",
+   "given_title": "Brazil and Argentina to start preparations for a common currency | Financia",
+   "resolved_title": "Financial Times",
+   "resolved_url": "https://www.ft.com/content/5347d263-7f24-4966-8da4-79485d1287b4#myft:notification:daily-email:content",
+   "time_updated": "2023-01-22T17:38:40Z",
+   "time_added": "2023-01-22T17:38:39Z"
+  }
+ ]
+}

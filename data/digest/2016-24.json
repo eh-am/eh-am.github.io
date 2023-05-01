@@ -1,0 +1,16 @@
+{
+ "year": "2016",
+ "week": "24",
+ "sortKey": "2016-24",
+ "items": [
+  {
+   "item_id": "1102578998",
+   "given_url": "http://cordova.apache.org/docs/en/latest/guide/platforms/ios/index.html",
+   "given_title": "iOS Platform Guide - Apache Cordova",
+   "resolved_title": "iOS Platform Guide",
+   "resolved_url": "https://cordova.apache.org/docs/en/latest/guide/platforms/ios/",
+   "time_updated": "2016-06-17T15:01:13+01:00",
+   "time_added": "2016-06-17T15:01:15+01:00"
+  }
+ ]
+}

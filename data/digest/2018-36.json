@@ -1,0 +1,52 @@
+{
+ "year": "2018",
+ "week": "36",
+ "sortKey": "2018-36",
+ "items": [
+  {
+   "item_id": "2898752",
+   "given_url": "http://www.cookingforengineers.com/recipe/60/The-Classic-Tiramisu-original-recipe",
+   "given_title": "The Classic Tiramisu (original recipe?) - Test Recipes - Cooking For Engine",
+   "resolved_title": "The Classic Tiramisu (original recipe?)",
+   "resolved_url": "http://www.cookingforengineers.com/recipe/60/The-Classic-Tiramisu-original-recipe",
+   "time_updated": "2018-09-08T19:46:16+01:00",
+   "time_added": "2018-09-08T19:46:16+01:00"
+  },
+  {
+   "item_id": "1579257419",
+   "given_url": "http://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html",
+   "given_title": "What's Functional Programming All About?",
+   "resolved_title": "What's Functional Programming All About?",
+   "resolved_url": "http://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html",
+   "time_updated": "2018-09-08T19:44:46+01:00",
+   "time_added": "2018-09-08T19:44:46+01:00"
+  },
+  {
+   "item_id": "1985991681",
+   "given_url": "https://alligator.io/angular/bundle-size/",
+   "given_title": "Using webpack Bundle Analyzer or source-map-explorer to Analyze an Angular ",
+   "resolved_title": "Using webpack Bundle Analyzer or source-map-explorer to Analyze an Angular App’s Bundle Size",
+   "resolved_url": "https://alligator.io/angular/bundle-size/",
+   "time_updated": "2018-09-03T19:25:44+01:00",
+   "time_added": "2018-09-03T19:25:44+01:00"
+  },
+  {
+   "item_id": "2313226839",
+   "given_url": "https://www.taos.com/dns-resolution-a-primer-2/",
+   "given_title": "DNS Resolution: A Primer - Taos",
+   "resolved_title": "Solving What's Next in Cloud and DevOps.",
+   "resolved_url": "https://www.taos.com/dns-resolution-a-primer-2/",
+   "time_updated": "2018-09-05T13:34:07+01:00",
+   "time_added": "2018-09-05T13:34:06+01:00"
+  },
+  {
+   "item_id": "2040347757",
+   "given_url": "https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-1-setting-up-d88b35b64dcd",
+   "given_title": "A Complete Guide to Deploying Elixir \u0026 Phoenix Applications on Kubernetes —",
+   "resolved_title": "A Complete Guide to Deploying Elixir \u0026 Phoenix Applications on Kubernetes",
+   "resolved_url": "https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-1-setting-up-d88b35b64dcd",
+   "time_updated": "2018-09-09T00:40:20+01:00",
+   "time_added": "2018-09-09T00:40:20+01:00"
+  }
+ ]
+}

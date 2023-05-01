@@ -1,0 +1,151 @@
+{
+ "year": "2022",
+ "week": "1",
+ "sortKey": "2022-01",
+ "items": [
+  {
+   "item_id": "3519152642",
+   "given_url": "https://nickolinger.com/blog/2021-08-04-you-dont-need-that-cors-request/",
+   "given_title": "You don't need that CORS request - Nick Olinger",
+   "resolved_title": "You don't need that CORS request",
+   "resolved_url": "https://nickolinger.com//blog/2021-08-04-you-dont-need-that-cors-request",
+   "time_updated": "2022-01-04T11:14:22Z",
+   "time_added": "2022-01-04T11:14:18Z"
+  },
+  {
+   "item_id": "366701059",
+   "given_url": "http://www.nippontalk.com/en",
+   "given_title": "Nippon Talk - Japanese texts with furigana and English translation",
+   "resolved_title": "Japanese texts with furigana and English translation",
+   "resolved_url": "http://www.nippontalk.com/en/",
+   "time_updated": "2022-01-03T01:26:06Z",
+   "time_added": "2022-01-03T01:26:03Z"
+  },
+  {
+   "item_id": "1801837408",
+   "given_url": "https://jvns.ca/blog/2017/06/28/notes-on-bpf---ebpf/",
+   "given_title": "Notes on BPF \u0026 eBPF",
+   "resolved_title": "Notes on BPF \u0026 eBPF",
+   "resolved_url": "https://jvns.ca/blog/2017/06/28/notes-on-bpf---ebpf/",
+   "time_updated": "2022-01-03T01:12:07Z",
+   "time_added": "2022-01-03T01:12:04Z"
+  },
+  {
+   "item_id": "3520812548",
+   "given_url": "https://twitter.com/atcb/status/1478527411926880257",
+   "given_title": "(1) Andrew Branch no Twitter: \"Want a view of what the TypeScript compiler ",
+   "resolved_title": "Andrew Branch",
+   "resolved_url": "https://twitter.com/atcb/status/1478527411926880257",
+   "time_updated": "2022-01-06T16:35:40Z",
+   "time_added": "2022-01-06T16:35:40Z"
+  },
+  {
+   "item_id": "3522157479",
+   "given_url": "https://jmsbrdy.com/blog/leaving-spring/",
+   "given_title": "How to quit like a boss | Blog",
+   "resolved_title": "How to quit like a boss",
+   "resolved_url": "https://jmsbrdy.com/blog/leaving-spring/",
+   "time_updated": "2022-01-07T03:34:31Z",
+   "time_added": "2022-01-07T03:34:27Z"
+  },
+  {
+   "item_id": "1342746370",
+   "given_url": "https://dkcspeedruns.com/Main_Page",
+   "given_title": "DKC Speedruns",
+   "resolved_title": "Main Page",
+   "resolved_url": "https://dkcspeedruns.com/Main_Page",
+   "time_updated": "2022-01-09T21:36:04Z",
+   "time_added": "2022-01-09T21:36:00Z"
+  },
+  {
+   "item_id": "2880716199",
+   "given_url": "https://swatinem.de/blog/js-tooling/",
+   "given_title": "Improving your JS Tooling",
+   "resolved_title": "Improving your JS Tooling",
+   "resolved_url": "https://swatinem.de/blog/js-tooling/",
+   "time_updated": "2022-01-08T15:45:01Z",
+   "time_added": "2022-01-08T15:45:01Z"
+  },
+  {
+   "item_id": "234869115",
+   "given_url": "https://en.m.wikipedia.org/wiki/Tsukiji_fish_market",
+   "given_title": "Tsukiji fish market - Wikipedia",
+   "resolved_title": "Tsukiji fish market",
+   "resolved_url": "https://en.wikipedia.org/wiki/Tsukiji_fish_market",
+   "time_updated": "2022-01-04T02:02:29Z",
+   "time_added": "2022-01-04T02:02:26Z"
+  },
+  {
+   "item_id": "3521218597",
+   "given_url": "https://jvns.ca/blog/2022/01/05/why-might-you-run-your-own-dns-server-/",
+   "given_title": "Why might you run your own DNS server?",
+   "resolved_title": "Why might you run your own DNS server?",
+   "resolved_url": "https://jvns.ca/blog/2022/01/05/why-might-you-run-your-own-dns-server-/",
+   "time_updated": "2022-01-06T16:26:05Z",
+   "time_added": "2022-01-06T16:26:01Z"
+  },
+  {
+   "item_id": "3522765335",
+   "given_url": "https://news.ycombinator.com/item?id=29840556",
+   "given_title": "Look How Big Is My Team | Hacker News",
+   "resolved_title": "Look How Big Is My Startup Team",
+   "resolved_url": "https://news.ycombinator.com/item?id=29840556",
+   "time_updated": "2022-01-07T22:31:44Z",
+   "time_added": "2022-01-07T22:31:40Z"
+  },
+  {
+   "item_id": "3522956089",
+   "given_url": "https://moxie.org/2022/01/07/web3-first-impressions.html",
+   "given_title": "Moxie Marlinspike \u003e\u003e Blog \u003e\u003e My first impressions of web3",
+   "resolved_title": "My first impressions of web3",
+   "resolved_url": "https://moxie.org/2022/01/07/web3-first-impressions.html",
+   "time_updated": "2022-01-08T02:01:01Z",
+   "time_added": "2022-01-08T02:00:57Z"
+  },
+  {
+   "item_id": "3520651623",
+   "given_url": "https://youtu.be/DaUHU2I-haA",
+   "given_title": "Watch \"How Pokémon Red \u0026 Blue Were Made and Let The Player Use Weapons Init",
+   "resolved_title": "How Pokémon Red \u0026 Blue Were Made and Let The Player Use Weapons Initially",
+   "resolved_url": "https://youtu.be/DaUHU2I-haA",
+   "time_updated": "2022-01-05T01:06:05Z",
+   "time_added": "2022-01-05T01:06:01Z"
+  },
+  {
+   "item_id": "2567199545",
+   "given_url": "https://svelte.dev/blog/virtual-dom-is-pure-overhead",
+   "given_title": "Virtual DOM is pure overhead",
+   "resolved_title": "Virtual DOM is pure overhead",
+   "resolved_url": "https://svelte.dev/blog/virtual-dom-is-pure-overhead",
+   "time_updated": "2022-01-07T07:27:39Z",
+   "time_added": "2022-01-07T07:27:35Z"
+  },
+  {
+   "item_id": "1607316618",
+   "given_url": "https://m.imgur.com/a/nyphc",
+   "given_title": "Braun Oral-b Toothbrush Battery - Imgur",
+   "resolved_title": "",
+   "resolved_url": "http://imgur.com/gallery/nyphc",
+   "time_updated": "2022-01-07T01:37:41Z",
+   "time_added": "2022-01-07T01:37:37Z"
+  },
+  {
+   "item_id": "2826943027",
+   "given_url": "https://jvns.ca/blog/how-tracking-pixels-work/",
+   "given_title": "How tracking pixels work",
+   "resolved_title": "How tracking pixels work",
+   "resolved_url": "https://jvns.ca/blog/how-tracking-pixels-work/",
+   "time_updated": "2022-01-09T20:20:48Z",
+   "time_added": "2022-01-09T20:20:48Z"
+  },
+  {
+   "item_id": "3516422984",
+   "given_url": "https://danielmiessler.com/blog/losers-exist-dont-hire-them/",
+   "given_title": "Losers Exist, Don't Hire Them - Daniel Miessler",
+   "resolved_title": "Losers Exist, Don’t Hire Them",
+   "resolved_url": "https://danielmiessler.com/blog/losers-exist-dont-hire-them/",
+   "time_updated": "2022-01-03T20:32:42Z",
+   "time_added": "2022-01-03T20:32:39Z"
+  }
+ ]
+}

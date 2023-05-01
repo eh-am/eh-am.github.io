@@ -1,0 +1,52 @@
+{
+ "year": "2018",
+ "week": "21",
+ "sortKey": "2018-21",
+ "items": [
+  {
+   "item_id": "477753852",
+   "given_url": "http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/",
+   "given_title": "Why You Should Never Use MongoDB « Sarah Mei",
+   "resolved_title": "Why You Should Never Use MongoDB",
+   "resolved_url": "http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/",
+   "time_updated": "2018-05-23T03:55:44+01:00",
+   "time_added": "2018-05-23T03:55:44+01:00"
+  },
+  {
+   "item_id": "313207506",
+   "given_url": "http://openresty.org/download/agentzh-nginx-tutorials-en.html",
+   "given_title": "agentzh's Nginx Tutorials (version 2016.07.21)",
+   "resolved_title": "agentzh's Nginx Tutorials (version 2020.03.19)",
+   "resolved_url": "https://openresty.org/download/agentzh-nginx-tutorials-en.html",
+   "time_updated": "2018-05-26T02:41:23+01:00",
+   "time_added": "2018-05-26T02:41:23+01:00"
+  },
+  {
+   "item_id": "2201295145",
+   "given_url": "http://www.brightball.com/articles/reality-driven-development-fixing-project-management-in-software",
+   "given_title": "Reality Driven Development: Fixing Project Management in Software | Brightb",
+   "resolved_title": "Reality Driven Development",
+   "resolved_url": "http://www.brightball.com/articles/reality-driven-development-fixing-project-management-in-software",
+   "time_updated": "2018-05-26T18:29:29+01:00",
+   "time_added": "2018-05-26T18:29:29+01:00"
+  },
+  {
+   "item_id": "2195646938",
+   "given_url": "https://github.com/trekhleb/javascript-algorithms",
+   "given_title": "trekhleb/javascript-algorithms: Algorithms and data structures implemented ",
+   "resolved_title": "trekhleb/javascript-algorithms",
+   "resolved_url": "https://github.com/trekhleb/javascript-algorithms",
+   "time_updated": "2018-05-24T00:36:27+01:00",
+   "time_added": "2018-05-24T00:36:27+01:00"
+  },
+  {
+   "item_id": "2202881688",
+   "given_url": "https://daily.bandcamp.com/2018/05/24/how-the-prf-launched-a-community-of-rock-lovers-and-real-life-friends/?utm_source=notification",
+   "given_title": "How the PRF Launched a Community of Rock Lovers and Real-Life Friends « Ban",
+   "resolved_title": "How the PRF Launched a Community of Rock Lovers and Real-Life Friends",
+   "resolved_url": "https://daily.bandcamp.com/2018/05/24/how-the-prf-launched-a-community-of-rock-lovers-and-real-life-friends/",
+   "time_updated": "2018-05-27T04:19:15+01:00",
+   "time_added": "2018-05-27T04:19:14+01:00"
+  }
+ ]
+}

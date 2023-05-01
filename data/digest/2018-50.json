@@ -1,0 +1,43 @@
+{
+ "year": "2018",
+ "week": "50",
+ "sortKey": "2018-50",
+ "items": [
+  {
+   "item_id": "506036",
+   "given_url": "http://www.paulgraham.com/pypar.html",
+   "given_title": "The Python Paradox",
+   "resolved_title": "The Python Paradox",
+   "resolved_url": "http://www.paulgraham.com/pypar.html",
+   "time_updated": "2018-12-15T03:27:55Z",
+   "time_added": "2018-12-15T03:27:54Z"
+  },
+  {
+   "item_id": "2413951765",
+   "given_url": "https://www.bbc.com/portuguese/brasil-46403816",
+   "given_title": "Por que este especialista diz que a 'culinária mineira é um mito' - BBC New",
+   "resolved_title": "Por que este especialista diz que a 'culinária mineira é um mito'",
+   "resolved_url": "https://www.bbc.com/portuguese/brasil-46403816",
+   "time_updated": "2018-12-12T02:34:34Z",
+   "time_added": "2018-12-12T02:34:32Z"
+  },
+  {
+   "item_id": "154721327",
+   "given_url": "https://getpocket.com/a/queue/list/",
+   "given_title": "Pocket: Minha Lista",
+   "resolved_title": "",
+   "resolved_url": "https://getpocket.com/a/queue/list/",
+   "time_updated": "2018-12-11T03:10:50Z",
+   "time_added": "2018-12-11T03:10:50Z"
+  },
+  {
+   "item_id": "2132810368",
+   "given_url": "https://www.psychologytoday.com/us/blog/insight-therapy/201412/laws-attraction-how-do-we-select-life-partner",
+   "given_title": "Laws of Attraction: How Do We Select a Life Partner? | Psychology Today",
+   "resolved_title": "",
+   "resolved_url": "https://www.psychologytoday.com/blog/insight-therapy/201412/laws-attraction-how-do-we-select-life-partner",
+   "time_updated": "2018-12-16T22:50:09Z",
+   "time_added": "2018-12-16T14:42:17Z"
+  }
+ ]
+}

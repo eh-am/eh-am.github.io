@@ -1,0 +1,196 @@
+{
+ "year": "2018",
+ "week": "8",
+ "sortKey": "2018-08",
+ "items": [
+  {
+   "item_id": "2088554406",
+   "given_url": "https://t.co/WkAaHt9QLO",
+   "given_title": "",
+   "resolved_title": "Roberto on Twitter",
+   "resolved_url": "https://twitter.com/rcp01/status/966848480764420098",
+   "time_updated": "2018-02-24T16:02:12Z",
+   "time_added": "2018-02-24T16:02:11Z"
+  },
+  {
+   "item_id": "289424185",
+   "given_url": "https://pt.wikipedia.org/wiki/Cristadelfianos",
+   "given_title": "Cristadelfianos – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Cristadelfianos",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Cristadelfianos",
+   "time_updated": "2018-02-24T03:45:24Z",
+   "time_added": "2018-02-24T03:45:24Z"
+  },
+  {
+   "item_id": "2082784787",
+   "given_url": "https://twitter.com/alemacgo/status/966072887319973891",
+   "given_title": "Alejandro Machado on Twitter: \"1/ What we know about Venezuela's petro – $P",
+   "resolved_title": "Alejandro Machado on Twitter",
+   "resolved_url": "https://twitter.com/alemacgo/status/966072887319973891",
+   "time_updated": "2018-02-21T01:32:47Z",
+   "time_added": "2018-02-21T01:32:47Z"
+  },
+  {
+   "item_id": "1238962584",
+   "given_url": "https://en.wikipedia.org/wiki/The_long_march_through_the_institutions",
+   "given_title": "The long march through the institutions - Wikipedia",
+   "resolved_title": "The long march through the institutions",
+   "resolved_url": "https://en.wikipedia.org/wiki/The_long_march_through_the_institutions",
+   "time_updated": "2018-02-25T21:12:13Z",
+   "time_added": "2018-02-25T21:12:14Z"
+  },
+  {
+   "item_id": "1099829235",
+   "given_url": "http://www.ninjaencyclopedia.com/weapon/tekko-kagi.html",
+   "given_title": "Tekko-Kagi",
+   "resolved_title": "Ninjas scratched enemies sharply with \" Tekko-Kagi\"",
+   "resolved_url": "http://www.ninjaencyclopedia.com/weapon/tekko-kagi.html",
+   "time_updated": "2018-02-20T21:58:53Z",
+   "time_added": "2018-02-20T21:58:52Z"
+  },
+  {
+   "item_id": "2082524657",
+   "given_url": "https://frontendmasters.com/courses/git-in-depth/",
+   "given_title": "",
+   "resolved_title": "Git In-depth",
+   "resolved_url": "https://frontendmasters.com/courses/git-in-depth/",
+   "time_updated": "2018-02-20T22:55:12Z",
+   "time_added": "2018-02-20T22:55:11Z"
+  },
+  {
+   "item_id": "2085522152",
+   "given_url": "http://blog.reactiveops.com/the-myth-of-cloud-agnosticism?hs_amp=true\u0026__twitter_impression=true",
+   "given_title": "",
+   "resolved_title": "The Myth of Cloud Agnosticism",
+   "resolved_url": "http://blog.reactiveops.com/the-myth-of-cloud-agnosticism",
+   "time_updated": "2018-02-22T16:31:55Z",
+   "time_added": "2018-02-22T16:31:55Z"
+  },
+  {
+   "item_id": "286370614",
+   "given_url": "https://github.com/Animosity/CraftIRC/wiki/Complete-idiot's-introduction-to-yaml",
+   "given_title": "Complete idiot's introduction to yaml · Animosity/CraftIRC Wiki",
+   "resolved_title": "Home",
+   "resolved_url": "https://github.com/Animosity/CraftIRC/wiki/Complete-idiot\\'s-introduction-to-yaml",
+   "time_updated": "2018-02-20T18:16:53Z",
+   "time_added": "2018-02-20T18:16:53Z"
+  },
+  {
+   "item_id": "154712911",
+   "given_url": "https://en.m.wikipedia.org/wiki/Jevons_paradox",
+   "given_title": "",
+   "resolved_title": "Jevons paradox",
+   "resolved_url": "https://en.wikipedia.org/wiki/Jevons_paradox",
+   "time_updated": "2018-02-24T11:39:54Z",
+   "time_added": "2018-02-24T11:39:54Z"
+  },
+  {
+   "item_id": "420027984",
+   "given_url": "https://en.wikipedia.org/wiki/Female_cosmetic_coalitions",
+   "given_title": "Female cosmetic coalitions - Wikipedia",
+   "resolved_title": "Female cosmetic coalitions",
+   "resolved_url": "https://en.wikipedia.org/wiki/Female_cosmetic_coalitions",
+   "time_updated": "2018-02-19T03:19:42Z",
+   "time_added": "2018-02-19T03:19:41Z"
+  },
+  {
+   "item_id": "2088639743",
+   "given_url": "https://pt.wikipedia.org/wiki/Imigra%C3%A7%C3%A3o_espanhola_em_Sorocaba",
+   "given_title": "Imigração espanhola em Sorocaba – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Imigração espanhola em Sorocaba",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Imigra%C3%A7%C3%A3o_espanhola_em_Sorocaba",
+   "time_updated": "2018-02-24T17:26:46Z",
+   "time_added": "2018-02-24T17:26:45Z"
+  },
+  {
+   "item_id": "2087285594",
+   "given_url": "http://cloudplatform.googleblog.com/2018/02/how-Google-Cloud-Storage-offers-strongly-consistent-object-listing-thanks-to-Spanner.html",
+   "given_title": "How Cloud Storage uses Spanner for consistent bucket listing",
+   "resolved_title": "How Google Cloud Storage offers strongly consistent object listing thanks to Spanner",
+   "resolved_url": "https://cloudplatform.googleblog.com/2018/02/how-Google-Cloud-Storage-offers-strongly-consistent-object-listing-thanks-to-Spanner.html",
+   "time_updated": "2018-02-24T12:41:33Z",
+   "time_added": "2018-02-24T12:41:33Z"
+  },
+  {
+   "item_id": "2085185177",
+   "given_url": "https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/",
+   "given_title": "",
+   "resolved_title": "A Practical Introduction to Container Terminology",
+   "resolved_url": "https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction",
+   "time_updated": "2018-02-23T10:54:40Z",
+   "time_added": "2018-02-23T10:54:40Z"
+  },
+  {
+   "item_id": "430919719",
+   "given_url": "https://en.wikipedia.org/wiki/Japonaiserie_(Van_Gogh)",
+   "given_title": "Japonaiserie (Van Gogh) - Wikipedia",
+   "resolved_title": "Japonaiserie (Van Gogh)",
+   "resolved_url": "https://en.wikipedia.org/wiki/Japonaiserie_(Van_Gogh)",
+   "time_updated": "2018-02-19T21:42:24Z",
+   "time_added": "2018-02-19T21:42:24Z"
+  },
+  {
+   "item_id": "998251131",
+   "given_url": "http://swreflections.blogspot.com.br/2014/08/feature-toggles-are-one-of-worst-kinds.html",
+   "given_title": "Building Real Software: Feature Toggles are one of the worst kinds of Techn",
+   "resolved_title": "Feature Toggles are one of the worst kinds of Technical Debt",
+   "resolved_url": "http://swreflections.blogspot.com/2014/08/feature-toggles-are-one-of-worst-kinds.html",
+   "time_updated": "2018-02-20T22:47:47Z",
+   "time_added": "2018-02-20T22:47:47Z"
+  },
+  {
+   "item_id": "1107153968",
+   "given_url": "https://en.wikipedia.org/wiki/Cartularies_of_Valpuesta",
+   "given_title": "Cartularies of Valpuesta - Wikipedia",
+   "resolved_title": "Cartularies of Valpuesta",
+   "resolved_url": "https://en.wikipedia.org/wiki/Cartularies_of_Valpuesta",
+   "time_updated": "2018-02-22T22:56:12Z",
+   "time_added": "2018-02-22T22:56:12Z"
+  },
+  {
+   "item_id": "2089709094",
+   "given_url": "http://www.saintseiya2014.com/why-you-should-read-hokuto-no-ken-right-now.html",
+   "given_title": "Why You Should Read Hokuto no Ken – Saint Seiya 201",
+   "resolved_title": "Why You Should Read Hokuto no Ken Right Now",
+   "resolved_url": "http://www.saintseiya2014.com/why-you-should-read-hokuto-no-ken-right-now.html",
+   "time_updated": "2018-02-25T15:27:17Z",
+   "time_added": "2018-02-25T15:27:15Z"
+  },
+  {
+   "item_id": "499733450",
+   "given_url": "http://www.sacred-texts.com/neu/celt/rac/rac19.htm",
+   "given_title": "The Religion of the Ancient Celts: Chapter XVI. Sacrifice, Prayer, and Divi",
+   "resolved_title": "SACRIFICE, PRAYER, AND DIVINATION.",
+   "resolved_url": "http://www.sacred-texts.com/neu/celt/rac/rac19.htm",
+   "time_updated": "2018-02-20T12:56:31Z",
+   "time_added": "2018-02-20T12:56:30Z"
+  },
+  {
+   "item_id": "1211118199",
+   "given_url": "https://zachholman.com/posts/deploying-software",
+   "given_title": "How to Deploy Software",
+   "resolved_title": "How to Deploy Software",
+   "resolved_url": "https://zachholman.com/posts/deploying-software",
+   "time_updated": "2018-02-20T18:16:50Z",
+   "time_added": "2018-02-20T18:16:50Z"
+  },
+  {
+   "item_id": "596071523",
+   "given_url": "https://guides.github.com/introduction/flow/",
+   "given_title": "Understanding the GitHub Flow · GitHub Guides",
+   "resolved_title": "Understanding the GitHub flow",
+   "resolved_url": "https://guides.github.com/introduction/flow/",
+   "time_updated": "2018-02-20T18:18:59Z",
+   "time_added": "2018-02-20T18:18:59Z"
+  },
+  {
+   "item_id": "2083395329",
+   "given_url": "https://www.vice.com/pt_br/article/vbpyv3/guia-noisey-superchunk",
+   "given_title": "",
+   "resolved_title": "Guia Noisey pra curtir um Superchunk",
+   "resolved_url": "https://www.vice.com/pt_br/article/vbpyv3/guia-noisey-superchunk",
+   "time_updated": "2018-02-21T23:25:57Z",
+   "time_added": "2018-02-21T23:25:56Z"
+  }
+ ]
+}

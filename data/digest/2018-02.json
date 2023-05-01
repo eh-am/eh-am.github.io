@@ -1,0 +1,322 @@
+{
+ "year": "2018",
+ "week": "2",
+ "sortKey": "2018-02",
+ "items": [
+  {
+   "item_id": "2009678894",
+   "given_url": "https://medium.com/@copyconstruct/testing-microservices-the-sane-way-9bb31d158c16",
+   "given_title": "Testing Microservices, the sane way – Cindy Sridharan – Medium",
+   "resolved_title": "Testing Microservices, the sane way",
+   "resolved_url": "https://medium.com/@copyconstruct/testing-microservices-the-sane-way-9bb31d158c16",
+   "time_updated": "2018-01-09T10:33:56Z",
+   "time_added": "2018-01-09T10:33:56Z"
+  },
+  {
+   "item_id": "2011490059",
+   "given_url": "https://www.hakaimagazine.com/features/fish-feel-pain-now-what/",
+   "given_title": "",
+   "resolved_title": "Fish Feel Pain. Now What?",
+   "resolved_url": "https://www.hakaimagazine.com/features/fish-feel-pain-now-what/",
+   "time_updated": "2018-01-10T11:45:49Z",
+   "time_added": "2018-01-10T11:45:47Z"
+  },
+  {
+   "item_id": "2025730051",
+   "given_url": "http://servicos.decea.gov.br/aga/?i=planos",
+   "given_title": "",
+   "resolved_title": "Planos",
+   "resolved_url": "http://servicos.decea.gov.br/aga/?i=planos",
+   "time_updated": "2018-01-12T11:21:41Z",
+   "time_added": "2018-01-12T11:21:40Z"
+  },
+  {
+   "item_id": "2021461990",
+   "given_url": "https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf?gi=2c27640f23cd",
+   "given_title": "",
+   "resolved_title": "How JavaScript works: an overview of the engine, the runtime, and the call stack",
+   "resolved_url": "https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf",
+   "time_updated": "2018-01-09T09:24:54Z",
+   "time_added": "2018-01-09T09:24:55Z"
+  },
+  {
+   "item_id": "1945359056",
+   "given_url": "http://www.exploringmarkets.com/2014/11/how-joe-kennedy-avoided-stock-market.html?m=1",
+   "given_title": "",
+   "resolved_title": "",
+   "resolved_url": "http://www.exploringmarkets.com/2014/11/how-joe-kennedy-avoided-stock-market.html",
+   "time_updated": "2018-01-11T19:23:34Z",
+   "time_added": "2018-01-11T19:23:32Z"
+  },
+  {
+   "item_id": "2020801404",
+   "given_url": "https://g1.globo.com/google/amp/https://g1.globo.com/df/distrito-federal/noticia/nigeriano-realiza-sonho-de-abrir-um-restaurante-que-reune-culinaria-e-cultura-de-54-paises-africanos-no-df.ghtml?__twitter_impression=true",
+   "given_title": "Nigeriano realiza sonho de abrir restaurante que reúne culinária e cultura ",
+   "resolved_title": "Nigeriano realiza sonho de abrir restaurante que reúne culinária e cultura de 54 países africanos no DF",
+   "resolved_url": "https://g1.globo.com/df/distrito-federal/noticia/nigeriano-realiza-sonho-de-abrir-um-restaurante-que-reune-culinaria-e-cultura-de-54-paises-africanos-no-df.ghtml",
+   "time_updated": "2018-01-08T21:58:09Z",
+   "time_added": "2018-01-08T21:58:08Z"
+  },
+  {
+   "item_id": "1573814665",
+   "given_url": "https://github.com/p-e-w/argos",
+   "given_title": "p-e-w/argos: Create GNOME Shell extensions in seconds",
+   "resolved_title": "Argos",
+   "resolved_url": "https://github.com/p-e-w/argos",
+   "time_updated": "2018-01-08T17:37:21Z",
+   "time_added": "2018-01-08T17:37:21Z"
+  },
+  {
+   "item_id": "2004497129",
+   "given_url": "https://medium.com/@MostlyHarmlessD/getting-started-with-microservices-and-kubernetes-76354312b556",
+   "given_title": "Getting started with microservices and Kubernetes – Dom Barker – Medium",
+   "resolved_title": "Getting started with microservices and Kubernetes",
+   "resolved_url": "https://medium.com/@MostlyHarmlessD/getting-started-with-microservices-and-kubernetes-76354312b556",
+   "time_updated": "2018-01-09T11:55:45Z",
+   "time_added": "2018-01-09T11:55:45Z"
+  },
+  {
+   "item_id": "497265839",
+   "given_url": "https://wiki.gnome.org/Projects/GnomeShell/Extensions/StepByStepTutorial",
+   "given_title": "Projects/GnomeShell/Extensions/StepByStepTutorial - GNOME Wiki!",
+   "resolved_title": "Projects/GnomeShell/Extensions/StepByStepTutorial",
+   "resolved_url": "https://wiki.gnome.org/Projects/GnomeShell/Extensions/StepByStepTutorial",
+   "time_updated": "2018-01-08T17:38:39Z",
+   "time_added": "2018-01-08T17:38:39Z"
+  },
+  {
+   "item_id": "877046185",
+   "given_url": "https://github.com/maxogden/menubar",
+   "given_title": "maxogden/menubar: ➖ high level way to create menubar desktop applications w",
+   "resolved_title": "➖ Menubar",
+   "resolved_url": "https://github.com/maxogden/menubar",
+   "time_updated": "2018-01-08T17:37:27Z",
+   "time_added": "2018-01-08T17:37:27Z"
+  },
+  {
+   "item_id": "2001064458",
+   "given_url": "https://molily.de/robust-javascript/",
+   "given_title": "Robust Client-Side JavaScript – A Developer’s Guide · molily",
+   "resolved_title": "Robust Client-Side JavaScript A Developer’s Guide",
+   "resolved_url": "https://molily.de/robust-javascript/",
+   "time_updated": "2018-01-09T10:34:10Z",
+   "time_added": "2018-01-09T10:34:10Z"
+  },
+  {
+   "item_id": "2021887192",
+   "given_url": "https://css-tricks.com/making-css-animations-feel-natural/",
+   "given_title": "Making CSS Animations Feel More Natural | CSS-Tricks",
+   "resolved_title": "Making CSS Animations Feel More Natural",
+   "resolved_url": "https://css-tricks.com/making-css-animations-feel-natural/",
+   "time_updated": "2018-01-11T14:20:24Z",
+   "time_added": "2018-01-11T14:20:24Z"
+  },
+  {
+   "item_id": "622607485",
+   "given_url": "https://en.m.wikipedia.org/wiki/Happy_Monday_System",
+   "given_title": "Happy Monday System - Wikipedia",
+   "resolved_title": "Happy Monday System",
+   "resolved_url": "https://en.m.wikipedia.org/wiki/Happy_Monday_System",
+   "time_updated": "2018-01-08T15:47:58Z",
+   "time_added": "2018-01-08T15:47:59Z"
+  },
+  {
+   "item_id": "2009346405",
+   "given_url": "https://medium.com/@nima_ap/creating-a-responsive-dashboard-in-angular-5-from-scratch-147f6a493d9e",
+   "given_title": "Creating a Responsive Dashboard in Angular 5 From Scratch",
+   "resolved_title": "",
+   "resolved_url": "https://medium.com/@nima_ap/creating-a-responsive-dashboard-in-angular-5-from-scratch-147f6a493d9e",
+   "time_updated": "2018-01-12T12:52:09Z",
+   "time_added": "2018-01-12T12:52:09Z"
+  },
+  {
+   "item_id": "876583626",
+   "given_url": "https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0",
+   "given_title": "Presentational and Container Components – Dan Abramov – Medium",
+   "resolved_title": "Presentational and Container Components",
+   "resolved_url": "https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0",
+   "time_updated": "2018-01-09T12:09:57Z",
+   "time_added": "2018-01-09T12:09:57Z"
+  },
+  {
+   "item_id": "1729769240",
+   "given_url": "https://medium.com/netflix-techblog/product-integration-testing-at-the-speed-of-netflix-72e4117734a7",
+   "given_title": "Product Integration Testing at the Speed of Netflix",
+   "resolved_title": "Product Integration Testing at the Speed of Netflix",
+   "resolved_url": "https://medium.com/netflix-techblog/product-integration-testing-at-the-speed-of-netflix-72e4117734a7",
+   "time_updated": "2018-01-09T10:34:07Z",
+   "time_added": "2018-01-09T10:34:07Z"
+  },
+  {
+   "item_id": "1677820108",
+   "given_url": "https://www.xfive.co/blog/testing-angular-faster-jest/",
+   "given_title": "Testing Angular faster with Jest - Xfive",
+   "resolved_title": "Testing Angular Faster with Jest",
+   "resolved_url": "https://www.xfive.co/blog/testing-angular-faster-jest/",
+   "time_updated": "2018-01-12T12:51:30Z",
+   "time_added": "2018-01-12T12:51:30Z"
+  },
+  {
+   "item_id": "43448345",
+   "given_url": "https://en.m.wikipedia.org/wiki/Paul_Bernardo",
+   "given_title": "Paul Bernardo - Wikipedia",
+   "resolved_title": "Paul Bernardo",
+   "resolved_url": "https://en.wikipedia.org/wiki/Paul_Bernardo",
+   "time_updated": "2018-01-11T16:00:32Z",
+   "time_added": "2018-01-11T16:00:26Z"
+  },
+  {
+   "item_id": "2024394497",
+   "given_url": "https://m.imgur.com/POizhOp",
+   "given_title": "",
+   "resolved_title": "",
+   "resolved_url": "https://m.imgur.com/POizhOp",
+   "time_updated": "2018-01-11T13:24:34Z",
+   "time_added": "2018-01-11T13:24:32Z"
+  },
+  {
+   "item_id": "532982303",
+   "given_url": "https://en.m.wikipedia.org/wiki/Majority_minority",
+   "given_title": "Majority minority - Wikipedia",
+   "resolved_title": "Majority minority",
+   "resolved_url": "https://en.wikipedia.org/wiki/Majority_minority",
+   "time_updated": "2018-01-08T15:50:14Z",
+   "time_added": "2018-01-08T15:50:13Z"
+  },
+  {
+   "item_id": "2017525767",
+   "given_url": "http://humanphenotypes.net/",
+   "given_title": "Human Phenotypes",
+   "resolved_title": "Human Phenotypes",
+   "resolved_url": "http://humanphenotypes.net/",
+   "time_updated": "2018-01-08T04:29:57Z",
+   "time_added": "2018-01-08T04:29:57Z"
+  },
+  {
+   "item_id": "1343227237",
+   "given_url": "https://vimeo.com/173610242",
+   "given_title": "Monitorama PDX 2016 - Kelsey Hightower - healthz: Stop reverse engineering ",
+   "resolved_title": "Monitorama PDX 2016 - Kelsey Hightower - healthz: Stop reverse engineering applications and start monitoring from the inside",
+   "resolved_url": "https://vimeo.com/173610242",
+   "time_updated": "2018-01-09T13:04:51Z",
+   "time_added": "2018-01-09T13:04:51Z"
+  },
+  {
+   "item_id": "1581553",
+   "given_url": "http://www.grymoire.com/Unix/Awk.html",
+   "given_title": "Awk - A Tutorial and Introduction - by Bruce Barnett",
+   "resolved_title": "The Grymoire's tutorial on AWK",
+   "resolved_url": "https://www.grymoire.com/Unix/Awk.html",
+   "time_updated": "2018-01-13T10:17:11Z",
+   "time_added": "2018-01-13T10:17:05Z"
+  },
+  {
+   "item_id": "1997969580",
+   "given_url": "http://www.ips-journal.eu/regions/latin-america/article/show/i-was-impeached-not-for-what-i-did-wrong-but-what-i-did-right-2479/",
+   "given_title": "",
+   "resolved_title": "“I was impeached not for what I did wrong, but for what I did right”",
+   "resolved_url": "http://www.ips-journal.eu/regions/latin-america/article/show/i-was-impeached-not-for-what-i-did-wrong-but-for-what-i-did-right-2479/",
+   "time_updated": "2018-01-09T12:55:55Z",
+   "time_added": "2018-01-09T12:55:56Z"
+  },
+  {
+   "item_id": "1738230032",
+   "given_url": "https://www.getambassador.io/",
+   "given_title": "Kubernetes-native microservices API Gateway: Ambassador",
+   "resolved_title": "Developer-First Kubernetes",
+   "resolved_url": "https://www.getambassador.io/",
+   "time_updated": "2018-01-09T11:56:00Z",
+   "time_added": "2018-01-09T11:56:00Z"
+  },
+  {
+   "item_id": "13381445",
+   "given_url": "https://en.wikipedia.org/wiki/Smiling_Buddha",
+   "given_title": "Smiling Buddha - Wikipedia",
+   "resolved_title": "Smiling Buddha",
+   "resolved_url": "https://en.wikipedia.org/wiki/Smiling_Buddha",
+   "time_updated": "2018-01-09T17:12:38Z",
+   "time_added": "2018-01-09T17:12:38Z"
+  },
+  {
+   "item_id": "1859994092",
+   "given_url": "https://spacetimeinsight.com/installing-monitoring-erlang-releases-kubernetes-helm-prometheus/",
+   "given_title": "Install, Monitor Erlang Releases in Kubernetes with Helm   Prometheus",
+   "resolved_title": "",
+   "resolved_url": "https://spacetimeinsight.com/installing-monitoring-erlang-releases-kubernetes-helm-prometheus/",
+   "time_updated": "2018-01-09T13:04:53Z",
+   "time_added": "2018-01-09T13:04:53Z"
+  },
+  {
+   "item_id": "967552597",
+   "given_url": "http://blog.kubernetes.io/2015/06/the-distributed-system-toolkit-patterns.html",
+   "given_title": "Kubernetes: The Distributed System ToolKit: Patterns for Composite Containe",
+   "resolved_title": "The Distributed System ToolKit: Patterns for Composite Containers",
+   "resolved_url": "http://blog.kubernetes.io/2015/06/the-distributed-system-toolkit-patterns.html",
+   "time_updated": "2018-01-09T13:04:45Z",
+   "time_added": "2018-01-09T13:04:45Z"
+  },
+  {
+   "item_id": "2023347278",
+   "given_url": "https://jakearchibald.com/2017/await-vs-return-vs-return-await/?utm_content=bufferafe95\u0026utm_medium=social\u0026utm_source=twitter.com\u0026utm_campaign=buffer",
+   "given_title": "await vs return vs return await - JakeArchibald.com",
+   "resolved_title": "await vs return vs return await",
+   "resolved_url": "https://jakearchibald.com/2017/await-vs-return-vs-return-await/",
+   "time_updated": "2018-01-10T19:23:39Z",
+   "time_added": "2018-01-10T19:23:38Z"
+  },
+  {
+   "item_id": "757504170",
+   "given_url": "https://oceanservice.noaa.gov/facts/whysalty.html",
+   "given_title": "Why is the ocean salty?",
+   "resolved_title": "Why is the ocean salty?",
+   "resolved_url": "https://oceanservice.noaa.gov/facts/whysalty.html",
+   "time_updated": "2018-01-13T11:56:05Z",
+   "time_added": "2018-01-13T11:56:03Z"
+  },
+  {
+   "item_id": "110299800",
+   "given_url": "https://en.m.wikipedia.org/wiki/Historic_Villages_of_Shirakawa-g%C5%8D_and_Gokayama",
+   "given_title": "Historic Villages of Shirakawa-gō and Gokayama - Wikipedia",
+   "resolved_title": "Historic Villages of Shirakawa-gō and Gokayama",
+   "resolved_url": "https://en.wikipedia.org/wiki/Historic_Villages_of_Shirakawa-g%C5%8D_and_Gokayama",
+   "time_updated": "2018-01-11T03:40:47Z",
+   "time_added": "2018-01-11T03:40:47Z"
+  },
+  {
+   "item_id": "2012133365",
+   "given_url": "https://beyondgrep.com/feature-comparison/",
+   "given_title": "",
+   "resolved_title": "Feature comparison of ack, ag, git-grep, grep and ripgrep",
+   "resolved_url": "https://beyondgrep.com/feature-comparison/",
+   "time_updated": "2018-01-08T15:26:37Z",
+   "time_added": "2018-01-08T15:26:38Z"
+  },
+  {
+   "item_id": "1250827682",
+   "given_url": "https://qz.com/654647/everything-you-need-to-know-about-fat-cells/",
+   "given_title": "How fat cells work and why it's impossible to \"burn\" them off — Quartz",
+   "resolved_title": "How fat cells work and why it’s impossible to “burn” them off",
+   "resolved_url": "https://qz.com/654647/everything-you-need-to-know-about-fat-cells/",
+   "time_updated": "2018-01-10T15:38:17Z",
+   "time_added": "2018-01-10T15:38:16Z"
+  },
+  {
+   "item_id": "2006582639",
+   "given_url": "https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236",
+   "given_title": "Introduction to modern network load balancing and proxying",
+   "resolved_title": "Introduction to modern network load balancing and proxying",
+   "resolved_url": "https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236",
+   "time_updated": "2018-01-09T10:34:00Z",
+   "time_added": "2018-01-09T10:34:00Z"
+  },
+  {
+   "item_id": "1828363987",
+   "given_url": "https://www.getambassador.io/about/why-ambassador",
+   "given_title": "Why Ambassador? · Ambassador: API Gateway for microservices and Kubernetes",
+   "resolved_title": "",
+   "resolved_url": "https://www.getambassador.io/about/why-ambassador/",
+   "time_updated": "2018-01-09T11:55:54Z",
+   "time_added": "2018-01-09T11:55:54Z"
+  }
+ ]
+}

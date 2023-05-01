@@ -1,0 +1,124 @@
+{
+ "year": "2022",
+ "week": "4",
+ "sortKey": "2022-04",
+ "items": [
+  {
+   "item_id": "3535839285",
+   "given_url": "https://blog.wesleyac.com/posts/the-curse-of-nixos",
+   "given_title": "Wesley Aptekar-Cassels | The Curse of NixOS",
+   "resolved_title": "The Curse of NixOS",
+   "resolved_url": "https://blog.wesleyac.com/posts/the-curse-of-nixos",
+   "time_updated": "2022-01-25T02:17:01Z",
+   "time_added": "2022-01-25T02:16:59Z"
+  },
+  {
+   "item_id": "3540502453",
+   "given_url": "https://tab.uol.com.br/noticias/redacao/2022/01/30/quente-ne-cozinheiro-japones-vende-lamen-tradicional-em-sp.htm",
+   "given_title": "'Quente, né?': cozinheiro japonês faz sucesso com lámen tradicional em SP -",
+   "resolved_title": "'Quente, né?': cozinheiro japonês faz sucesso com lámen tradicional em SP",
+   "resolved_url": "https://tab.uol.com.br/noticias/redacao/2022/01/30/quente-ne-cozinheiro-japones-vende-lamen-tradicional-em-sp.htm",
+   "time_updated": "2022-01-30T15:53:26Z",
+   "time_added": "2022-01-30T15:53:25Z"
+  },
+  {
+   "item_id": "6615405",
+   "given_url": "http://www.cs.yale.edu/homes/perlis-alan/quotes.html",
+   "given_title": "Perlisisms - \"Epigrams in Programming\" by Alan J. Perlis",
+   "resolved_title": "EPIGRAMS IN PROGRAMMING",
+   "resolved_url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
+   "time_updated": "2022-01-27T20:22:58Z",
+   "time_added": "2022-01-27T20:22:56Z"
+  },
+  {
+   "item_id": "3539289726",
+   "given_url": "https://www.pietrorea.com/2022/01/28/reclaiming-the-lost-art-of-linux-server-administration",
+   "given_title": "Reclaiming the lost art of Linux server administration | pietrorea's blog",
+   "resolved_title": "Reclaiming the lost art of Linux server administration",
+   "resolved_url": "https://pietrorea.com/2022/01/28/reclaiming-the-lost-art-of-linux-server-administration/",
+   "time_updated": "2022-01-28T23:33:58Z",
+   "time_added": "2022-01-28T23:33:57Z"
+  },
+  {
+   "item_id": "585931871",
+   "given_url": "https://www.haskellforall.com/2014/04/worst-practices-are-viral-for-wrong.html?m=1",
+   "given_title": "Haskell for all: Worst practices are viral for the wrong reasons",
+   "resolved_title": "Worst practices are viral for the wrong reasons",
+   "resolved_url": "https://www.haskellforall.com/2014/04/worst-practices-are-viral-for-wrong.html",
+   "time_updated": "2022-01-26T22:56:03Z",
+   "time_added": "2022-01-26T22:56:00Z"
+  },
+  {
+   "item_id": "3540257490",
+   "given_url": "https://fictionhorizon.com/what-is-the-eraserhead-baby/",
+   "given_title": "What Is The Eraserhead Baby?",
+   "resolved_title": "What is the Eraserhead Baby?",
+   "resolved_url": "https://fictionhorizon.com/what-is-the-eraserhead-baby/",
+   "time_updated": "2022-01-30T02:22:41Z",
+   "time_added": "2022-01-30T02:22:36Z"
+  },
+  {
+   "item_id": "3540784552",
+   "given_url": "https://news.ycombinator.com/item?id=30137720",
+   "given_title": "U.S. companies are hiring Latin America’s tech talent | Hacker News",
+   "resolved_title": "",
+   "resolved_url": "https://news.ycombinator.com/item?id=30137720",
+   "time_updated": "2022-01-30T21:57:14Z",
+   "time_added": "2022-01-30T21:57:13Z"
+  },
+  {
+   "item_id": "3537089128",
+   "given_url": "https://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-60121185",
+   "given_title": "Message in a bottle from Scottish girl found in Norway after 25 years - BBC",
+   "resolved_title": "Message in a bottle from Scottish girl found in Norway after 25 years",
+   "resolved_url": "https://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-60121185",
+   "time_updated": "2022-01-30T22:09:18Z",
+   "time_added": "2022-01-30T22:09:17Z"
+  },
+  {
+   "item_id": "3539393346",
+   "given_url": "https://skarredghost.com/2022/01/28/simulavr-simula-one-linux-vr/?utm_source=simulavr\u0026utm_medium=email",
+   "given_title": "Simula One aims at becoming your portable Linux VR computer - The Ghost How",
+   "resolved_title": "Simula One aims at becoming your portable Linux VR computer",
+   "resolved_url": "https://skarredghost.com/2022/01/28/simulavr-simula-one-linux-vr/",
+   "time_updated": "2022-01-28T21:19:27Z",
+   "time_added": "2022-01-28T21:19:12Z"
+  },
+  {
+   "item_id": "3515563355",
+   "given_url": "https://jenson.org/tesla/",
+   "given_title": "A UX designer walks into a Tesla Bar – Scott Jenson",
+   "resolved_title": "A UX designer walks into a Tesla Bar",
+   "resolved_url": "https://jenson.org/tesla/",
+   "time_updated": "2022-01-30T22:28:30Z",
+   "time_added": "2022-01-30T22:28:29Z"
+  },
+  {
+   "item_id": "3539585813",
+   "given_url": "https://mobile.twitter.com/danluu/status/1487228574608211969",
+   "given_title": "Dan Luu on Twitter: \"One thing it took me quite a while to understand is ho",
+   "resolved_title": "Dan Luu",
+   "resolved_url": "https://mobile.twitter.com/danluu/status/1487228574608211969",
+   "time_updated": "2022-01-29T23:45:43Z",
+   "time_added": "2022-01-29T23:45:22Z"
+  },
+  {
+   "item_id": "3532175456",
+   "given_url": "https://blog.warp.dev/using-tree-data-structures-to-implement-terminal-split-panes-more-fun-than-it-sounds/",
+   "given_title": "Using tree data structures to implement terminal split panes - more fun tha",
+   "resolved_title": "Using tree data structures to implement terminal split panes - more fun than it sounds",
+   "resolved_url": "https://blog.warp.dev/using-tree-data-structures-to-implement-terminal-split-panes-more-fun-than-it-sounds/",
+   "time_updated": "2022-01-30T22:21:01Z",
+   "time_added": "2022-01-30T22:21:00Z"
+  },
+  {
+   "item_id": "3538572311",
+   "given_url": "https://news.ycombinator.com/item?id=30098775",
+   "given_title": "Never done any recruiting, but here something I have noticed in recruitment",
+   "resolved_title": "",
+   "resolved_url": "https://news.ycombinator.com/item?id=30098775",
+   "time_updated": "2022-01-27T20:31:58Z",
+   "time_added": "2022-01-27T20:31:52Z"
+  }
+ ]
+}

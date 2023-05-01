@@ -1,0 +1,52 @@
+{
+ "year": "2021",
+ "week": "45",
+ "sortKey": "2021-45",
+ "items": [
+  {
+   "item_id": "2027734886",
+   "given_url": "http://googleweblight.com/?lite_url=http://bigthink.com/Picture-This/how-vincenzo-peruggia-created-the-mona-lisa-by-stealing-her\u0026ei=MhNdxh14\u0026lc=en-BR\u0026s=1\u0026m=222\u0026host=www.google.com.br\u0026ts=1515870163\u0026sig=AOyes_SbyWrW_X3zl1dugPYUNdikAvMFtw",
+   "given_title": "How Vincenzo Peruggia Created the Mona Lisa—by Stealing Her | Big Think",
+   "resolved_title": "How Vincenzo Peruggia Created the Mona Lisa—by Stealing Her",
+   "resolved_url": "https://bigthink.com/guest-thinkers/how-vincenzo-peruggia-created-the-mona-lisa-by-stealing-her/",
+   "time_updated": "2021-11-14T14:04:32Z",
+   "time_added": "2018-01-13T22:44:56Z"
+  },
+  {
+   "item_id": "3478569213",
+   "given_url": "https://www.vice.com/en/article/v7dmqb/richard-lowtax-kyanka-founder-of-something-awful-is-dead-at-45",
+   "given_title": "Richard ‘Lowtax’ Kyanka, Founder of Something Awful, Is Dead at 45",
+   "resolved_title": "Richard ‘Lowtax’ Kyanka, Founder of Something Awful, Is Dead at 45",
+   "resolved_url": "https://www.vice.com/en/article/v7dmqb/richard-lowtax-kyanka-founder-of-something-awful-is-dead-at-45",
+   "time_updated": "2021-11-14T13:59:10Z",
+   "time_added": "2021-11-14T13:59:05Z"
+  },
+  {
+   "item_id": "3480304280",
+   "given_url": "https://archive.md/53mxS",
+   "given_title": "Why Children Learn Better Than Adults - WSJ",
+   "resolved_title": "Why Children Learn Better Than Adults - WSJ",
+   "resolved_url": "https://archive.md/53mxS",
+   "time_updated": "2021-11-14T13:58:50Z",
+   "time_added": "2021-11-14T13:58:44Z"
+  },
+  {
+   "item_id": "3132273684",
+   "given_url": "https://felixgerschau.com/javascript-event-loop-call-stack/",
+   "given_title": "JavaScript Event Loop And Call Stack Explained",
+   "resolved_title": "JavaScript Event Loop And Call Stack Explained",
+   "resolved_url": "https://felixgerschau.com/javascript-event-loop-call-stack/",
+   "time_updated": "2021-11-08T21:57:28Z",
+   "time_added": "2021-11-08T21:57:27Z"
+  },
+  {
+   "item_id": "3469629951",
+   "given_url": "https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/",
+   "given_title": "Cuddly, Octo-Palm Tree: Bash functions are better than I thought",
+   "resolved_title": "Bash functions are better than I thought",
+   "resolved_url": "https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/",
+   "time_updated": "2021-11-08T22:00:45Z",
+   "time_added": "2021-11-08T22:00:45Z"
+  }
+ ]
+}

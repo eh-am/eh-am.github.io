@@ -1,0 +1,43 @@
+{
+ "year": "2016",
+ "week": "45",
+ "sortKey": "2016-45",
+ "items": [
+  {
+   "item_id": "4869567",
+   "given_url": "http://www.dwmbeancounter.com/tutorial/Tutorial.html",
+   "given_title": "",
+   "resolved_title": "",
+   "resolved_url": "http://www.dwmbeancounter.com/tutorial/Tutorial.html",
+   "time_updated": "2016-11-08T18:05:25Z",
+   "time_added": "2016-11-08T18:05:25Z"
+  },
+  {
+   "item_id": "5733611",
+   "given_url": "http://amasci.com/ele-edu.html",
+   "given_title": "Articles on \"Electricity\" WJ Beaty",
+   "resolved_title": "ARTICLES ABOUT \"ELECTRICITY\" New Explanations, Alternate Mental Toolkit",
+   "resolved_url": "https://amasci.com/ele-edu.html",
+   "time_updated": "2016-11-08T18:00:03Z",
+   "time_added": "2016-11-08T18:00:03Z"
+  },
+  {
+   "item_id": "70391363",
+   "given_url": "http://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html",
+   "given_title": "Accounting for Computer Scientists — Martin Kleppmann’s blog",
+   "resolved_title": "Accounting for Computer Scientists",
+   "resolved_url": "https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html",
+   "time_updated": "2016-11-08T18:05:32Z",
+   "time_added": "2016-11-08T18:05:32Z"
+  },
+  {
+   "item_id": "1103144088",
+   "given_url": "http://amasci.com/miscon/whyhard2.html",
+   "given_title": "WHY HARD: Why Electricity is Impossible to Understand",
+   "resolved_title": "RAW UN-EDITED NOTES ONLY (Why Electricity is Impossible to Understand)",
+   "resolved_url": "http://amasci.com/miscon/whyhard2.html",
+   "time_updated": "2016-11-08T17:49:26Z",
+   "time_added": "2016-11-08T17:49:26Z"
+  }
+ ]
+}

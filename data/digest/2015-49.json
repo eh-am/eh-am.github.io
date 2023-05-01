@@ -1,0 +1,25 @@
+{
+ "year": "2015",
+ "week": "49",
+ "sortKey": "2015-49",
+ "items": [
+  {
+   "item_id": "1123076203",
+   "given_url": "http://techblog.netflix.com/2015/12/debugging-nodejs-in-production.html",
+   "given_title": "",
+   "resolved_title": "Debugging Node.js in Production",
+   "resolved_url": "http://techblog.netflix.com/2015/12/debugging-nodejs-in-production.html",
+   "time_updated": "2015-12-04T20:06:30Z",
+   "time_added": "2015-12-04T20:06:37Z"
+  },
+  {
+   "item_id": "1123693072",
+   "given_url": "https://news.ycombinator.com/item?id=10673615",
+   "given_title": "",
+   "resolved_title": "Debugging Node.js in Production",
+   "resolved_url": "https://news.ycombinator.com/item?id=10673615",
+   "time_updated": "2015-12-04T20:06:43Z",
+   "time_added": "2015-12-04T20:06:40Z"
+  }
+ ]
+}

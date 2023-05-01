@@ -1,0 +1,39 @@
+{
+  "status": 1,
+  "complete": 0,
+  "list": {
+    "3856231477": {
+      "item_id": "3856231477",
+      "resolved_id": "3856231477",
+      "given_url": "https://twitter.com/thockin/status/1652112019485773824",
+      "given_title": "Tim Hockin (thockin.yaml) no Twitter: \"Lessons about API design that I inte",
+      "favorite": "0",
+      "status": "0",
+      "time_added": "1682805246",
+      "time_updated": "1682805248",
+      "time_read": "0",
+      "time_favorited": "0",
+      "sort_id": 0,
+      "resolved_title": "JavaScript is not available.",
+      "resolved_url": "https://twitter.com/thockin/status/1652112019485773824",
+      "excerpt": "We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center.",
+      "is_article": "1",
+      "is_index": "0",
+      "has_video": "0",
+      "has_image": "0",
+      "word_count": "49",
+      "lang": "en",
+      "domain_metadata": {
+        "name": "Twitter",
+        "logo": "https://logo.clearbit.com/twitter.com?size=800",
+        "greyscale_logo": "https://logo.clearbit.com/twitter.com?size=800&greyscale=true"
+      },
+      "listen_duration_estimate": 19
+    }
+  },
+  "error": null,
+  "search_meta": {
+    "search_type": "normal"
+  },
+  "since": 1682849996
+}

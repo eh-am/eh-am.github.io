@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>bootable on eduardoaleixo</title><link>https://www.eduardoaleixo.com/categories/bootable/</link><description>Recent content in bootable on eduardoaleixo</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 22 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.eduardoaleixo.com/categories/bootable/index.xml" rel="self" type="application/rss+xml"/><item><title>Creating Windows bootable USB on Linux</title><link>https://www.eduardoaleixo.com/posts/2022/creating-windows-bootable-usb-on-linux/</link><pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate><guid>https://www.eduardoaleixo.com/posts/2022/creating-windows-bootable-usb-on-linux/</guid><description>This is more for self documentation than anything else.
-Had positive results using WoeUSB (https://github.com/woeusb/WoeUSB)
-1 fdisk -l Then
-1 sudo ./woeusb-5.2.4.bash --device $ISO_FILENAME $DEVICE Eg.
-1 sudo ./woeusb-5.2.4.bash --device Win10_21H2_English_x64.iso /dev/sdd</description></item></channel></rss>

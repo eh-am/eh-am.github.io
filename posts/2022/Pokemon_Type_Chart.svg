@@ -1,0 +1,216 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="492" height="492">
+  <defs>
+  <g id="d">
+    <rect x="90" y="90" width="22" height="22" fill="#00aa00" stroke="#000000"/>
+    <text x="101" y="108" font-size="19.6" text-anchor="middle" fill="#ffffff" font-family="DejaVu Sans">2</text>
+  </g>
+  <g id="e">
+    <rect x="90" y="90" width="22" height="22" fill="#000000"/>
+    <text x="101" y="108" font-size="19.6" text-anchor="middle" fill="#ffffff" font-family="DejaVu Sans">0</text>
+  </g>
+  <g id="f">
+    <rect x="90" y="90" width="22" height="22" fill="#ff0000" stroke="#000000"/>
+    <text x="101" y="108" font-size="19.6" text-anchor="middle" font-family="DejaVu Sans">½</text>
+  </g>
+  <linearGradient id="b" y1="0" x1="90" y2="0" x2="465" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#80b3ff" offset="0"/>
+    <stop stop-color="#80b3ff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="0" y1="90" x2="0" y2="465" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#ff8080" offset="0"/>
+    <stop stop-color="#ff8080" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <pattern id="g" width="22" height="22" patternUnits="userSpaceOnUse">
+    <rect width="22" height="22" fill="#fff"/>
+    <path d="m2,0v22M0,2h22" stroke="#000"/>
+  </pattern>
+  </defs>
+  <path d="M0,0 90,90v376H0z" fill="url(#a)"/>
+  <path d="M0,0 90,90h376V0z" fill="url(#b)"/>
+  <text x="77" y="85" font-size="12" font-weight="700" text-anchor="end" font-family="DejaVu Sans">Attacker</text>
+  <text x="85" y="21" font-size="12" font-weight="700" text-anchor="end" font-family="DejaVu Sans">Defender</text>
+  <g id="s" stroke="#000">
+    <rect ry="11" x="6" y="90"  height="22" width="78" fill="#a8a878"/>
+    <rect ry="11" x="6" y="112" height="22" width="78" fill="#f08030"/>
+    <rect ry="11" x="6" y="134" height="22" width="78" fill="#6890f0"/>
+    <rect ry="11" x="6" y="156" height="22" width="78" fill="#78c850"/>
+    <rect ry="11" x="6" y="178" height="22" width="78" fill="#f8d030"/>
+    <rect ry="11" x="6" y="200" height="22" width="78" fill="#98d8d8"/>
+    <rect ry="11" x="6" y="222" height="22" width="78" fill="#c03028"/>
+    <rect ry="11" x="6" y="244" height="22" width="78" fill="#a040a0"/>
+    <rect ry="11" x="6" y="266" height="22" width="78" fill="#e0c068"/>
+    <rect ry="11" x="6" y="288" height="22" width="78" fill="#a890f0"/>
+    <rect ry="11" x="6" y="310" height="22" width="78" fill="#f85888"/>
+    <rect ry="11" x="6" y="332" height="22" width="78" fill="#a8b820"/>
+    <rect ry="11" x="6" y="354" height="22" width="78" fill="#b8a038"/>
+    <rect ry="11" x="6" y="376" height="22" width="78" fill="#705898"/>
+    <rect ry="11" x="6" y="398" height="22" width="78" fill="#7038f8"/>
+    <rect ry="11" x="6" y="420" height="22" width="78" fill="#705848"/>
+    <rect ry="11" x="6" y="442" height="22" width="78" fill="#b8b8d0"/>
+    <rect ry="11" x="6" y="464" height="22" width="78" fill="#ff9be1"/>
+  </g>
+  <use xlink:href="#s" transform="matrix(0,1,1,0,0,0)"/>
+  <g font-size="14" font-weight="bold" text-anchor="end" font-family="DejaVu Sans" fill="#fff">
+    <text x="79" y="105">Normal</text>
+    <text x="79" y="127">Fire</text>
+    <text x="79" y="149">Water</text>
+    <text x="79" y="171">Grass</text>
+    <text x="79" y="193" fill="#000">Electric</text>
+    <text x="79" y="215" fill="#000">Ice</text>
+    <text x="79" y="237">Fighting</text>
+    <text x="79" y="259">Poison</text>
+    <text x="79" y="281">Ground</text>
+    <text x="79" y="303">Flying</text>
+    <text x="79" y="325">Psychic</text>
+    <text x="79" y="347">Bug</text>
+    <text x="79" y="369">Rock</text>
+    <text x="79" y="391">Ghost</text>
+    <text x="79" y="413">Dragon</text>
+    <text x="79" y="435">Dark</text>
+    <text x="79" y="457">Steel</text>
+    <text x="79" y="479">Fairy</text>
+    <g transform="rotate(90)">
+    <text x="79" y="-97">Normal</text>
+    <text x="79" y="-119">Fire</text>
+    <text x="79" y="-141">Water</text>
+    <text x="79" y="-163">Grass</text>
+    <text x="79" y="-185" fill="#000">Electric</text>
+    <text x="79" y="-207" fill="#000">Ice</text>
+    <text x="79" y="-229">Fighting</text>
+    <text x="79" y="-251">Poison</text>
+    <text x="79" y="-273">Ground</text>
+    <text x="79" y="-295">Flying</text>
+    <text x="79" y="-317">Psychic</text>
+    <text x="79" y="-339">Bug</text>
+    <text x="79" y="-361">Rock</text>
+    <text x="79" y="-383">Ghost</text>
+    <text x="79" y="-405">Dragon</text>
+    <text x="79" y="-427">Dark</text>
+    <text x="79" y="-449">Steel</text>
+    <text x="79" y="-471">Fairy</text>
+    </g>
+  </g>
+  <rect x="90" y="90" height="396" width="396" fill="url(#g)" stroke="#000">
+    <title>1×</title>
+  </rect>
+  <use xlink:href="#d" y="132"/>
+  <use xlink:href="#e" y="286"/>
+  <use xlink:href="#f" x="22" y="22"/>
+  <use xlink:href="#d" x="22" y="44"/>
+  <use xlink:href="#f" x="22" y="66"/>
+  <use xlink:href="#f" x="22" y="110"/>
+  <use xlink:href="#d" x="22" y="176"/>
+  <use xlink:href="#f" x="22" y="242"/>
+  <use xlink:href="#d" x="22" y="264"/>
+  <use xlink:href="#f" x="22" y="352"/>
+  <use xlink:href="#f" x="22" y="374"/>
+  <use xlink:href="#f" x="44" y="22"/>
+  <use xlink:href="#f" x="44" y="44"/>
+  <use xlink:href="#d" x="44" y="66"/>
+  <use xlink:href="#d" x="44" y="88"/>
+  <use xlink:href="#f" x="44" y="110"/>
+  <use xlink:href="#f" x="44" y="352"/>
+  <use xlink:href="#d" x="66" y="22"/>
+  <use xlink:href="#f" x="66" y="44"/>
+  <use xlink:href="#f" x="66" y="66"/>
+  <use xlink:href="#f" x="66" y="88"/>
+  <use xlink:href="#d" x="66" y="110"/>
+  <use xlink:href="#d" x="66" y="154"/>
+  <use xlink:href="#d" x="66" y="198"/>
+  <use xlink:href="#f" x="66" y="176"/>
+  <use xlink:href="#d" x="66" y="242"/>
+  <use xlink:href="#f" x="88" y="88"/>
+  <use xlink:href="#f" x="110" y="110"/>
+  <use xlink:href="#d" x="88" y="176"/>
+  <use xlink:href="#f" x="88" y="198"/>
+  <use xlink:href="#f" x="88" y="352"/>
+  <use xlink:href="#d" x="110" y="22"/>
+  <use xlink:href="#d" x="110" y="132"/>
+  <use xlink:href="#d" x="110" y="264"/>
+  <use xlink:href="#d" x="110" y="352"/>
+  <use xlink:href="#d" x="132" y="374"/>
+  <use xlink:href="#f" x="132" y="330"/>
+  <use xlink:href="#f" x="132" y="264"/>
+  <use xlink:href="#f" x="132" y="242"/>
+  <use xlink:href="#d" x="132" y="220"/>
+  <use xlink:href="#d" x="132" y="198"/>
+  <use xlink:href="#f" x="154" y="66"/>
+  <use xlink:href="#f" x="154" y="132"/>
+  <use xlink:href="#f" x="154" y="154"/>
+  <use xlink:href="#d" x="154" y="176"/>
+  <use xlink:href="#d" x="154" y="220"/>
+  <use xlink:href="#f" x="154" y="242"/>
+  <use xlink:href="#f" x="154" y="374"/>
+  <use xlink:href="#e" x="176" y="88"/>
+  <use xlink:href="#d" x="176" y="66"/>
+  <use xlink:href="#d" x="176" y="44"/>
+  <use xlink:href="#d" x="176" y="110"/>
+  <use xlink:href="#f" x="176" y="154"/>
+  <use xlink:href="#f" x="176" y="264"/>
+  <use xlink:href="#f" x="198" y="242"/>
+  <use xlink:href="#d" x="198" y="264"/>
+  <use xlink:href="#e" x="198" y="176"/>
+  <use xlink:href="#f" x="198" y="132"/>
+  <use xlink:href="#d" x="198" y="110"/>
+  <use xlink:href="#d" x="198" y="88"/>
+  <use xlink:href="#f" x="198" y="66"/>
+  <use xlink:href="#f" x="220" y="132"/>
+  <use xlink:href="#d" x="220" y="330"/>
+  <use xlink:href="#d" x="220" y="286"/>
+  <use xlink:href="#d" x="220" y="242"/>
+  <use xlink:href="#f" x="220" y="220"/>
+  <use xlink:href="#d" x="242" y="22"/>
+  <use xlink:href="#d" x="242" y="198"/>
+  <use xlink:href="#d" x="242" y="264"/>
+  <use xlink:href="#f" x="242" y="176"/>
+  <use xlink:href="#f" x="242" y="132"/>
+  <use xlink:href="#f" x="242" y="66"/>
+  <use xlink:href="#f" x="264"/>
+  <use xlink:href="#f" x="264" y="22"/>
+  <use xlink:href="#d" x="264" y="44"/>
+  <use xlink:href="#d" x="264" y="66"/>
+  <use xlink:href="#d" x="264" y="132"/>
+  <use xlink:href="#d" x="264" y="176"/>
+  <use xlink:href="#f" x="264" y="154"/>
+  <use xlink:href="#f" x="264" y="198"/>
+  <use xlink:href="#d" x="264" y="352"/>
+  <use xlink:href="#e" x="286"/>
+  <use xlink:href="#e" x="286" y="132"/>
+  <use xlink:href="#f" x="286" y="154"/>
+  <use xlink:href="#f" x="286" y="242"/>
+  <use xlink:href="#d" x="286" y="330"/>
+  <use xlink:href="#d" x="286" y="286"/>
+  <use xlink:href="#f" x="308" y="22"/>
+  <use xlink:href="#f" x="308" y="44"/>
+  <use xlink:href="#f" x="308" y="66"/>
+  <use xlink:href="#f" x="308" y="88"/>
+  <use xlink:href="#d" x="308" y="110"/>
+  <use xlink:href="#d" x="308" y="374"/>
+  <use xlink:href="#d" x="308" y="308"/>
+  <use xlink:href="#d" x="330" y="132"/>
+  <use xlink:href="#e" x="330" y="220"/>
+  <use xlink:href="#d" x="330" y="242"/>
+  <use xlink:href="#f" x="330" y="286"/>
+  <use xlink:href="#f" x="330" y="330"/>
+  <use xlink:href="#d" x="330" y="374"/>
+  <use xlink:href="#f" x="352"/>
+  <use xlink:href="#d" x="352" y="22"/>
+  <use xlink:href="#f" x="352" y="66"/>
+  <use xlink:href="#f" x="352" y="110"/>
+  <use xlink:href="#d" x="352" y="132"/>
+  <use xlink:href="#e" x="352" y="154"/>
+  <use xlink:href="#d" x="352" y="176"/>
+  <use xlink:href="#f" x="352" y="198"/>
+  <use xlink:href="#f" x="352" y="220"/>
+  <use xlink:href="#f" x="352" y="242"/>
+  <use xlink:href="#f" x="352" y="308"/>
+  <use xlink:href="#f" x="352" y="264"/>
+  <use xlink:href="#f" x="352" y="352"/>
+  <use xlink:href="#f" x="352" y="374"/>
+  <use xlink:href="#d" x="374" y="352"/>
+  <use xlink:href="#f" x="374" y="330"/>
+  <use xlink:href="#e" x="374" y="308"/>
+  <use xlink:href="#f" x="374" y="242"/>
+  <use xlink:href="#d" x="374" y="154"/>
+  <use xlink:href="#f" x="374" y="132"/>
+</svg>

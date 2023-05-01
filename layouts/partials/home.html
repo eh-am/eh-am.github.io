@@ -8,11 +8,13 @@
   </section>
 
   <section class="list">
-    <h1>Latest stuff</h1>
+    <h1>Latest posts</h1>
     <ul>
       {{- range .Paginator.Pages | first 5 -}}
         {{- .Render "li" -}}
       {{- end -}}
+
+      <a href="/posts">See more posts</a>
     </ul>
   </section>
 </div>

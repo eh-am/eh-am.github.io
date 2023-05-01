@@ -58,6 +58,12 @@ lineNoStart = 1
             weight = 2
             url = "posts/"
 
+
+            [[languages.en.menu.main]]
+            name = "Weekly digest"
+            weight = 3
+            url = "weekly-digest/"
+
 #    [languages.es]
 #        languagename = "español"
 #

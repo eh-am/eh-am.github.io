@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"log"
 	"os"
 	"time"
@@ -9,17 +8,25 @@ import (
 
 func main() {
 	if len(os.Args) != 2 {
-		log.Fatalf("either 'all' or 'last' is required")
+		log.Fatalf("either 'all' | 'last' | 'last-2' is required")
 	}
 
+	var since time.Time
 	args := os.Args[1]
 	switch args {
 	case "all":
-		all()
+		since = time.Time{}
 	case "last":
-		last()
+		since = findLastSunday(time.Now())
+	case "last-2":
+		since = time.Now().Add(-time.Hour * 7 * 24)
 	default:
 		log.Fatalf("unknown arg: '%s'", args)
+	}
+
+	err := run(since)
+	if err != nil {
+		log.Fatalf("err: %v", err)
 	}
 }
 
@@ -37,40 +44,17 @@ func getAccess() (string, string) {
 	return consumerKey, accessKey
 }
 
-func all() {
-	fmt.Println("running all")
-
+func run(from time.Time) error {
 	url := "https://getpocket.com/v3/get"
 	consumerKey, accessToken := getAccess()
 
 	client := NewClient(url, consumerKey, accessToken)
-	clientRes, err := client.Do(time.Time{})
+	clientRes, err := client.Do(from)
 	if err != nil {
-		panic(err)
+		return err
 	}
 	grouped := GroupByISOWeek(clientRes.List)
-	err = Write("output", grouped)
-	if err != nil {
-		panic(err)
-	}
-}
-
-// TODO: figure out why it returns last week
-func last() {
-	fmt.Println("running last week")
-	url := "https://getpocket.com/v3/get"
-	consumerKey, accessToken := getAccess()
-
-	client := NewClient(url, consumerKey, accessToken)
-	clientRes, err := client.Do(findLastSunday(time.Now()))
-	if err != nil {
-		panic(err)
-	}
-	grouped := GroupByISOWeek(clientRes.List)
-	err = Write("output", grouped)
-	if err != nil {
-		panic(err)
-	}
+	return Write("output", grouped)
 }
 
 func findLastSunday(referenceDate time.Time) time.Time {

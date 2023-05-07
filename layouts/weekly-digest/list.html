@@ -16,7 +16,7 @@
          [{{ dateFormat (.Site.Params.dateFormat | default "01-02-2006" ) .time_added }}]
 
         {{/* see 2016-01) */}}
-        {{ .resolved_title | default .given_title | default .resolved_url | default .given_url }}
+        {{ .given_title | default .resolved_title | default .resolved_url | default .given_url }}
       </a> <br />
       {{ end }}
     </li>

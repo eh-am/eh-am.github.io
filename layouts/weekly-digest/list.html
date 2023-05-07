@@ -10,7 +10,7 @@
         {{ .year }} Week #{{ .week }}
       </a>
       <br />
-      {{ range .items }}
+      {{ range sort .items "time_added" "desc" }}
       <a href="{{ .resolved_url | default .given_url }}" target="_blank" />
        
          [{{ dateFormat (.Site.Params.dateFormat | default "01-02-2006" ) .time_added }}]

@@ -1,6 +1,4 @@
-name: github pages
-
-name: Pipeline
+name: weekly digest
 
 on:
   schedule:

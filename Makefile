@@ -9,6 +9,6 @@ serve-external:
 
 .PHONY: digest
 digest:
-	cd ./scripts/weekly-digest && go run . 24 hours ago
+	cd ./scripts/weekly-digest && go run . last week
 	cp scripts/weekly-digest/output/* data/digest/
 	

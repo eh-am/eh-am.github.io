@@ -1,0 +1,28 @@
+name: github pages
+
+name: Pipeline
+
+on:
+  schedule:
+    - cron: 0 */12 * * *
+  push:
+    branches:
+      - main
+
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true
+      - run: make digest
+        env:
+          POCKET_CONSUMER_KEY: '${{ secrets.POCKET_CONSUMER_KEY }}'
+          POCKET_ACCESS_TOKEN: '${{ secrets.POCKET_ACCESS_TOKEN }}'
+      - uses: stefanzweifel/git-auto-commit-action@v4

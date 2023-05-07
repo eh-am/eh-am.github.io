@@ -3,9 +3,8 @@ name: weekly digest
 on:
   schedule:
     - cron: 0 */12 * * *
-  push:
-    branches:
-      - main
+  pull_request:
+    branches: [main]
 
 
 jobs:

@@ -1,27 +1,26 @@
 package main
 
 import (
+	"fmt"
 	"log"
 	"os"
+	"strings"
 	"time"
+
+	"github.com/markusmobius/go-dateparser"
 )
 
 func main() {
-	if len(os.Args) != 2 {
-		log.Fatalf("either 'all' | 'last' | 'last-2' is required")
-	}
-
 	var since time.Time
-	args := os.Args[1]
-	switch args {
-	case "all":
+	if os.Args[1] == "all" {
 		since = time.Time{}
-	case "last":
-		since = findLastSunday(time.Now())
-	case "last-2":
-		since = time.Now().Add(-time.Hour * 7 * 24)
-	default:
-		log.Fatalf("unknown arg: '%s'", args)
+	} else {
+		args := strings.Join(os.Args[1:], " ")
+		dt, err := dateparser.Parse(nil, args)
+		if err != nil {
+			log.Fatalf("unknown arg: '%s'", args)
+		}
+		since = dt.Time
 	}
 
 	err := run(since)
@@ -45,6 +44,7 @@ func getAccess() (string, string) {
 }
 
 func run(from time.Time) error {
+	fmt.Println("running from", from)
 	url := "https://getpocket.com/v3/get"
 	consumerKey, accessToken := getAccess()
 

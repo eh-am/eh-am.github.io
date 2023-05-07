@@ -23,3 +23,5 @@ jobs:
           POCKET_CONSUMER_KEY: '${{ secrets.POCKET_CONSUMER_KEY }}'
           POCKET_ACCESS_TOKEN: '${{ secrets.POCKET_ACCESS_TOKEN }}'
       - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "[weekly digest] get latest data"

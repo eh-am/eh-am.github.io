@@ -4,13 +4,22 @@
  "sortKey": "2023-19",
  "items": [
   {
-   "item_id": "3861157564",
-   "given_url": "https://www1.folha.uol.com.br/blogs/cozinha-bruta/2023/05/palmirinha-foi-avo-autentica-em-meio-a-cozinha-afetiva-de-araque.shtml",
-   "given_title": "Palmirinha foi avó autêntica em meio à 'cozinha afetiva' de araque - 07/05/",
-   "resolved_title": "Palmirinha foi avó autêntica em meio à 'cozinha afetiva' de araque",
-   "resolved_url": "https://www1.folha.uol.com.br/blogs/cozinha-bruta/2023/05/palmirinha-foi-avo-autentica-em-meio-a-cozinha-afetiva-de-araque.shtml",
-   "time_updated": "2023-05-08T10:30:01Z",
-   "time_added": "2023-05-08T10:30:00Z"
+   "item_id": "2097140372",
+   "given_url": "https://www.integralist.co.uk/posts/golang-reverse-proxy/",
+   "given_title": "Golang Reverse Proxy ⋆ Mark McDonnell",
+   "resolved_title": "Golang Reverse Proxy",
+   "resolved_url": "https://www.integralist.co.uk/posts/golang-reverse-proxy/",
+   "time_updated": "2023-05-08T16:53:52Z",
+   "time_added": "2023-05-08T16:53:52Z"
+  },
+  {
+   "item_id": "3861430974",
+   "given_url": "https://news.ycombinator.com/item?id=35859938",
+   "given_title": "Sounds like that Simpsons episode (https://simpsons.fandom.com/wiki/The_Bob",
+   "resolved_title": "Sounds like that Simpsons episode (https : //simpsons.fandom.com/wiki/The_Bob_Next... : Hacker News",
+   "resolved_url": "https://news.ycombinator.com/item?id=35859938",
+   "time_updated": "2023-05-08T10:20:50Z",
+   "time_added": "2023-05-08T10:20:46Z"
   },
   {
    "item_id": "769528044",
@@ -22,13 +31,31 @@
    "time_added": "2023-05-08T09:28:00Z"
   },
   {
-   "item_id": "3861430974",
-   "given_url": "https://news.ycombinator.com/item?id=35859938",
-   "given_title": "Sounds like that Simpsons episode (https://simpsons.fandom.com/wiki/The_Bob",
-   "resolved_title": "Sounds like that Simpsons episode (https : //simpsons.fandom.com/wiki/The_Bob_Next... : Hacker News",
-   "resolved_url": "https://news.ycombinator.com/item?id=35859938",
-   "time_updated": "2023-05-08T10:20:50Z",
-   "time_added": "2023-05-08T10:20:46Z"
+   "item_id": "3776674811",
+   "given_url": "https://medium.com/@pachecoandrea/what-i-learned-as-a-product-designer-at-apple-35341d9ced8a",
+   "given_title": "What I Learned as a Product Designer at Apple | by Andrea Pacheco | Medium",
+   "resolved_title": "What I Learned as a Product Designer at Apple",
+   "resolved_url": "https://medium.com/@pachecoandrea/what-i-learned-as-a-product-designer-at-apple-35341d9ced8a",
+   "time_updated": "2023-05-08T22:45:37Z",
+   "time_added": "2023-05-08T22:45:36Z"
+  },
+  {
+   "item_id": "3861679597",
+   "given_url": "https://www.moshbit.pt/2023/05/07/entrevista-aos-sword-and-shield-o-larp-em-portugal/",
+   "given_title": "Entrevista aos Sword and Shield - O LARP em Portugal - MoshBit Gaming",
+   "resolved_title": "Entrevista aos Sword and Shield – O LARP em Portugal",
+   "resolved_url": "https://www.moshbit.pt/2023/05/07/entrevista-aos-sword-and-shield-o-larp-em-portugal/",
+   "time_updated": "2023-05-08T18:40:48Z",
+   "time_added": "2023-05-08T18:40:43Z"
+  },
+  {
+   "item_id": "3861157564",
+   "given_url": "https://www1.folha.uol.com.br/blogs/cozinha-bruta/2023/05/palmirinha-foi-avo-autentica-em-meio-a-cozinha-afetiva-de-araque.shtml",
+   "given_title": "Palmirinha foi avó autêntica em meio à 'cozinha afetiva' de araque - 07/05/",
+   "resolved_title": "Palmirinha foi avó autêntica em meio à 'cozinha afetiva' de araque",
+   "resolved_url": "https://www1.folha.uol.com.br/blogs/cozinha-bruta/2023/05/palmirinha-foi-avo-autentica-em-meio-a-cozinha-afetiva-de-araque.shtml",
+   "time_updated": "2023-05-08T10:30:01Z",
+   "time_added": "2023-05-08T10:30:00Z"
   }
  ]
 }

@@ -4,6 +4,69 @@
  "sortKey": "2023-19",
  "items": [
   {
+   "item_id": "3861430974",
+   "given_url": "https://news.ycombinator.com/item?id=35859938",
+   "given_title": "Sounds like that Simpsons episode (https://simpsons.fandom.com/wiki/The_Bob",
+   "resolved_title": "Sounds like that Simpsons episode (https : //simpsons.fandom.com/wiki/The_Bob_Next... : Hacker News",
+   "resolved_url": "https://news.ycombinator.com/item?id=35859938",
+   "time_updated": "2023-05-08T10:20:50Z",
+   "time_added": "2023-05-08T10:20:46Z"
+  },
+  {
+   "item_id": "2097140372",
+   "given_url": "https://www.integralist.co.uk/posts/golang-reverse-proxy/",
+   "given_title": "Golang Reverse Proxy ⋆ Mark McDonnell",
+   "resolved_title": "Golang Reverse Proxy",
+   "resolved_url": "https://www.integralist.co.uk/posts/golang-reverse-proxy/",
+   "time_updated": "2023-05-08T16:53:52Z",
+   "time_added": "2023-05-08T16:53:52Z"
+  },
+  {
+   "item_id": "3776674811",
+   "given_url": "https://medium.com/@pachecoandrea/what-i-learned-as-a-product-designer-at-apple-35341d9ced8a",
+   "given_title": "What I Learned as a Product Designer at Apple | by Andrea Pacheco | Medium",
+   "resolved_title": "What I Learned as a Product Designer at Apple",
+   "resolved_url": "https://medium.com/@pachecoandrea/what-i-learned-as-a-product-designer-at-apple-35341d9ced8a",
+   "time_updated": "2023-05-08T22:45:37Z",
+   "time_added": "2023-05-08T22:45:36Z"
+  },
+  {
+   "item_id": "3862014485",
+   "given_url": "https://twitter.com/PauloAmaroFerr1/status/1655617399549308932?t=z1-apt95v5Bdnugz7vWR0g\u0026s=08",
+   "given_title": "Paulo Amaro Ferreira no Twitter: \"Olhem só o naipe desse pessoal. Dá até ve",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/PauloAmaroFerr1/status/1655617399549308932?t=z1-apt95v5Bdnugz7vWR0g\u0026s=08",
+   "time_updated": "2023-05-09T08:13:43Z",
+   "time_added": "2023-05-09T08:13:41Z"
+  },
+  {
+   "item_id": "3862189189",
+   "given_url": "https://www1.folha.uol.com.br/ilustrada/2023/05/morre-rita-lee-maior-estrela-do-rock-brasileiro-e-icone-dos-mutantes-aos-75-anos.shtml",
+   "given_title": "Morre Rita Lee, rainha do rock brasileiro, aos 75 anos - 09/05/2023 - Ilust",
+   "resolved_title": "Morre Rita Lee, maior estrela do rock brasileiro e ícone dos Mutantes, aos 75 anos",
+   "resolved_url": "https://www1.folha.uol.com.br/ilustrada/2023/05/morre-rita-lee-maior-estrela-do-rock-brasileiro-e-icone-dos-mutantes-aos-75-anos.shtml",
+   "time_updated": "2023-05-09T22:29:36Z",
+   "time_added": "2023-05-09T22:29:35Z"
+  },
+  {
+   "item_id": "3861373723",
+   "given_url": "https://vladimirzdrazil.com/posts/object-keys-keyof-t/",
+   "given_title": "Why Object.keys doesn't and shouldn't return (keyof T)[] | Vladimír Zdražil",
+   "resolved_title": "Why Object.keys doesn't and shouldn't return (keyof T)[]",
+   "resolved_url": "https://vladimirzdrazil.com/posts/object-keys-keyof-t/",
+   "time_updated": "2023-05-09T11:17:40Z",
+   "time_added": "2023-05-09T11:17:40Z"
+  },
+  {
+   "item_id": "3861679597",
+   "given_url": "https://www.moshbit.pt/2023/05/07/entrevista-aos-sword-and-shield-o-larp-em-portugal/",
+   "given_title": "Entrevista aos Sword and Shield - O LARP em Portugal - MoshBit Gaming",
+   "resolved_title": "Entrevista aos Sword and Shield – O LARP em Portugal",
+   "resolved_url": "https://www.moshbit.pt/2023/05/07/entrevista-aos-sword-and-shield-o-larp-em-portugal/",
+   "time_updated": "2023-05-08T18:40:48Z",
+   "time_added": "2023-05-08T18:40:43Z"
+  },
+  {
    "item_id": "3862054188",
    "given_url": "https://www.pnas.org/doi/full/10.1073/pnas.2218782120",
    "given_title": "Country-level gender inequality is associated with structural differences i",
@@ -11,6 +74,15 @@
    "resolved_url": "https://www.pnas.org/doi/full/10.1073/pnas.2218782120",
    "time_updated": "2023-05-09T11:17:10Z",
    "time_added": "2023-05-09T11:17:10Z"
+  },
+  {
+   "item_id": "1780344788",
+   "given_url": "https://github.com/vadimdemedes/ink",
+   "given_title": "GitHub - vadimdemedes/ink: ? React for interactive command-line apps",
+   "resolved_title": "vadimdemedes/ink",
+   "resolved_url": "https://github.com/vadimdemedes/ink",
+   "time_updated": "2023-05-09T11:19:24Z",
+   "time_added": "2023-05-09T11:19:23Z"
   },
   {
    "item_id": "769528044",
@@ -40,22 +112,13 @@
    "time_added": "2023-05-09T08:20:27Z"
   },
   {
-   "item_id": "3861430974",
-   "given_url": "https://news.ycombinator.com/item?id=35859938",
-   "given_title": "Sounds like that Simpsons episode (https://simpsons.fandom.com/wiki/The_Bob",
-   "resolved_title": "Sounds like that Simpsons episode (https : //simpsons.fandom.com/wiki/The_Bob_Next... : Hacker News",
-   "resolved_url": "https://news.ycombinator.com/item?id=35859938",
-   "time_updated": "2023-05-08T10:20:50Z",
-   "time_added": "2023-05-08T10:20:46Z"
-  },
-  {
-   "item_id": "3862018410",
-   "given_url": "https://twitter.com/yuri_kaaa/status/1655801436985327617",
-   "given_title": "yuri.ka〜 no Twitter: \"Roubaram mais de 100 Rolex de uma loja em Ginza, em p",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/yuri_kaaa/status/1655801436985327617",
-   "time_updated": "2023-05-09T08:23:08Z",
-   "time_added": "2023-05-09T08:23:05Z"
+   "item_id": "3861717991",
+   "given_url": "https://www1.folha.uol.com.br/mundo/2023/05/por-que-brasileiros-nao-sao-considerados-latinos-nos-eua.shtml",
+   "given_title": "Por que brasileiros não são considerados latinos nos EUA - 08/05/2023 - Mun",
+   "resolved_title": "Por que brasileiros não são considerados latinos nos EUA",
+   "resolved_url": "https://www1.folha.uol.com.br/mundo/2023/05/por-que-brasileiros-nao-sao-considerados-latinos-nos-eua.shtml",
+   "time_updated": "2023-05-09T09:24:42Z",
+   "time_added": "2023-05-09T09:24:42Z"
   },
   {
    "item_id": "3861622976",
@@ -67,67 +130,22 @@
    "time_added": "2023-05-09T11:20:34Z"
   },
   {
-   "item_id": "3862014485",
-   "given_url": "https://twitter.com/PauloAmaroFerr1/status/1655617399549308932?t=z1-apt95v5Bdnugz7vWR0g\u0026s=08",
-   "given_title": "Paulo Amaro Ferreira no Twitter: \"Olhem só o naipe desse pessoal. Dá até ve",
+   "item_id": "3862018410",
+   "given_url": "https://twitter.com/yuri_kaaa/status/1655801436985327617",
+   "given_title": "yuri.ka〜 no Twitter: \"Roubaram mais de 100 Rolex de uma loja em Ginza, em p",
    "resolved_title": "",
-   "resolved_url": "https://twitter.com/PauloAmaroFerr1/status/1655617399549308932?t=z1-apt95v5Bdnugz7vWR0g\u0026s=08",
-   "time_updated": "2023-05-09T08:13:43Z",
-   "time_added": "2023-05-09T08:13:41Z"
+   "resolved_url": "https://twitter.com/yuri_kaaa/status/1655801436985327617",
+   "time_updated": "2023-05-09T08:23:08Z",
+   "time_added": "2023-05-09T08:23:05Z"
   },
   {
-   "item_id": "3861679597",
-   "given_url": "https://www.moshbit.pt/2023/05/07/entrevista-aos-sword-and-shield-o-larp-em-portugal/",
-   "given_title": "Entrevista aos Sword and Shield - O LARP em Portugal - MoshBit Gaming",
-   "resolved_title": "Entrevista aos Sword and Shield – O LARP em Portugal",
-   "resolved_url": "https://www.moshbit.pt/2023/05/07/entrevista-aos-sword-and-shield-o-larp-em-portugal/",
-   "time_updated": "2023-05-08T18:40:48Z",
-   "time_added": "2023-05-08T18:40:43Z"
-  },
-  {
-   "item_id": "3861717991",
-   "given_url": "https://www1.folha.uol.com.br/mundo/2023/05/por-que-brasileiros-nao-sao-considerados-latinos-nos-eua.shtml",
-   "given_title": "Por que brasileiros não são considerados latinos nos EUA - 08/05/2023 - Mun",
-   "resolved_title": "Por que brasileiros não são considerados latinos nos EUA",
-   "resolved_url": "https://www1.folha.uol.com.br/mundo/2023/05/por-que-brasileiros-nao-sao-considerados-latinos-nos-eua.shtml",
-   "time_updated": "2023-05-09T09:24:42Z",
-   "time_added": "2023-05-09T09:24:42Z"
-  },
-  {
-   "item_id": "3861373723",
-   "given_url": "https://vladimirzdrazil.com/posts/object-keys-keyof-t/",
-   "given_title": "Why Object.keys doesn't and shouldn't return (keyof T)[] | Vladimír Zdražil",
-   "resolved_title": "Why Object.keys doesn't and shouldn't return (keyof T)[]",
-   "resolved_url": "https://vladimirzdrazil.com/posts/object-keys-keyof-t/",
-   "time_updated": "2023-05-09T11:17:40Z",
-   "time_added": "2023-05-09T11:17:40Z"
-  },
-  {
-   "item_id": "2097140372",
-   "given_url": "https://www.integralist.co.uk/posts/golang-reverse-proxy/",
-   "given_title": "Golang Reverse Proxy ⋆ Mark McDonnell",
-   "resolved_title": "Golang Reverse Proxy",
-   "resolved_url": "https://www.integralist.co.uk/posts/golang-reverse-proxy/",
-   "time_updated": "2023-05-08T16:53:52Z",
-   "time_added": "2023-05-08T16:53:52Z"
-  },
-  {
-   "item_id": "1780344788",
-   "given_url": "https://github.com/vadimdemedes/ink",
-   "given_title": "GitHub - vadimdemedes/ink: ? React for interactive command-line apps",
-   "resolved_title": "vadimdemedes/ink",
-   "resolved_url": "https://github.com/vadimdemedes/ink",
-   "time_updated": "2023-05-09T11:19:24Z",
-   "time_added": "2023-05-09T11:19:23Z"
-  },
-  {
-   "item_id": "3776674811",
-   "given_url": "https://medium.com/@pachecoandrea/what-i-learned-as-a-product-designer-at-apple-35341d9ced8a",
-   "given_title": "What I Learned as a Product Designer at Apple | by Andrea Pacheco | Medium",
-   "resolved_title": "What I Learned as a Product Designer at Apple",
-   "resolved_url": "https://medium.com/@pachecoandrea/what-i-learned-as-a-product-designer-at-apple-35341d9ced8a",
-   "time_updated": "2023-05-08T22:45:37Z",
-   "time_added": "2023-05-08T22:45:36Z"
+   "item_id": "3862211307",
+   "given_url": "https://www1.folha.uol.com.br/ilustrada/2023/05/rita-lee-rebelde-desde-a-infancia-se-deixou-guiar-por-drogas-e-discos-voadores.shtml?utm_source=twitter\u0026utm_medium=social\u0026utm_campaign=twfolha",
+   "given_title": "Morre Rita Lee: relembre curiosidades com as drogas - 09/05/2023 - Ilustrad",
+   "resolved_title": "Rita Lee, rebelde desde a infância, se deixou guiar por drogas e discos voadores",
+   "resolved_url": "https://www1.folha.uol.com.br/ilustrada/2023/05/rita-lee-rebelde-desde-a-infancia-se-deixou-guiar-por-drogas-e-discos-voadores.shtml",
+   "time_updated": "2023-05-09T14:50:48Z",
+   "time_added": "2023-05-09T14:50:48Z"
   }
  ]
 }

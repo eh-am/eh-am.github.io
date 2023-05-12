@@ -4,112 +4,13 @@
  "sortKey": "2023-19",
  "items": [
   {
-   "item_id": "3863571786",
-   "given_url": "https://twitter.com/AnarcoFino/status/1656687314343526408",
-   "given_title": "Orlando Calheiros (Escutem o Cálice!) no Twitter: \"Passarinho me dizendo qu",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/AnarcoFino/status/1656687314343526408",
-   "time_updated": "2023-05-11T16:20:17Z",
-   "time_added": "2023-05-11T16:20:14Z"
-  },
-  {
-   "item_id": "3234536290",
-   "given_url": "https://github.com/k3s-io/kine",
-   "given_title": "k3s-io/kine: Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd.",
-   "resolved_title": "Kine (Kine is not etcd)",
-   "resolved_url": "https://github.com/k3s-io/kine",
-   "time_updated": "2023-05-10T09:52:37Z",
-   "time_added": "2023-05-10T09:52:37Z"
-  },
-  {
-   "item_id": "3862893052",
-   "given_url": "https://www1.folha.uol.com.br/ilustrada/2023/05/rita-lee-e-meu-primeiro-linchamento-virtual.shtml",
-   "given_title": "Rita Lee e meu primeiro linchamento virtual - 10/05/2023 - Ilustrada - Folh",
-   "resolved_title": "Rita Lee e meu primeiro linchamento virtual",
-   "resolved_url": "https://www1.folha.uol.com.br/ilustrada/2023/05/rita-lee-e-meu-primeiro-linchamento-virtual.shtml",
-   "time_updated": "2023-05-10T18:44:52Z",
-   "time_added": "2023-05-10T18:44:52Z"
-  },
-  {
-   "item_id": "3862018410",
-   "given_url": "https://twitter.com/yuri_kaaa/status/1655801436985327617",
-   "given_title": "yuri.ka〜 no Twitter: \"Roubaram mais de 100 Rolex de uma loja em Ginza, em p",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/yuri_kaaa/status/1655801436985327617",
-   "time_updated": "2023-05-09T08:23:08Z",
-   "time_added": "2023-05-09T08:23:05Z"
-  },
-  {
-   "item_id": "3862543924",
-   "given_url": "https://twitter.com/moniza_hossain/status/1656106325246636033",
-   "given_title": "Moniza Hossain no Twitter: \"This is so incredibly hilarious. The story of h",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/moniza_hossain/status/1656106325246636033",
-   "time_updated": "2023-05-11T08:15:59Z",
-   "time_added": "2023-05-11T08:15:59Z"
-  },
-  {
-   "item_id": "2857891280",
-   "given_url": "https://en.m.wikipedia.org/wiki/This_Is_How_You_Lose_the_Time_War",
-   "given_title": "This Is How You Lose the Time War - Wikipedia",
-   "resolved_title": "This Is How You Lose the Time War",
-   "resolved_url": "https://en.wikipedia.org/wiki/This_Is_How_You_Lose_the_Time_War",
-   "time_updated": "2023-05-11T06:52:13Z",
-   "time_added": "2023-05-11T06:52:12Z"
-  },
-  {
-   "item_id": "3863507011",
-   "given_url": "https://twitter.com/davescrivener/status/1656431851970473985",
-   "given_title": "Dave Scrivener no Twitter: \"Toronto City Council legalizes duplexes, triple",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/davescrivener/status/1656431851970473985",
-   "time_updated": "2023-05-11T14:20:03Z",
-   "time_added": "2023-05-11T14:20:00Z"
-  },
-  {
-   "item_id": "3862727479",
-   "given_url": "https://twitter.com/zachklein/status/1656013452069199872",
-   "given_title": "Zach Klein no Twitter: \"I spent seven years building a kid/ed-tech product ",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/zachklein/status/1656013452069199872",
-   "time_updated": "2023-05-10T10:12:42Z",
-   "time_added": "2023-05-10T10:12:40Z"
-  },
-  {
-   "item_id": "2085163210",
-   "given_url": "https://en.wikipedia.org/wiki/Restrictions_on_geographic_data_in_China#The_China_GPS_shift_problem",
-   "given_title": "Restrictions on geographic data in China - Wikipedia",
-   "resolved_title": "Restrictions on geographic data in China",
-   "resolved_url": "https://en.wikipedia.org/wiki/Restrictions_on_geographic_data_in_China",
-   "time_updated": "2023-05-10T18:47:27Z",
-   "time_added": "2023-05-10T18:47:27Z"
-  },
-  {
-   "item_id": "3776674811",
-   "given_url": "https://medium.com/@pachecoandrea/what-i-learned-as-a-product-designer-at-apple-35341d9ced8a",
-   "given_title": "What I Learned as a Product Designer at Apple | by Andrea Pacheco | Medium",
-   "resolved_title": "What I Learned as a Product Designer at Apple",
-   "resolved_url": "https://medium.com/@pachecoandrea/what-i-learned-as-a-product-designer-at-apple-35341d9ced8a",
-   "time_updated": "2023-05-08T22:45:37Z",
-   "time_added": "2023-05-08T22:45:36Z"
-  },
-  {
-   "item_id": "3863362168",
-   "given_url": "https://twitter.com/agsportlight/status/1656592691826683904",
-   "given_title": "Agência Sportlight no Twitter: \"“O Brasil está no radar, a Libertadores tam",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/agsportlight/status/1656592691826683904",
-   "time_updated": "2023-05-11T09:36:30Z",
-   "time_added": "2023-05-11T09:36:28Z"
-  },
-  {
-   "item_id": "3862017368",
-   "given_url": "https://twitter.com/dhruvfranklin/status/1655559773025103874",
-   "given_title": "Dhruv Franklin no Twitter: \"It never occurred to me that the white fur of s",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/dhruvfranklin/status/1655559773025103874",
-   "time_updated": "2023-05-09T08:20:29Z",
-   "time_added": "2023-05-09T08:20:27Z"
+   "item_id": "3863745036",
+   "given_url": "https://m.youtube.com/watch?v=BpI_1o7ow5s\u0026feature=youtu.be",
+   "given_title": "Ryu ga Gotoku 5 - Ultimate Dream Counter - YouTube",
+   "resolved_title": "Ryu ga Gotoku 5 - Ultimate Dream Counter",
+   "resolved_url": "http://www.youtube.com/watch?v=BpI_1o7ow5s",
+   "time_updated": "2023-05-11T22:24:33Z",
+   "time_added": "2023-05-11T22:24:31Z"
   },
   {
    "item_id": "3862189189",
@@ -121,51 +22,6 @@
    "time_added": "2023-05-09T22:29:35Z"
   },
   {
-   "item_id": "3863439277",
-   "given_url": "https://www.otakupt.com/manga/onde-comprar-manga-e-outros-livros-em-ingles/",
-   "given_title": "Onde Comprar Manga (e outros livros) em Inglês | OtakuPT",
-   "resolved_title": "Onde Comprar Manga (e outros livros) em Inglês",
-   "resolved_url": "https://www.otakupt.com/manga/onde-comprar-manga-e-outros-livros-em-ingles/",
-   "time_updated": "2023-05-11T12:15:39Z",
-   "time_added": "2023-05-11T12:15:36Z"
-  },
-  {
-   "item_id": "3862054188",
-   "given_url": "https://www.pnas.org/doi/full/10.1073/pnas.2218782120",
-   "given_title": "Country-level gender inequality is associated with structural differences i",
-   "resolved_title": "PNAS",
-   "resolved_url": "https://www.pnas.org/doi/full/10.1073/pnas.2218782120",
-   "time_updated": "2023-05-09T11:17:10Z",
-   "time_added": "2023-05-09T11:17:10Z"
-  },
-  {
-   "item_id": "3861622976",
-   "given_url": "https://jacobbartlett.substack.com/p/the-dennis-system-cvs-tips-for-senior",
-   "given_title": "The D.E.N.N.I.S. system: Résumé tips for Senior Devs",
-   "resolved_title": "The D.E.N.N.I.S. system: Résumé tips for Senior Devs",
-   "resolved_url": "https://jacobbartlett.substack.com/p/the-dennis-system-cvs-tips-for-senior",
-   "time_updated": "2023-05-09T11:20:35Z",
-   "time_added": "2023-05-09T11:20:34Z"
-  },
-  {
-   "item_id": "3862211307",
-   "given_url": "https://www1.folha.uol.com.br/ilustrada/2023/05/rita-lee-rebelde-desde-a-infancia-se-deixou-guiar-por-drogas-e-discos-voadores.shtml?utm_source=twitter\u0026utm_medium=social\u0026utm_campaign=twfolha",
-   "given_title": "Morre Rita Lee: relembre curiosidades com as drogas - 09/05/2023 - Ilustrad",
-   "resolved_title": "Rita Lee, rebelde desde a infância, se deixou guiar por drogas e discos voadores",
-   "resolved_url": "https://www1.folha.uol.com.br/ilustrada/2023/05/rita-lee-rebelde-desde-a-infancia-se-deixou-guiar-por-drogas-e-discos-voadores.shtml",
-   "time_updated": "2023-05-09T14:50:48Z",
-   "time_added": "2023-05-09T14:50:48Z"
-  },
-  {
-   "item_id": "3863329417",
-   "given_url": "https://twitter.com/ctjlewis/status/1656439554503581696",
-   "given_title": "Lewis no Twitter: \"@atmvc preferential access rollout to insiders and influ",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/ctjlewis/status/1656439554503581696",
-   "time_updated": "2023-05-11T08:25:20Z",
-   "time_added": "2023-05-11T08:25:18Z"
-  },
-  {
    "item_id": "3863353590",
    "given_url": "https://twitter.com/glebm/status/1656400017156915201",
    "given_title": "Gleb Mazovetskiy no Twitter: \"@kosamari Han Unification is the biggest mist",
@@ -173,51 +29,6 @@
    "resolved_url": "https://twitter.com/glebm/status/1656400017156915201",
    "time_updated": "2023-05-11T09:19:07Z",
    "time_added": "2023-05-11T09:19:06Z"
-  },
-  {
-   "item_id": "3861430974",
-   "given_url": "https://news.ycombinator.com/item?id=35859938",
-   "given_title": "Sounds like that Simpsons episode (https://simpsons.fandom.com/wiki/The_Bob",
-   "resolved_title": "Sounds like that Simpsons episode (https : //simpsons.fandom.com/wiki/The_Bob_Next... : Hacker News",
-   "resolved_url": "https://news.ycombinator.com/item?id=35859938",
-   "time_updated": "2023-05-08T10:20:50Z",
-   "time_added": "2023-05-08T10:20:46Z"
-  },
-  {
-   "item_id": "3863745036",
-   "given_url": "https://m.youtube.com/watch?v=BpI_1o7ow5s\u0026feature=youtu.be",
-   "given_title": "Ryu ga Gotoku 5 - Ultimate Dream Counter - YouTube",
-   "resolved_title": "Ryu ga Gotoku 5 - Ultimate Dream Counter",
-   "resolved_url": "http://www.youtube.com/watch?v=BpI_1o7ow5s",
-   "time_updated": "2023-05-11T22:24:33Z",
-   "time_added": "2023-05-11T22:24:31Z"
-  },
-  {
-   "item_id": "3863745075",
-   "given_url": "https://twitter.com/gokudoni/status/1656671923542323206",
-   "given_title": "Gokudoni no Twitter: \"Friendly reminder that Yakuza 5 featured the word Yum",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/gokudoni/status/1656671923542323206",
-   "time_updated": "2023-05-11T22:24:38Z",
-   "time_added": "2023-05-11T22:24:36Z"
-  },
-  {
-   "item_id": "3863565337",
-   "given_url": "https://twitter.com/ritamiramarques/status/1656262356341497857",
-   "given_title": "rita no Twitter: \"https://t.co/QyIvC5YlJ3 Este vídeo expõe o que está a olh",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/ritamiramarques/status/1656262356341497857",
-   "time_updated": "2023-05-11T16:09:09Z",
-   "time_added": "2023-05-11T16:09:06Z"
-  },
-  {
-   "item_id": "374697762",
-   "given_url": "https://en.m.wikipedia.org/wiki/A_Supposedly_Fun_Thing_I%27ll_Never_Do_Again",
-   "given_title": "A Supposedly Fun Thing I'll Never Do Again - Wikipedia",
-   "resolved_title": "A Supposedly Fun Thing I'll Never Do Again",
-   "resolved_url": "https://en.wikipedia.org/wiki/A_Supposedly_Fun_Thing_I%27ll_Never_Do_Again",
-   "time_updated": "2023-05-10T13:03:32Z",
-   "time_added": "2023-05-10T13:03:31Z"
   },
   {
    "item_id": "1333273076",
@@ -229,33 +40,6 @@
    "time_added": "2023-05-10T18:45:42Z"
   },
   {
-   "item_id": "2097140372",
-   "given_url": "https://www.integralist.co.uk/posts/golang-reverse-proxy/",
-   "given_title": "Golang Reverse Proxy ⋆ Mark McDonnell",
-   "resolved_title": "Golang Reverse Proxy",
-   "resolved_url": "https://www.integralist.co.uk/posts/golang-reverse-proxy/",
-   "time_updated": "2023-05-08T16:53:52Z",
-   "time_added": "2023-05-08T16:53:52Z"
-  },
-  {
-   "item_id": "3861373723",
-   "given_url": "https://vladimirzdrazil.com/posts/object-keys-keyof-t/",
-   "given_title": "Why Object.keys doesn't and shouldn't return (keyof T)[] | Vladimír Zdražil",
-   "resolved_title": "Why Object.keys doesn't and shouldn't return (keyof T)[]",
-   "resolved_url": "https://vladimirzdrazil.com/posts/object-keys-keyof-t/",
-   "time_updated": "2023-05-09T11:17:40Z",
-   "time_added": "2023-05-09T11:17:40Z"
-  },
-  {
-   "item_id": "3862187028",
-   "given_url": "https://twitter.com/paulg/status/1655925905527537666",
-   "given_title": "Paul Graham no Twitter: \"Observation suggests that people are switching to ",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/paulg/status/1655925905527537666",
-   "time_updated": "2023-05-11T10:21:29Z",
-   "time_added": "2023-05-11T10:21:28Z"
-  },
-  {
    "item_id": "769528044",
    "given_url": "https://web.whatsapp.com/",
    "given_title": "WhatsApp",
@@ -265,49 +49,13 @@
    "time_added": "2023-05-08T09:28:00Z"
   },
   {
-   "item_id": "3863572762",
-   "given_url": "https://twitter.com/michaelcurzi/status/1656371405284339714",
-   "given_title": "???????????? no Twitter: \"TIL https://t.co/1w0kmjoIwo\" / Twitter",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/michaelcurzi/status/1656371405284339714",
-   "time_updated": "2023-05-11T16:21:56Z",
-   "time_added": "2023-05-11T16:21:54Z"
-  },
-  {
-   "item_id": "3862765936",
-   "given_url": "https://redd.one/blog/my-struggle-with-remix",
-   "given_title": "My Struggle With Remix - Redd",
-   "resolved_title": "My Struggle With Remix",
-   "resolved_url": "https://redd.one/blog/my-struggle-with-remix",
-   "time_updated": "2023-05-10T15:46:07Z",
-   "time_added": "2023-05-10T15:46:06Z"
-  },
-  {
-   "item_id": "3861679597",
-   "given_url": "https://www.moshbit.pt/2023/05/07/entrevista-aos-sword-and-shield-o-larp-em-portugal/",
-   "given_title": "Entrevista aos Sword and Shield - O LARP em Portugal - MoshBit Gaming",
-   "resolved_title": "Entrevista aos Sword and Shield – O LARP em Portugal",
-   "resolved_url": "https://www.moshbit.pt/2023/05/07/entrevista-aos-sword-and-shield-o-larp-em-portugal/",
-   "time_updated": "2023-05-08T18:40:48Z",
-   "time_added": "2023-05-08T18:40:43Z"
-  },
-  {
-   "item_id": "1780344788",
-   "given_url": "https://github.com/vadimdemedes/ink",
-   "given_title": "GitHub - vadimdemedes/ink: ? React for interactive command-line apps",
-   "resolved_title": "vadimdemedes/ink",
-   "resolved_url": "https://github.com/vadimdemedes/ink",
-   "time_updated": "2023-05-09T11:19:24Z",
-   "time_added": "2023-05-09T11:19:23Z"
-  },
-  {
-   "item_id": "3862303740",
-   "given_url": "https://www.youtube.com/watch?v=CZzcVs8tNfE",
-   "given_title": "(3) How Nintendo Solved Zelda's Open World Problem - YouTube",
-   "resolved_title": "How Nintendo Solved Zelda's Open World Problem",
-   "resolved_url": "http://www.youtube.com/watch?v=CZzcVs8tNfE",
-   "time_updated": "2023-05-10T09:43:53Z",
-   "time_added": "2023-05-10T09:43:53Z"
+   "item_id": "3861717991",
+   "given_url": "https://www1.folha.uol.com.br/mundo/2023/05/por-que-brasileiros-nao-sao-considerados-latinos-nos-eua.shtml",
+   "given_title": "Por que brasileiros não são considerados latinos nos EUA - 08/05/2023 - Mun",
+   "resolved_title": "Por que brasileiros não são considerados latinos nos EUA",
+   "resolved_url": "https://www1.folha.uol.com.br/mundo/2023/05/por-que-brasileiros-nao-sao-considerados-latinos-nos-eua.shtml",
+   "time_updated": "2023-05-09T09:24:42Z",
+   "time_added": "2023-05-09T09:24:42Z"
   },
   {
    "item_id": "3488213295",
@@ -319,22 +67,67 @@
    "time_added": "2023-05-11T10:23:18Z"
   },
   {
-   "item_id": "3863385960",
-   "given_url": "https://news.ycombinator.com/item?id=35895005",
-   "given_title": "Telegram deletes message against Brazil’s Bill after Supreme Court threat |",
-   "resolved_title": "Telegram deletes message against Brazil’s Bill after Supreme Court threat",
-   "resolved_url": "https://news.ycombinator.com/item?id=35895005",
-   "time_updated": "2023-05-11T10:27:20Z",
-   "time_added": "2023-05-11T10:27:16Z"
+   "item_id": "3861373723",
+   "given_url": "https://vladimirzdrazil.com/posts/object-keys-keyof-t/",
+   "given_title": "Why Object.keys doesn't and shouldn't return (keyof T)[] | Vladimír Zdražil",
+   "resolved_title": "Why Object.keys doesn't and shouldn't return (keyof T)[]",
+   "resolved_url": "https://vladimirzdrazil.com/posts/object-keys-keyof-t/",
+   "time_updated": "2023-05-09T11:17:40Z",
+   "time_added": "2023-05-09T11:17:40Z"
   },
   {
-   "item_id": "3861157564",
-   "given_url": "https://www1.folha.uol.com.br/blogs/cozinha-bruta/2023/05/palmirinha-foi-avo-autentica-em-meio-a-cozinha-afetiva-de-araque.shtml",
-   "given_title": "Palmirinha foi avó autêntica em meio à 'cozinha afetiva' de araque - 07/05/",
-   "resolved_title": "Palmirinha foi avó autêntica em meio à 'cozinha afetiva' de araque",
-   "resolved_url": "https://www1.folha.uol.com.br/blogs/cozinha-bruta/2023/05/palmirinha-foi-avo-autentica-em-meio-a-cozinha-afetiva-de-araque.shtml",
-   "time_updated": "2023-05-08T10:30:01Z",
-   "time_added": "2023-05-08T10:30:00Z"
+   "item_id": "3863571786",
+   "given_url": "https://twitter.com/AnarcoFino/status/1656687314343526408",
+   "given_title": "Orlando Calheiros (Escutem o Cálice!) no Twitter: \"Passarinho me dizendo qu",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/AnarcoFino/status/1656687314343526408",
+   "time_updated": "2023-05-11T16:20:17Z",
+   "time_added": "2023-05-11T16:20:14Z"
+  },
+  {
+   "item_id": "3862017368",
+   "given_url": "https://twitter.com/dhruvfranklin/status/1655559773025103874",
+   "given_title": "Dhruv Franklin no Twitter: \"It never occurred to me that the white fur of s",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/dhruvfranklin/status/1655559773025103874",
+   "time_updated": "2023-05-09T08:20:29Z",
+   "time_added": "2023-05-09T08:20:27Z"
+  },
+  {
+   "item_id": "3862054188",
+   "given_url": "https://www.pnas.org/doi/full/10.1073/pnas.2218782120",
+   "given_title": "Country-level gender inequality is associated with structural differences i",
+   "resolved_title": "PNAS",
+   "resolved_url": "https://www.pnas.org/doi/full/10.1073/pnas.2218782120",
+   "time_updated": "2023-05-09T11:17:10Z",
+   "time_added": "2023-05-09T11:17:10Z"
+  },
+  {
+   "item_id": "3862018410",
+   "given_url": "https://twitter.com/yuri_kaaa/status/1655801436985327617",
+   "given_title": "yuri.ka〜 no Twitter: \"Roubaram mais de 100 Rolex de uma loja em Ginza, em p",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/yuri_kaaa/status/1655801436985327617",
+   "time_updated": "2023-05-09T08:23:08Z",
+   "time_added": "2023-05-09T08:23:05Z"
+  },
+  {
+   "item_id": "1780344788",
+   "given_url": "https://github.com/vadimdemedes/ink",
+   "given_title": "GitHub - vadimdemedes/ink: ? React for interactive command-line apps",
+   "resolved_title": "vadimdemedes/ink",
+   "resolved_url": "https://github.com/vadimdemedes/ink",
+   "time_updated": "2023-05-09T11:19:24Z",
+   "time_added": "2023-05-09T11:19:23Z"
+  },
+  {
+   "item_id": "2097140372",
+   "given_url": "https://www.integralist.co.uk/posts/golang-reverse-proxy/",
+   "given_title": "Golang Reverse Proxy ⋆ Mark McDonnell",
+   "resolved_title": "Golang Reverse Proxy",
+   "resolved_url": "https://www.integralist.co.uk/posts/golang-reverse-proxy/",
+   "time_updated": "2023-05-08T16:53:52Z",
+   "time_added": "2023-05-08T16:53:52Z"
   },
   {
    "item_id": "3862014485",
@@ -346,13 +139,229 @@
    "time_added": "2023-05-09T08:13:41Z"
   },
   {
-   "item_id": "3861717991",
-   "given_url": "https://www1.folha.uol.com.br/mundo/2023/05/por-que-brasileiros-nao-sao-considerados-latinos-nos-eua.shtml",
-   "given_title": "Por que brasileiros não são considerados latinos nos EUA - 08/05/2023 - Mun",
-   "resolved_title": "Por que brasileiros não são considerados latinos nos EUA",
-   "resolved_url": "https://www1.folha.uol.com.br/mundo/2023/05/por-que-brasileiros-nao-sao-considerados-latinos-nos-eua.shtml",
-   "time_updated": "2023-05-09T09:24:42Z",
-   "time_added": "2023-05-09T09:24:42Z"
+   "item_id": "3862211307",
+   "given_url": "https://www1.folha.uol.com.br/ilustrada/2023/05/rita-lee-rebelde-desde-a-infancia-se-deixou-guiar-por-drogas-e-discos-voadores.shtml?utm_source=twitter\u0026utm_medium=social\u0026utm_campaign=twfolha",
+   "given_title": "Morre Rita Lee: relembre curiosidades com as drogas - 09/05/2023 - Ilustrad",
+   "resolved_title": "Rita Lee, rebelde desde a infância, se deixou guiar por drogas e discos voadores",
+   "resolved_url": "https://www1.folha.uol.com.br/ilustrada/2023/05/rita-lee-rebelde-desde-a-infancia-se-deixou-guiar-por-drogas-e-discos-voadores.shtml",
+   "time_updated": "2023-05-09T14:50:48Z",
+   "time_added": "2023-05-09T14:50:48Z"
+  },
+  {
+   "item_id": "3863439277",
+   "given_url": "https://www.otakupt.com/manga/onde-comprar-manga-e-outros-livros-em-ingles/",
+   "given_title": "Onde Comprar Manga (e outros livros) em Inglês | OtakuPT",
+   "resolved_title": "Onde Comprar Manga (e outros livros) em Inglês",
+   "resolved_url": "https://www.otakupt.com/manga/onde-comprar-manga-e-outros-livros-em-ingles/",
+   "time_updated": "2023-05-11T12:15:39Z",
+   "time_added": "2023-05-11T12:15:36Z"
+  },
+  {
+   "item_id": "3861679597",
+   "given_url": "https://www.moshbit.pt/2023/05/07/entrevista-aos-sword-and-shield-o-larp-em-portugal/",
+   "given_title": "Entrevista aos Sword and Shield - O LARP em Portugal - MoshBit Gaming",
+   "resolved_title": "Entrevista aos Sword and Shield – O LARP em Portugal",
+   "resolved_url": "https://www.moshbit.pt/2023/05/07/entrevista-aos-sword-and-shield-o-larp-em-portugal/",
+   "time_updated": "2023-05-08T18:40:48Z",
+   "time_added": "2023-05-08T18:40:43Z"
+  },
+  {
+   "item_id": "3862727479",
+   "given_url": "https://twitter.com/zachklein/status/1656013452069199872",
+   "given_title": "Zach Klein no Twitter: \"I spent seven years building a kid/ed-tech product ",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/zachklein/status/1656013452069199872",
+   "time_updated": "2023-05-10T10:12:42Z",
+   "time_added": "2023-05-10T10:12:40Z"
+  },
+  {
+   "item_id": "3862765936",
+   "given_url": "https://redd.one/blog/my-struggle-with-remix",
+   "given_title": "My Struggle With Remix - Redd",
+   "resolved_title": "My Struggle With Remix",
+   "resolved_url": "https://redd.one/blog/my-struggle-with-remix",
+   "time_updated": "2023-05-10T15:46:07Z",
+   "time_added": "2023-05-10T15:46:06Z"
+  },
+  {
+   "item_id": "3863385960",
+   "given_url": "https://news.ycombinator.com/item?id=35895005",
+   "given_title": "Telegram deletes message against Brazil’s Bill after Supreme Court threat |",
+   "resolved_title": "Telegram deletes message against Brazil’s Bill after Supreme Court threat",
+   "resolved_url": "https://news.ycombinator.com/item?id=35895005",
+   "time_updated": "2023-05-11T10:27:20Z",
+   "time_added": "2023-05-11T10:27:16Z"
+  },
+  {
+   "item_id": "3863507011",
+   "given_url": "https://twitter.com/davescrivener/status/1656431851970473985",
+   "given_title": "Dave Scrivener no Twitter: \"Toronto City Council legalizes duplexes, triple",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/davescrivener/status/1656431851970473985",
+   "time_updated": "2023-05-11T14:20:03Z",
+   "time_added": "2023-05-11T14:20:00Z"
+  },
+  {
+   "item_id": "3863572762",
+   "given_url": "https://twitter.com/michaelcurzi/status/1656371405284339714",
+   "given_title": "???????????? no Twitter: \"TIL https://t.co/1w0kmjoIwo\" / Twitter",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/michaelcurzi/status/1656371405284339714",
+   "time_updated": "2023-05-11T16:21:56Z",
+   "time_added": "2023-05-11T16:21:54Z"
+  },
+  {
+   "item_id": "3861157564",
+   "given_url": "https://www1.folha.uol.com.br/blogs/cozinha-bruta/2023/05/palmirinha-foi-avo-autentica-em-meio-a-cozinha-afetiva-de-araque.shtml",
+   "given_title": "Palmirinha foi avó autêntica em meio à 'cozinha afetiva' de araque - 07/05/",
+   "resolved_title": "Palmirinha foi avó autêntica em meio à 'cozinha afetiva' de araque",
+   "resolved_url": "https://www1.folha.uol.com.br/blogs/cozinha-bruta/2023/05/palmirinha-foi-avo-autentica-em-meio-a-cozinha-afetiva-de-araque.shtml",
+   "time_updated": "2023-05-08T10:30:01Z",
+   "time_added": "2023-05-08T10:30:00Z"
+  },
+  {
+   "item_id": "3863329417",
+   "given_url": "https://twitter.com/ctjlewis/status/1656439554503581696",
+   "given_title": "Lewis no Twitter: \"@atmvc preferential access rollout to insiders and influ",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/ctjlewis/status/1656439554503581696",
+   "time_updated": "2023-05-11T08:25:20Z",
+   "time_added": "2023-05-11T08:25:18Z"
+  },
+  {
+   "item_id": "2857891280",
+   "given_url": "https://en.m.wikipedia.org/wiki/This_Is_How_You_Lose_the_Time_War",
+   "given_title": "This Is How You Lose the Time War - Wikipedia",
+   "resolved_title": "This Is How You Lose the Time War",
+   "resolved_url": "https://en.wikipedia.org/wiki/This_Is_How_You_Lose_the_Time_War",
+   "time_updated": "2023-05-11T06:52:13Z",
+   "time_added": "2023-05-11T06:52:12Z"
+  },
+  {
+   "item_id": "3863847876",
+   "given_url": "https://twitter.com/SwiftOnSecurity/status/1656843245345751040",
+   "given_title": "SwiftOnSecurity no Twitter: \"Really. .zip. ICANN are fucking deplorable end",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/SwiftOnSecurity/status/1656843245345751040",
+   "time_updated": "2023-05-12T08:20:53Z",
+   "time_added": "2023-05-12T08:20:52Z"
+  },
+  {
+   "item_id": "3776674811",
+   "given_url": "https://medium.com/@pachecoandrea/what-i-learned-as-a-product-designer-at-apple-35341d9ced8a",
+   "given_title": "What I Learned as a Product Designer at Apple | by Andrea Pacheco | Medium",
+   "resolved_title": "What I Learned as a Product Designer at Apple",
+   "resolved_url": "https://medium.com/@pachecoandrea/what-i-learned-as-a-product-designer-at-apple-35341d9ced8a",
+   "time_updated": "2023-05-08T22:45:37Z",
+   "time_added": "2023-05-08T22:45:36Z"
+  },
+  {
+   "item_id": "374697762",
+   "given_url": "https://en.m.wikipedia.org/wiki/A_Supposedly_Fun_Thing_I%27ll_Never_Do_Again",
+   "given_title": "A Supposedly Fun Thing I'll Never Do Again - Wikipedia",
+   "resolved_title": "A Supposedly Fun Thing I'll Never Do Again",
+   "resolved_url": "https://en.wikipedia.org/wiki/A_Supposedly_Fun_Thing_I%27ll_Never_Do_Again",
+   "time_updated": "2023-05-10T13:03:32Z",
+   "time_added": "2023-05-10T13:03:31Z"
+  },
+  {
+   "item_id": "3862893052",
+   "given_url": "https://www1.folha.uol.com.br/ilustrada/2023/05/rita-lee-e-meu-primeiro-linchamento-virtual.shtml",
+   "given_title": "Rita Lee e meu primeiro linchamento virtual - 10/05/2023 - Ilustrada - Folh",
+   "resolved_title": "Rita Lee e meu primeiro linchamento virtual",
+   "resolved_url": "https://www1.folha.uol.com.br/ilustrada/2023/05/rita-lee-e-meu-primeiro-linchamento-virtual.shtml",
+   "time_updated": "2023-05-10T18:44:52Z",
+   "time_added": "2023-05-10T18:44:52Z"
+  },
+  {
+   "item_id": "3863565337",
+   "given_url": "https://twitter.com/ritamiramarques/status/1656262356341497857",
+   "given_title": "rita no Twitter: \"https://t.co/QyIvC5YlJ3 Este vídeo expõe o que está a olh",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/ritamiramarques/status/1656262356341497857",
+   "time_updated": "2023-05-11T16:09:09Z",
+   "time_added": "2023-05-11T16:09:06Z"
+  },
+  {
+   "item_id": "3863745075",
+   "given_url": "https://twitter.com/gokudoni/status/1656671923542323206",
+   "given_title": "Gokudoni no Twitter: \"Friendly reminder that Yakuza 5 featured the word Yum",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/gokudoni/status/1656671923542323206",
+   "time_updated": "2023-05-11T22:24:38Z",
+   "time_added": "2023-05-11T22:24:36Z"
+  },
+  {
+   "item_id": "2085163210",
+   "given_url": "https://en.wikipedia.org/wiki/Restrictions_on_geographic_data_in_China#The_China_GPS_shift_problem",
+   "given_title": "Restrictions on geographic data in China - Wikipedia",
+   "resolved_title": "Restrictions on geographic data in China",
+   "resolved_url": "https://en.wikipedia.org/wiki/Restrictions_on_geographic_data_in_China",
+   "time_updated": "2023-05-10T18:47:27Z",
+   "time_added": "2023-05-10T18:47:27Z"
+  },
+  {
+   "item_id": "3862187028",
+   "given_url": "https://twitter.com/paulg/status/1655925905527537666",
+   "given_title": "Paul Graham no Twitter: \"Observation suggests that people are switching to ",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/paulg/status/1655925905527537666",
+   "time_updated": "2023-05-11T10:21:29Z",
+   "time_added": "2023-05-11T10:21:28Z"
+  },
+  {
+   "item_id": "3861430974",
+   "given_url": "https://news.ycombinator.com/item?id=35859938",
+   "given_title": "Sounds like that Simpsons episode (https://simpsons.fandom.com/wiki/The_Bob",
+   "resolved_title": "Sounds like that Simpsons episode (https : //simpsons.fandom.com/wiki/The_Bob_Next... : Hacker News",
+   "resolved_url": "https://news.ycombinator.com/item?id=35859938",
+   "time_updated": "2023-05-08T10:20:50Z",
+   "time_added": "2023-05-08T10:20:46Z"
+  },
+  {
+   "item_id": "3861622976",
+   "given_url": "https://jacobbartlett.substack.com/p/the-dennis-system-cvs-tips-for-senior",
+   "given_title": "The D.E.N.N.I.S. system: Résumé tips for Senior Devs",
+   "resolved_title": "The D.E.N.N.I.S. system: Résumé tips for Senior Devs",
+   "resolved_url": "https://jacobbartlett.substack.com/p/the-dennis-system-cvs-tips-for-senior",
+   "time_updated": "2023-05-09T11:20:35Z",
+   "time_added": "2023-05-09T11:20:34Z"
+  },
+  {
+   "item_id": "3862303740",
+   "given_url": "https://www.youtube.com/watch?v=CZzcVs8tNfE",
+   "given_title": "(3) How Nintendo Solved Zelda's Open World Problem - YouTube",
+   "resolved_title": "How Nintendo Solved Zelda's Open World Problem",
+   "resolved_url": "http://www.youtube.com/watch?v=CZzcVs8tNfE",
+   "time_updated": "2023-05-10T09:43:53Z",
+   "time_added": "2023-05-10T09:43:53Z"
+  },
+  {
+   "item_id": "3862543924",
+   "given_url": "https://twitter.com/moniza_hossain/status/1656106325246636033",
+   "given_title": "Moniza Hossain no Twitter: \"This is so incredibly hilarious. The story of h",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/moniza_hossain/status/1656106325246636033",
+   "time_updated": "2023-05-11T08:15:59Z",
+   "time_added": "2023-05-11T08:15:59Z"
+  },
+  {
+   "item_id": "3234536290",
+   "given_url": "https://github.com/k3s-io/kine",
+   "given_title": "k3s-io/kine: Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd.",
+   "resolved_title": "Kine (Kine is not etcd)",
+   "resolved_url": "https://github.com/k3s-io/kine",
+   "time_updated": "2023-05-10T09:52:37Z",
+   "time_added": "2023-05-10T09:52:37Z"
+  },
+  {
+   "item_id": "3863362168",
+   "given_url": "https://twitter.com/agsportlight/status/1656592691826683904",
+   "given_title": "Agência Sportlight no Twitter: \"“O Brasil está no radar, a Libertadores tam",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/agsportlight/status/1656592691826683904",
+   "time_updated": "2023-05-11T09:36:30Z",
+   "time_added": "2023-05-11T09:36:28Z"
   }
  ]
 }

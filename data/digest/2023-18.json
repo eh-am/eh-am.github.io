@@ -4,13 +4,13 @@
  "sortKey": "2023-18",
  "items": [
   {
-   "item_id": "144545837",
-   "given_url": "https://www.vulture.com/2012/03/10-worst-tv-tropes.html",
-   "given_title": "Ten Tropes We Never Want to See on TV Ever Again",
-   "resolved_title": "Ten Tropes We Never Want to See on TV Ever Again",
-   "resolved_url": "https://www.vulture.com/2012/03/10-worst-tv-tropes.html",
-   "time_updated": "2023-05-07T20:22:52Z",
-   "time_added": "2023-05-07T20:22:51Z"
+   "item_id": "3859929198",
+   "given_url": "https://zverok.space/blog/2023-05-05-ruby-types.html",
+   "given_title": "A few words on Ruby's type annotations state",
+   "resolved_title": "A few words on Ruby's type annotations state",
+   "resolved_url": "https://zverok.space/blog/2023-05-05-ruby-types.html",
+   "time_updated": "2023-05-07T13:25:13Z",
+   "time_added": "2023-05-07T13:25:13Z"
   },
   {
    "item_id": "845931525",
@@ -22,13 +22,13 @@
    "time_added": "2023-05-07T17:11:44Z"
   },
   {
-   "item_id": "3859929198",
-   "given_url": "https://zverok.space/blog/2023-05-05-ruby-types.html",
-   "given_title": "A few words on Ruby's type annotations state",
-   "resolved_title": "A few words on Ruby's type annotations state",
-   "resolved_url": "https://zverok.space/blog/2023-05-05-ruby-types.html",
-   "time_updated": "2023-05-07T13:25:13Z",
-   "time_added": "2023-05-07T13:25:13Z"
+   "item_id": "144545837",
+   "given_url": "https://www.vulture.com/2012/03/10-worst-tv-tropes.html",
+   "given_title": "Ten Tropes We Never Want to See on TV Ever Again",
+   "resolved_title": "Ten Tropes We Never Want to See on TV Ever Again",
+   "resolved_url": "https://www.vulture.com/2012/03/10-worst-tv-tropes.html",
+   "time_updated": "2023-05-07T20:22:52Z",
+   "time_added": "2023-05-07T20:22:51Z"
   },
   {
    "item_id": "189259672",

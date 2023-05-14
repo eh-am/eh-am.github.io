@@ -4,31 +4,13 @@
  "sortKey": "2023-18",
  "items": [
   {
-   "item_id": "3860410639",
-   "given_url": "https://diariodeseries.com.br/a-muralha-entra-no-globoplay-serie-deu-44-pontos-no-ibope-e-custou-11-milhoes-de-reais/",
-   "given_title": "A Muralha no Globoplay: série deu 44 pontos no ibope e custou R$ 11 milhões",
-   "resolved_title": "A Muralha entra no Globoplay: série deu 44 pontos no ibope e custou R$ 11 milhões",
-   "resolved_url": "https://diariodeseries.com.br/a-muralha-entra-no-globoplay-serie-deu-44-pontos-no-ibope-e-custou-11-milhoes-de-reais/",
-   "time_updated": "2023-05-06T13:22:19Z",
-   "time_added": "2023-05-06T13:22:17Z"
-  },
-  {
-   "item_id": "2865165813",
-   "given_url": "https://en.m.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith",
-   "given_title": "Baháʼí Faith - Wikipedia",
-   "resolved_title": "Baháʼí Faith",
-   "resolved_url": "https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith",
-   "time_updated": "2023-05-06T13:05:59Z",
-   "time_added": "2023-05-06T13:05:58Z"
-  },
-  {
-   "item_id": "3860412417",
-   "given_url": "https://en.m.wikipedia.org/wiki/Connections_(British_TV_series)",
-   "given_title": "Connections (British TV series) - Wikipedia",
-   "resolved_title": "Connections (British TV series)",
-   "resolved_url": "https://en.wikipedia.org/wiki/Connections_(British_TV_series)",
-   "time_updated": "2023-05-06T13:26:45Z",
-   "time_added": "2023-05-06T13:26:41Z"
+   "item_id": "144545837",
+   "given_url": "https://www.vulture.com/2012/03/10-worst-tv-tropes.html",
+   "given_title": "Ten Tropes We Never Want to See on TV Ever Again",
+   "resolved_title": "Ten Tropes We Never Want to See on TV Ever Again",
+   "resolved_url": "https://www.vulture.com/2012/03/10-worst-tv-tropes.html",
+   "time_updated": "2023-05-07T20:22:52Z",
+   "time_added": "2023-05-07T20:22:51Z"
   },
   {
    "item_id": "845931525",
@@ -40,22 +22,13 @@
    "time_added": "2023-05-07T17:11:44Z"
   },
   {
-   "item_id": "3854555892",
-   "given_url": "https://ui.dev/why-react-renders",
-   "given_title": "The Interactive Guide to Rendering in React",
-   "resolved_title": "",
-   "resolved_url": "https://ui.dev/why-react-renders",
-   "time_updated": "2023-05-06T16:33:09Z",
-   "time_added": "2023-05-06T16:33:09Z"
-  },
-  {
-   "item_id": "3860407474",
-   "given_url": "https://twitter.com/GodysseyPodcast/status/1654524271052374016",
-   "given_title": "Godyssey no Twitter: \"The misconception given to the US military by anthrop",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/GodysseyPodcast/status/1654524271052374016",
-   "time_updated": "2023-05-06T16:40:10Z",
-   "time_added": "2023-05-06T16:40:10Z"
+   "item_id": "3859929198",
+   "given_url": "https://zverok.space/blog/2023-05-05-ruby-types.html",
+   "given_title": "A few words on Ruby's type annotations state",
+   "resolved_title": "A few words on Ruby's type annotations state",
+   "resolved_url": "https://zverok.space/blog/2023-05-05-ruby-types.html",
+   "time_updated": "2023-05-07T13:25:13Z",
+   "time_added": "2023-05-07T13:25:13Z"
   },
   {
    "item_id": "189259672",
@@ -74,78 +47,6 @@
    "resolved_url": "https://twitter.com/UltiRL/status/1654990266745405444",
    "time_updated": "2023-05-07T19:34:21Z",
    "time_added": "2023-05-07T19:34:20Z"
-  },
-  {
-   "item_id": "286766371",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Pris%C3%A3o_de_Abu_Ghraib",
-   "given_title": "Prisão de Abu Ghraib – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Prisão de Abu Ghraib",
-   "resolved_url": "http://pt.m.wikipedia.org/wiki/Pris%C3%A3o_de_Abu_Ghraib",
-   "time_updated": "2023-05-06T13:21:50Z",
-   "time_added": "2023-05-06T13:21:50Z"
-  },
-  {
-   "item_id": "144545837",
-   "given_url": "https://www.vulture.com/2012/03/10-worst-tv-tropes.html",
-   "given_title": "Ten Tropes We Never Want to See on TV Ever Again",
-   "resolved_title": "Ten Tropes We Never Want to See on TV Ever Again",
-   "resolved_url": "https://www.vulture.com/2012/03/10-worst-tv-tropes.html",
-   "time_updated": "2023-05-07T20:22:52Z",
-   "time_added": "2023-05-07T20:22:51Z"
-  },
-  {
-   "item_id": "3859929198",
-   "given_url": "https://zverok.space/blog/2023-05-05-ruby-types.html",
-   "given_title": "A few words on Ruby's type annotations state",
-   "resolved_title": "A few words on Ruby's type annotations state",
-   "resolved_url": "https://zverok.space/blog/2023-05-05-ruby-types.html",
-   "time_updated": "2023-05-07T13:25:13Z",
-   "time_added": "2023-05-07T13:25:13Z"
-  },
-  {
-   "item_id": "3860411832",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Serra_do_Sabarabu%C3%A7u",
-   "given_title": "Serra do Sabarabuçu – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Serra do Sabarabuçu",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Serra_do_Sabarabu%C3%A7u",
-   "time_updated": "2023-05-06T13:25:09Z",
-   "time_added": "2023-05-06T13:25:05Z"
-  },
-  {
-   "item_id": "3860498566",
-   "given_url": "https://twitter.com/KaitlynUgoretz/status/1654767929085313025",
-   "given_title": "Kaitlyn Ugoretz no Twitter: \"Did no one believe the emperor was divine prio",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/KaitlynUgoretz/status/1654767929085313025",
-   "time_updated": "2023-05-06T16:42:48Z",
-   "time_added": "2023-05-06T16:42:47Z"
-  },
-  {
-   "item_id": "3860389713",
-   "given_url": "https://www.reddit.com/user/WhichWayIsTheB4r/comments/130hkh8/?????????_?????_has_arrived_in_portugal_speak/?utm_source=share\u0026utm_medium=android_app\u0026utm_name=androidcss\u0026utm_term=2\u0026utm_content=share_button",
-   "given_title": "",
-   "resolved_title": "Reddit - Dive into anything",
-   "resolved_url": "https://www.reddit.com/user/WhichWayIsTheB4r/comments/130hkh8/𝗠𝗘𝗗𝗹𝗖𝗹𝗡𝗔𝗟_𝗦𝗧𝗨𝗙𝗙_has_arrived_in_portugal_speak/?utm_source=share\u0026utm_medium=android_app\u0026utm_name=androidcss\u0026utm_term=2\u0026utm_content=share_button",
-   "time_updated": "2023-05-06T12:35:05Z",
-   "time_added": "2023-05-06T12:35:04Z"
-  },
-  {
-   "item_id": "3860527232",
-   "given_url": "https://twitter.com/yanxnz/status/1654900069412290561",
-   "given_title": "yANXNZ^^ no Twitter: \"Quem é o pro scrim agr seu lixo?\" / Twitter",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/yanxnz/status/1654900069412290561",
-   "time_updated": "2023-05-06T17:52:59Z",
-   "time_added": "2023-05-06T17:52:58Z"
-  },
-  {
-   "item_id": "3859041135",
-   "given_url": "https://slack.com/blog/news/introducing-slack-gpt",
-   "given_title": "Introducing Slack GPT, the future of AI in Slack | Slack",
-   "resolved_title": "Introducing Slack GPT, the future of AI in Slack",
-   "resolved_url": "https://slack.com/blog/news/introducing-slack-gpt",
-   "time_updated": "2023-05-06T21:19:02Z",
-   "time_added": "2023-05-06T21:19:01Z"
   }
  ]
 }

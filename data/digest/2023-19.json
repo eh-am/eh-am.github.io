@@ -4,148 +4,13 @@
  "sortKey": "2023-19",
  "items": [
   {
-   "item_id": "3234536290",
-   "given_url": "https://github.com/k3s-io/kine",
-   "given_title": "k3s-io/kine: Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd.",
-   "resolved_title": "Kine (Kine is not etcd)",
-   "resolved_url": "https://github.com/k3s-io/kine",
-   "time_updated": "2023-05-10T09:52:37Z",
-   "time_added": "2023-05-10T09:52:37Z"
-  },
-  {
-   "item_id": "3862187028",
-   "given_url": "https://twitter.com/paulg/status/1655925905527537666",
-   "given_title": "Paul Graham no Twitter: \"Observation suggests that people are switching to ",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/paulg/status/1655925905527537666",
-   "time_updated": "2023-05-11T10:21:29Z",
-   "time_added": "2023-05-11T10:21:28Z"
-  },
-  {
-   "item_id": "3863091215",
-   "given_url": "https://webauthn.wtf/",
-   "given_title": "What is WebAuthn? - WebAuthn | WebAuthn.wtf",
-   "resolved_title": "What is WebAuthn?",
-   "resolved_url": "https://webauthn.wtf/",
-   "time_updated": "2023-05-12T19:16:09Z",
-   "time_added": "2023-05-12T19:16:09Z"
-  },
-  {
-   "item_id": "3237236487",
-   "given_url": "https://medium.com/kanoteknologi/better-way-to-read-and-write-json-file-in-golang-9d575b7254f2",
-   "given_title": "Better way to read and write JSON file in Golang | by Bagus Cahyono | KANO ",
-   "resolved_title": "Better way to read and write JSON file in Golang",
-   "resolved_url": "https://medium.com/kanoteknologi/better-way-to-read-and-write-json-file-in-golang-9d575b7254f2",
-   "time_updated": "2023-05-14T19:28:00Z",
-   "time_added": "2023-05-14T19:28:00Z"
-  },
-  {
-   "item_id": "3862543924",
-   "given_url": "https://twitter.com/moniza_hossain/status/1656106325246636033",
-   "given_title": "Moniza Hossain no Twitter: \"This is so incredibly hilarious. The story of h",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/moniza_hossain/status/1656106325246636033",
-   "time_updated": "2023-05-11T08:15:59Z",
-   "time_added": "2023-05-11T08:15:59Z"
-  },
-  {
-   "item_id": "1333273076",
-   "given_url": "http://blog.zorinaq.com/my-experience-with-the-great-firewall-of-china/",
-   "given_title": "My Experience With the Great Firewall of China",
-   "resolved_title": "My Experience With the Great Firewall of China",
-   "resolved_url": "http://blog.zorinaq.com/my-experience-with-the-great-firewall-of-china/",
-   "time_updated": "2023-05-10T18:45:42Z",
-   "time_added": "2023-05-10T18:45:42Z"
-  },
-  {
-   "item_id": "3488213295",
-   "given_url": "https://www.barrywebbimages.co.uk/Images/Macro/Slime-Moulds-Myxomycetes/",
-   "given_title": "",
-   "resolved_title": "Slime Moulds (Myxomycetes)",
-   "resolved_url": "https://www.barrywebbimages.co.uk/Images/Macro/Slime-Moulds-Myxomycetes",
-   "time_updated": "2023-05-11T10:23:18Z",
-   "time_added": "2023-05-11T10:23:18Z"
-  },
-  {
-   "item_id": "2857891280",
-   "given_url": "https://en.m.wikipedia.org/wiki/This_Is_How_You_Lose_the_Time_War",
-   "given_title": "This Is How You Lose the Time War - Wikipedia",
-   "resolved_title": "This Is How You Lose the Time War",
-   "resolved_url": "https://en.wikipedia.org/wiki/This_Is_How_You_Lose_the_Time_War",
-   "time_updated": "2023-05-11T06:52:13Z",
-   "time_added": "2023-05-11T06:52:12Z"
-  },
-  {
-   "item_id": "3863571786",
-   "given_url": "https://twitter.com/AnarcoFino/status/1656687314343526408",
-   "given_title": "Orlando Calheiros (Escutem o Cálice!) no Twitter: \"Passarinho me dizendo qu",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/AnarcoFino/status/1656687314343526408",
-   "time_updated": "2023-05-11T16:20:17Z",
-   "time_added": "2023-05-11T16:20:14Z"
-  },
-  {
-   "item_id": "3749200789",
-   "given_url": "https://madebyevan.com/algos/log-spaced-snapshots/",
-   "given_title": "Logarithmically-Spaced Snapshots - Made by Evan",
-   "resolved_title": "Logarithmically-Spaced Snapshots",
-   "resolved_url": "https://madebyevan.com/algos/log-spaced-snapshots/",
-   "time_updated": "2023-05-14T22:59:18Z",
-   "time_added": "2023-05-14T10:22:04Z"
-  },
-  {
-   "item_id": "3863572762",
-   "given_url": "https://twitter.com/michaelcurzi/status/1656371405284339714",
-   "given_title": "???????????? no Twitter: \"TIL https://t.co/1w0kmjoIwo\" / Twitter",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/michaelcurzi/status/1656371405284339714",
-   "time_updated": "2023-05-11T16:21:56Z",
-   "time_added": "2023-05-11T16:21:54Z"
-  },
-  {
-   "item_id": "3863847876",
-   "given_url": "https://twitter.com/SwiftOnSecurity/status/1656843245345751040",
-   "given_title": "SwiftOnSecurity no Twitter: \"Really. .zip. ICANN are fucking deplorable end",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/SwiftOnSecurity/status/1656843245345751040",
-   "time_updated": "2023-05-12T08:20:53Z",
-   "time_added": "2023-05-12T08:20:52Z"
-  },
-  {
-   "item_id": "3864929267",
-   "given_url": "https://twitter.com/jimmy_wales/status/1657494022741426180",
-   "given_title": "Jimmy Wales no Twitter: \"What Wikipedia did: we stood strong for our princi",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/jimmy_wales/status/1657494022741426180",
-   "time_updated": "2023-05-14T22:59:18Z",
-   "time_added": "2023-05-14T10:20:12Z"
-  },
-  {
-   "item_id": "3865415939",
-   "given_url": "https://henvic.dev/posts/go-utf8/",
-   "given_title": "UTF-8 strings with Go: len(s) isn't enough | Henrique Vicente",
-   "resolved_title": "UTF-8 strings with Go: len(s) isn't enough",
-   "resolved_url": "https://henvic.dev/posts/go-utf8/",
-   "time_updated": "2023-05-14T19:33:54Z",
-   "time_added": "2023-05-14T19:33:50Z"
-  },
-  {
-   "item_id": "3862303740",
-   "given_url": "https://www.youtube.com/watch?v=CZzcVs8tNfE",
-   "given_title": "(3) How Nintendo Solved Zelda's Open World Problem - YouTube",
-   "resolved_title": "How Nintendo Solved Zelda's Open World Problem",
-   "resolved_url": "http://www.youtube.com/watch?v=CZzcVs8tNfE",
-   "time_updated": "2023-05-10T09:43:53Z",
-   "time_added": "2023-05-10T09:43:53Z"
-  },
-  {
-   "item_id": "3863353590",
-   "given_url": "https://twitter.com/glebm/status/1656400017156915201",
-   "given_title": "Gleb Mazovetskiy no Twitter: \"@kosamari Han Unification is the biggest mist",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/glebm/status/1656400017156915201",
-   "time_updated": "2023-05-11T09:19:07Z",
-   "time_added": "2023-05-11T09:19:06Z"
+   "item_id": "3863439277",
+   "given_url": "https://www.otakupt.com/manga/onde-comprar-manga-e-outros-livros-em-ingles/",
+   "given_title": "Onde Comprar Manga (e outros livros) em Inglês | OtakuPT",
+   "resolved_title": "Onde Comprar Manga (e outros livros) em Inglês",
+   "resolved_url": "https://www.otakupt.com/manga/onde-comprar-manga-e-outros-livros-em-ingles/",
+   "time_updated": "2023-05-11T12:15:39Z",
+   "time_added": "2023-05-11T12:15:36Z"
   },
   {
    "item_id": "3863565337",
@@ -157,112 +22,22 @@
    "time_added": "2023-05-11T16:09:06Z"
   },
   {
-   "item_id": "3865493562",
-   "given_url": "https://m.youtube.com/watch?v=slXxO2zJXUI\u0026feature=youtu.be",
-   "given_title": "Basic Principles for Fat Loss | Nutrition for Fat Loss- Lecture 1 - YouTube",
-   "resolved_title": "Basic Principles for Fat Loss | Nutrition for Fat Loss-  Lecture 1",
-   "resolved_url": "http://www.youtube.com/watch?v=slXxO2zJXUI",
-   "time_updated": "2023-05-14T22:59:19Z",
-   "time_added": "2023-05-14T22:19:13Z"
-  },
-  {
-   "item_id": "3863385960",
-   "given_url": "https://news.ycombinator.com/item?id=35895005",
-   "given_title": "Telegram deletes message against Brazil’s Bill after Supreme Court threat |",
-   "resolved_title": "Telegram deletes message against Brazil’s Bill after Supreme Court threat",
-   "resolved_url": "https://news.ycombinator.com/item?id=35895005",
-   "time_updated": "2023-05-11T10:27:20Z",
-   "time_added": "2023-05-11T10:27:16Z"
-  },
-  {
-   "item_id": "3864224638",
-   "given_url": "https://twitter.com/JLarky/status/1656487452494921729/mediaViewer?currentTweet=1656487452494921729\u0026currentTweetUser=JLarky",
-   "given_title": "",
+   "item_id": "3863847876",
+   "given_url": "https://twitter.com/SwiftOnSecurity/status/1656843245345751040",
+   "given_title": "SwiftOnSecurity no Twitter: \"Really. .zip. ICANN are fucking deplorable end",
    "resolved_title": "",
-   "resolved_url": "https://twitter.com/JLarky/status/1656487452494921729/mediaViewer?currentTweet=1656487452494921729\u0026currentTweetUser=JLarky",
-   "time_updated": "2023-05-12T16:35:17Z",
-   "time_added": "2023-05-12T16:35:15Z"
+   "resolved_url": "https://twitter.com/SwiftOnSecurity/status/1656843245345751040",
+   "time_updated": "2023-05-12T08:20:53Z",
+   "time_added": "2023-05-12T08:20:52Z"
   },
   {
-   "item_id": "3756652391",
-   "given_url": "https://twitter.com/stupidhoroscope/status/1597851651720609794",
-   "given_title": "Nyek - @stupidhoroscope@mastodon.gamedev.place no Twitter: \"Ads for games i",
-   "resolved_title": "Nyek @stupidhoroscope@mastodon.gamedev.place",
-   "resolved_url": "https://twitter.com/stupidhoroscope/status/1597851651720609794",
-   "time_updated": "2023-05-13T08:49:11Z",
-   "time_added": "2023-05-13T08:49:10Z"
-  },
-  {
-   "item_id": "3865151375",
-   "given_url": "https://twitter.com/hugaomarques/status/1657479646546386944",
-   "given_title": "Hugo Marques no Twitter: \"Opa turma, pra todos vocês que tão nessa vida de ",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/hugaomarques/status/1657479646546386944",
-   "time_updated": "2023-05-14T22:59:18Z",
-   "time_added": "2023-05-14T11:45:52Z"
-  },
-  {
-   "item_id": "3862765936",
-   "given_url": "https://redd.one/blog/my-struggle-with-remix",
-   "given_title": "My Struggle With Remix - Redd",
-   "resolved_title": "My Struggle With Remix",
-   "resolved_url": "https://redd.one/blog/my-struggle-with-remix#145: Next.js, Server Actions, useFormStatus, useOptimistic, App Router, Canaries, Ink, ReasonML, Redwood, Reanimated, VisionCamera... - 10736507",
-   "time_updated": "2023-05-10T15:46:07Z",
-   "time_added": "2023-05-10T15:46:06Z"
-  },
-  {
-   "item_id": "3862893052",
-   "given_url": "https://www1.folha.uol.com.br/ilustrada/2023/05/rita-lee-e-meu-primeiro-linchamento-virtual.shtml",
-   "given_title": "Rita Lee e meu primeiro linchamento virtual - 10/05/2023 - Ilustrada - Folh",
-   "resolved_title": "Rita Lee e meu primeiro linchamento virtual",
-   "resolved_url": "https://www1.folha.uol.com.br/ilustrada/2023/05/rita-lee-e-meu-primeiro-linchamento-virtual.shtml",
-   "time_updated": "2023-05-10T18:44:52Z",
-   "time_added": "2023-05-10T18:44:52Z"
-  },
-  {
-   "item_id": "3864617214",
-   "given_url": "https://www.youtube.com/playlist?list=PLMfnQGBZOAr1HBd1QkDaNQ45VesGtKjc7",
-   "given_title": "(33) Homem-Aranha: Ação Sem Limites | Todos os episódios - YouTube",
-   "resolved_title": "Homem-Aranha : Ação Sem Limites : Todos os episódios",
-   "resolved_url": "https://www.youtube.com/playlist?list=PLMfnQGBZOAr1HBd1QkDaNQ45VesGtKjc7",
-   "time_updated": "2023-05-13T09:43:25Z",
-   "time_added": "2023-05-13T09:43:24Z"
-  },
-  {
-   "item_id": "2085163210",
-   "given_url": "https://en.wikipedia.org/wiki/Restrictions_on_geographic_data_in_China#The_China_GPS_shift_problem",
-   "given_title": "Restrictions on geographic data in China - Wikipedia",
-   "resolved_title": "Restrictions on geographic data in China",
-   "resolved_url": "https://en.wikipedia.org/wiki/Restrictions_on_geographic_data_in_China",
-   "time_updated": "2023-05-10T18:47:27Z",
-   "time_added": "2023-05-10T18:47:27Z"
-  },
-  {
-   "item_id": "3864289600",
-   "given_url": "https://financialstatement.zip/",
-   "given_title": "The .zip TLD sucks and it needs to be immediately revoked.",
-   "resolved_title": "The .zip TLD sucks and it needs to be immediately revoked.",
-   "resolved_url": "https://financialstatement.zip/",
-   "time_updated": "2023-05-13T11:30:20Z",
-   "time_added": "2023-05-13T11:30:20Z"
-  },
-  {
-   "item_id": "3863329417",
-   "given_url": "https://twitter.com/ctjlewis/status/1656439554503581696",
-   "given_title": "Lewis no Twitter: \"@atmvc preferential access rollout to insiders and influ",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/ctjlewis/status/1656439554503581696",
-   "time_updated": "2023-05-11T08:25:20Z",
-   "time_added": "2023-05-11T08:25:18Z"
-  },
-  {
-   "item_id": "3863439277",
-   "given_url": "https://www.otakupt.com/manga/onde-comprar-manga-e-outros-livros-em-ingles/",
-   "given_title": "Onde Comprar Manga (e outros livros) em Inglês | OtakuPT",
-   "resolved_title": "Onde Comprar Manga (e outros livros) em Inglês",
-   "resolved_url": "https://www.otakupt.com/manga/onde-comprar-manga-e-outros-livros-em-ingles/",
-   "time_updated": "2023-05-11T12:15:39Z",
-   "time_added": "2023-05-11T12:15:36Z"
+   "item_id": "1333273076",
+   "given_url": "http://blog.zorinaq.com/my-experience-with-the-great-firewall-of-china/",
+   "given_title": "My Experience With the Great Firewall of China",
+   "resolved_title": "My Experience With the Great Firewall of China",
+   "resolved_url": "http://blog.zorinaq.com/my-experience-with-the-great-firewall-of-china/",
+   "time_updated": "2023-05-10T18:45:42Z",
+   "time_added": "2023-05-10T18:45:42Z"
   },
   {
    "item_id": "3863507011",
@@ -283,6 +58,33 @@
    "time_added": "2023-05-12T13:01:57Z"
   },
   {
+   "item_id": "3864165318",
+   "given_url": "https://www2.ifsc.usp.br/portal-ifsc/hibernacao-torpor-e-sono-distinguir-os-animais-que-de-fato-hibernam-daqueles-que-passam-por-um-estado-de-torpor-diario/",
+   "given_title": "Hibernação, torpor e sono - Distinguir os animais que hibernam daqueles que",
+   "resolved_title": "Hibernação, torpor e sono – Distinguir os animais que hibernam daqueles que passam por um estado de torpor diário",
+   "resolved_url": "https://www2.ifsc.usp.br/portal-ifsc/hibernacao-torpor-e-sono-distinguir-os-animais-que-de-fato-hibernam-daqueles-que-passam-por-um-estado-de-torpor-diario/",
+   "time_updated": "2023-05-12T14:42:03Z",
+   "time_added": "2023-05-12T14:41:59Z"
+  },
+  {
+   "item_id": "3862893052",
+   "given_url": "https://www1.folha.uol.com.br/ilustrada/2023/05/rita-lee-e-meu-primeiro-linchamento-virtual.shtml",
+   "given_title": "Rita Lee e meu primeiro linchamento virtual - 10/05/2023 - Ilustrada - Folh",
+   "resolved_title": "Rita Lee e meu primeiro linchamento virtual",
+   "resolved_url": "https://www1.folha.uol.com.br/ilustrada/2023/05/rita-lee-e-meu-primeiro-linchamento-virtual.shtml",
+   "time_updated": "2023-05-10T18:44:52Z",
+   "time_added": "2023-05-10T18:44:52Z"
+  },
+  {
+   "item_id": "3863571786",
+   "given_url": "https://twitter.com/AnarcoFino/status/1656687314343526408",
+   "given_title": "Orlando Calheiros (Escutem o Cálice!) no Twitter: \"Passarinho me dizendo qu",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/AnarcoFino/status/1656687314343526408",
+   "time_updated": "2023-05-11T16:20:17Z",
+   "time_added": "2023-05-11T16:20:14Z"
+  },
+  {
    "item_id": "3106992991",
    "given_url": "https://www.scienceworld.ca/stories/do-bears-actually-hibernate/",
    "given_title": "Do bears actually hibernate? - Science World",
@@ -292,40 +94,58 @@
    "time_added": "2023-05-12T14:41:50Z"
   },
   {
-   "item_id": "3864288565",
-   "given_url": "https://twitter.com/IKaijuu/status/1657089609027706906?t=HP-vRDBswki7X30UMErhpA\u0026s=19",
-   "given_title": "Ilha Kaijuu - Rafael Machado Costa no Twitter: \"- Um dos mais antigos super",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/IKaijuu/status/1657089609027706906?t=HP-vRDBswki7X30UMErhpA\u0026s=19",
-   "time_updated": "2023-05-12T18:50:03Z",
-   "time_added": "2023-05-12T18:50:00Z"
-  },
-  {
-   "item_id": "3865132387",
-   "given_url": "https://twitter.com/MaRc_By_8/status/1657107874013761542",
-   "given_title": "MaRc_By_8. no Twitter: \"@Baze_RL what do you want me to upload? I put the m",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/MaRc_By_8/status/1657107874013761542",
+   "item_id": "3865132389",
+   "given_url": "https://m.youtube.com/watch?v=vA-7VcETr2o",
+   "given_title": "The Very Weird Spider-Man TV Series That Time Forgot - YouTube",
+   "resolved_title": "The Very Weird Spider-Man TV Series That Time Forgot",
+   "resolved_url": "http://www.youtube.com/watch?v=vA-7VcETr2o",
    "time_updated": "2023-05-14T22:59:18Z",
-   "time_added": "2023-05-13T19:42:04Z"
+   "time_added": "2023-05-14T08:29:33Z"
   },
   {
-   "item_id": "3862493296",
-   "given_url": "https://www.youtube.com/watch?v=eiXtAPfMj6o",
-   "given_title": "(37) Why Portuguese Food is Hiding Everywhere - YouTube",
-   "resolved_title": "Why Portuguese Food is Hiding Everywhere",
-   "resolved_url": "http://www.youtube.com/watch?v=eiXtAPfMj6o",
-   "time_updated": "2023-05-13T22:04:33Z",
-   "time_added": "2023-05-13T22:04:33Z"
+   "item_id": "3865415939",
+   "given_url": "https://henvic.dev/posts/go-utf8/",
+   "given_title": "UTF-8 strings with Go: len(s) isn't enough | Henrique Vicente",
+   "resolved_title": "UTF-8 strings with Go: len(s) isn't enough",
+   "resolved_url": "https://henvic.dev/posts/go-utf8/",
+   "time_updated": "2023-05-14T19:33:54Z",
+   "time_added": "2023-05-14T19:33:50Z"
   },
   {
-   "item_id": "3862727479",
-   "given_url": "https://twitter.com/zachklein/status/1656013452069199872",
-   "given_title": "Zach Klein no Twitter: \"I spent seven years building a kid/ed-tech product ",
+   "item_id": "3862543924",
+   "given_url": "https://twitter.com/moniza_hossain/status/1656106325246636033",
+   "given_title": "Moniza Hossain no Twitter: \"This is so incredibly hilarious. The story of h",
    "resolved_title": "",
-   "resolved_url": "https://twitter.com/zachklein/status/1656013452069199872",
-   "time_updated": "2023-05-10T10:12:42Z",
-   "time_added": "2023-05-10T10:12:40Z"
+   "resolved_url": "https://twitter.com/moniza_hossain/status/1656106325246636033",
+   "time_updated": "2023-05-11T08:15:59Z",
+   "time_added": "2023-05-11T08:15:59Z"
+  },
+  {
+   "item_id": "3864929267",
+   "given_url": "https://twitter.com/jimmy_wales/status/1657494022741426180",
+   "given_title": "Jimmy Wales no Twitter: \"What Wikipedia did: we stood strong for our princi",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/jimmy_wales/status/1657494022741426180",
+   "time_updated": "2023-05-14T22:59:18Z",
+   "time_added": "2023-05-14T10:20:12Z"
+  },
+  {
+   "item_id": "3237236487",
+   "given_url": "https://medium.com/kanoteknologi/better-way-to-read-and-write-json-file-in-golang-9d575b7254f2",
+   "given_title": "Better way to read and write JSON file in Golang | by Bagus Cahyono | KANO ",
+   "resolved_title": "Better way to read and write JSON file in Golang",
+   "resolved_url": "https://medium.com/kanoteknologi/better-way-to-read-and-write-json-file-in-golang-9d575b7254f2",
+   "time_updated": "2023-05-14T19:28:00Z",
+   "time_added": "2023-05-14T19:28:00Z"
+  },
+  {
+   "item_id": "3865493562",
+   "given_url": "https://m.youtube.com/watch?v=slXxO2zJXUI\u0026feature=youtu.be",
+   "given_title": "Basic Principles for Fat Loss | Nutrition for Fat Loss- Lecture 1 - YouTube",
+   "resolved_title": "Basic Principles for Fat Loss | Nutrition for Fat Loss-  Lecture 1",
+   "resolved_url": "http://www.youtube.com/watch?v=slXxO2zJXUI",
+   "time_updated": "2023-05-14T22:59:19Z",
+   "time_added": "2023-05-14T22:19:13Z"
   },
   {
    "item_id": "374697762",
@@ -337,6 +157,132 @@
    "time_added": "2023-05-10T13:03:31Z"
   },
   {
+   "item_id": "3862187028",
+   "given_url": "https://twitter.com/paulg/status/1655925905527537666",
+   "given_title": "Paul Graham no Twitter: \"Observation suggests that people are switching to ",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/paulg/status/1655925905527537666",
+   "time_updated": "2023-05-11T10:21:29Z",
+   "time_added": "2023-05-11T10:21:28Z"
+  },
+  {
+   "item_id": "3863572762",
+   "given_url": "https://twitter.com/michaelcurzi/status/1656371405284339714",
+   "given_title": "???????????? no Twitter: \"TIL https://t.co/1w0kmjoIwo\" / Twitter",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/michaelcurzi/status/1656371405284339714",
+   "time_updated": "2023-05-11T16:21:56Z",
+   "time_added": "2023-05-11T16:21:54Z"
+  },
+  {
+   "item_id": "3864289600",
+   "given_url": "https://financialstatement.zip/",
+   "given_title": "The .zip TLD sucks and it needs to be immediately revoked.",
+   "resolved_title": "The .zip TLD sucks and it needs to be immediately revoked.",
+   "resolved_url": "https://financialstatement.zip/",
+   "time_updated": "2023-05-13T11:30:20Z",
+   "time_added": "2023-05-13T11:30:20Z"
+  },
+  {
+   "item_id": "3862765936",
+   "given_url": "https://redd.one/blog/my-struggle-with-remix",
+   "given_title": "My Struggle With Remix - Redd",
+   "resolved_title": "My Struggle With Remix",
+   "resolved_url": "https://redd.one/blog/my-struggle-with-remix#145: Next.js, Server Actions, useFormStatus, useOptimistic, App Router, Canaries, Ink, ReasonML, Redwood, Reanimated, VisionCamera... - 10736507",
+   "time_updated": "2023-05-10T15:46:07Z",
+   "time_added": "2023-05-10T15:46:06Z"
+  },
+  {
+   "item_id": "3864288565",
+   "given_url": "https://twitter.com/IKaijuu/status/1657089609027706906?t=HP-vRDBswki7X30UMErhpA\u0026s=19",
+   "given_title": "Ilha Kaijuu - Rafael Machado Costa no Twitter: \"- Um dos mais antigos super",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/IKaijuu/status/1657089609027706906?t=HP-vRDBswki7X30UMErhpA\u0026s=19",
+   "time_updated": "2023-05-12T18:50:03Z",
+   "time_added": "2023-05-12T18:50:00Z"
+  },
+  {
+   "item_id": "3865151375",
+   "given_url": "https://twitter.com/hugaomarques/status/1657479646546386944",
+   "given_title": "Hugo Marques no Twitter: \"Opa turma, pra todos vocês que tão nessa vida de ",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/hugaomarques/status/1657479646546386944",
+   "time_updated": "2023-05-14T22:59:18Z",
+   "time_added": "2023-05-14T11:45:52Z"
+  },
+  {
+   "item_id": "2085163210",
+   "given_url": "https://en.wikipedia.org/wiki/Restrictions_on_geographic_data_in_China#The_China_GPS_shift_problem",
+   "given_title": "Restrictions on geographic data in China - Wikipedia",
+   "resolved_title": "Restrictions on geographic data in China",
+   "resolved_url": "https://en.wikipedia.org/wiki/Restrictions_on_geographic_data_in_China",
+   "time_updated": "2023-05-10T18:47:27Z",
+   "time_added": "2023-05-10T18:47:27Z"
+  },
+  {
+   "item_id": "3488213295",
+   "given_url": "https://www.barrywebbimages.co.uk/Images/Macro/Slime-Moulds-Myxomycetes/",
+   "given_title": "",
+   "resolved_title": "Slime Moulds (Myxomycetes)",
+   "resolved_url": "https://www.barrywebbimages.co.uk/Images/Macro/Slime-Moulds-Myxomycetes",
+   "time_updated": "2023-05-11T10:23:18Z",
+   "time_added": "2023-05-11T10:23:18Z"
+  },
+  {
+   "item_id": "3863091215",
+   "given_url": "https://webauthn.wtf/",
+   "given_title": "What is WebAuthn? - WebAuthn | WebAuthn.wtf",
+   "resolved_title": "What is WebAuthn?",
+   "resolved_url": "https://webauthn.wtf/",
+   "time_updated": "2023-05-12T19:16:09Z",
+   "time_added": "2023-05-12T19:16:09Z"
+  },
+  {
+   "item_id": "3863385960",
+   "given_url": "https://news.ycombinator.com/item?id=35895005",
+   "given_title": "Telegram deletes message against Brazil’s Bill after Supreme Court threat |",
+   "resolved_title": "Telegram deletes message against Brazil’s Bill after Supreme Court threat",
+   "resolved_url": "https://news.ycombinator.com/item?id=35895005",
+   "time_updated": "2023-05-11T10:27:20Z",
+   "time_added": "2023-05-11T10:27:16Z"
+  },
+  {
+   "item_id": "3864224638",
+   "given_url": "https://twitter.com/JLarky/status/1656487452494921729/mediaViewer?currentTweet=1656487452494921729\u0026currentTweetUser=JLarky",
+   "given_title": "",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/JLarky/status/1656487452494921729/mediaViewer?currentTweet=1656487452494921729\u0026currentTweetUser=JLarky",
+   "time_updated": "2023-05-12T16:35:17Z",
+   "time_added": "2023-05-12T16:35:15Z"
+  },
+  {
+   "item_id": "3865132387",
+   "given_url": "https://twitter.com/MaRc_By_8/status/1657107874013761542",
+   "given_title": "MaRc_By_8. no Twitter: \"@Baze_RL what do you want me to upload? I put the m",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/MaRc_By_8/status/1657107874013761542",
+   "time_updated": "2023-05-14T22:59:18Z",
+   "time_added": "2023-05-13T19:42:04Z"
+  },
+  {
+   "item_id": "3749200789",
+   "given_url": "https://madebyevan.com/algos/log-spaced-snapshots/",
+   "given_title": "Logarithmically-Spaced Snapshots - Made by Evan",
+   "resolved_title": "Logarithmically-Spaced Snapshots",
+   "resolved_url": "https://madebyevan.com/algos/log-spaced-snapshots/",
+   "time_updated": "2023-05-14T22:59:18Z",
+   "time_added": "2023-05-14T10:22:04Z"
+  },
+  {
+   "item_id": "3863329417",
+   "given_url": "https://twitter.com/ctjlewis/status/1656439554503581696",
+   "given_title": "Lewis no Twitter: \"@atmvc preferential access rollout to insiders and influ",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/ctjlewis/status/1656439554503581696",
+   "time_updated": "2023-05-11T08:25:20Z",
+   "time_added": "2023-05-11T08:25:18Z"
+  },
+  {
    "item_id": "3863362168",
    "given_url": "https://twitter.com/agsportlight/status/1656592691826683904",
    "given_title": "Agência Sportlight no Twitter: \"“O Brasil está no radar, a Libertadores tam",
@@ -344,6 +290,24 @@
    "resolved_url": "https://twitter.com/agsportlight/status/1656592691826683904",
    "time_updated": "2023-05-11T09:36:30Z",
    "time_added": "2023-05-11T09:36:28Z"
+  },
+  {
+   "item_id": "3862493296",
+   "given_url": "https://www.youtube.com/watch?v=eiXtAPfMj6o",
+   "given_title": "(37) Why Portuguese Food is Hiding Everywhere - YouTube",
+   "resolved_title": "Why Portuguese Food is Hiding Everywhere",
+   "resolved_url": "http://www.youtube.com/watch?v=eiXtAPfMj6o",
+   "time_updated": "2023-05-13T22:04:33Z",
+   "time_added": "2023-05-13T22:04:33Z"
+  },
+  {
+   "item_id": "3865034358",
+   "given_url": "https://twitter.com/felipepepe/status/1657554847691046912",
+   "given_title": "Felipe Pepe no Twitter: \"Today I want to tell a fun video game history fact",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/felipepepe/status/1657554847691046912",
+   "time_updated": "2023-05-14T22:59:18Z",
+   "time_added": "2023-05-14T08:04:59Z"
   },
   {
    "item_id": "3863745036",
@@ -364,31 +328,40 @@
    "time_added": "2023-05-11T22:24:36Z"
   },
   {
-   "item_id": "3864165318",
-   "given_url": "https://www2.ifsc.usp.br/portal-ifsc/hibernacao-torpor-e-sono-distinguir-os-animais-que-de-fato-hibernam-daqueles-que-passam-por-um-estado-de-torpor-diario/",
-   "given_title": "Hibernação, torpor e sono - Distinguir os animais que hibernam daqueles que",
-   "resolved_title": "Hibernação, torpor e sono – Distinguir os animais que hibernam daqueles que passam por um estado de torpor diário",
-   "resolved_url": "https://www2.ifsc.usp.br/portal-ifsc/hibernacao-torpor-e-sono-distinguir-os-animais-que-de-fato-hibernam-daqueles-que-passam-por-um-estado-de-torpor-diario/",
-   "time_updated": "2023-05-12T14:42:03Z",
-   "time_added": "2023-05-12T14:41:59Z"
+   "item_id": "3756652391",
+   "given_url": "https://twitter.com/stupidhoroscope/status/1597851651720609794",
+   "given_title": "Nyek - @stupidhoroscope@mastodon.gamedev.place no Twitter: \"Ads for games i",
+   "resolved_title": "Nyek @stupidhoroscope@mastodon.gamedev.place",
+   "resolved_url": "https://twitter.com/stupidhoroscope/status/1597851651720609794",
+   "time_updated": "2023-05-13T08:49:11Z",
+   "time_added": "2023-05-13T08:49:10Z"
   },
   {
-   "item_id": "3865034358",
-   "given_url": "https://twitter.com/felipepepe/status/1657554847691046912",
-   "given_title": "Felipe Pepe no Twitter: \"Today I want to tell a fun video game history fact",
+   "item_id": "2857891280",
+   "given_url": "https://en.m.wikipedia.org/wiki/This_Is_How_You_Lose_the_Time_War",
+   "given_title": "This Is How You Lose the Time War - Wikipedia",
+   "resolved_title": "This Is How You Lose the Time War",
+   "resolved_url": "https://en.wikipedia.org/wiki/This_Is_How_You_Lose_the_Time_War",
+   "time_updated": "2023-05-11T06:52:13Z",
+   "time_added": "2023-05-11T06:52:12Z"
+  },
+  {
+   "item_id": "3863353590",
+   "given_url": "https://twitter.com/glebm/status/1656400017156915201",
+   "given_title": "Gleb Mazovetskiy no Twitter: \"@kosamari Han Unification is the biggest mist",
    "resolved_title": "",
-   "resolved_url": "https://twitter.com/felipepepe/status/1657554847691046912",
-   "time_updated": "2023-05-14T22:59:18Z",
-   "time_added": "2023-05-14T08:04:59Z"
+   "resolved_url": "https://twitter.com/glebm/status/1656400017156915201",
+   "time_updated": "2023-05-11T09:19:07Z",
+   "time_added": "2023-05-11T09:19:06Z"
   },
   {
-   "item_id": "3865132389",
-   "given_url": "https://m.youtube.com/watch?v=vA-7VcETr2o",
-   "given_title": "The Very Weird Spider-Man TV Series That Time Forgot - YouTube",
-   "resolved_title": "The Very Weird Spider-Man TV Series That Time Forgot",
-   "resolved_url": "http://www.youtube.com/watch?v=vA-7VcETr2o",
-   "time_updated": "2023-05-14T22:59:18Z",
-   "time_added": "2023-05-14T08:29:33Z"
+   "item_id": "3864617214",
+   "given_url": "https://www.youtube.com/playlist?list=PLMfnQGBZOAr1HBd1QkDaNQ45VesGtKjc7",
+   "given_title": "(33) Homem-Aranha: Ação Sem Limites | Todos os episódios - YouTube",
+   "resolved_title": "Homem-Aranha : Ação Sem Limites : Todos os episódios",
+   "resolved_url": "https://www.youtube.com/playlist?list=PLMfnQGBZOAr1HBd1QkDaNQ45VesGtKjc7",
+   "time_updated": "2023-05-13T09:43:25Z",
+   "time_added": "2023-05-13T09:43:24Z"
   },
   {
    "item_id": "3864571259",

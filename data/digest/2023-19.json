@@ -4,60 +4,6 @@
  "sortKey": "2023-19",
  "items": [
   {
-   "item_id": "3749200789",
-   "given_url": "https://madebyevan.com/algos/log-spaced-snapshots/",
-   "given_title": "Logarithmically-Spaced Snapshots - Made by Evan",
-   "resolved_title": "Logarithmically-Spaced Snapshots",
-   "resolved_url": "https://madebyevan.com/algos/log-spaced-snapshots/",
-   "time_updated": "2023-05-14T22:59:18Z",
-   "time_added": "2023-05-14T10:22:04Z"
-  },
-  {
-   "item_id": "3865493562",
-   "given_url": "https://m.youtube.com/watch?v=slXxO2zJXUI\u0026feature=youtu.be",
-   "given_title": "Basic Principles for Fat Loss | Nutrition for Fat Loss- Lecture 1 - YouTube",
-   "resolved_title": "Basic Principles for Fat Loss | Nutrition for Fat Loss-  Lecture 1",
-   "resolved_url": "http://www.youtube.com/watch?v=slXxO2zJXUI",
-   "time_updated": "2023-05-14T22:59:19Z",
-   "time_added": "2023-05-14T22:19:13Z"
-  },
-  {
-   "item_id": "3863847876",
-   "given_url": "https://twitter.com/SwiftOnSecurity/status/1656843245345751040",
-   "given_title": "SwiftOnSecurity no Twitter: \"Really. .zip. ICANN are fucking deplorable end",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/SwiftOnSecurity/status/1656843245345751040",
-   "time_updated": "2023-05-12T08:20:53Z",
-   "time_added": "2023-05-12T08:20:52Z"
-  },
-  {
-   "item_id": "3864289600",
-   "given_url": "https://financialstatement.zip/",
-   "given_title": "The .zip TLD sucks and it needs to be immediately revoked.",
-   "resolved_title": "The .zip TLD sucks and it needs to be immediately revoked.",
-   "resolved_url": "https://financialstatement.zip/",
-   "time_updated": "2023-05-13T11:30:20Z",
-   "time_added": "2023-05-13T11:30:20Z"
-  },
-  {
-   "item_id": "3862493296",
-   "given_url": "https://www.youtube.com/watch?v=eiXtAPfMj6o",
-   "given_title": "(37) Why Portuguese Food is Hiding Everywhere - YouTube",
-   "resolved_title": "Why Portuguese Food is Hiding Everywhere",
-   "resolved_url": "http://www.youtube.com/watch?v=eiXtAPfMj6o",
-   "time_updated": "2023-05-13T22:04:33Z",
-   "time_added": "2023-05-13T22:04:33Z"
-  },
-  {
-   "item_id": "3237236487",
-   "given_url": "https://medium.com/kanoteknologi/better-way-to-read-and-write-json-file-in-golang-9d575b7254f2",
-   "given_title": "Better way to read and write JSON file in Golang | by Bagus Cahyono | KANO ",
-   "resolved_title": "Better way to read and write JSON file in Golang",
-   "resolved_url": "https://medium.com/kanoteknologi/better-way-to-read-and-write-json-file-in-golang-9d575b7254f2",
-   "time_updated": "2023-05-14T19:28:00Z",
-   "time_added": "2023-05-14T19:28:00Z"
-  },
-  {
    "item_id": "3106992991",
    "given_url": "https://www.scienceworld.ca/stories/do-bears-actually-hibernate/",
    "given_title": "Do bears actually hibernate? - Science World",
@@ -67,13 +13,13 @@
    "time_added": "2023-05-12T14:41:50Z"
   },
   {
-   "item_id": "3864165318",
-   "given_url": "https://www2.ifsc.usp.br/portal-ifsc/hibernacao-torpor-e-sono-distinguir-os-animais-que-de-fato-hibernam-daqueles-que-passam-por-um-estado-de-torpor-diario/",
-   "given_title": "Hibernação, torpor e sono - Distinguir os animais que hibernam daqueles que",
-   "resolved_title": "Hibernação, torpor e sono – Distinguir os animais que hibernam daqueles que passam por um estado de torpor diário",
-   "resolved_url": "https://www2.ifsc.usp.br/portal-ifsc/hibernacao-torpor-e-sono-distinguir-os-animais-que-de-fato-hibernam-daqueles-que-passam-por-um-estado-de-torpor-diario/",
-   "time_updated": "2023-05-12T14:42:03Z",
-   "time_added": "2023-05-12T14:41:59Z"
+   "item_id": "3865415939",
+   "given_url": "https://henvic.dev/posts/go-utf8/",
+   "given_title": "UTF-8 strings with Go: len(s) isn't enough | Henrique Vicente",
+   "resolved_title": "UTF-8 strings with Go: len(s) isn't enough",
+   "resolved_url": "https://henvic.dev/posts/go-utf8/",
+   "time_updated": "2023-05-14T19:33:54Z",
+   "time_added": "2023-05-14T19:33:50Z"
   },
   {
    "item_id": "3864224638",
@@ -85,40 +31,22 @@
    "time_added": "2023-05-12T16:35:15Z"
   },
   {
-   "item_id": "3865132387",
-   "given_url": "https://twitter.com/MaRc_By_8/status/1657107874013761542",
-   "given_title": "MaRc_By_8. no Twitter: \"@Baze_RL what do you want me to upload? I put the m",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/MaRc_By_8/status/1657107874013761542",
-   "time_updated": "2023-05-14T22:59:18Z",
-   "time_added": "2023-05-13T19:42:04Z"
+   "item_id": "3862493296",
+   "given_url": "https://www.youtube.com/watch?v=eiXtAPfMj6o",
+   "given_title": "(37) Why Portuguese Food is Hiding Everywhere - YouTube",
+   "resolved_title": "Why Portuguese Food is Hiding Everywhere",
+   "resolved_url": "http://www.youtube.com/watch?v=eiXtAPfMj6o",
+   "time_updated": "2023-05-13T22:04:33Z",
+   "time_added": "2023-05-13T22:04:33Z"
   },
   {
-   "item_id": "3865034358",
-   "given_url": "https://twitter.com/felipepepe/status/1657554847691046912",
-   "given_title": "Felipe Pepe no Twitter: \"Today I want to tell a fun video game history fact",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/felipepepe/status/1657554847691046912",
-   "time_updated": "2023-05-14T22:59:18Z",
-   "time_added": "2023-05-14T08:04:59Z"
-  },
-  {
-   "item_id": "3864617214",
-   "given_url": "https://www.youtube.com/playlist?list=PLMfnQGBZOAr1HBd1QkDaNQ45VesGtKjc7",
-   "given_title": "(33) Homem-Aranha: Ação Sem Limites | Todos os episódios - YouTube",
-   "resolved_title": "Homem-Aranha : Ação Sem Limites : Todos os episódios",
-   "resolved_url": "https://www.youtube.com/playlist?list=PLMfnQGBZOAr1HBd1QkDaNQ45VesGtKjc7",
-   "time_updated": "2023-05-13T09:43:25Z",
-   "time_added": "2023-05-13T09:43:24Z"
-  },
-  {
-   "item_id": "3864929267",
-   "given_url": "https://twitter.com/jimmy_wales/status/1657494022741426180",
-   "given_title": "Jimmy Wales no Twitter: \"What Wikipedia did: we stood strong for our princi",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/jimmy_wales/status/1657494022741426180",
-   "time_updated": "2023-05-14T22:59:18Z",
-   "time_added": "2023-05-14T10:20:12Z"
+   "item_id": "3864165318",
+   "given_url": "https://www2.ifsc.usp.br/portal-ifsc/hibernacao-torpor-e-sono-distinguir-os-animais-que-de-fato-hibernam-daqueles-que-passam-por-um-estado-de-torpor-diario/",
+   "given_title": "Hibernação, torpor e sono - Distinguir os animais que hibernam daqueles que",
+   "resolved_title": "Hibernação, torpor e sono – Distinguir os animais que hibernam daqueles que passam por um estado de torpor diário",
+   "resolved_url": "https://www2.ifsc.usp.br/portal-ifsc/hibernacao-torpor-e-sono-distinguir-os-animais-que-de-fato-hibernam-daqueles-que-passam-por-um-estado-de-torpor-diario/",
+   "time_updated": "2023-05-12T14:42:03Z",
+   "time_added": "2023-05-12T14:41:59Z"
   },
   {
    "item_id": "3864288565",
@@ -130,6 +58,51 @@
    "time_added": "2023-05-12T18:50:00Z"
   },
   {
+   "item_id": "3865132387",
+   "given_url": "https://twitter.com/MaRc_By_8/status/1657107874013761542",
+   "given_title": "MaRc_By_8. no Twitter: \"@Baze_RL what do you want me to upload? I put the m",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/MaRc_By_8/status/1657107874013761542",
+   "time_updated": "2023-05-14T22:59:18Z",
+   "time_added": "2023-05-13T19:42:04Z"
+  },
+  {
+   "item_id": "3865132389",
+   "given_url": "https://m.youtube.com/watch?v=vA-7VcETr2o",
+   "given_title": "The Very Weird Spider-Man TV Series That Time Forgot - YouTube",
+   "resolved_title": "The Very Weird Spider-Man TV Series That Time Forgot",
+   "resolved_url": "http://www.youtube.com/watch?v=vA-7VcETr2o",
+   "time_updated": "2023-05-14T22:59:18Z",
+   "time_added": "2023-05-14T08:29:33Z"
+  },
+  {
+   "item_id": "3864929267",
+   "given_url": "https://twitter.com/jimmy_wales/status/1657494022741426180",
+   "given_title": "Jimmy Wales no Twitter: \"What Wikipedia did: we stood strong for our princi",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/jimmy_wales/status/1657494022741426180",
+   "time_updated": "2023-05-14T22:59:18Z",
+   "time_added": "2023-05-14T10:20:12Z"
+  },
+  {
+   "item_id": "3749200789",
+   "given_url": "https://madebyevan.com/algos/log-spaced-snapshots/",
+   "given_title": "Logarithmically-Spaced Snapshots - Made by Evan",
+   "resolved_title": "Logarithmically-Spaced Snapshots",
+   "resolved_url": "https://madebyevan.com/algos/log-spaced-snapshots/",
+   "time_updated": "2023-05-14T22:59:18Z",
+   "time_added": "2023-05-14T10:22:04Z"
+  },
+  {
+   "item_id": "3865151375",
+   "given_url": "https://twitter.com/hugaomarques/status/1657479646546386944",
+   "given_title": "Hugo Marques no Twitter: \"Opa turma, pra todos vocês que tão nessa vida de ",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/hugaomarques/status/1657479646546386944",
+   "time_updated": "2023-05-14T22:59:18Z",
+   "time_added": "2023-05-14T11:45:52Z"
+  },
+  {
    "item_id": "3863091215",
    "given_url": "https://webauthn.wtf/",
    "given_title": "What is WebAuthn? - WebAuthn | WebAuthn.wtf",
@@ -137,6 +110,24 @@
    "resolved_url": "https://webauthn.wtf/",
    "time_updated": "2023-05-12T19:16:09Z",
    "time_added": "2023-05-12T19:16:09Z"
+  },
+  {
+   "item_id": "3865493562",
+   "given_url": "https://m.youtube.com/watch?v=slXxO2zJXUI\u0026feature=youtu.be",
+   "given_title": "Basic Principles for Fat Loss | Nutrition for Fat Loss- Lecture 1 - YouTube",
+   "resolved_title": "Basic Principles for Fat Loss | Nutrition for Fat Loss-  Lecture 1",
+   "resolved_url": "http://www.youtube.com/watch?v=slXxO2zJXUI",
+   "time_updated": "2023-05-14T22:59:19Z",
+   "time_added": "2023-05-14T22:19:13Z"
+  },
+  {
+   "item_id": "3590083987",
+   "given_url": "https://www.smh.com.au/business/entrepreneurship/fast-fall-australian-led-us-checkout-app-shuts-down-after-burning-through-millions-20220406-p5ab9h.html",
+   "given_title": "Fast: Domm Holland’s one-click purchase company shuts down",
+   "resolved_title": "Fast fall: Australian-led, US checkout app shuts down after burning through millions",
+   "resolved_url": "https://www.smh.com.au/business/entrepreneurship/fast-fall-australian-led-us-checkout-app-shuts-down-after-burning-through-millions-20220406-p5ab9h.html",
+   "time_updated": "2023-05-12T13:01:58Z",
+   "time_added": "2023-05-12T13:01:57Z"
   },
   {
    "item_id": "3756652391",
@@ -157,40 +148,40 @@
    "time_added": "2023-05-14T12:41:31Z"
   },
   {
-   "item_id": "3865415939",
-   "given_url": "https://henvic.dev/posts/go-utf8/",
-   "given_title": "UTF-8 strings with Go: len(s) isn't enough | Henrique Vicente",
-   "resolved_title": "UTF-8 strings with Go: len(s) isn't enough",
-   "resolved_url": "https://henvic.dev/posts/go-utf8/",
-   "time_updated": "2023-05-14T19:33:54Z",
-   "time_added": "2023-05-14T19:33:50Z"
+   "item_id": "3864617214",
+   "given_url": "https://www.youtube.com/playlist?list=PLMfnQGBZOAr1HBd1QkDaNQ45VesGtKjc7",
+   "given_title": "(33) Homem-Aranha: Ação Sem Limites | Todos os episódios - YouTube",
+   "resolved_title": "Homem-Aranha : Ação Sem Limites : Todos os episódios",
+   "resolved_url": "https://www.youtube.com/playlist?list=PLMfnQGBZOAr1HBd1QkDaNQ45VesGtKjc7",
+   "time_updated": "2023-05-13T09:43:25Z",
+   "time_added": "2023-05-13T09:43:24Z"
   },
   {
-   "item_id": "3590083987",
-   "given_url": "https://www.smh.com.au/business/entrepreneurship/fast-fall-australian-led-us-checkout-app-shuts-down-after-burning-through-millions-20220406-p5ab9h.html",
-   "given_title": "Fast: Domm Holland’s one-click purchase company shuts down",
-   "resolved_title": "Fast fall: Australian-led, US checkout app shuts down after burning through millions",
-   "resolved_url": "https://www.smh.com.au/business/entrepreneurship/fast-fall-australian-led-us-checkout-app-shuts-down-after-burning-through-millions-20220406-p5ab9h.html",
-   "time_updated": "2023-05-12T13:01:58Z",
-   "time_added": "2023-05-12T13:01:57Z"
+   "item_id": "3864289600",
+   "given_url": "https://financialstatement.zip/",
+   "given_title": "The .zip TLD sucks and it needs to be immediately revoked.",
+   "resolved_title": "The .zip TLD sucks and it needs to be immediately revoked.",
+   "resolved_url": "https://financialstatement.zip/",
+   "time_updated": "2023-05-13T11:30:20Z",
+   "time_added": "2023-05-13T11:30:20Z"
   },
   {
-   "item_id": "3865132389",
-   "given_url": "https://m.youtube.com/watch?v=vA-7VcETr2o",
-   "given_title": "The Very Weird Spider-Man TV Series That Time Forgot - YouTube",
-   "resolved_title": "The Very Weird Spider-Man TV Series That Time Forgot",
-   "resolved_url": "http://www.youtube.com/watch?v=vA-7VcETr2o",
-   "time_updated": "2023-05-14T22:59:18Z",
-   "time_added": "2023-05-14T08:29:33Z"
+   "item_id": "3237236487",
+   "given_url": "https://medium.com/kanoteknologi/better-way-to-read-and-write-json-file-in-golang-9d575b7254f2",
+   "given_title": "Better way to read and write JSON file in Golang | by Bagus Cahyono | KANO ",
+   "resolved_title": "Better way to read and write JSON file in Golang",
+   "resolved_url": "https://medium.com/kanoteknologi/better-way-to-read-and-write-json-file-in-golang-9d575b7254f2",
+   "time_updated": "2023-05-14T19:28:00Z",
+   "time_added": "2023-05-14T19:28:00Z"
   },
   {
-   "item_id": "3865151375",
-   "given_url": "https://twitter.com/hugaomarques/status/1657479646546386944",
-   "given_title": "Hugo Marques no Twitter: \"Opa turma, pra todos vocês que tão nessa vida de ",
+   "item_id": "3865034358",
+   "given_url": "https://twitter.com/felipepepe/status/1657554847691046912",
+   "given_title": "Felipe Pepe no Twitter: \"Today I want to tell a fun video game history fact",
    "resolved_title": "",
-   "resolved_url": "https://twitter.com/hugaomarques/status/1657479646546386944",
+   "resolved_url": "https://twitter.com/felipepepe/status/1657554847691046912",
    "time_updated": "2023-05-14T22:59:18Z",
-   "time_added": "2023-05-14T11:45:52Z"
+   "time_added": "2023-05-14T08:04:59Z"
   }
  ]
 }

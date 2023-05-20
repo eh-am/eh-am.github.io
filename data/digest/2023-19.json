@@ -4,49 +4,13 @@
  "sortKey": "2023-19",
  "items": [
   {
-   "item_id": "3864571259",
-   "given_url": "https://g1.globo.com/go/goias/noticia/2023/05/13/chamadas-de-video-com-apostador-comprovantes-de-pagamento-e-mensagens-veja-provas-apontadas-pelo-mp-que-ligam-jogadores-a-esquema-de-manipulacao-de-jogos.ghtml",
-   "given_title": "Chamadas de vídeo com apostador, comprovantes de pagamento e mensagens: vej",
-   "resolved_title": "veja provas apontadas pelo MP que ligam jogadores a esquema de manipulação de jogos",
-   "resolved_url": "https://g1.globo.com/go/goias/noticia/2023/05/13/chamadas-de-video-com-apostador-comprovantes-de-pagamento-e-mensagens-veja-provas-apontadas-pelo-mp-que-ligam-jogadores-a-esquema-de-manipulacao-de-jogos.ghtml",
+   "item_id": "3864929267",
+   "given_url": "https://twitter.com/jimmy_wales/status/1657494022741426180",
+   "given_title": "Jimmy Wales no Twitter: \"What Wikipedia did: we stood strong for our princi",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/jimmy_wales/status/1657494022741426180",
    "time_updated": "2023-05-14T22:59:18Z",
-   "time_added": "2023-05-14T12:41:31Z"
-  },
-  {
-   "item_id": "3865415939",
-   "given_url": "https://henvic.dev/posts/go-utf8/",
-   "given_title": "UTF-8 strings with Go: len(s) isn't enough | Henrique Vicente",
-   "resolved_title": "UTF-8 strings with Go: len(s) isn't enough",
-   "resolved_url": "https://henvic.dev/posts/go-utf8/",
-   "time_updated": "2023-05-14T19:33:54Z",
-   "time_added": "2023-05-14T19:33:50Z"
-  },
-  {
-   "item_id": "3864617214",
-   "given_url": "https://www.youtube.com/playlist?list=PLMfnQGBZOAr1HBd1QkDaNQ45VesGtKjc7",
-   "given_title": "(33) Homem-Aranha: Ação Sem Limites | Todos os episódios - YouTube",
-   "resolved_title": "Homem-Aranha : Ação Sem Limites : Todos os episódios",
-   "resolved_url": "https://www.youtube.com/playlist?list=PLMfnQGBZOAr1HBd1QkDaNQ45VesGtKjc7",
-   "time_updated": "2023-05-13T09:43:25Z",
-   "time_added": "2023-05-13T09:43:24Z"
-  },
-  {
-   "item_id": "3237236487",
-   "given_url": "https://medium.com/kanoteknologi/better-way-to-read-and-write-json-file-in-golang-9d575b7254f2",
-   "given_title": "Better way to read and write JSON file in Golang | by Bagus Cahyono | KANO ",
-   "resolved_title": "Better way to read and write JSON file in Golang",
-   "resolved_url": "https://medium.com/kanoteknologi/better-way-to-read-and-write-json-file-in-golang-9d575b7254f2",
-   "time_updated": "2023-05-14T19:28:00Z",
-   "time_added": "2023-05-14T19:28:00Z"
-  },
-  {
-   "item_id": "3865132389",
-   "given_url": "https://m.youtube.com/watch?v=vA-7VcETr2o",
-   "given_title": "The Very Weird Spider-Man TV Series That Time Forgot - YouTube",
-   "resolved_title": "The Very Weird Spider-Man TV Series That Time Forgot",
-   "resolved_url": "http://www.youtube.com/watch?v=vA-7VcETr2o",
-   "time_updated": "2023-05-14T22:59:18Z",
-   "time_added": "2023-05-14T08:29:33Z"
+   "time_added": "2023-05-14T10:20:12Z"
   },
   {
    "item_id": "3749200789",
@@ -58,13 +22,22 @@
    "time_added": "2023-05-14T10:22:04Z"
   },
   {
-   "item_id": "3756652391",
-   "given_url": "https://twitter.com/stupidhoroscope/status/1597851651720609794",
-   "given_title": "Nyek - @stupidhoroscope@mastodon.gamedev.place no Twitter: \"Ads for games i",
-   "resolved_title": "Nyek @stupidhoroscope@mastodon.gamedev.place",
-   "resolved_url": "https://twitter.com/stupidhoroscope/status/1597851651720609794",
-   "time_updated": "2023-05-13T08:49:11Z",
-   "time_added": "2023-05-13T08:49:10Z"
+   "item_id": "3864571259",
+   "given_url": "https://g1.globo.com/go/goias/noticia/2023/05/13/chamadas-de-video-com-apostador-comprovantes-de-pagamento-e-mensagens-veja-provas-apontadas-pelo-mp-que-ligam-jogadores-a-esquema-de-manipulacao-de-jogos.ghtml",
+   "given_title": "Chamadas de vídeo com apostador, comprovantes de pagamento e mensagens: vej",
+   "resolved_title": "veja provas apontadas pelo MP que ligam jogadores a esquema de manipulação de jogos",
+   "resolved_url": "https://g1.globo.com/go/goias/noticia/2023/05/13/chamadas-de-video-com-apostador-comprovantes-de-pagamento-e-mensagens-veja-provas-apontadas-pelo-mp-que-ligam-jogadores-a-esquema-de-manipulacao-de-jogos.ghtml",
+   "time_updated": "2023-05-14T22:59:18Z",
+   "time_added": "2023-05-14T12:41:31Z"
+  },
+  {
+   "item_id": "3865493562",
+   "given_url": "https://m.youtube.com/watch?v=slXxO2zJXUI\u0026feature=youtu.be",
+   "given_title": "Basic Principles for Fat Loss | Nutrition for Fat Loss- Lecture 1 - YouTube",
+   "resolved_title": "Basic Principles for Fat Loss | Nutrition for Fat Loss-  Lecture 1",
+   "resolved_url": "http://www.youtube.com/watch?v=slXxO2zJXUI",
+   "time_updated": "2023-05-14T22:59:19Z",
+   "time_added": "2023-05-14T22:19:13Z"
   },
   {
    "item_id": "3865151375",
@@ -76,22 +49,13 @@
    "time_added": "2023-05-14T11:45:52Z"
   },
   {
-   "item_id": "3864289600",
-   "given_url": "https://financialstatement.zip/",
-   "given_title": "The .zip TLD sucks and it needs to be immediately revoked.",
-   "resolved_title": "The .zip TLD sucks and it needs to be immediately revoked.",
-   "resolved_url": "https://financialstatement.zip/",
-   "time_updated": "2023-05-13T11:30:20Z",
-   "time_added": "2023-05-13T11:30:20Z"
-  },
-  {
-   "item_id": "3862493296",
-   "given_url": "https://www.youtube.com/watch?v=eiXtAPfMj6o",
-   "given_title": "(37) Why Portuguese Food is Hiding Everywhere - YouTube",
-   "resolved_title": "Why Portuguese Food is Hiding Everywhere",
-   "resolved_url": "http://www.youtube.com/watch?v=eiXtAPfMj6o",
-   "time_updated": "2023-05-13T22:04:33Z",
-   "time_added": "2023-05-13T22:04:33Z"
+   "item_id": "3865415939",
+   "given_url": "https://henvic.dev/posts/go-utf8/",
+   "given_title": "UTF-8 strings with Go: len(s) isn't enough | Henrique Vicente",
+   "resolved_title": "UTF-8 strings with Go: len(s) isn't enough",
+   "resolved_url": "https://henvic.dev/posts/go-utf8/",
+   "time_updated": "2023-05-14T19:33:54Z",
+   "time_added": "2023-05-14T19:33:50Z"
   },
   {
    "item_id": "3865034358",
@@ -103,13 +67,22 @@
    "time_added": "2023-05-14T08:04:59Z"
   },
   {
-   "item_id": "3864929267",
-   "given_url": "https://twitter.com/jimmy_wales/status/1657494022741426180",
-   "given_title": "Jimmy Wales no Twitter: \"What Wikipedia did: we stood strong for our princi",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/jimmy_wales/status/1657494022741426180",
+   "item_id": "3865132389",
+   "given_url": "https://m.youtube.com/watch?v=vA-7VcETr2o",
+   "given_title": "The Very Weird Spider-Man TV Series That Time Forgot - YouTube",
+   "resolved_title": "The Very Weird Spider-Man TV Series That Time Forgot",
+   "resolved_url": "http://www.youtube.com/watch?v=vA-7VcETr2o",
    "time_updated": "2023-05-14T22:59:18Z",
-   "time_added": "2023-05-14T10:20:12Z"
+   "time_added": "2023-05-14T08:29:33Z"
+  },
+  {
+   "item_id": "3237236487",
+   "given_url": "https://medium.com/kanoteknologi/better-way-to-read-and-write-json-file-in-golang-9d575b7254f2",
+   "given_title": "Better way to read and write JSON file in Golang | by Bagus Cahyono | KANO ",
+   "resolved_title": "Better way to read and write JSON file in Golang",
+   "resolved_url": "https://medium.com/kanoteknologi/better-way-to-read-and-write-json-file-in-golang-9d575b7254f2",
+   "time_updated": "2023-05-14T19:28:00Z",
+   "time_added": "2023-05-14T19:28:00Z"
   },
   {
    "item_id": "3865132387",
@@ -121,13 +94,13 @@
    "time_added": "2023-05-13T19:42:04Z"
   },
   {
-   "item_id": "3865493562",
-   "given_url": "https://m.youtube.com/watch?v=slXxO2zJXUI\u0026feature=youtu.be",
-   "given_title": "Basic Principles for Fat Loss | Nutrition for Fat Loss- Lecture 1 - YouTube",
-   "resolved_title": "Basic Principles for Fat Loss | Nutrition for Fat Loss-  Lecture 1",
-   "resolved_url": "http://www.youtube.com/watch?v=slXxO2zJXUI",
-   "time_updated": "2023-05-14T22:59:19Z",
-   "time_added": "2023-05-14T22:19:13Z"
+   "item_id": "3862493296",
+   "given_url": "https://www.youtube.com/watch?v=eiXtAPfMj6o",
+   "given_title": "(37) Why Portuguese Food is Hiding Everywhere - YouTube",
+   "resolved_title": "Why Portuguese Food is Hiding Everywhere",
+   "resolved_url": "http://www.youtube.com/watch?v=eiXtAPfMj6o",
+   "time_updated": "2023-05-13T22:04:33Z",
+   "time_added": "2023-05-13T22:04:33Z"
   }
  ]
 }

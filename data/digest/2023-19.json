@@ -4,51 +4,6 @@
  "sortKey": "2023-19",
  "items": [
   {
-   "item_id": "3864929267",
-   "given_url": "https://twitter.com/jimmy_wales/status/1657494022741426180",
-   "given_title": "Jimmy Wales no Twitter: \"What Wikipedia did: we stood strong for our princi",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/jimmy_wales/status/1657494022741426180",
-   "time_updated": "2023-05-14T22:59:18Z",
-   "time_added": "2023-05-14T10:20:12Z"
-  },
-  {
-   "item_id": "3749200789",
-   "given_url": "https://madebyevan.com/algos/log-spaced-snapshots/",
-   "given_title": "Logarithmically-Spaced Snapshots - Made by Evan",
-   "resolved_title": "Logarithmically-Spaced Snapshots",
-   "resolved_url": "https://madebyevan.com/algos/log-spaced-snapshots/",
-   "time_updated": "2023-05-14T22:59:18Z",
-   "time_added": "2023-05-14T10:22:04Z"
-  },
-  {
-   "item_id": "3864571259",
-   "given_url": "https://g1.globo.com/go/goias/noticia/2023/05/13/chamadas-de-video-com-apostador-comprovantes-de-pagamento-e-mensagens-veja-provas-apontadas-pelo-mp-que-ligam-jogadores-a-esquema-de-manipulacao-de-jogos.ghtml",
-   "given_title": "Chamadas de vídeo com apostador, comprovantes de pagamento e mensagens: vej",
-   "resolved_title": "veja provas apontadas pelo MP que ligam jogadores a esquema de manipulação de jogos",
-   "resolved_url": "https://g1.globo.com/go/goias/noticia/2023/05/13/chamadas-de-video-com-apostador-comprovantes-de-pagamento-e-mensagens-veja-provas-apontadas-pelo-mp-que-ligam-jogadores-a-esquema-de-manipulacao-de-jogos.ghtml",
-   "time_updated": "2023-05-14T22:59:18Z",
-   "time_added": "2023-05-14T12:41:31Z"
-  },
-  {
-   "item_id": "3865493562",
-   "given_url": "https://m.youtube.com/watch?v=slXxO2zJXUI\u0026feature=youtu.be",
-   "given_title": "Basic Principles for Fat Loss | Nutrition for Fat Loss- Lecture 1 - YouTube",
-   "resolved_title": "Basic Principles for Fat Loss | Nutrition for Fat Loss-  Lecture 1",
-   "resolved_url": "http://www.youtube.com/watch?v=slXxO2zJXUI",
-   "time_updated": "2023-05-14T22:59:19Z",
-   "time_added": "2023-05-14T22:19:13Z"
-  },
-  {
-   "item_id": "3865151375",
-   "given_url": "https://twitter.com/hugaomarques/status/1657479646546386944",
-   "given_title": "Hugo Marques no Twitter: \"Opa turma, pra todos vocês que tão nessa vida de ",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/hugaomarques/status/1657479646546386944",
-   "time_updated": "2023-05-14T22:59:18Z",
-   "time_added": "2023-05-14T11:45:52Z"
-  },
-  {
    "item_id": "3865415939",
    "given_url": "https://henvic.dev/posts/go-utf8/",
    "given_title": "UTF-8 strings with Go: len(s) isn't enough | Henrique Vicente",
@@ -56,33 +11,6 @@
    "resolved_url": "https://henvic.dev/posts/go-utf8/",
    "time_updated": "2023-05-14T19:33:54Z",
    "time_added": "2023-05-14T19:33:50Z"
-  },
-  {
-   "item_id": "3865034358",
-   "given_url": "https://twitter.com/felipepepe/status/1657554847691046912",
-   "given_title": "Felipe Pepe no Twitter: \"Today I want to tell a fun video game history fact",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/felipepepe/status/1657554847691046912",
-   "time_updated": "2023-05-14T22:59:18Z",
-   "time_added": "2023-05-14T08:04:59Z"
-  },
-  {
-   "item_id": "3865132389",
-   "given_url": "https://m.youtube.com/watch?v=vA-7VcETr2o",
-   "given_title": "The Very Weird Spider-Man TV Series That Time Forgot - YouTube",
-   "resolved_title": "The Very Weird Spider-Man TV Series That Time Forgot",
-   "resolved_url": "http://www.youtube.com/watch?v=vA-7VcETr2o",
-   "time_updated": "2023-05-14T22:59:18Z",
-   "time_added": "2023-05-14T08:29:33Z"
-  },
-  {
-   "item_id": "3237236487",
-   "given_url": "https://medium.com/kanoteknologi/better-way-to-read-and-write-json-file-in-golang-9d575b7254f2",
-   "given_title": "Better way to read and write JSON file in Golang | by Bagus Cahyono | KANO ",
-   "resolved_title": "Better way to read and write JSON file in Golang",
-   "resolved_url": "https://medium.com/kanoteknologi/better-way-to-read-and-write-json-file-in-golang-9d575b7254f2",
-   "time_updated": "2023-05-14T19:28:00Z",
-   "time_added": "2023-05-14T19:28:00Z"
   },
   {
    "item_id": "3865132387",
@@ -94,13 +22,76 @@
    "time_added": "2023-05-13T19:42:04Z"
   },
   {
-   "item_id": "3862493296",
-   "given_url": "https://www.youtube.com/watch?v=eiXtAPfMj6o",
-   "given_title": "(37) Why Portuguese Food is Hiding Everywhere - YouTube",
-   "resolved_title": "Why Portuguese Food is Hiding Everywhere",
-   "resolved_url": "http://www.youtube.com/watch?v=eiXtAPfMj6o",
-   "time_updated": "2023-05-13T22:04:33Z",
-   "time_added": "2023-05-13T22:04:33Z"
+   "item_id": "3237236487",
+   "given_url": "https://medium.com/kanoteknologi/better-way-to-read-and-write-json-file-in-golang-9d575b7254f2",
+   "given_title": "Better way to read and write JSON file in Golang | by Bagus Cahyono | KANO ",
+   "resolved_title": "Better way to read and write JSON file in Golang",
+   "resolved_url": "https://medium.com/kanoteknologi/better-way-to-read-and-write-json-file-in-golang-9d575b7254f2",
+   "time_updated": "2023-05-14T19:28:00Z",
+   "time_added": "2023-05-14T19:28:00Z"
+  },
+  {
+   "item_id": "3865493562",
+   "given_url": "https://m.youtube.com/watch?v=slXxO2zJXUI\u0026feature=youtu.be",
+   "given_title": "Basic Principles for Fat Loss | Nutrition for Fat Loss- Lecture 1 - YouTube",
+   "resolved_title": "Basic Principles for Fat Loss | Nutrition for Fat Loss-  Lecture 1",
+   "resolved_url": "http://www.youtube.com/watch?v=slXxO2zJXUI",
+   "time_updated": "2023-05-14T22:59:19Z",
+   "time_added": "2023-05-14T22:19:13Z"
+  },
+  {
+   "item_id": "3865132389",
+   "given_url": "https://m.youtube.com/watch?v=vA-7VcETr2o",
+   "given_title": "The Very Weird Spider-Man TV Series That Time Forgot - YouTube",
+   "resolved_title": "The Very Weird Spider-Man TV Series That Time Forgot",
+   "resolved_url": "http://www.youtube.com/watch?v=vA-7VcETr2o",
+   "time_updated": "2023-05-14T22:59:18Z",
+   "time_added": "2023-05-14T08:29:33Z"
+  },
+  {
+   "item_id": "3749200789",
+   "given_url": "https://madebyevan.com/algos/log-spaced-snapshots/",
+   "given_title": "Logarithmically-Spaced Snapshots - Made by Evan",
+   "resolved_title": "Logarithmically-Spaced Snapshots",
+   "resolved_url": "https://madebyevan.com/algos/log-spaced-snapshots/",
+   "time_updated": "2023-05-14T22:59:18Z",
+   "time_added": "2023-05-14T10:22:04Z"
+  },
+  {
+   "item_id": "3865034358",
+   "given_url": "https://twitter.com/felipepepe/status/1657554847691046912",
+   "given_title": "Felipe Pepe no Twitter: \"Today I want to tell a fun video game history fact",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/felipepepe/status/1657554847691046912",
+   "time_updated": "2023-05-14T22:59:18Z",
+   "time_added": "2023-05-14T08:04:59Z"
+  },
+  {
+   "item_id": "3865151375",
+   "given_url": "https://twitter.com/hugaomarques/status/1657479646546386944",
+   "given_title": "Hugo Marques no Twitter: \"Opa turma, pra todos vocês que tão nessa vida de ",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/hugaomarques/status/1657479646546386944",
+   "time_updated": "2023-05-14T22:59:18Z",
+   "time_added": "2023-05-14T11:45:52Z"
+  },
+  {
+   "item_id": "3864571259",
+   "given_url": "https://g1.globo.com/go/goias/noticia/2023/05/13/chamadas-de-video-com-apostador-comprovantes-de-pagamento-e-mensagens-veja-provas-apontadas-pelo-mp-que-ligam-jogadores-a-esquema-de-manipulacao-de-jogos.ghtml",
+   "given_title": "Chamadas de vídeo com apostador, comprovantes de pagamento e mensagens: vej",
+   "resolved_title": "veja provas apontadas pelo MP que ligam jogadores a esquema de manipulação de jogos",
+   "resolved_url": "https://g1.globo.com/go/goias/noticia/2023/05/13/chamadas-de-video-com-apostador-comprovantes-de-pagamento-e-mensagens-veja-provas-apontadas-pelo-mp-que-ligam-jogadores-a-esquema-de-manipulacao-de-jogos.ghtml",
+   "time_updated": "2023-05-14T22:59:18Z",
+   "time_added": "2023-05-14T12:41:31Z"
+  },
+  {
+   "item_id": "3864929267",
+   "given_url": "https://twitter.com/jimmy_wales/status/1657494022741426180",
+   "given_title": "Jimmy Wales no Twitter: \"What Wikipedia did: we stood strong for our princi",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/jimmy_wales/status/1657494022741426180",
+   "time_updated": "2023-05-14T22:59:18Z",
+   "time_added": "2023-05-14T10:20:12Z"
   }
  ]
 }

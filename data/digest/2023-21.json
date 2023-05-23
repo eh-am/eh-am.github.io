@@ -4,31 +4,22 @@
  "sortKey": "2023-21",
  "items": [
   {
-   "item_id": "2462894597",
-   "given_url": "https://ciechanow.ski/archives/",
-   "given_title": "Archives - Bartosz Ciechanowski",
-   "resolved_title": "Archives",
-   "resolved_url": "https://ciechanow.ski/archives/",
-   "time_updated": "2023-05-22T14:39:35Z",
-   "time_added": "2023-05-22T14:39:35Z"
+   "item_id": "3869026110",
+   "given_url": "https://riskmusings.substack.com/p/success-to-the-successful",
+   "given_title": "Success to the Successful - by Stephanie Losi",
+   "resolved_title": "Success to the Successful",
+   "resolved_url": "https://riskmusings.substack.com/p/success-to-the-successful",
+   "time_updated": "2023-05-23T11:29:22Z",
+   "time_added": "2023-05-23T11:29:22Z"
   },
   {
-   "item_id": "3869065056",
-   "given_url": "http://thesiskoday.com/",
-   "given_title": "The Sisko Day",
-   "resolved_title": "THE SISKO DAY SCHEDULE | 5.22.23",
-   "resolved_url": "http://thesiskoday.com/",
-   "time_updated": "2023-05-22T12:34:45Z",
-   "time_added": "2023-05-22T12:34:44Z"
-  },
-  {
-   "item_id": "3763581445",
-   "given_url": "https://knowyourmeme.com/memes/mario-the-idea-vs-mario-the-man",
-   "given_title": "Mario, the Idea vs. Mario, the Man | Know Your Meme",
-   "resolved_title": "",
-   "resolved_url": "https://knowyourmeme.com/memes/mario-the-idea-vs-mario-the-man",
-   "time_updated": "2023-05-22T14:09:42Z",
-   "time_added": "2023-05-22T14:09:41Z"
+   "item_id": "3870480638",
+   "given_url": "https://www.youtube.com/watch?v=XxgjGJeg820",
+   "given_title": "(65) How to Use 悪い - YouTube",
+   "resolved_title": "How to Use 悪い",
+   "resolved_url": "https://www.youtube.com/watch?v=XxgjGJeg820",
+   "time_updated": "2023-05-22T11:44:06Z",
+   "time_added": "2023-05-22T11:44:05Z"
   },
   {
    "item_id": "3870769597",
@@ -49,13 +40,22 @@
    "time_added": "2023-05-22T18:35:12Z"
   },
   {
-   "item_id": "3870480638",
-   "given_url": "https://www.youtube.com/watch?v=XxgjGJeg820",
-   "given_title": "(65) How to Use 悪い - YouTube",
-   "resolved_title": "How to Use 悪い",
-   "resolved_url": "https://www.youtube.com/watch?v=XxgjGJeg820",
-   "time_updated": "2023-05-22T11:44:06Z",
-   "time_added": "2023-05-22T11:44:05Z"
+   "item_id": "3869065056",
+   "given_url": "http://thesiskoday.com/",
+   "given_title": "The Sisko Day",
+   "resolved_title": "THE SISKO DAY SCHEDULE | 5.22.23",
+   "resolved_url": "http://thesiskoday.com/",
+   "time_updated": "2023-05-22T12:34:45Z",
+   "time_added": "2023-05-22T12:34:44Z"
+  },
+  {
+   "item_id": "3870625239",
+   "given_url": "https://stackoverflow.blog/2023/05/22/modern-work-requires-attention-constant-alerts-steal-it/",
+   "given_title": "Modern work requires attention. Constant alerts steal it - Stack Overflow B",
+   "resolved_title": "Modern work requires attention. Constant alerts steal it",
+   "resolved_url": "https://stackoverflow.blog/2023/05/22/modern-work-requires-attention-constant-alerts-steal-it/",
+   "time_updated": "2023-05-23T11:21:05Z",
+   "time_added": "2023-05-23T11:21:04Z"
   },
   {
    "item_id": "3863009071",
@@ -65,6 +65,24 @@
    "resolved_url": "https://samwho.dev/memory-allocation/",
    "time_updated": "2023-05-22T14:28:59Z",
    "time_added": "2023-05-22T14:28:59Z"
+  },
+  {
+   "item_id": "2462894597",
+   "given_url": "https://ciechanow.ski/archives/",
+   "given_title": "Archives - Bartosz Ciechanowski",
+   "resolved_title": "Archives",
+   "resolved_url": "https://ciechanow.ski/archives/",
+   "time_updated": "2023-05-22T14:39:35Z",
+   "time_added": "2023-05-22T14:39:35Z"
+  },
+  {
+   "item_id": "3763581445",
+   "given_url": "https://knowyourmeme.com/memes/mario-the-idea-vs-mario-the-man",
+   "given_title": "Mario, the Idea vs. Mario, the Man | Know Your Meme",
+   "resolved_title": "",
+   "resolved_url": "https://knowyourmeme.com/memes/mario-the-idea-vs-mario-the-man",
+   "time_updated": "2023-05-22T14:09:42Z",
+   "time_added": "2023-05-22T14:09:41Z"
   }
  ]
 }

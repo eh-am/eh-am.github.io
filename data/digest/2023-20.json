@@ -4,13 +4,13 @@
  "sortKey": "2023-20",
  "items": [
   {
-   "item_id": "3869276197",
-   "given_url": "https://twitter.com/NickOnRL/status/1659664726798868480",
-   "given_title": "Nick. no Twitter: \"@Ntri_SA Someone private recorded a call in a private se",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/NickOnRL/status/1659664726798868480",
-   "time_updated": "2023-05-20T11:36:33Z",
-   "time_added": "2023-05-20T11:36:30Z"
+   "item_id": "3869580431",
+   "given_url": "https://m.youtube.com/watch?v=Tu5-h4Ye0J0",
+   "given_title": "Quim Barreiros - A garagem da vizinha - YouTube",
+   "resolved_title": "Quim Barreiros - A garagem da vizinha",
+   "resolved_url": "http://www.youtube.com/watch?v=Tu5-h4Ye0J0",
+   "time_updated": "2023-05-20T23:06:36Z",
+   "time_added": "2023-05-20T23:06:33Z"
   },
   {
    "item_id": "2090296281",
@@ -20,24 +20,6 @@
    "resolved_url": "https://en.wikipedia.org/wiki/Vulcan,_West_Virginia",
    "time_updated": "2023-05-21T11:06:56Z",
    "time_added": "2023-05-21T11:06:55Z"
-  },
-  {
-   "item_id": "3869976793",
-   "given_url": "https://tab.uol.com.br/noticias/redacao/2023/05/21/espanha-proibe-touradas-com-pessoas-com-nanismo-e-artistas-protestam.htm",
-   "given_title": "Em que lugar do mundo ainda existe tourada",
-   "resolved_title": "Espanha proíbe touradas com pessoas com nanismo, e artistas protestam",
-   "resolved_url": "https://tab.uol.com.br/noticias/redacao/2023/05/21/espanha-proibe-touradas-com-pessoas-com-nanismo-e-artistas-protestam.htm",
-   "time_updated": "2023-05-21T15:50:34Z",
-   "time_added": "2023-05-21T15:50:30Z"
-  },
-  {
-   "item_id": "191130142",
-   "given_url": "https://en.m.wikipedia.org/wiki/Iron_law_of_oligarchy",
-   "given_title": "Iron law of oligarchy - Wikipedia",
-   "resolved_title": "Iron law of oligarchy",
-   "resolved_url": "https://en.wikipedia.org/wiki/Iron_law_of_oligarchy",
-   "time_updated": "2023-05-20T11:36:31Z",
-   "time_added": "2023-05-19T06:49:12Z"
   },
   {
    "item_id": "437275356",
@@ -58,6 +40,15 @@
    "time_added": "2023-05-21T14:27:38Z"
   },
   {
+   "item_id": "3869276197",
+   "given_url": "https://twitter.com/NickOnRL/status/1659664726798868480",
+   "given_title": "Nick. no Twitter: \"@Ntri_SA Someone private recorded a call in a private se",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/NickOnRL/status/1659664726798868480",
+   "time_updated": "2023-05-20T11:36:33Z",
+   "time_added": "2023-05-20T11:36:30Z"
+  },
+  {
    "item_id": "3869581153",
    "given_url": "https://m.youtube.com/watch?v=UlmSJ_HDSB8",
    "given_title": "Sandro \u0026 Gustavo - A Garagem da Vizinha - YouTube",
@@ -65,6 +56,123 @@
    "resolved_url": "http://www.youtube.com/watch?v=UlmSJ_HDSB8",
    "time_updated": "2023-05-20T23:08:28Z",
    "time_added": "2023-05-20T23:08:26Z"
+  },
+  {
+   "item_id": "3869583297",
+   "given_url": "https://www.dgabc.com.br/Mobile/Noticia/133379/morre-o-cantor-sertanejo-sandro-da-dupla-sandro-e-gustavo",
+   "given_title": "Morre o cantor sertanejo Sandro, da dupla Sandro e Gustavo - 15/12/2000 | D",
+   "resolved_title": "Morre o cantor sertanejo Sandro, da dupla Sandro e Gustavo",
+   "resolved_url": "https://www.dgabc.com.br/Noticia/133379/morre-o-cantor-sertanejo-sandro-da-dupla-sandro-e-gustavo",
+   "time_updated": "2023-05-20T23:15:08Z",
+   "time_added": "2023-05-20T23:15:05Z"
+  },
+  {
+   "item_id": "3869637312",
+   "given_url": "https://twitter.com/emollick/status/1660093233181933568",
+   "given_title": "Ethan Mollick no Twitter: \"Noise is a secret destroyer of productivity. It ",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/emollick/status/1660093233181933568",
+   "time_updated": "2023-05-21T07:44:03Z",
+   "time_added": "2023-05-21T07:44:02Z"
+  },
+  {
+   "item_id": "3869999644",
+   "given_url": "https://twitter.com/patio11/status/1660243993844920320",
+   "given_title": "Patrick McKenzie no Twitter: \"In the “Japan does a better job at hotels” an",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/patio11/status/1660243993844920320",
+   "time_updated": "2023-05-21T16:39:47Z",
+   "time_added": "2023-05-21T16:39:44Z"
+  },
+  {
+   "item_id": "3867858144",
+   "given_url": "https://www.youtube.com/watch?v=IevycgbLct0",
+   "given_title": "(56) Fluminense have the WEIRDEST tactics in the world! | The philosophy of",
+   "resolved_title": "Fluminense have the WEIRDEST tactics in the world! | The philosophy of Fernando Diniz",
+   "resolved_url": "https://www.youtube.com/watch?v=IevycgbLct0",
+   "time_updated": "2023-05-20T22:52:53Z",
+   "time_added": "2023-05-20T22:52:53Z"
+  },
+  {
+   "item_id": "3209509822",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Hamame",
+   "given_title": "Hamame – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Hamame",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Hamame",
+   "time_updated": "2023-05-21T19:54:31Z",
+   "time_added": "2023-05-21T19:54:30Z"
+  },
+  {
+   "item_id": "3869842394",
+   "given_url": "https://twitter.com/SamuelBraun/status/1660087665255915523",
+   "given_title": "Samuel Braun no Twitter: \"Brasil e Índia foram ao G7 a convite. São, portan",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/SamuelBraun/status/1660087665255915523",
+   "time_updated": "2023-05-21T11:00:46Z",
+   "time_added": "2023-05-21T11:00:44Z"
+  },
+  {
+   "item_id": "98343352",
+   "given_url": "https://en.m.wikipedia.org/wiki/Human_mail",
+   "given_title": "Human mail - Wikipedia",
+   "resolved_title": "Human mail",
+   "resolved_url": "https://en.wikipedia.org/wiki/Human_mail",
+   "time_updated": "2023-05-21T17:02:32Z",
+   "time_added": "2023-05-21T17:02:31Z"
+  },
+  {
+   "item_id": "191130142",
+   "given_url": "https://en.m.wikipedia.org/wiki/Iron_law_of_oligarchy",
+   "given_title": "Iron law of oligarchy - Wikipedia",
+   "resolved_title": "Iron law of oligarchy",
+   "resolved_url": "https://en.wikipedia.org/wiki/Iron_law_of_oligarchy",
+   "time_updated": "2023-05-20T11:36:31Z",
+   "time_added": "2023-05-19T06:49:12Z"
+  },
+  {
+   "item_id": "3868912634",
+   "given_url": "https://pt.maychola.com/lingua-corporal-do-cao-olho-da-baleia/",
+   "given_title": "O que significa olho de baleia na linguagem corporal do cão?",
+   "resolved_title": "Língua corporal do cão: olho da baleia",
+   "resolved_url": "https://pt.maychola.com/lingua-corporal-do-cao-olho-da-baleia/",
+   "time_updated": "2023-05-20T11:36:31Z",
+   "time_added": "2023-05-19T15:37:32Z"
+  },
+  {
+   "item_id": "3869976793",
+   "given_url": "https://tab.uol.com.br/noticias/redacao/2023/05/21/espanha-proibe-touradas-com-pessoas-com-nanismo-e-artistas-protestam.htm",
+   "given_title": "Em que lugar do mundo ainda existe tourada",
+   "resolved_title": "Espanha proíbe touradas com pessoas com nanismo, e artistas protestam",
+   "resolved_url": "https://tab.uol.com.br/noticias/redacao/2023/05/21/espanha-proibe-touradas-com-pessoas-com-nanismo-e-artistas-protestam.htm",
+   "time_updated": "2023-05-21T15:50:34Z",
+   "time_added": "2023-05-21T15:50:30Z"
+  },
+  {
+   "item_id": "3868567961",
+   "given_url": "https://www.uol.com.br/nossa/noticias/redacao/2023/05/19/rio-lima-onibus-faz-a-rota-mais-longa-do-mundo.htm",
+   "given_title": "Rota de ônibus 'mais longa do mundo' sai do Brasil e é pura adrenalina",
+   "resolved_title": "Rota de ônibus mais longa do mundo sai do Brasil e dura 5 dias: 'É surreal'",
+   "resolved_url": "https://www.uol.com.br/nossa/noticias/redacao/2023/05/19/rio-lima-onibus-faz-a-rota-mais-longa-do-mundo.htm",
+   "time_updated": "2023-05-20T11:36:31Z",
+   "time_added": "2023-05-19T20:23:04Z"
+  },
+  {
+   "item_id": "3869946172",
+   "given_url": "https://12ft.io/proxy?q=https%3A%2F%2Fobservador.pt%2Fespeciais%2Fdepois-da-morte-eles-limpam-o-que-ninguem-quer-limpar%2F",
+   "given_title": "12ft | Depois da morte, eles limpam o que ninguém quer limpar – Observador",
+   "resolved_title": "12ft |",
+   "resolved_url": "https://12ft.io/proxy?q=https%3A%2F%2Fobservador.pt%2Fespeciais%2Fdepois-da-morte-eles-limpam-o-que-ninguem-quer-limpar%2F",
+   "time_updated": "2023-05-21T14:48:13Z",
+   "time_added": "2023-05-21T14:48:12Z"
+  },
+  {
+   "item_id": "3870027538",
+   "given_url": "https://entretenimento.r7.com/prisma/odair-braz-jr/em-show-no-ibirapuera-kraftwerk-leva-o-publico-ao-passado-presente-e-futuro-tudo-ao-mesmo-tempo-21052023",
+   "given_title": "Em show no Ibirapuera, Kraftwerk leva o público ao passado, presente e futu",
+   "resolved_title": "Em show no Ibirapuera, Kraftwerk leva o público ao passado, presente e futuro, tudo ao mesmo tempo",
+   "resolved_url": "https://entretenimento.r7.com/prisma/odair-braz-jr/em-show-no-ibirapuera-kraftwerk-leva-o-publico-ao-passado-presente-e-futuro-tudo-ao-mesmo-tempo-21052023",
+   "time_updated": "2023-05-21T17:44:40Z",
+   "time_added": "2023-05-21T17:44:37Z"
   },
   {
    "item_id": "3869582939",
@@ -83,114 +191,6 @@
    "resolved_url": "https://tim.blog/2020/02/02/reasons-to-not-become-famous/",
    "time_updated": "2023-05-21T09:33:33Z",
    "time_added": "2023-05-21T09:33:32Z"
-  },
-  {
-   "item_id": "3869842394",
-   "given_url": "https://twitter.com/SamuelBraun/status/1660087665255915523",
-   "given_title": "Samuel Braun no Twitter: \"Brasil e Índia foram ao G7 a convite. São, portan",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/SamuelBraun/status/1660087665255915523",
-   "time_updated": "2023-05-21T11:00:46Z",
-   "time_added": "2023-05-21T11:00:44Z"
-  },
-  {
-   "item_id": "3869946172",
-   "given_url": "https://12ft.io/proxy?q=https%3A%2F%2Fobservador.pt%2Fespeciais%2Fdepois-da-morte-eles-limpam-o-que-ninguem-quer-limpar%2F",
-   "given_title": "12ft | Depois da morte, eles limpam o que ninguém quer limpar – Observador",
-   "resolved_title": "12ft |",
-   "resolved_url": "https://12ft.io/proxy?q=https%3A%2F%2Fobservador.pt%2Fespeciais%2Fdepois-da-morte-eles-limpam-o-que-ninguem-quer-limpar%2F",
-   "time_updated": "2023-05-21T14:48:13Z",
-   "time_added": "2023-05-21T14:48:12Z"
-  },
-  {
-   "item_id": "3209509822",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Hamame",
-   "given_title": "Hamame – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Hamame",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Hamame",
-   "time_updated": "2023-05-21T19:54:31Z",
-   "time_added": "2023-05-21T19:54:30Z"
-  },
-  {
-   "item_id": "3869583297",
-   "given_url": "https://www.dgabc.com.br/Mobile/Noticia/133379/morre-o-cantor-sertanejo-sandro-da-dupla-sandro-e-gustavo",
-   "given_title": "Morre o cantor sertanejo Sandro, da dupla Sandro e Gustavo - 15/12/2000 | D",
-   "resolved_title": "Morre o cantor sertanejo Sandro, da dupla Sandro e Gustavo",
-   "resolved_url": "https://www.dgabc.com.br/Noticia/133379/morre-o-cantor-sertanejo-sandro-da-dupla-sandro-e-gustavo",
-   "time_updated": "2023-05-20T23:15:08Z",
-   "time_added": "2023-05-20T23:15:05Z"
-  },
-  {
-   "item_id": "3869999644",
-   "given_url": "https://twitter.com/patio11/status/1660243993844920320",
-   "given_title": "Patrick McKenzie no Twitter: \"In the “Japan does a better job at hotels” an",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/patio11/status/1660243993844920320",
-   "time_updated": "2023-05-21T16:39:47Z",
-   "time_added": "2023-05-21T16:39:44Z"
-  },
-  {
-   "item_id": "3870027538",
-   "given_url": "https://entretenimento.r7.com/prisma/odair-braz-jr/em-show-no-ibirapuera-kraftwerk-leva-o-publico-ao-passado-presente-e-futuro-tudo-ao-mesmo-tempo-21052023",
-   "given_title": "Em show no Ibirapuera, Kraftwerk leva o público ao passado, presente e futu",
-   "resolved_title": "Em show no Ibirapuera, Kraftwerk leva o público ao passado, presente e futuro, tudo ao mesmo tempo",
-   "resolved_url": "https://entretenimento.r7.com/prisma/odair-braz-jr/em-show-no-ibirapuera-kraftwerk-leva-o-publico-ao-passado-presente-e-futuro-tudo-ao-mesmo-tempo-21052023",
-   "time_updated": "2023-05-21T17:44:40Z",
-   "time_added": "2023-05-21T17:44:37Z"
-  },
-  {
-   "item_id": "3867858144",
-   "given_url": "https://www.youtube.com/watch?v=IevycgbLct0",
-   "given_title": "(56) Fluminense have the WEIRDEST tactics in the world! | The philosophy of",
-   "resolved_title": "Fluminense have the WEIRDEST tactics in the world! | The philosophy of Fernando Diniz",
-   "resolved_url": "https://www.youtube.com/watch?v=IevycgbLct0",
-   "time_updated": "2023-05-20T22:52:53Z",
-   "time_added": "2023-05-20T22:52:53Z"
-  },
-  {
-   "item_id": "3869580431",
-   "given_url": "https://m.youtube.com/watch?v=Tu5-h4Ye0J0",
-   "given_title": "Quim Barreiros - A garagem da vizinha - YouTube",
-   "resolved_title": "Quim Barreiros - A garagem da vizinha",
-   "resolved_url": "http://www.youtube.com/watch?v=Tu5-h4Ye0J0",
-   "time_updated": "2023-05-20T23:06:36Z",
-   "time_added": "2023-05-20T23:06:33Z"
-  },
-  {
-   "item_id": "3868912634",
-   "given_url": "https://pt.maychola.com/lingua-corporal-do-cao-olho-da-baleia/",
-   "given_title": "O que significa olho de baleia na linguagem corporal do cão?",
-   "resolved_title": "Língua corporal do cão: olho da baleia",
-   "resolved_url": "https://pt.maychola.com/lingua-corporal-do-cao-olho-da-baleia/",
-   "time_updated": "2023-05-20T11:36:31Z",
-   "time_added": "2023-05-19T15:37:32Z"
-  },
-  {
-   "item_id": "3869637312",
-   "given_url": "https://twitter.com/emollick/status/1660093233181933568",
-   "given_title": "Ethan Mollick no Twitter: \"Noise is a secret destroyer of productivity. It ",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/emollick/status/1660093233181933568",
-   "time_updated": "2023-05-21T07:44:03Z",
-   "time_added": "2023-05-21T07:44:02Z"
-  },
-  {
-   "item_id": "3868567961",
-   "given_url": "https://www.uol.com.br/nossa/noticias/redacao/2023/05/19/rio-lima-onibus-faz-a-rota-mais-longa-do-mundo.htm",
-   "given_title": "Rota de ônibus 'mais longa do mundo' sai do Brasil e é pura adrenalina",
-   "resolved_title": "Rota de ônibus mais longa do mundo sai do Brasil e dura 5 dias: 'É surreal'",
-   "resolved_url": "https://www.uol.com.br/nossa/noticias/redacao/2023/05/19/rio-lima-onibus-faz-a-rota-mais-longa-do-mundo.htm",
-   "time_updated": "2023-05-20T11:36:31Z",
-   "time_added": "2023-05-19T20:23:04Z"
-  },
-  {
-   "item_id": "98343352",
-   "given_url": "https://en.m.wikipedia.org/wiki/Human_mail",
-   "given_title": "Human mail - Wikipedia",
-   "resolved_title": "Human mail",
-   "resolved_url": "https://en.wikipedia.org/wiki/Human_mail",
-   "time_updated": "2023-05-21T17:02:32Z",
-   "time_added": "2023-05-21T17:02:31Z"
   }
  ]
 }

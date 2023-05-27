@@ -25,3 +25,19 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "[weekly digest] get latest data"
+
+      # Also deploy
+      # TODO: unify with gh-pages
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.101.0'
+          extended: true
+      - name: Build
+        run: hugo --minify
+      - name: Deploy
+        if: github.event_name != 'pull_request'
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          publish_dir: ./public

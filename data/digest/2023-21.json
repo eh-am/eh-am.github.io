@@ -4,31 +4,76 @@
  "sortKey": "2023-21",
  "items": [
   {
-   "item_id": "1945639197",
-   "given_url": "https://crockford.com/javascript/tdop/tdop.html",
-   "given_title": "Top Down Operator Precedence",
-   "resolved_title": "Top Down Operator Precedence",
-   "resolved_url": "http://crockford.com/javascript/tdop/tdop.html",
-   "time_updated": "2023-05-28T17:53:02Z",
-   "time_added": "2023-05-28T17:53:02Z"
-  },
-  {
-   "item_id": "3872100540",
-   "given_url": "https://www.uol.com.br/nossa/noticias/redacao/2023/05/24/barcelona-vive-batalha-com-excesso-de-turistas-ate-monumento-foi-fechado.htm",
-   "given_title": "'Vão para casa': batalha de Barcelona contra turistas faz nova 'vítima' - 2",
-   "resolved_title": "'Vão para casa': batalha de Barcelona contra turistas faz nova 'vítima'",
-   "resolved_url": "https://www.uol.com.br/nossa/noticias/redacao/2023/05/24/barcelona-vive-batalha-com-excesso-de-turistas-ate-monumento-foi-fechado.htm",
-   "time_updated": "2023-05-24T16:07:28Z",
-   "time_added": "2023-05-24T16:07:28Z"
-  },
-  {
-   "item_id": "3872774779",
-   "given_url": "https://twitter.com/glaucia_lemos86/status/1661428991570444289",
-   "given_title": "Glaucia Lemos ? no Twitter: \"Pergunta: Há algum mestrado (de forma remota) ",
+   "item_id": "3872320132",
+   "given_url": "https://twitter.com/eliasjabbour/status/1661407642328104971",
+   "given_title": "Elias Jabbour ?? ?? no Twitter: \"Arcabouço As pessoas cobram posição, nos i",
    "resolved_title": "",
-   "resolved_url": "https://twitter.com/glaucia_lemos86/status/1661428991570444289",
-   "time_updated": "2023-05-25T07:58:07Z",
-   "time_added": "2023-05-25T07:58:05Z"
+   "resolved_url": "https://twitter.com/eliasjabbour/status/1661407642328104971",
+   "time_updated": "2023-05-24T18:20:04Z",
+   "time_added": "2023-05-24T18:20:02Z"
+  },
+  {
+   "item_id": "3859297703",
+   "given_url": "https://twitter.com/HIDEO_KOJIMA_EN/status/1653918583846760448",
+   "given_title": "HIDEO_KOJIMA no Twitter: \"I accidentally found Summer Time Rendering on Net",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/HIDEO_KOJIMA_EN/status/1653918583846760448",
+   "time_updated": "2023-05-25T08:02:03Z",
+   "time_added": "2023-05-25T08:02:02Z"
+  },
+  {
+   "item_id": "3872827160",
+   "given_url": "https://demo-dev.pyroscope.io/?query=rideshare-app-dotnet.alloc_objects%7B%7D",
+   "given_title": "Single | rideshare-app-dotnet.alloc_objects{} | Pyroscope",
+   "resolved_title": "Pyroscope Demo",
+   "resolved_url": "https://demo-dev.pyroscope.io/?query=rideshare-app-dotnet.alloc_objects%7B%7D",
+   "time_updated": "2023-05-25T09:32:38Z",
+   "time_added": "2023-05-25T09:32:37Z"
+  },
+  {
+   "item_id": "3873865422",
+   "given_url": "https://twitter.com/welmelo/status/1661811466029129728",
+   "given_title": "Welington Arruda no Twitter: \"Me perguntaram se já vi um inocente ser conde",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/welmelo/status/1661811466029129728",
+   "time_updated": "2023-05-26T14:02:52Z",
+   "time_added": "2023-05-26T14:02:50Z"
+  },
+  {
+   "item_id": "3874636693",
+   "given_url": "https://rollingstone.uol.com.br/edicao/agreste-psicodelico/#imagem0",
+   "given_title": "Agreste Psicodélico",
+   "resolved_title": "Agreste Psicodélico",
+   "resolved_url": "https://rollingstone.uol.com.br/artigo/agreste-psicodelico/",
+   "time_updated": "2023-05-27T11:34:27Z",
+   "time_added": "2023-05-27T11:34:25Z"
+  },
+  {
+   "item_id": "3875605257",
+   "given_url": "https://www.google.com/search?client=firefox-b-d\u0026q=5%279+feet+to+cm",
+   "given_title": "5'9 feet to cm - Google Search",
+   "resolved_title": "5'9 feet to cm",
+   "resolved_url": "https://www.google.com/search?client=firefox-b-d\u0026q=5%279+feet+to+cm",
+   "time_updated": "2023-05-28T16:28:54Z",
+   "time_added": "2023-05-28T16:28:53Z"
+  },
+  {
+   "item_id": "3421718342",
+   "given_url": "https://quintapedagogica.lisboa.pt/",
+   "given_title": "Município de Lisboa - Quinta Pedagógica - Quinta Pedagógica",
+   "resolved_title": "Quinta Pedagógica, o campo dentro de Lisboa para passear e aprender",
+   "resolved_url": "https://quintapedagogica.lisboa.pt/",
+   "time_updated": "2023-05-28T19:18:33Z",
+   "time_added": "2023-05-28T19:18:33Z"
+  },
+  {
+   "item_id": "2458670709",
+   "given_url": "https://www.reddit.com/r/Fitness/comments/ah8fvf/checklist_determine_ifhow_a_personal_trainer_is/",
+   "given_title": "Checklist: Determine If/How a Personal Trainer is Right for You : r/Fitness",
+   "resolved_title": "Checklist: Determine If/How a Personal Trainer is Right for You",
+   "resolved_url": "https://www.reddit.com/r/Fitness/comments/ah8fvf/checklist_determine_ifhow_a_personal_trainer_is/",
+   "time_updated": "2023-05-25T23:24:56Z",
+   "time_added": "2023-05-25T23:24:56Z"
   },
   {
    "item_id": "3873873691",
@@ -49,211 +94,13 @@
    "time_added": "2023-05-27T11:30:49Z"
   },
   {
-   "item_id": "59366434",
-   "given_url": "https://en.m.wikipedia.org/wiki/Georgism",
-   "given_title": "Georgism - Wikipedia",
-   "resolved_title": "Georgism",
-   "resolved_url": "https://en.wikipedia.org/wiki/Georgism",
-   "time_updated": "2023-05-28T19:14:10Z",
-   "time_added": "2023-05-28T19:14:09Z"
-  },
-  {
-   "item_id": "3871431811",
-   "given_url": "https://twitter.com/UnseenJapanSite/status/1661052179711692800?t=gKqtjKqYANfCziC8g9KXHw\u0026s=19",
-   "given_title": "(2) Unseen Japan no Twitter: \"Kimura Kyoko, mother of deceased pro wrestler",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/UnseenJapanSite/status/1661052179711692800?t=gKqtjKqYANfCziC8g9KXHw\u0026s=19",
-   "time_updated": "2023-05-23T18:01:21Z",
-   "time_added": "2023-05-23T18:01:20Z"
-  },
-  {
-   "item_id": "3871493727",
-   "given_url": "https://shaneosullivan.wordpress.com/2023/05/23/instant-colour-fill-with-html-canvas/",
-   "given_title": "Instant colour fill with HTML Canvas – SOS",
-   "resolved_title": "Instant colour fill with HTML Canvas",
-   "resolved_url": "https://shaneosullivan.wordpress.com/2023/05/23/instant-colour-fill-with-html-canvas/",
-   "time_updated": "2023-05-24T08:53:43Z",
-   "time_added": "2023-05-24T08:53:42Z"
-  },
-  {
-   "item_id": "3872839368",
-   "given_url": "https://twitter.com/WeAreJoel/status/1661172665980276737",
-   "given_title": "Joël ?? no Twitter: \"Just a reminder for anyone excited about the Metal Gea",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/WeAreJoel/status/1661172665980276737",
-   "time_updated": "2023-05-25T09:53:15Z",
-   "time_added": "2023-05-25T09:53:13Z"
-  },
-  {
-   "item_id": "3872827160",
-   "given_url": "https://demo-dev.pyroscope.io/?query=rideshare-app-dotnet.alloc_objects%7B%7D",
-   "given_title": "Single | rideshare-app-dotnet.alloc_objects{} | Pyroscope",
-   "resolved_title": "Pyroscope Demo",
-   "resolved_url": "https://demo-dev.pyroscope.io/?query=rideshare-app-dotnet.alloc_objects%7B%7D",
-   "time_updated": "2023-05-25T09:32:38Z",
-   "time_added": "2023-05-25T09:32:37Z"
-  },
-  {
-   "item_id": "3872855990",
-   "given_url": "https://twitter.com/brianleroux/status/1661391680556396545",
-   "given_title": "@brianleroux@indieweb.social ? no Twitter: \"It's weird the \"lambda warmer\" ",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/brianleroux/status/1661391680556396545",
-   "time_updated": "2023-05-25T10:21:23Z",
-   "time_added": "2023-05-25T10:21:22Z"
-  },
-  {
-   "item_id": "3873138249",
-   "given_url": "https://twitter.com/RiqueSampaio/status/1661754215096807428",
-   "given_title": "Rique Sampaio | Ouça Primeiro Contato ? no Twitter: \"Você sabia que muito a",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/RiqueSampaio/status/1661754215096807428",
-   "time_updated": "2023-05-25T17:14:53Z",
-   "time_added": "2023-05-25T17:14:51Z"
-  },
-  {
-   "item_id": "3861681706",
-   "given_url": "https://every.to/no-small-plans/dream-bankruptcy-why-you-should-give-up-on-your-holy-grail",
-   "given_title": "Why You Should Give Up On Your Dreams - No Small Plans - Every",
-   "resolved_title": "Why You Should Give Up On Your Dreams",
-   "resolved_url": "https://every.to/no-small-plans/dream-bankruptcy-why-you-should-give-up-on-your-holy-grail",
-   "time_updated": "2023-05-25T08:31:41Z",
-   "time_added": "2023-05-25T08:31:40Z"
-  },
-  {
-   "item_id": "46872",
-   "given_url": "https://www.bodybuilding.com/fun/drobson207.htm",
-   "given_title": "Know Your Measurements For Bodybuilding Success",
-   "resolved_title": "Know Your Measurements For Bodybuilding Success",
-   "resolved_url": "https://www.bodybuilding.com/fun/drobson207.htm",
-   "time_updated": "2023-05-28T16:25:07Z",
-   "time_added": "2023-05-28T16:25:07Z"
-  },
-  {
-   "item_id": "3421718342",
-   "given_url": "https://quintapedagogica.lisboa.pt/",
-   "given_title": "Município de Lisboa - Quinta Pedagógica - Quinta Pedagógica",
-   "resolved_title": "Quinta Pedagógica, o campo dentro de Lisboa para passear e aprender",
-   "resolved_url": "https://quintapedagogica.lisboa.pt/",
-   "time_updated": "2023-05-28T19:18:33Z",
-   "time_added": "2023-05-28T19:18:33Z"
-  },
-  {
-   "item_id": "3873865422",
-   "given_url": "https://twitter.com/welmelo/status/1661811466029129728",
-   "given_title": "Welington Arruda no Twitter: \"Me perguntaram se já vi um inocente ser conde",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/welmelo/status/1661811466029129728",
-   "time_updated": "2023-05-26T14:02:52Z",
-   "time_added": "2023-05-26T14:02:50Z"
-  },
-  {
-   "item_id": "3874185151",
-   "given_url": "https://thephd.dev/i-am-no-longer-speaking-at-rustconf-2023",
-   "given_title": "I Am No Longer Speaking at RustConf 2023 | The Pasture",
-   "resolved_title": "I Am No Longer Speaking at RustConf 2023",
-   "resolved_url": "https://thephd.dev/i-am-no-longer-speaking-at-rustconf-2023",
-   "time_updated": "2023-05-27T09:51:28Z",
-   "time_added": "2023-05-27T09:51:26Z"
-  },
-  {
-   "item_id": "3874636693",
-   "given_url": "https://rollingstone.uol.com.br/edicao/agreste-psicodelico/#imagem0",
-   "given_title": "Agreste Psicodélico",
-   "resolved_title": "Agreste Psicodélico",
-   "resolved_url": "https://rollingstone.uol.com.br/artigo/agreste-psicodelico/",
-   "time_updated": "2023-05-27T11:34:27Z",
-   "time_added": "2023-05-27T11:34:25Z"
-  },
-  {
-   "item_id": "49285118",
-   "given_url": "https://pt.wikipedia.org/wiki/Aleixo_Garcia",
-   "given_title": "Aleixo Garcia – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Aleixo Garcia",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Aleixo_Garcia",
-   "time_updated": "2023-05-27T11:58:10Z",
-   "time_added": "2023-05-27T11:58:10Z"
-  },
-  {
-   "item_id": "3874843872",
-   "given_url": "https://github.com/currents-dev/cypress-debugger",
-   "given_title": "currents-dev/cypress-debugger: Debug failed CI cypress tests with cloud-bas",
-   "resolved_title": "currents-dev/cypress-debugger",
-   "resolved_url": "https://github.com/currents-dev/cypress-debugger",
-   "time_updated": "2023-05-27T17:01:38Z",
-   "time_added": "2023-05-27T17:01:34Z"
-  },
-  {
-   "item_id": "3871940211",
-   "given_url": "https://twitter.com/obskyr/status/1661056143647559680/photo/2",
-   "given_title": "Samuel ?✨ Messner no Twitter: \"In 1997, Game Hihyō (the best Japanese video",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/obskyr/status/1661056143647559680/photo/2",
-   "time_updated": "2023-05-24T08:46:24Z",
-   "time_added": "2023-05-24T08:46:23Z"
-  },
-  {
-   "item_id": "3872320132",
-   "given_url": "https://twitter.com/eliasjabbour/status/1661407642328104971",
-   "given_title": "Elias Jabbour ?? ?? no Twitter: \"Arcabouço As pessoas cobram posição, nos i",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/eliasjabbour/status/1661407642328104971",
-   "time_updated": "2023-05-24T18:20:04Z",
-   "time_added": "2023-05-24T18:20:02Z"
-  },
-  {
-   "item_id": "3873013420",
-   "given_url": "https://www.jefftk.com/p/you-dont-always-need-indexes",
-   "given_title": "You Don't Always Need Indexes",
-   "resolved_title": "You Don't Always Need Indexes",
-   "resolved_url": "https://www.jefftk.com/p/you-dont-always-need-indexes",
-   "time_updated": "2023-05-25T21:07:32Z",
-   "time_added": "2023-05-25T21:07:31Z"
-  },
-  {
-   "item_id": "3875783484",
-   "given_url": "https://twitter.com/Stuart_xp/status/1662847119059763201",
-   "given_title": "Stuart ? no Twitter: \"A senhora comprou um mangá de Punpun pro neto de 7 an",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/Stuart_xp/status/1662847119059763201",
-   "time_updated": "2023-05-28T21:54:00Z",
-   "time_added": "2023-05-28T21:53:57Z"
-  },
-  {
-   "item_id": "2406552868",
-   "given_url": "https://gist.github.com/gtallen1187/27a585fcf36d6e657db2",
-   "given_title": "talk given by John Ousterhout about sustaining relationships · GitHub",
-   "resolved_title": "talk given by John Ousterhout about sustaining relationships",
-   "resolved_url": "https://gist.github.com/gtallen1187/27a585fcf36d6e657db2",
-   "time_updated": "2023-05-27T18:01:09Z",
-   "time_added": "2023-05-27T18:01:08Z"
-  },
-  {
-   "item_id": "3875605257",
-   "given_url": "https://www.google.com/search?client=firefox-b-d\u0026q=5%279+feet+to+cm",
-   "given_title": "5'9 feet to cm - Google Search",
-   "resolved_title": "5'9 feet to cm",
-   "resolved_url": "https://www.google.com/search?client=firefox-b-d\u0026q=5%279+feet+to+cm",
-   "time_updated": "2023-05-28T16:28:54Z",
-   "time_added": "2023-05-28T16:28:53Z"
-  },
-  {
-   "item_id": "2155562828",
-   "given_url": "https://en.wikipedia.org/wiki/Operator-precedence_parser#Pratt_parsing",
-   "given_title": "Operator-precedence parser - Wikipedia",
-   "resolved_title": "Operator-precedence parser",
-   "resolved_url": "https://en.wikipedia.org/wiki/Operator-precedence_parser",
-   "time_updated": "2023-05-28T17:50:29Z",
-   "time_added": "2023-05-28T17:50:29Z"
-  },
-  {
-   "item_id": "2410167454",
-   "given_url": "https://www.youtube.com/watch?v=Mnvg62rBwN8",
-   "given_title": "(121) Lula Côrtes \u0026 Lailson - Satwa (1973) - YouTube",
-   "resolved_title": "Lula Côrtes \u0026 Lailson - Satwa (1973)",
-   "resolved_url": "https://www.youtube.com/watch?v=Mnvg62rBwN8",
-   "time_updated": "2023-05-27T11:39:38Z",
-   "time_added": "2023-05-27T11:39:38Z"
+   "item_id": "1945639197",
+   "given_url": "https://crockford.com/javascript/tdop/tdop.html",
+   "given_title": "Top Down Operator Precedence",
+   "resolved_title": "Top Down Operator Precedence",
+   "resolved_url": "http://crockford.com/javascript/tdop/tdop.html",
+   "time_updated": "2023-05-28T17:53:02Z",
+   "time_added": "2023-05-28T17:53:02Z"
   },
   {
    "item_id": "100037",
@@ -263,33 +110,6 @@
    "resolved_url": "https://www.freecycle.org/",
    "time_updated": "2023-05-28T19:12:51Z",
    "time_added": "2023-05-28T19:12:50Z"
-  },
-  {
-   "item_id": "3873278309",
-   "given_url": "https://twitter.com/thorstenball/status/1661599632479092736/photo/1",
-   "given_title": "Página Inicial / Twitter",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/thorstenball/status/1661599632479092736/photo/1",
-   "time_updated": "2023-05-25T20:56:36Z",
-   "time_added": "2023-05-25T20:56:34Z"
-  },
-  {
-   "item_id": "2458670709",
-   "given_url": "https://www.reddit.com/r/Fitness/comments/ah8fvf/checklist_determine_ifhow_a_personal_trainer_is/",
-   "given_title": "Checklist: Determine If/How a Personal Trainer is Right for You : r/Fitness",
-   "resolved_title": "Checklist: Determine If/How a Personal Trainer is Right for You",
-   "resolved_url": "https://www.reddit.com/r/Fitness/comments/ah8fvf/checklist_determine_ifhow_a_personal_trainer_is/",
-   "time_updated": "2023-05-25T23:24:56Z",
-   "time_added": "2023-05-25T23:24:56Z"
-  },
-  {
-   "item_id": "3874101236",
-   "given_url": "https://twitter.com/Informacoes_RJ/status/1661890273503223808?t=re87u9gUmdqSbOJOioZPxw\u0026s=08",
-   "given_title": "Informações RJ no Twitter: \"Maluco jogou uma granada dentro do bar e saiu c",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/Informacoes_RJ/status/1661890273503223808?t=re87u9gUmdqSbOJOioZPxw\u0026s=08",
-   "time_updated": "2023-05-26T19:56:17Z",
-   "time_added": "2023-05-26T19:56:16Z"
   },
   {
    "item_id": "3872024307",
@@ -310,6 +130,60 @@
    "time_added": "2023-05-25T15:38:40Z"
   },
   {
+   "item_id": "3873138249",
+   "given_url": "https://twitter.com/RiqueSampaio/status/1661754215096807428",
+   "given_title": "Rique Sampaio | Ouça Primeiro Contato ? no Twitter: \"Você sabia que muito a",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/RiqueSampaio/status/1661754215096807428",
+   "time_updated": "2023-05-25T17:14:53Z",
+   "time_added": "2023-05-25T17:14:51Z"
+  },
+  {
+   "item_id": "49285118",
+   "given_url": "https://pt.wikipedia.org/wiki/Aleixo_Garcia",
+   "given_title": "Aleixo Garcia – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Aleixo Garcia",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Aleixo_Garcia",
+   "time_updated": "2023-05-27T11:58:10Z",
+   "time_added": "2023-05-27T11:58:10Z"
+  },
+  {
+   "item_id": "59366434",
+   "given_url": "https://en.m.wikipedia.org/wiki/Georgism",
+   "given_title": "Georgism - Wikipedia",
+   "resolved_title": "Georgism",
+   "resolved_url": "https://en.wikipedia.org/wiki/Georgism",
+   "time_updated": "2023-05-28T19:14:10Z",
+   "time_added": "2023-05-28T19:14:09Z"
+  },
+  {
+   "item_id": "3873013420",
+   "given_url": "https://www.jefftk.com/p/you-dont-always-need-indexes",
+   "given_title": "You Don't Always Need Indexes",
+   "resolved_title": "You Don't Always Need Indexes",
+   "resolved_url": "https://www.jefftk.com/p/you-dont-always-need-indexes",
+   "time_updated": "2023-05-25T21:07:32Z",
+   "time_added": "2023-05-25T21:07:31Z"
+  },
+  {
+   "item_id": "2410167454",
+   "given_url": "https://www.youtube.com/watch?v=Mnvg62rBwN8",
+   "given_title": "(121) Lula Côrtes \u0026 Lailson - Satwa (1973) - YouTube",
+   "resolved_title": "Lula Côrtes \u0026 Lailson - Satwa (1973)",
+   "resolved_url": "https://www.youtube.com/watch?v=Mnvg62rBwN8",
+   "time_updated": "2023-05-27T11:39:38Z",
+   "time_added": "2023-05-27T11:39:38Z"
+  },
+  {
+   "item_id": "3874843872",
+   "given_url": "https://github.com/currents-dev/cypress-debugger",
+   "given_title": "currents-dev/cypress-debugger: Debug failed CI cypress tests with cloud-bas",
+   "resolved_title": "currents-dev/cypress-debugger",
+   "resolved_url": "https://github.com/currents-dev/cypress-debugger",
+   "time_updated": "2023-05-27T17:01:38Z",
+   "time_added": "2023-05-27T17:01:34Z"
+  },
+  {
    "item_id": "3875075044",
    "given_url": "https://m.youtube.com/watch?v=MPE-huw1NyY",
    "given_title": "Rupert: e os Leprechauns - Ep.15 - YouTube",
@@ -319,22 +193,76 @@
    "time_added": "2023-05-27T23:54:28Z"
   },
   {
-   "item_id": "3859297703",
-   "given_url": "https://twitter.com/HIDEO_KOJIMA_EN/status/1653918583846760448",
-   "given_title": "HIDEO_KOJIMA no Twitter: \"I accidentally found Summer Time Rendering on Net",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/HIDEO_KOJIMA_EN/status/1653918583846760448",
-   "time_updated": "2023-05-25T08:02:03Z",
-   "time_added": "2023-05-25T08:02:02Z"
+   "item_id": "46872",
+   "given_url": "https://www.bodybuilding.com/fun/drobson207.htm",
+   "given_title": "Know Your Measurements For Bodybuilding Success",
+   "resolved_title": "Know Your Measurements For Bodybuilding Success",
+   "resolved_url": "https://www.bodybuilding.com/fun/drobson207.htm",
+   "time_updated": "2023-05-28T16:25:07Z",
+   "time_added": "2023-05-28T16:25:07Z"
   },
   {
-   "item_id": "3873720461",
-   "given_url": "https://www.ggrecon.com/articles/alpha54-on-zen-leadership-legacy-and-conquering-the-world/",
-   "given_title": "Alpha54 on zen, leadership, legacy, and conquering the world",
-   "resolved_title": "Alpha54 on zen, leadership, legacy, and conquering the world",
-   "resolved_url": "https://www.ggrecon.com/articles/alpha54-on-zen-leadership-legacy-and-conquering-the-world/",
-   "time_updated": "2023-05-26T10:22:34Z",
-   "time_added": "2023-05-26T10:22:30Z"
+   "item_id": "3874185151",
+   "given_url": "https://thephd.dev/i-am-no-longer-speaking-at-rustconf-2023",
+   "given_title": "I Am No Longer Speaking at RustConf 2023 | The Pasture",
+   "resolved_title": "I Am No Longer Speaking at RustConf 2023",
+   "resolved_url": "https://thephd.dev/i-am-no-longer-speaking-at-rustconf-2023",
+   "time_updated": "2023-05-27T09:51:28Z",
+   "time_added": "2023-05-27T09:51:26Z"
+  },
+  {
+   "item_id": "3871493727",
+   "given_url": "https://shaneosullivan.wordpress.com/2023/05/23/instant-colour-fill-with-html-canvas/",
+   "given_title": "Instant colour fill with HTML Canvas – SOS",
+   "resolved_title": "Instant colour fill with HTML Canvas",
+   "resolved_url": "https://shaneosullivan.wordpress.com/2023/05/23/instant-colour-fill-with-html-canvas/",
+   "time_updated": "2023-05-24T08:53:43Z",
+   "time_added": "2023-05-24T08:53:42Z"
+  },
+  {
+   "item_id": "2406552868",
+   "given_url": "https://gist.github.com/gtallen1187/27a585fcf36d6e657db2",
+   "given_title": "talk given by John Ousterhout about sustaining relationships · GitHub",
+   "resolved_title": "talk given by John Ousterhout about sustaining relationships",
+   "resolved_url": "https://gist.github.com/gtallen1187/27a585fcf36d6e657db2",
+   "time_updated": "2023-05-27T18:01:09Z",
+   "time_added": "2023-05-27T18:01:08Z"
+  },
+  {
+   "item_id": "2155562828",
+   "given_url": "https://en.wikipedia.org/wiki/Operator-precedence_parser#Pratt_parsing",
+   "given_title": "Operator-precedence parser - Wikipedia",
+   "resolved_title": "Operator-precedence parser",
+   "resolved_url": "https://en.wikipedia.org/wiki/Operator-precedence_parser",
+   "time_updated": "2023-05-28T17:50:29Z",
+   "time_added": "2023-05-28T17:50:29Z"
+  },
+  {
+   "item_id": "3861681706",
+   "given_url": "https://every.to/no-small-plans/dream-bankruptcy-why-you-should-give-up-on-your-holy-grail",
+   "given_title": "Why You Should Give Up On Your Dreams - No Small Plans - Every",
+   "resolved_title": "Why You Should Give Up On Your Dreams",
+   "resolved_url": "https://every.to/no-small-plans/dream-bankruptcy-why-you-should-give-up-on-your-holy-grail",
+   "time_updated": "2023-05-25T08:31:41Z",
+   "time_added": "2023-05-25T08:31:40Z"
+  },
+  {
+   "item_id": "3872839368",
+   "given_url": "https://twitter.com/WeAreJoel/status/1661172665980276737",
+   "given_title": "Joël ?? no Twitter: \"Just a reminder for anyone excited about the Metal Gea",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/WeAreJoel/status/1661172665980276737",
+   "time_updated": "2023-05-25T09:53:15Z",
+   "time_added": "2023-05-25T09:53:13Z"
+  },
+  {
+   "item_id": "3872855990",
+   "given_url": "https://twitter.com/brianleroux/status/1661391680556396545",
+   "given_title": "@brianleroux@indieweb.social ? no Twitter: \"It's weird the \"lambda warmer\" ",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/brianleroux/status/1661391680556396545",
+   "time_updated": "2023-05-25T10:21:23Z",
+   "time_added": "2023-05-25T10:21:22Z"
   },
   {
    "item_id": "3874091499",
@@ -344,6 +272,69 @@
    "resolved_url": "https://www.youtube.com/watch?app=desktop\u0026v=jdEEIo-kj80",
    "time_updated": "2023-05-26T19:40:50Z",
    "time_added": "2023-05-26T19:40:49Z"
+  },
+  {
+   "item_id": "3874101236",
+   "given_url": "https://twitter.com/Informacoes_RJ/status/1661890273503223808?t=re87u9gUmdqSbOJOioZPxw\u0026s=08",
+   "given_title": "Informações RJ no Twitter: \"Maluco jogou uma granada dentro do bar e saiu c",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/Informacoes_RJ/status/1661890273503223808?t=re87u9gUmdqSbOJOioZPxw\u0026s=08",
+   "time_updated": "2023-05-26T19:56:17Z",
+   "time_added": "2023-05-26T19:56:16Z"
+  },
+  {
+   "item_id": "3875783484",
+   "given_url": "https://twitter.com/Stuart_xp/status/1662847119059763201",
+   "given_title": "Stuart ? no Twitter: \"A senhora comprou um mangá de Punpun pro neto de 7 an",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/Stuart_xp/status/1662847119059763201",
+   "time_updated": "2023-05-28T21:54:00Z",
+   "time_added": "2023-05-28T21:53:57Z"
+  },
+  {
+   "item_id": "3871940211",
+   "given_url": "https://twitter.com/obskyr/status/1661056143647559680/photo/2",
+   "given_title": "Samuel ?✨ Messner no Twitter: \"In 1997, Game Hihyō (the best Japanese video",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/obskyr/status/1661056143647559680/photo/2",
+   "time_updated": "2023-05-24T08:46:24Z",
+   "time_added": "2023-05-24T08:46:23Z"
+  },
+  {
+   "item_id": "3872100540",
+   "given_url": "https://www.uol.com.br/nossa/noticias/redacao/2023/05/24/barcelona-vive-batalha-com-excesso-de-turistas-ate-monumento-foi-fechado.htm",
+   "given_title": "'Vão para casa': batalha de Barcelona contra turistas faz nova 'vítima' - 2",
+   "resolved_title": "'Vão para casa': batalha de Barcelona contra turistas faz nova 'vítima'",
+   "resolved_url": "https://www.uol.com.br/nossa/noticias/redacao/2023/05/24/barcelona-vive-batalha-com-excesso-de-turistas-ate-monumento-foi-fechado.htm",
+   "time_updated": "2023-05-24T16:07:28Z",
+   "time_added": "2023-05-24T16:07:28Z"
+  },
+  {
+   "item_id": "3872774779",
+   "given_url": "https://twitter.com/glaucia_lemos86/status/1661428991570444289",
+   "given_title": "Glaucia Lemos ? no Twitter: \"Pergunta: Há algum mestrado (de forma remota) ",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/glaucia_lemos86/status/1661428991570444289",
+   "time_updated": "2023-05-25T07:58:07Z",
+   "time_added": "2023-05-25T07:58:05Z"
+  },
+  {
+   "item_id": "3873278309",
+   "given_url": "https://twitter.com/thorstenball/status/1661599632479092736/photo/1",
+   "given_title": "Página Inicial / Twitter",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/thorstenball/status/1661599632479092736/photo/1",
+   "time_updated": "2023-05-25T20:56:36Z",
+   "time_added": "2023-05-25T20:56:34Z"
+  },
+  {
+   "item_id": "3873720461",
+   "given_url": "https://www.ggrecon.com/articles/alpha54-on-zen-leadership-legacy-and-conquering-the-world/",
+   "given_title": "Alpha54 on zen, leadership, legacy, and conquering the world",
+   "resolved_title": "Alpha54 on zen, leadership, legacy, and conquering the world",
+   "resolved_url": "https://www.ggrecon.com/articles/alpha54-on-zen-leadership-legacy-and-conquering-the-world/",
+   "time_updated": "2023-05-26T10:22:34Z",
+   "time_added": "2023-05-26T10:22:30Z"
   }
  ]
 }

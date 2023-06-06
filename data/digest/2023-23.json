@@ -4,13 +4,40 @@
  "sortKey": "2023-23",
  "items": [
   {
-   "item_id": "706956186",
-   "given_url": "https://pt.m.wikipedia.org/wiki/S%C3%ADndrome_de_Klinefelter",
-   "given_title": "Síndrome de Klinefelter – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Síndrome de Klinefelter",
-   "resolved_url": "https://pt.wikipedia.org/wiki/S%C3%ADndrome_de_Klinefelter",
-   "time_updated": "2023-06-05T08:39:35Z",
-   "time_added": "2023-06-05T08:39:34Z"
+   "item_id": "3881097438",
+   "given_url": "https://twitter.com/JefinhoMenes/status/1665394240250077186",
+   "given_title": "Jéferfon Menezes -jefinhomenes.bsky.social no Twitter: \"Assisti ao doc do G",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/JefinhoMenes/status/1665394240250077186",
+   "time_updated": "2023-06-05T10:31:01Z",
+   "time_added": "2023-06-05T10:30:59Z"
+  },
+  {
+   "item_id": "3881380074",
+   "given_url": "https://jvns.ca/blog/2023/06/05/some-blogging-myths/",
+   "given_title": "Some blogging myths",
+   "resolved_title": "Some blogging myths",
+   "resolved_url": "https://jvns.ca/blog/2023/06/05/some-blogging-myths/",
+   "time_updated": "2023-06-05T21:58:36Z",
+   "time_added": "2023-06-05T21:58:35Z"
+  },
+  {
+   "item_id": "3881565292",
+   "given_url": "https://m.youtube.com/watch?v=TX9qSaGXFyg\u0026pp=ygUQYXBwbGUgdmlzaW9uIHBybw%3D%3D",
+   "given_title": "Introducing Apple Vision Pro - YouTube",
+   "resolved_title": "Introducing Apple Vision Pro",
+   "resolved_url": "http://www.youtube.com/watch?v=TX9qSaGXFyg",
+   "time_updated": "2023-06-05T23:04:41Z",
+   "time_added": "2023-06-05T23:04:39Z"
+  },
+  {
+   "item_id": "3880447146",
+   "given_url": "https://zwischenzugs.com/2023/06/04/monoliths-microservervices-and-mainframes-reflections-on-amazon-prime-videos-monolith-move/",
+   "given_title": "Monoliths, Microservervices and Mainframes – Reflections on Amazon Prime Vi",
+   "resolved_title": "Monoliths, Microservervices and Mainframes – Reflections on Amazon Prime Video’s Monolith Move",
+   "resolved_url": "https://zwischenzugs.com/2023/06/04/monoliths-microservervices-and-mainframes-reflections-on-amazon-prime-videos-monolith-move/",
+   "time_updated": "2023-06-05T16:47:00Z",
+   "time_added": "2023-06-05T16:46:59Z"
   },
   {
    "item_id": "3881031127",
@@ -22,13 +49,31 @@
    "time_added": "2023-06-05T08:27:52Z"
   },
   {
-   "item_id": "3881097438",
-   "given_url": "https://twitter.com/JefinhoMenes/status/1665394240250077186",
-   "given_title": "Jéferfon Menezes -jefinhomenes.bsky.social no Twitter: \"Assisti ao doc do G",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/JefinhoMenes/status/1665394240250077186",
-   "time_updated": "2023-06-05T10:31:01Z",
-   "time_added": "2023-06-05T10:30:59Z"
+   "item_id": "3881161695",
+   "given_url": "https://tab.uol.com.br/noticias/redacao/2023/06/05/cemiterio-na-zona-leste-de-sao-paulo-tem-ossadas-expostas-e-covas-reviradas.htm",
+   "given_title": "Cemitério da Saudade, em SP, tem ossadas expostas e covas reviradas - 05/06",
+   "resolved_title": "Cemitério da Saudade, em SP, tem ossadas expostas e covas reviradas",
+   "resolved_url": "https://tab.uol.com.br/noticias/redacao/2023/06/05/cemiterio-na-zona-leste-de-sao-paulo-tem-ossadas-expostas-e-covas-reviradas.htm",
+   "time_updated": "2023-06-05T16:06:42Z",
+   "time_added": "2023-06-05T16:06:42Z"
+  },
+  {
+   "item_id": "706956186",
+   "given_url": "https://pt.m.wikipedia.org/wiki/S%C3%ADndrome_de_Klinefelter",
+   "given_title": "Síndrome de Klinefelter – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Síndrome de Klinefelter",
+   "resolved_url": "https://pt.wikipedia.org/wiki/S%C3%ADndrome_de_Klinefelter",
+   "time_updated": "2023-06-05T08:39:35Z",
+   "time_added": "2023-06-05T08:39:34Z"
+  },
+  {
+   "item_id": "3881432781",
+   "given_url": "https://www.youtube.com/watch?v=blAXHt21Gg8",
+   "given_title": "Vanilla's Journey   Advice/Reflection - YouTube",
+   "resolved_title": "Vanilla's Journey + Advice/Reflection",
+   "resolved_url": "https://www.youtube.com/watch?v=blAXHt21Gg8",
+   "time_updated": "2023-06-05T19:33:54Z",
+   "time_added": "2023-06-05T19:33:53Z"
   }
  ]
 }

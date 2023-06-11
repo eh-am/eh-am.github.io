@@ -4,42 +4,6 @@
  "sortKey": "2023-22",
  "items": [
   {
-   "item_id": "719187",
-   "given_url": "https://japantoday.com/",
-   "given_title": "",
-   "resolved_title": "Japan Today",
-   "resolved_url": "https://japantoday.com/",
-   "time_updated": "2023-06-03T18:04:40Z",
-   "time_added": "2023-06-03T18:04:39Z"
-  },
-  {
-   "item_id": "3879924599",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Mari_Yaguchi",
-   "given_title": "Mari Yaguchi – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Mari Yaguchi",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Mari_Yaguchi",
-   "time_updated": "2023-06-03T17:59:33Z",
-   "time_added": "2023-06-03T17:59:29Z"
-  },
-  {
-   "item_id": "804235355",
-   "given_url": "https://m.youtube.com/watch?v=EZ0C2wh5IyE",
-   "given_title": "How to Do the French Drop | Coin Tricks - YouTube",
-   "resolved_title": "How to Do the French Drop | Coin Tricks",
-   "resolved_url": "https://www.youtube.com/watch?v=EZ0C2wh5IyE",
-   "time_updated": "2023-06-03T19:55:00Z",
-   "time_added": "2023-06-03T19:54:59Z"
-  },
-  {
-   "item_id": "3880101659",
-   "given_url": "https://twitter.com/AlgebraFact/status/1664812426468925441",
-   "given_title": "Algebra Etc. no Twitter: \"The Four Color Theorem assumes regions on a map a",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/AlgebraFact/status/1664812426468925441",
-   "time_updated": "2023-06-03T23:43:27Z",
-   "time_added": "2023-06-03T23:43:24Z"
-  },
-  {
    "item_id": "3880594782",
    "given_url": "https://culturacolectiva.com/uncategorized/action-man-toy-history/",
    "given_title": "What Happened to Action Man, Max Steel’s Main Competition? - Cultura Colect",
@@ -47,15 +11,6 @@
    "resolved_url": "https://culturacolectiva.com/uncategorized/action-man-toy-history/",
    "time_updated": "2023-06-04T17:07:48Z",
    "time_added": "2023-06-04T17:07:44Z"
-  },
-  {
-   "item_id": "3879979607",
-   "given_url": "https://twitter.com/shannonsharpeee/status/1664990278669971457",
-   "given_title": "Shannonnn sharpes Burner (PARODY Account) no Twitter: \"Yoooo a whale swallo",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/shannonsharpeee/status/1664990278669971457",
-   "time_updated": "2023-06-03T19:43:49Z",
-   "time_added": "2023-06-03T19:43:46Z"
   }
  ]
 }

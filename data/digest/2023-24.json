@@ -4,6 +4,96 @@
  "sortKey": "2023-24",
  "items": [
   {
+   "item_id": "3886030621",
+   "given_url": "https://theburningmonk.com/2023/06/no-you-dont-need-to-test-every-line-of-your-cdk-application/",
+   "given_title": "No, you don't need to test every line of your CDK application | theburningm",
+   "resolved_title": "No, you don’t need to test every line of your CDK application",
+   "resolved_url": "https://theburningmonk.com/2023/06/no-you-dont-need-to-test-every-line-of-your-cdk-application/",
+   "time_updated": "2023-06-14T11:49:47Z",
+   "time_added": "2023-06-14T11:49:47Z"
+  },
+  {
+   "item_id": "3886104140",
+   "given_url": "https://railsatscale.com//2023-06-12-rewriting-the-ruby-parser/",
+   "given_title": "Rewriting the Ruby parser | Rails at Scale",
+   "resolved_title": "Rewriting the Ruby parser",
+   "resolved_url": "https://railsatscale.com//2023-06-12-rewriting-the-ruby-parser/",
+   "time_updated": "2023-06-14T15:03:34Z",
+   "time_added": "2023-06-14T15:03:34Z"
+  },
+  {
+   "item_id": "3886348968",
+   "given_url": "https://twitter.com/revistapiaui/status/1667895208305115137",
+   "given_title": "revista piauí no Twitter: \"“Kids pretos” é o apelido dado aos especialistas",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/revistapiaui/status/1667895208305115137",
+   "time_updated": "2023-06-13T10:21:36Z",
+   "time_added": "2023-06-13T10:21:34Z"
+  },
+  {
+   "item_id": "64673733",
+   "given_url": "https://en.m.wikipedia.org/wiki/Megalithic_Temples_of_Malta",
+   "given_title": "Megalithic Temples of Malta - Wikipedia",
+   "resolved_title": "Megalithic Temples of Malta",
+   "resolved_url": "https://en.wikipedia.org/wiki/Megalithic_Temples_of_Malta",
+   "time_updated": "2023-06-15T23:00:04Z",
+   "time_added": "2023-06-15T23:00:03Z"
+  },
+  {
+   "item_id": "3433495190",
+   "given_url": "https://www.annualreviews.org/doi/full/10.1146/annurev-vision-093019-115521",
+   "given_title": "Mobile Computational Photography: A Tour | Annual Review of Vision Science",
+   "resolved_title": "",
+   "resolved_url": "https://www.annualreviews.org/doi/full/10.1146/annurev-vision-093019-115521",
+   "time_updated": "2023-06-15T09:25:43Z",
+   "time_added": "2023-06-15T09:25:43Z"
+  },
+  {
+   "item_id": "3885859861",
+   "given_url": "https://bolamarela.pt/alcaraz-explica-as-caibras-e-garante-tinha-me-doido-muito-mais-se-me-retirasse/?fbclid=IwAR21FDL59E4YVvf46qFyf4v1gIH-f1Z03eQGC5ufA8Dlm3x4tEAhzamSrd4",
+   "given_title": "Alcaraz explica as cãibras e garante: «Tinha-me doído muito mais se me reti",
+   "resolved_title": "Alcaraz explica as cãibras e garante: «Tinha-me doído muito mais se me retirasse»",
+   "resolved_url": "https://bolamarela.pt/alcaraz-explica-as-caibras-e-garante-tinha-me-doido-muito-mais-se-me-retirasse/",
+   "time_updated": "2023-06-12T15:15:16Z",
+   "time_added": "2023-06-12T15:15:13Z"
+  },
+  {
+   "item_id": "117715907",
+   "given_url": "https://en.m.wikipedia.org/wiki/Hollow_Earth",
+   "given_title": "Hollow Earth - Wikipedia",
+   "resolved_title": "Hollow Earth",
+   "resolved_url": "https://en.wikipedia.org/wiki/Hollow_Earth",
+   "time_updated": "2023-06-13T23:43:07Z",
+   "time_added": "2023-06-13T23:43:06Z"
+  },
+  {
+   "item_id": "3886974978",
+   "given_url": "https://twitter.com/huggingface/status/1668644019058909187",
+   "given_title": "Hugging Face no Twitter: \"? Calling all game dev and AI enthusiasts!? Alrea",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/huggingface/status/1668644019058909187",
+   "time_updated": "2023-06-14T09:57:53Z",
+   "time_added": "2023-06-14T09:57:50Z"
+  },
+  {
+   "item_id": "3886565439",
+   "given_url": "https://bibliotecaparticular.casafernandopessoa.pt/index/notaPrevia.htm",
+   "given_title": "Biblioteca Particular Fernando Pessoa",
+   "resolved_title": "Nota Prévia",
+   "resolved_url": "https://bibliotecaparticular.casafernandopessoa.pt/index/notaPrevia.htm",
+   "time_updated": "2023-06-14T11:29:26Z",
+   "time_added": "2023-06-14T11:29:26Z"
+  },
+  {
+   "item_id": "345416895",
+   "given_url": "https://www.redblobgames.com/grids/hexagons/",
+   "given_title": "Hexagonal Grids",
+   "resolved_title": "Hexagonal Grids",
+   "resolved_url": "https://www.redblobgames.com/grids/hexagons/",
+   "time_updated": "2023-06-14T13:50:48Z",
+   "time_added": "2023-06-14T13:50:48Z"
+  },
+  {
    "item_id": "3886349406",
    "given_url": "https://revistaforum.com.br/politica/2023/1/19/reao-de-janja-com-lula-quando-jose-mucio-props-glo-durante-ataques-130304.html",
    "given_title": "A reação de Janja, com Lula, quando José Múcio propôs GLO durante ataques |",
@@ -22,31 +112,13 @@
    "time_added": "2023-06-13T13:03:59Z"
   },
   {
-   "item_id": "3886371318",
-   "given_url": "https://www.citador.pt/proverbios.php?proverbio=A_mulher_e_a_sardinha__quer_se_pequenina_\u0026op=9\u0026id=30",
-   "given_title": "A mulher e a sardinha, quer-se pequenina ... - Provérbio - Citador",
-   "resolved_title": "Provérbio",
-   "resolved_url": "https://www.citador.pt/proverbios.php?proverbio=A_mulher_e_a_sardinha__quer_se_pequenina_\u0026op=9\u0026id=30",
-   "time_updated": "2023-06-13T11:08:51Z",
-   "time_added": "2023-06-13T11:08:50Z"
-  },
-  {
-   "item_id": "3886030621",
-   "given_url": "https://theburningmonk.com/2023/06/no-you-dont-need-to-test-every-line-of-your-cdk-application/",
-   "given_title": "No, you don't need to test every line of your CDK application | theburningm",
-   "resolved_title": "No, you don’t need to test every line of your CDK application",
-   "resolved_url": "https://theburningmonk.com/2023/06/no-you-dont-need-to-test-every-line-of-your-cdk-application/",
-   "time_updated": "2023-06-14T11:49:47Z",
-   "time_added": "2023-06-14T11:49:47Z"
-  },
-  {
-   "item_id": "3887831115",
-   "given_url": "https://twitter.com/housecor/status/1669372864800194560",
-   "given_title": "Cory House no Twitter: \"Problem: When you deploy a new version of your SPA,",
+   "item_id": "3887875103",
+   "given_url": "https://twitter.com/johnnyxbrown/status/1669367879068786688",
+   "given_title": "Johnny Brown no Twitter: \"\"Power naps\" slow you down and, if done incorrect",
    "resolved_title": "",
-   "resolved_url": "https://twitter.com/housecor/status/1669372864800194560",
-   "time_updated": "2023-06-15T17:56:23Z",
-   "time_added": "2023-06-15T17:56:21Z"
+   "resolved_url": "https://twitter.com/johnnyxbrown/status/1669367879068786688",
+   "time_updated": "2023-06-15T19:39:43Z",
+   "time_added": "2023-06-15T19:39:41Z"
   },
   {
    "item_id": "3885851527",
@@ -58,33 +130,6 @@
    "time_added": "2023-06-12T14:59:40Z"
   },
   {
-   "item_id": "3886348968",
-   "given_url": "https://twitter.com/revistapiaui/status/1667895208305115137",
-   "given_title": "revista piauí no Twitter: \"“Kids pretos” é o apelido dado aos especialistas",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/revistapiaui/status/1667895208305115137",
-   "time_updated": "2023-06-13T10:21:36Z",
-   "time_added": "2023-06-13T10:21:34Z"
-  },
-  {
-   "item_id": "3791339540",
-   "given_url": "https://pluralistic.net/2023/01/21/potemkin-ai/",
-   "given_title": "Pluralistic: Tiktok’s enshittification (21 Jan 2023) – Pluralistic: Daily l",
-   "resolved_title": "Tiktok’s enshittification (21 Jan 2023) – Pluralistic : Daily links from Cory Doctorow",
-   "resolved_url": "https://pluralistic.net/2023/01/21/potemkin-ai/",
-   "time_updated": "2023-06-13T18:40:25Z",
-   "time_added": "2023-06-13T18:40:24Z"
-  },
-  {
-   "item_id": "3886565439",
-   "given_url": "https://bibliotecaparticular.casafernandopessoa.pt/index/notaPrevia.htm",
-   "given_title": "Biblioteca Particular Fernando Pessoa",
-   "resolved_title": "Nota Prévia",
-   "resolved_url": "https://bibliotecaparticular.casafernandopessoa.pt/index/notaPrevia.htm",
-   "time_updated": "2023-06-14T11:29:26Z",
-   "time_added": "2023-06-14T11:29:26Z"
-  },
-  {
    "item_id": "3886554944",
    "given_url": "https://shop.hbo.com/products/curb-your-enthusiasm-monopoly-game",
    "given_title": "HBO Shop",
@@ -92,6 +137,15 @@
    "resolved_url": "https://shop.hbo.com/products/curb-your-enthusiasm-monopoly-game",
    "time_updated": "2023-06-14T14:57:24Z",
    "time_added": "2023-06-14T14:57:23Z"
+  },
+  {
+   "item_id": "3887831115",
+   "given_url": "https://twitter.com/housecor/status/1669372864800194560",
+   "given_title": "Cory House no Twitter: \"Problem: When you deploy a new version of your SPA,",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/housecor/status/1669372864800194560",
+   "time_updated": "2023-06-15T17:56:23Z",
+   "time_added": "2023-06-15T17:56:21Z"
   },
   {
    "item_id": "3885714687",
@@ -103,40 +157,22 @@
    "time_added": "2023-06-12T10:42:42Z"
   },
   {
-   "item_id": "3820738921",
-   "given_url": "https://resend.com/home",
-   "given_title": "Resend",
-   "resolved_title": "The new email API for developers",
-   "resolved_url": "https://resend.com",
-   "time_updated": "2023-06-13T14:40:26Z",
-   "time_added": "2023-06-13T14:40:26Z"
+   "item_id": "3886371318",
+   "given_url": "https://www.citador.pt/proverbios.php?proverbio=A_mulher_e_a_sardinha__quer_se_pequenina_\u0026op=9\u0026id=30",
+   "given_title": "A mulher e a sardinha, quer-se pequenina ... - Provérbio - Citador",
+   "resolved_title": "Provérbio",
+   "resolved_url": "https://www.citador.pt/proverbios.php?proverbio=A_mulher_e_a_sardinha__quer_se_pequenina_\u0026op=9\u0026id=30",
+   "time_updated": "2023-06-13T11:08:51Z",
+   "time_added": "2023-06-13T11:08:50Z"
   },
   {
-   "item_id": "64673733",
-   "given_url": "https://en.m.wikipedia.org/wiki/Megalithic_Temples_of_Malta",
-   "given_title": "Megalithic Temples of Malta - Wikipedia",
-   "resolved_title": "Megalithic Temples of Malta",
-   "resolved_url": "https://en.wikipedia.org/wiki/Megalithic_Temples_of_Malta",
-   "time_updated": "2023-06-15T23:00:04Z",
-   "time_added": "2023-06-15T23:00:03Z"
-  },
-  {
-   "item_id": "345416895",
-   "given_url": "https://www.redblobgames.com/grids/hexagons/",
-   "given_title": "Hexagonal Grids",
-   "resolved_title": "Hexagonal Grids",
-   "resolved_url": "https://www.redblobgames.com/grids/hexagons/",
-   "time_updated": "2023-06-14T13:50:48Z",
-   "time_added": "2023-06-14T13:50:48Z"
-  },
-  {
-   "item_id": "3886974978",
-   "given_url": "https://twitter.com/huggingface/status/1668644019058909187",
-   "given_title": "Hugging Face no Twitter: \"? Calling all game dev and AI enthusiasts!? Alrea",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/huggingface/status/1668644019058909187",
-   "time_updated": "2023-06-14T09:57:53Z",
-   "time_added": "2023-06-14T09:57:50Z"
+   "item_id": "3791339540",
+   "given_url": "https://pluralistic.net/2023/01/21/potemkin-ai/",
+   "given_title": "Pluralistic: Tiktok’s enshittification (21 Jan 2023) – Pluralistic: Daily l",
+   "resolved_title": "Tiktok’s enshittification (21 Jan 2023) – Pluralistic : Daily links from Cory Doctorow",
+   "resolved_url": "https://pluralistic.net/2023/01/21/potemkin-ai/",
+   "time_updated": "2023-06-13T18:40:25Z",
+   "time_added": "2023-06-13T18:40:24Z"
   },
   {
    "item_id": "3886321967",
@@ -148,49 +184,13 @@
    "time_added": "2023-06-13T09:21:37Z"
   },
   {
-   "item_id": "3885859861",
-   "given_url": "https://bolamarela.pt/alcaraz-explica-as-caibras-e-garante-tinha-me-doido-muito-mais-se-me-retirasse/?fbclid=IwAR21FDL59E4YVvf46qFyf4v1gIH-f1Z03eQGC5ufA8Dlm3x4tEAhzamSrd4",
-   "given_title": "Alcaraz explica as cãibras e garante: «Tinha-me doído muito mais se me reti",
-   "resolved_title": "Alcaraz explica as cãibras e garante: «Tinha-me doído muito mais se me retirasse»",
-   "resolved_url": "https://bolamarela.pt/alcaraz-explica-as-caibras-e-garante-tinha-me-doido-muito-mais-se-me-retirasse/",
-   "time_updated": "2023-06-12T15:15:16Z",
-   "time_added": "2023-06-12T15:15:13Z"
-  },
-  {
-   "item_id": "3886104140",
-   "given_url": "https://railsatscale.com//2023-06-12-rewriting-the-ruby-parser/",
-   "given_title": "Rewriting the Ruby parser | Rails at Scale",
-   "resolved_title": "Rewriting the Ruby parser",
-   "resolved_url": "https://railsatscale.com//2023-06-12-rewriting-the-ruby-parser/",
-   "time_updated": "2023-06-14T15:03:34Z",
-   "time_added": "2023-06-14T15:03:34Z"
-  },
-  {
-   "item_id": "3433495190",
-   "given_url": "https://www.annualreviews.org/doi/full/10.1146/annurev-vision-093019-115521",
-   "given_title": "Mobile Computational Photography: A Tour | Annual Review of Vision Science",
-   "resolved_title": "",
-   "resolved_url": "https://www.annualreviews.org/doi/full/10.1146/annurev-vision-093019-115521",
-   "time_updated": "2023-06-15T09:25:43Z",
-   "time_added": "2023-06-15T09:25:43Z"
-  },
-  {
-   "item_id": "117715907",
-   "given_url": "https://en.m.wikipedia.org/wiki/Hollow_Earth",
-   "given_title": "Hollow Earth - Wikipedia",
-   "resolved_title": "Hollow Earth",
-   "resolved_url": "https://en.wikipedia.org/wiki/Hollow_Earth",
-   "time_updated": "2023-06-13T23:43:07Z",
-   "time_added": "2023-06-13T23:43:06Z"
-  },
-  {
-   "item_id": "3887875103",
-   "given_url": "https://twitter.com/johnnyxbrown/status/1669367879068786688",
-   "given_title": "Johnny Brown no Twitter: \"\"Power naps\" slow you down and, if done incorrect",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/johnnyxbrown/status/1669367879068786688",
-   "time_updated": "2023-06-15T19:39:43Z",
-   "time_added": "2023-06-15T19:39:41Z"
+   "item_id": "3820738921",
+   "given_url": "https://resend.com/home",
+   "given_title": "Resend",
+   "resolved_title": "The new email API for developers",
+   "resolved_url": "https://resend.com",
+   "time_updated": "2023-06-13T14:40:26Z",
+   "time_added": "2023-06-13T14:40:26Z"
   }
  ]
 }

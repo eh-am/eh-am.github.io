@@ -4,15 +4,6 @@
  "sortKey": "2023-25",
  "items": [
   {
-   "item_id": "1807796133",
-   "given_url": "https://quadrinheiros.com/2013/02/19/homem-aranha-homem-aranha-nunca-bate-so-apanha/",
-   "given_title": "Homem Aranha, Homem Aranha, nunca bate, só apanha… | Quadrinheiros",
-   "resolved_title": "Homem Aranha, Homem Aranha, nunca bate, só apanha…",
-   "resolved_url": "https://quadrinheiros.com/2013/02/19/homem-aranha-homem-aranha-nunca-bate-so-apanha/",
-   "time_updated": "2023-06-19T15:05:17Z",
-   "time_added": "2023-06-19T15:05:16Z"
-  },
-  {
    "item_id": "3888285900",
    "given_url": "https://www.totaltypescript.com/typescript-5-2-new-keyword-using",
    "given_title": "TypeScript 5.2's New Keyword: 'using' | Total TypeScript",
@@ -22,40 +13,13 @@
    "time_added": "2023-06-20T10:02:21Z"
   },
   {
-   "item_id": "3890196434",
-   "given_url": "https://jacobin.com.br/2023/06/junho-de-2013-foi-um-levante-contra-o-sistema-forjado-desde-a-ditadura-militar/",
-   "given_title": "Junho de 2013 foi um levante contra o sistema forjado desde a ditadura mili",
-   "resolved_title": "Junho de 2013 foi um levante contra o sistema forjado desde a ditadura militar",
-   "resolved_url": "https://jacobin.com.br/2023/06/junho-de-2013-foi-um-levante-contra-o-sistema-forjado-desde-a-ditadura-militar/",
-   "time_updated": "2023-06-20T10:52:54Z",
-   "time_added": "2023-06-20T10:52:54Z"
-  },
-  {
-   "item_id": "3890565721",
-   "given_url": "https://www.youtube.com/watch?v=6P5m3h_u2RM",
-   "given_title": "(144) Auto Diagnóstico de AVC usando a técnica FAST (Episódio do House) - Y",
-   "resolved_title": "Auto Diagnóstico de AVC usando a técnica FAST (Episódio do House)",
-   "resolved_url": "https://www.youtube.com/watch?v=6P5m3h_u2RM",
-   "time_updated": "2023-06-20T14:45:44Z",
-   "time_added": "2023-06-20T14:45:43Z"
-  },
-  {
-   "item_id": "3890003853",
-   "given_url": "http://cegosesurdos.blogspot.com/2008/09/saudade-dos-trapalhes.html?m=1",
-   "given_title": "Novo endereço: www.camera21.com.br/cegosesurdos: Saudade dos Trapalhões...",
-   "resolved_title": "Saudade dos Trapalhões...",
-   "resolved_url": "http://cegosesurdos.blogspot.com/2008/09/saudade-dos-trapalhes.html",
-   "time_updated": "2023-06-19T15:53:55Z",
-   "time_added": "2023-06-19T15:53:52Z"
-  },
-  {
-   "item_id": "3890458782",
-   "given_url": "https://twitter.com/AllTrekGames/status/1671099098466844674",
-   "given_title": "All Star Trek Games no Twitter: \"2000 Star Trek: Deep Space Nine: The Falle",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/AllTrekGames/status/1671099098466844674",
-   "time_updated": "2023-06-20T11:10:01Z",
-   "time_added": "2023-06-20T11:09:59Z"
+   "item_id": "3890563732",
+   "given_url": "https://www.youtube.com/watch?v=RAncVNaw5N0\u0026t=436s",
+   "given_title": "(143) Bajé a los restos del Titanic 4K | Parte 4/4 - YouTube",
+   "resolved_title": "Bajé a los restos del Titanic 4K | Parte 4/4",
+   "resolved_url": "https://www.youtube.com/watch?v=RAncVNaw5N0\u0026t=436s",
+   "time_updated": "2023-06-20T14:41:59Z",
+   "time_added": "2023-06-20T14:41:58Z"
   },
   {
    "item_id": "3889149384",
@@ -67,6 +31,15 @@
    "time_added": "2023-06-19T08:32:50Z"
   },
   {
+   "item_id": "3889991814",
+   "given_url": "https://www.alfasites.com.br/didi/30_m_momentos/m_m15.htm",
+   "given_title": "OS 30 MELHORES MOMENTOS DOS TRAPALHÕES",
+   "resolved_title": "OS 30 MELHORES MOMENTOS DOS TRAPALHES",
+   "resolved_url": "https://www.alfasites.com.br/didi/30_m_momentos/m_m15.htm",
+   "time_updated": "2023-06-19T15:30:13Z",
+   "time_added": "2023-06-19T15:30:12Z"
+  },
+  {
    "item_id": "20186257",
    "given_url": "https://en.wikipedia.org/wiki/Auguste_Piccard",
    "given_title": "Auguste Piccard - Wikipedia",
@@ -74,6 +47,24 @@
    "resolved_url": "https://en.wikipedia.org/wiki/Auguste_Piccard",
    "time_updated": "2023-06-20T08:52:23Z",
    "time_added": "2023-06-20T08:52:23Z"
+  },
+  {
+   "item_id": "3890196434",
+   "given_url": "https://jacobin.com.br/2023/06/junho-de-2013-foi-um-levante-contra-o-sistema-forjado-desde-a-ditadura-militar/",
+   "given_title": "Junho de 2013 foi um levante contra o sistema forjado desde a ditadura mili",
+   "resolved_title": "Junho de 2013 foi um levante contra o sistema forjado desde a ditadura militar",
+   "resolved_url": "https://jacobin.com.br/2023/06/junho-de-2013-foi-um-levante-contra-o-sistema-forjado-desde-a-ditadura-militar/",
+   "time_updated": "2023-06-20T10:52:54Z",
+   "time_added": "2023-06-20T10:52:54Z"
+  },
+  {
+   "item_id": "1807796133",
+   "given_url": "https://quadrinheiros.com/2013/02/19/homem-aranha-homem-aranha-nunca-bate-so-apanha/",
+   "given_title": "Homem Aranha, Homem Aranha, nunca bate, só apanha… | Quadrinheiros",
+   "resolved_title": "Homem Aranha, Homem Aranha, nunca bate, só apanha…",
+   "resolved_url": "https://quadrinheiros.com/2013/02/19/homem-aranha-homem-aranha-nunca-bate-so-apanha/",
+   "time_updated": "2023-06-19T15:05:17Z",
+   "time_added": "2023-06-19T15:05:16Z"
   },
   {
    "item_id": "3890047237",
@@ -85,13 +76,13 @@
    "time_added": "2023-06-19T23:17:40Z"
   },
   {
-   "item_id": "3890563732",
-   "given_url": "https://www.youtube.com/watch?v=RAncVNaw5N0\u0026t=436s",
-   "given_title": "(143) Bajé a los restos del Titanic 4K | Parte 4/4 - YouTube",
-   "resolved_title": "Bajé a los restos del Titanic 4K | Parte 4/4",
-   "resolved_url": "https://www.youtube.com/watch?v=RAncVNaw5N0\u0026t=436s",
-   "time_updated": "2023-06-20T14:41:59Z",
-   "time_added": "2023-06-20T14:41:58Z"
+   "item_id": "3889992676",
+   "given_url": "https://m.youtube.com/watch?v=YKCUVBA14ds",
+   "given_title": "Super-Heróis Trapalhões: A pedra mágica de Robin (1980) / Menina Super Pode",
+   "resolved_title": "Super-Heróis Trapalhões: A pedra mágica de Robin (1980) /  Menina Super Poderosa (2008)",
+   "resolved_url": "http://www.youtube.com/watch?v=YKCUVBA14ds",
+   "time_updated": "2023-06-19T15:31:38Z",
+   "time_added": "2023-06-19T15:31:36Z"
   },
   {
    "item_id": "3890785173",
@@ -112,22 +103,31 @@
    "time_added": "2023-06-19T15:34:16Z"
   },
   {
-   "item_id": "3889991814",
-   "given_url": "https://www.alfasites.com.br/didi/30_m_momentos/m_m15.htm",
-   "given_title": "OS 30 MELHORES MOMENTOS DOS TRAPALHÕES",
-   "resolved_title": "OS 30 MELHORES MOMENTOS DOS TRAPALHES",
-   "resolved_url": "https://www.alfasites.com.br/didi/30_m_momentos/m_m15.htm",
-   "time_updated": "2023-06-19T15:30:13Z",
-   "time_added": "2023-06-19T15:30:12Z"
+   "item_id": "3890458782",
+   "given_url": "https://twitter.com/AllTrekGames/status/1671099098466844674",
+   "given_title": "All Star Trek Games no Twitter: \"2000 Star Trek: Deep Space Nine: The Falle",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/AllTrekGames/status/1671099098466844674",
+   "time_updated": "2023-06-20T11:10:01Z",
+   "time_added": "2023-06-20T11:09:59Z"
   },
   {
-   "item_id": "3889992676",
-   "given_url": "https://m.youtube.com/watch?v=YKCUVBA14ds",
-   "given_title": "Super-Heróis Trapalhões: A pedra mágica de Robin (1980) / Menina Super Pode",
-   "resolved_title": "Super-Heróis Trapalhões: A pedra mágica de Robin (1980) /  Menina Super Poderosa (2008)",
-   "resolved_url": "http://www.youtube.com/watch?v=YKCUVBA14ds",
-   "time_updated": "2023-06-19T15:31:38Z",
-   "time_added": "2023-06-19T15:31:36Z"
+   "item_id": "3890565721",
+   "given_url": "https://www.youtube.com/watch?v=6P5m3h_u2RM",
+   "given_title": "(144) Auto Diagnóstico de AVC usando a técnica FAST (Episódio do House) - Y",
+   "resolved_title": "Auto Diagnóstico de AVC usando a técnica FAST (Episódio do House)",
+   "resolved_url": "https://www.youtube.com/watch?v=6P5m3h_u2RM",
+   "time_updated": "2023-06-20T14:45:44Z",
+   "time_added": "2023-06-20T14:45:43Z"
+  },
+  {
+   "item_id": "3890003853",
+   "given_url": "http://cegosesurdos.blogspot.com/2008/09/saudade-dos-trapalhes.html?m=1",
+   "given_title": "Novo endereço: www.camera21.com.br/cegosesurdos: Saudade dos Trapalhões...",
+   "resolved_title": "Saudade dos Trapalhões...",
+   "resolved_url": "http://cegosesurdos.blogspot.com/2008/09/saudade-dos-trapalhes.html",
+   "time_updated": "2023-06-19T15:53:55Z",
+   "time_added": "2023-06-19T15:53:52Z"
   }
  ]
 }

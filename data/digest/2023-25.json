@@ -4,42 +4,6 @@
  "sortKey": "2023-25",
  "items": [
   {
-   "item_id": "3889993936",
-   "given_url": "https://m.youtube.com/watch?v=u4oIEX930HY",
-   "given_title": "Os Trapalhões Super-Heróis (E o Mussum como Fantasma!) - YouTube",
-   "resolved_title": "Os Trapalhões Super-Heróis (E o Mussum como Fantasma!)",
-   "resolved_url": "http://www.youtube.com/watch?v=u4oIEX930HY",
-   "time_updated": "2023-06-19T15:34:18Z",
-   "time_added": "2023-06-19T15:34:16Z"
-  },
-  {
-   "item_id": "3890047237",
-   "given_url": "https://www.reddit.com/r/apolloapp/comments/14dkqrw/i_want_to_debunk_reddits_claims_and_talk_about/",
-   "given_title": "? I want to debunk Reddit's claims, and talk about their unwillingness to w",
-   "resolved_title": "Reddit - Dive into anything",
-   "resolved_url": "https://www.reddit.com/r/apolloapp/comments/14dkqrw/i_want_to_debunk_reddits_claims_and_talk_about/",
-   "time_updated": "2023-06-19T23:17:41Z",
-   "time_added": "2023-06-19T23:17:40Z"
-  },
-  {
-   "item_id": "3890458782",
-   "given_url": "https://twitter.com/AllTrekGames/status/1671099098466844674",
-   "given_title": "All Star Trek Games no Twitter: \"2000 Star Trek: Deep Space Nine: The Falle",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/AllTrekGames/status/1671099098466844674",
-   "time_updated": "2023-06-20T11:10:01Z",
-   "time_added": "2023-06-20T11:09:59Z"
-  },
-  {
-   "item_id": "3889149384",
-   "given_url": "https://www1.folha.uol.com.br/ilustrissima/2023/06/lula-parece-morar-no-passado-diz-mangabeira-unger.shtml",
-   "given_title": "'Lula parece morar no passado', diz Mangabeira Unger - 17/06/2023 - Ilustrí",
-   "resolved_title": "Lula parece morar no passado, diz Mangabeira Unger",
-   "resolved_url": "https://www1.folha.uol.com.br/ilustrissima/2023/06/lula-parece-morar-no-passado-diz-mangabeira-unger.shtml",
-   "time_updated": "2023-06-19T08:32:51Z",
-   "time_added": "2023-06-19T08:32:50Z"
-  },
-  {
    "item_id": "3890565721",
    "given_url": "https://www.youtube.com/watch?v=6P5m3h_u2RM",
    "given_title": "(144) Auto Diagnóstico de AVC usando a técnica FAST (Episódio do House) - Y",
@@ -49,22 +13,40 @@
    "time_added": "2023-06-20T14:45:43Z"
   },
   {
-   "item_id": "3890196434",
-   "given_url": "https://jacobin.com.br/2023/06/junho-de-2013-foi-um-levante-contra-o-sistema-forjado-desde-a-ditadura-militar/",
-   "given_title": "Junho de 2013 foi um levante contra o sistema forjado desde a ditadura mili",
-   "resolved_title": "Junho de 2013 foi um levante contra o sistema forjado desde a ditadura militar",
-   "resolved_url": "https://jacobin.com.br/2023/06/junho-de-2013-foi-um-levante-contra-o-sistema-forjado-desde-a-ditadura-militar/",
-   "time_updated": "2023-06-20T10:52:54Z",
-   "time_added": "2023-06-20T10:52:54Z"
+   "item_id": "2912982185",
+   "given_url": "https://theintercept.com/2020/03/12/united-states-justice-department-brazil-car-wash-lava-jato-international-treaty/",
+   "given_title": "Secret History of U.S. Involvement in Brazil’s Operation Car Wash",
+   "resolved_title": "“Keep It Confidential”",
+   "resolved_url": "https://theintercept.com/2020/03/12/united-states-justice-department-brazil-car-wash-lava-jato-international-treaty/",
+   "time_updated": "2023-06-22T08:37:51Z",
+   "time_added": "2023-06-22T08:37:51Z"
   },
   {
-   "item_id": "3888285900",
-   "given_url": "https://www.totaltypescript.com/typescript-5-2-new-keyword-using",
-   "given_title": "TypeScript 5.2's New Keyword: 'using' | Total TypeScript",
-   "resolved_title": "TypeScript 5.2's New Keyword: 'using'",
-   "resolved_url": "https://www.totaltypescript.com/typescript-5-2-new-keyword-using",
-   "time_updated": "2023-06-20T10:02:21Z",
-   "time_added": "2023-06-20T10:02:21Z"
+   "item_id": "3891447802",
+   "given_url": "https://twitter.com/AaronBaileyArt/status/1671297460935839744",
+   "given_title": "(1) Aaron S Bailey ?⚡ no Twitter: \"Super interesting info from a VFX artist",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/AaronBaileyArt/status/1671297460935839744",
+   "time_updated": "2023-06-22T11:42:11Z",
+   "time_added": "2023-06-22T11:42:11Z"
+  },
+  {
+   "item_id": "3891174827",
+   "given_url": "https://twitter.com/NintendoAmerica/status/1671522962191663104?t=_gy4oySgS6qxWNyDaDGT_Q\u0026s=19",
+   "given_title": "Nintendo of America no Twitter: \"Super Mario RPG is coming to #NintendoSwit",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/NintendoAmerica/status/1671522962191663104?t=_gy4oySgS6qxWNyDaDGT_Q\u0026s=19",
+   "time_updated": "2023-06-21T14:26:35Z",
+   "time_added": "2023-06-21T14:26:34Z"
+  },
+  {
+   "item_id": "3891279837",
+   "given_url": "https://www.espn.com.br/esports/artigo/_/id/12219191/rocket-league-stl-avalia-mudanca-furia-cenario-norte-americano-muito-desafiador",
+   "given_title": "Dominando o Rocket League! STL avalia mudança da FURIA para o cenário norte",
+   "resolved_title": "Dominando o Rocket League! STL avalia mudança da FURIA para o cenário norte-americano: 'Muito desafiador'",
+   "resolved_url": "https://www.espn.com.br/esports/artigo/_/id/12219191/rocket-league-stl-avalia-mudanca-furia-cenario-norte-americano-muito-desafiador",
+   "time_updated": "2023-06-21T18:06:37Z",
+   "time_added": "2023-06-21T18:06:34Z"
   },
   {
    "item_id": "3890828235",
@@ -76,22 +58,22 @@
    "time_added": "2023-06-21T22:30:32Z"
   },
   {
-   "item_id": "3890003853",
-   "given_url": "http://cegosesurdos.blogspot.com/2008/09/saudade-dos-trapalhes.html?m=1",
-   "given_title": "Novo endereço: www.camera21.com.br/cegosesurdos: Saudade dos Trapalhões...",
-   "resolved_title": "Saudade dos Trapalhões...",
-   "resolved_url": "http://cegosesurdos.blogspot.com/2008/09/saudade-dos-trapalhes.html",
-   "time_updated": "2023-06-19T15:53:55Z",
-   "time_added": "2023-06-19T15:53:52Z"
+   "item_id": "3889991814",
+   "given_url": "https://www.alfasites.com.br/didi/30_m_momentos/m_m15.htm",
+   "given_title": "OS 30 MELHORES MOMENTOS DOS TRAPALHÕES",
+   "resolved_title": "OS 30 MELHORES MOMENTOS DOS TRAPALHES",
+   "resolved_url": "https://www.alfasites.com.br/didi/30_m_momentos/m_m15.htm",
+   "time_updated": "2023-06-19T15:30:13Z",
+   "time_added": "2023-06-19T15:30:12Z"
   },
   {
-   "item_id": "3891174827",
-   "given_url": "https://twitter.com/NintendoAmerica/status/1671522962191663104?t=_gy4oySgS6qxWNyDaDGT_Q\u0026s=19",
-   "given_title": "Nintendo of America no Twitter: \"Super Mario RPG is coming to #NintendoSwit",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/NintendoAmerica/status/1671522962191663104?t=_gy4oySgS6qxWNyDaDGT_Q\u0026s=19",
-   "time_updated": "2023-06-21T14:26:35Z",
-   "time_added": "2023-06-21T14:26:34Z"
+   "item_id": "3890196434",
+   "given_url": "https://jacobin.com.br/2023/06/junho-de-2013-foi-um-levante-contra-o-sistema-forjado-desde-a-ditadura-militar/",
+   "given_title": "Junho de 2013 foi um levante contra o sistema forjado desde a ditadura mili",
+   "resolved_title": "Junho de 2013 foi um levante contra o sistema forjado desde a ditadura militar",
+   "resolved_url": "https://jacobin.com.br/2023/06/junho-de-2013-foi-um-levante-contra-o-sistema-forjado-desde-a-ditadura-militar/",
+   "time_updated": "2023-06-20T10:52:54Z",
+   "time_added": "2023-06-20T10:52:54Z"
   },
   {
    "item_id": "1807796133",
@@ -112,13 +94,76 @@
    "time_added": "2023-06-20T08:52:23Z"
   },
   {
-   "item_id": "3890563732",
-   "given_url": "https://www.youtube.com/watch?v=RAncVNaw5N0\u0026t=436s",
-   "given_title": "(143) Bajé a los restos del Titanic 4K | Parte 4/4 - YouTube",
-   "resolved_title": "Bajé a los restos del Titanic 4K | Parte 4/4",
-   "resolved_url": "https://www.youtube.com/watch?v=RAncVNaw5N0\u0026t=436s",
-   "time_updated": "2023-06-20T14:41:59Z",
-   "time_added": "2023-06-20T14:41:58Z"
+   "item_id": "3891593350",
+   "given_url": "https://twitter.com/tantotupiassu/status/1671634755702358016",
+   "given_title": "TANTO no Twitter: \"Essa história do submarino perdido me lembra muito do ac",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/tantotupiassu/status/1671634755702358016",
+   "time_updated": "2023-06-22T08:04:36Z",
+   "time_added": "2023-06-22T08:04:33Z"
+  },
+  {
+   "item_id": "3889149384",
+   "given_url": "https://www1.folha.uol.com.br/ilustrissima/2023/06/lula-parece-morar-no-passado-diz-mangabeira-unger.shtml",
+   "given_title": "'Lula parece morar no passado', diz Mangabeira Unger - 17/06/2023 - Ilustrí",
+   "resolved_title": "Lula parece morar no passado, diz Mangabeira Unger",
+   "resolved_url": "https://www1.folha.uol.com.br/ilustrissima/2023/06/lula-parece-morar-no-passado-diz-mangabeira-unger.shtml",
+   "time_updated": "2023-06-19T08:32:51Z",
+   "time_added": "2023-06-19T08:32:50Z"
+  },
+  {
+   "item_id": "3888285900",
+   "given_url": "https://www.totaltypescript.com/typescript-5-2-new-keyword-using",
+   "given_title": "TypeScript 5.2's New Keyword: 'using' | Total TypeScript",
+   "resolved_title": "TypeScript 5.2's New Keyword: 'using'",
+   "resolved_url": "https://www.totaltypescript.com/typescript-5-2-new-keyword-using",
+   "time_updated": "2023-06-20T10:02:21Z",
+   "time_added": "2023-06-20T10:02:21Z"
+  },
+  {
+   "item_id": "3891443835",
+   "given_url": "https://www.theverge.com/2023/6/21/23769263/mark-zuckerberg-elon-musk-fight-cage-match-worldstar",
+   "given_title": "Mark Zuckerberg agrees to Elon Musk cage match challenge - The Verge",
+   "resolved_title": "Mark Zuckerberg is ready to fight Elon Musk in a cage match",
+   "resolved_url": "https://www.theverge.com/2023/6/21/23769263/mark-zuckerberg-elon-musk-fight-cage-match-worldstar",
+   "time_updated": "2023-06-22T05:40:49Z",
+   "time_added": "2023-06-22T05:40:48Z"
+  },
+  {
+   "item_id": "3890458782",
+   "given_url": "https://twitter.com/AllTrekGames/status/1671099098466844674",
+   "given_title": "All Star Trek Games no Twitter: \"2000 Star Trek: Deep Space Nine: The Falle",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/AllTrekGames/status/1671099098466844674",
+   "time_updated": "2023-06-20T11:10:01Z",
+   "time_added": "2023-06-20T11:09:59Z"
+  },
+  {
+   "item_id": "3889993936",
+   "given_url": "https://m.youtube.com/watch?v=u4oIEX930HY",
+   "given_title": "Os Trapalhões Super-Heróis (E o Mussum como Fantasma!) - YouTube",
+   "resolved_title": "Os Trapalhões Super-Heróis (E o Mussum como Fantasma!)",
+   "resolved_url": "http://www.youtube.com/watch?v=u4oIEX930HY",
+   "time_updated": "2023-06-19T15:34:18Z",
+   "time_added": "2023-06-19T15:34:16Z"
+  },
+  {
+   "item_id": "3890003853",
+   "given_url": "http://cegosesurdos.blogspot.com/2008/09/saudade-dos-trapalhes.html?m=1",
+   "given_title": "Novo endereço: www.camera21.com.br/cegosesurdos: Saudade dos Trapalhões...",
+   "resolved_title": "Saudade dos Trapalhões...",
+   "resolved_url": "http://cegosesurdos.blogspot.com/2008/09/saudade-dos-trapalhes.html",
+   "time_updated": "2023-06-19T15:53:55Z",
+   "time_added": "2023-06-19T15:53:52Z"
+  },
+  {
+   "item_id": "3890785173",
+   "given_url": "https://twitter.com/RVAwonk/status/1671233722585174016",
+   "given_title": "Caroline Orr Bueno, Ph.D no Twitter: \"Wow. OceanGate, the company that owns",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/RVAwonk/status/1671233722585174016",
+   "time_updated": "2023-06-20T22:31:09Z",
+   "time_added": "2023-06-20T22:31:08Z"
   },
   {
    "item_id": "3891383777",
@@ -139,13 +184,31 @@
    "time_added": "2023-06-21T22:52:26Z"
   },
   {
-   "item_id": "3889991814",
-   "given_url": "https://www.alfasites.com.br/didi/30_m_momentos/m_m15.htm",
-   "given_title": "OS 30 MELHORES MOMENTOS DOS TRAPALHÕES",
-   "resolved_title": "OS 30 MELHORES MOMENTOS DOS TRAPALHES",
-   "resolved_url": "https://www.alfasites.com.br/didi/30_m_momentos/m_m15.htm",
-   "time_updated": "2023-06-19T15:30:13Z",
-   "time_added": "2023-06-19T15:30:12Z"
+   "item_id": "3890563732",
+   "given_url": "https://www.youtube.com/watch?v=RAncVNaw5N0\u0026t=436s",
+   "given_title": "(143) Bajé a los restos del Titanic 4K | Parte 4/4 - YouTube",
+   "resolved_title": "Bajé a los restos del Titanic 4K | Parte 4/4",
+   "resolved_url": "https://www.youtube.com/watch?v=RAncVNaw5N0\u0026t=436s",
+   "time_updated": "2023-06-20T14:41:59Z",
+   "time_added": "2023-06-20T14:41:58Z"
+  },
+  {
+   "item_id": "3889992676",
+   "given_url": "https://m.youtube.com/watch?v=YKCUVBA14ds",
+   "given_title": "Super-Heróis Trapalhões: A pedra mágica de Robin (1980) / Menina Super Pode",
+   "resolved_title": "Super-Heróis Trapalhões: A pedra mágica de Robin (1980) /  Menina Super Poderosa (2008)",
+   "resolved_url": "http://www.youtube.com/watch?v=YKCUVBA14ds",
+   "time_updated": "2023-06-19T15:31:38Z",
+   "time_added": "2023-06-19T15:31:36Z"
+  },
+  {
+   "item_id": "3890047237",
+   "given_url": "https://www.reddit.com/r/apolloapp/comments/14dkqrw/i_want_to_debunk_reddits_claims_and_talk_about/",
+   "given_title": "? I want to debunk Reddit's claims, and talk about their unwillingness to w",
+   "resolved_title": "Reddit - Dive into anything",
+   "resolved_url": "https://www.reddit.com/r/apolloapp/comments/14dkqrw/i_want_to_debunk_reddits_claims_and_talk_about/",
+   "time_updated": "2023-06-19T23:17:41Z",
+   "time_added": "2023-06-19T23:17:40Z"
   },
   {
    "item_id": "3891140140",
@@ -157,31 +220,13 @@
    "time_added": "2023-06-21T13:18:28Z"
   },
   {
-   "item_id": "3891279837",
-   "given_url": "https://www.espn.com.br/esports/artigo/_/id/12219191/rocket-league-stl-avalia-mudanca-furia-cenario-norte-americano-muito-desafiador",
-   "given_title": "Dominando o Rocket League! STL avalia mudança da FURIA para o cenário norte",
-   "resolved_title": "Dominando o Rocket League! STL avalia mudança da FURIA para o cenário norte-americano: 'Muito desafiador'",
-   "resolved_url": "https://www.espn.com.br/esports/artigo/_/id/12219191/rocket-league-stl-avalia-mudanca-furia-cenario-norte-americano-muito-desafiador",
-   "time_updated": "2023-06-21T18:06:37Z",
-   "time_added": "2023-06-21T18:06:34Z"
-  },
-  {
-   "item_id": "3890785173",
-   "given_url": "https://twitter.com/RVAwonk/status/1671233722585174016",
-   "given_title": "Caroline Orr Bueno, Ph.D no Twitter: \"Wow. OceanGate, the company that owns",
+   "item_id": "3891540882",
+   "given_url": "https://twitter.com/Yuyucow/status/1671628541333590016",
+   "given_title": "kViN ?? no Twitter: \"Oshi no Ko #10 might be the all-around best directed e",
    "resolved_title": "",
-   "resolved_url": "https://twitter.com/RVAwonk/status/1671233722585174016",
-   "time_updated": "2023-06-20T22:31:09Z",
-   "time_added": "2023-06-20T22:31:08Z"
-  },
-  {
-   "item_id": "3889992676",
-   "given_url": "https://m.youtube.com/watch?v=YKCUVBA14ds",
-   "given_title": "Super-Heróis Trapalhões: A pedra mágica de Robin (1980) / Menina Super Pode",
-   "resolved_title": "Super-Heróis Trapalhões: A pedra mágica de Robin (1980) /  Menina Super Poderosa (2008)",
-   "resolved_url": "http://www.youtube.com/watch?v=YKCUVBA14ds",
-   "time_updated": "2023-06-19T15:31:38Z",
-   "time_added": "2023-06-19T15:31:36Z"
+   "resolved_url": "https://twitter.com/Yuyucow/status/1671628541333590016",
+   "time_updated": "2023-06-22T05:45:34Z",
+   "time_added": "2023-06-22T05:45:32Z"
   }
  ]
 }

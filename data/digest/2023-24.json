@@ -4,6 +4,15 @@
  "sortKey": "2023-24",
  "items": [
   {
+   "item_id": "3727397039",
+   "given_url": "https://m.youtube.com/watch?v=qPfAQY_RahA",
+   "given_title": "SQLite and the N 1 (no) problem - YouTube",
+   "resolved_title": "SQLite and the N+1 (no) problem",
+   "resolved_url": "http://www.youtube.com/watch?v=qPfAQY_RahA",
+   "time_updated": "2023-06-17T18:52:12Z",
+   "time_added": "2023-06-17T18:52:10Z"
+  },
+  {
    "item_id": "3889155819",
    "given_url": "https://twitter.com/darkhorse787/status/1670091381824540674",
    "given_title": "equilibrista pinóquio no Twitter: \"ontem em epitafio o britto pediu pra bat",
@@ -11,42 +20,6 @@
    "resolved_url": "https://twitter.com/darkhorse787/status/1670091381824540674",
    "time_updated": "2023-06-18T02:29:23Z",
    "time_added": "2023-06-18T02:29:20Z"
-  },
-  {
-   "item_id": "3865097484",
-   "given_url": "https://adamsilver.io/blog/the-problem-with-disabled-buttons-and-what-to-do-instead/",
-   "given_title": "The problem with disabled buttons and what to do instead – Adam Silver – de",
-   "resolved_title": "The problem with disabled buttons and what to do instead",
-   "resolved_url": "https://adamsilver.io/blog/the-problem-with-disabled-buttons-and-what-to-do-instead/",
-   "time_updated": "2023-06-18T10:08:34Z",
-   "time_added": "2023-06-18T10:08:34Z"
-  },
-  {
-   "item_id": "3889358880",
-   "given_url": "https://twitter.com/ErrataRob/status/1670283604532887553",
-   "given_title": "Robᵉʳᵗ Graham (Eldred) no Twitter: \"You can't live debate crazy, they will ",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/ErrataRob/status/1670283604532887553",
-   "time_updated": "2023-06-18T12:50:48Z",
-   "time_added": "2023-06-18T12:50:46Z"
-  },
-  {
-   "item_id": "3889557419",
-   "given_url": "https://twitter.com/matt_gray_/status/1670402526435213314",
-   "given_title": "MATT GRAY no Twitter: \"I’ve hired 90  high performers in the last 3 years. ",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/matt_gray_/status/1670402526435213314",
-   "time_updated": "2023-06-18T21:03:47Z",
-   "time_added": "2023-06-18T21:03:45Z"
-  },
-  {
-   "item_id": "3888806416",
-   "given_url": "https://twitter.com/SteveRogers1943/status/1669764753214898182",
-   "given_title": "Steve ? Supports the WGA no Twitter: \"Fuck WB for doing this Flash movie CG",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/SteveRogers1943/status/1669764753214898182",
-   "time_updated": "2023-06-17T10:22:36Z",
-   "time_added": "2023-06-17T10:22:35Z"
   },
   {
    "item_id": "3888884576",
@@ -58,40 +31,13 @@
    "time_added": "2023-06-17T13:38:23Z"
   },
   {
-   "item_id": "3889008778",
-   "given_url": "https://twitter.com/mattpocockuk/status/1669630994280849408",
-   "given_title": "Matt Pocock no Twitter: \"TypeScript 5.2 will introduce a new keyword - 'usi",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/mattpocockuk/status/1669630994280849408",
-   "time_updated": "2023-06-17T18:34:54Z",
-   "time_added": "2023-06-17T18:34:52Z"
-  },
-  {
-   "item_id": "3727397039",
-   "given_url": "https://m.youtube.com/watch?v=qPfAQY_RahA",
-   "given_title": "SQLite and the N 1 (no) problem - YouTube",
-   "resolved_title": "SQLite and the N+1 (no) problem",
-   "resolved_url": "http://www.youtube.com/watch?v=qPfAQY_RahA",
-   "time_updated": "2023-06-17T18:52:12Z",
-   "time_added": "2023-06-17T18:52:10Z"
-  },
-  {
-   "item_id": "3889354601",
-   "given_url": "https://twitter.com/andre_barcinski/status/1670406468011450369",
-   "given_title": "André Barcinski no Twitter: \"\"Decálogo\", de Kieslowski, não está em nenhum ",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/andre_barcinski/status/1670406468011450369",
-   "time_updated": "2023-06-18T12:40:07Z",
-   "time_added": "2023-06-18T12:40:05Z"
-  },
-  {
-   "item_id": "3888651507",
-   "given_url": "https://www1.folha.uol.com.br/ilustrada/2023/06/em-show-titas-celebram-o-punk-anarquista-dos-anos-1980-em-reencontro-com-sp.shtml",
-   "given_title": "Titãs celebram punk anarquista dos anos 1980 em show em SP - 17/06/2023 - I",
-   "resolved_title": "Em show, Titãs celebram o punk anarquista dos anos 1980 em reencontro com SP",
-   "resolved_url": "https://www1.folha.uol.com.br/ilustrada/2023/06/em-show-titas-celebram-o-punk-anarquista-dos-anos-1980-em-reencontro-com-sp.shtml",
-   "time_updated": "2023-06-17T15:37:47Z",
-   "time_added": "2023-06-17T15:37:46Z"
+   "item_id": "3050748395",
+   "given_url": "https://www.urbandictionary.com/define.php?term=Pocket%20Watching",
+   "given_title": "Urban Dictionary: Pocket Watching",
+   "resolved_title": "Pocket Watching",
+   "resolved_url": "https://www.urbandictionary.com/define.php?term=Pocket%20Watching",
+   "time_updated": "2023-06-18T20:22:07Z",
+   "time_added": "2023-06-18T20:22:06Z"
   },
   {
    "item_id": "3888969550",
@@ -101,6 +47,69 @@
    "resolved_url": "https://twitter.com/scoundrelbackup/status/1670094700412321792",
    "time_updated": "2023-06-17T16:52:02Z",
    "time_added": "2023-06-17T16:52:01Z"
+  },
+  {
+   "item_id": "3888887161",
+   "given_url": "https://letterboxd.com/ifeeltime/list/cinema-asiatico-1/",
+   "given_title": "‎cinema asiático , a list of films by moon ☕︎",
+   "resolved_title": "cinema asiático",
+   "resolved_url": "https://letterboxd.com/ifeeltime/list/cinema-asiatico-1/",
+   "time_updated": "2023-06-17T13:44:47Z",
+   "time_added": "2023-06-17T13:44:45Z"
+  },
+  {
+   "item_id": "3889008778",
+   "given_url": "https://twitter.com/mattpocockuk/status/1669630994280849408",
+   "given_title": "Matt Pocock no Twitter: \"TypeScript 5.2 will introduce a new keyword - 'usi",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/mattpocockuk/status/1669630994280849408",
+   "time_updated": "2023-06-17T18:34:54Z",
+   "time_added": "2023-06-17T18:34:52Z"
+  },
+  {
+   "item_id": "3865097484",
+   "given_url": "https://adamsilver.io/blog/the-problem-with-disabled-buttons-and-what-to-do-instead/",
+   "given_title": "The problem with disabled buttons and what to do instead – Adam Silver – de",
+   "resolved_title": "The problem with disabled buttons and what to do instead",
+   "resolved_url": "https://adamsilver.io/blog/the-problem-with-disabled-buttons-and-what-to-do-instead/",
+   "time_updated": "2023-06-18T10:08:34Z",
+   "time_added": "2023-06-18T10:08:34Z"
+  },
+  {
+   "item_id": "3889519016",
+   "given_url": "https://twitter.com/electricalWSOP/status/1670505490126602242",
+   "given_title": "steve albini no Twitter: \"Thread: I work in an arcane field where the job r",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/electricalWSOP/status/1670505490126602242",
+   "time_updated": "2023-06-18T19:18:56Z",
+   "time_added": "2023-06-18T19:18:54Z"
+  },
+  {
+   "item_id": "3889358880",
+   "given_url": "https://twitter.com/ErrataRob/status/1670283604532887553",
+   "given_title": "Robᵉʳᵗ Graham (Eldred) no Twitter: \"You can't live debate crazy, they will ",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/ErrataRob/status/1670283604532887553",
+   "time_updated": "2023-06-18T12:50:48Z",
+   "time_added": "2023-06-18T12:50:46Z"
+  },
+  {
+   "item_id": "3889330162",
+   "given_url": "https://twitter.com/Metropoles/status/1670139901734711296?t=iqS-lwhqsesUrWlJw5Kegg\u0026s=08",
+   "given_title": "(1) Metrópoles no Twitter: \"➡️ Homem usava boneco e foto de vítima para ace",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/Metropoles/status/1670139901734711296?t=iqS-lwhqsesUrWlJw5Kegg\u0026s=08",
+   "time_updated": "2023-06-18T11:35:25Z",
+   "time_added": "2023-06-18T11:35:23Z"
+  },
+  {
+   "item_id": "3888651507",
+   "given_url": "https://www1.folha.uol.com.br/ilustrada/2023/06/em-show-titas-celebram-o-punk-anarquista-dos-anos-1980-em-reencontro-com-sp.shtml",
+   "given_title": "Titãs celebram punk anarquista dos anos 1980 em show em SP - 17/06/2023 - I",
+   "resolved_title": "Em show, Titãs celebram o punk anarquista dos anos 1980 em reencontro com SP",
+   "resolved_url": "https://www1.folha.uol.com.br/ilustrada/2023/06/em-show-titas-celebram-o-punk-anarquista-dos-anos-1980-em-reencontro-com-sp.shtml",
+   "time_updated": "2023-06-17T15:37:47Z",
+   "time_added": "2023-06-17T15:37:46Z"
   },
   {
    "item_id": "3889061399",
@@ -121,67 +130,22 @@
    "time_added": "2023-06-17T22:35:32Z"
   },
   {
-   "item_id": "3050748395",
-   "given_url": "https://www.urbandictionary.com/define.php?term=Pocket%20Watching",
-   "given_title": "Urban Dictionary: Pocket Watching",
-   "resolved_title": "Pocket Watching",
-   "resolved_url": "https://www.urbandictionary.com/define.php?term=Pocket%20Watching",
-   "time_updated": "2023-06-18T20:22:07Z",
-   "time_added": "2023-06-18T20:22:06Z"
-  },
-  {
-   "item_id": "3888806168",
-   "given_url": "https://twitter.com/ShriramKMurthi/status/1669877506034266113",
-   "given_title": "Shriram Krishnamurthi no Twitter: \"I've read multiple times that Reddit 1.0",
+   "item_id": "3889354601",
+   "given_url": "https://twitter.com/andre_barcinski/status/1670406468011450369",
+   "given_title": "André Barcinski no Twitter: \"\"Decálogo\", de Kieslowski, não está em nenhum ",
    "resolved_title": "",
-   "resolved_url": "https://twitter.com/ShriramKMurthi/status/1669877506034266113",
-   "time_updated": "2023-06-17T10:21:48Z",
-   "time_added": "2023-06-17T10:21:46Z"
+   "resolved_url": "https://twitter.com/andre_barcinski/status/1670406468011450369",
+   "time_updated": "2023-06-18T12:40:07Z",
+   "time_added": "2023-06-18T12:40:05Z"
   },
   {
-   "item_id": "3888887161",
-   "given_url": "https://letterboxd.com/ifeeltime/list/cinema-asiatico-1/",
-   "given_title": "‎cinema asiático , a list of films by moon ☕︎",
-   "resolved_title": "cinema asiático",
-   "resolved_url": "https://letterboxd.com/ifeeltime/list/cinema-asiatico-1/",
-   "time_updated": "2023-06-17T13:44:47Z",
-   "time_added": "2023-06-17T13:44:45Z"
-  },
-  {
-   "item_id": "3889330162",
-   "given_url": "https://twitter.com/Metropoles/status/1670139901734711296?t=iqS-lwhqsesUrWlJw5Kegg\u0026s=08",
-   "given_title": "(1) Metrópoles no Twitter: \"➡️ Homem usava boneco e foto de vítima para ace",
+   "item_id": "3889557419",
+   "given_url": "https://twitter.com/matt_gray_/status/1670402526435213314",
+   "given_title": "MATT GRAY no Twitter: \"I’ve hired 90  high performers in the last 3 years. ",
    "resolved_title": "",
-   "resolved_url": "https://twitter.com/Metropoles/status/1670139901734711296?t=iqS-lwhqsesUrWlJw5Kegg\u0026s=08",
-   "time_updated": "2023-06-18T11:35:25Z",
-   "time_added": "2023-06-18T11:35:23Z"
-  },
-  {
-   "item_id": "3889519016",
-   "given_url": "https://twitter.com/electricalWSOP/status/1670505490126602242",
-   "given_title": "steve albini no Twitter: \"Thread: I work in an arcane field where the job r",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/electricalWSOP/status/1670505490126602242",
-   "time_updated": "2023-06-18T19:18:56Z",
-   "time_added": "2023-06-18T19:18:54Z"
-  },
-  {
-   "item_id": "3888808483",
-   "given_url": "https://twitter.com/BadVibesMemes/status/1669717755396800512",
-   "given_title": "ademir rodrigo, imperador do badvibestão no Twitter: \"Existem pessoas boas ",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/BadVibesMemes/status/1669717755396800512",
-   "time_updated": "2023-06-17T10:29:00Z",
-   "time_added": "2023-06-17T10:28:58Z"
-  },
-  {
-   "item_id": "3176252916",
-   "given_url": "https://unseenjapan.com/help-my-boyfriends-an-otaku/",
-   "given_title": "Help - My Boyfriend's an Otaku! Should I Dump Him? - Unseen Japan",
-   "resolved_title": "Help – My Boyfriend’s an Otaku! Should I Dump Him?",
-   "resolved_url": "https://unseenjapan.com/help-my-boyfriends-an-otaku/",
-   "time_updated": "2023-06-17T11:21:29Z",
-   "time_added": "2023-06-17T11:21:29Z"
+   "resolved_url": "https://twitter.com/matt_gray_/status/1670402526435213314",
+   "time_updated": "2023-06-18T21:03:47Z",
+   "time_added": "2023-06-18T21:03:45Z"
   },
   {
    "item_id": "3888994804",

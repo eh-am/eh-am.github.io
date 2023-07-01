@@ -4,22 +4,13 @@
  "sortKey": "2023-25",
  "items": [
   {
-   "item_id": "3887956176",
-   "given_url": "https://g1.globo.com/ma/maranhao/noticia/2023/06/15/maranhense-que-inspirou-o-filme-pureza-recebe-premio-internacional-award.ghtml",
-   "given_title": "Maranhense, que inspirou o filme 'Pureza', recebe prêmio internacional Awar",
-   "resolved_title": "Maranhense, que inspirou o filme 'Pureza', recebe prêmio internacional Award por sua contribuição na luta contra a escravidão e o tráfico de pessoas",
-   "resolved_url": "https://g1.globo.com/ma/maranhao/noticia/2023/06/15/maranhense-que-inspirou-o-filme-pureza-recebe-premio-internacional-award.ghtml",
-   "time_updated": "2023-06-25T16:25:06Z",
-   "time_added": "2023-06-25T16:25:06Z"
-  },
-  {
-   "item_id": "3892711059",
-   "given_url": "https://tab.uol.com.br/noticias/redacao/2023/06/24/dentro-da-noite-quem-e-o-youtuber-que-grava-as-madrugadas-do-rio.htm",
-   "given_title": "'Nesse momento, ninguém é ateu': o youtuber que grava as madrugadas do Rio ",
-   "resolved_title": "'Nesse momento, ninguém é ateu': o youtuber que grava as madrugadas do Rio",
-   "resolved_url": "https://tab.uol.com.br/noticias/redacao/2023/06/24/dentro-da-noite-quem-e-o-youtuber-que-grava-as-madrugadas-do-rio.htm",
-   "time_updated": "2023-06-24T11:43:16Z",
-   "time_added": "2023-06-24T11:43:15Z"
+   "item_id": "3893247575",
+   "given_url": "https://www.youtube.com/watch?v=tTuS3jx5u7E",
+   "given_title": "(181) My House - YouTube",
+   "resolved_title": "My House",
+   "resolved_url": "https://www.youtube.com/watch?v=tTuS3jx5u7E",
+   "time_updated": "2023-06-25T10:06:07Z",
+   "time_added": "2023-06-25T10:06:06Z"
   },
   {
    "item_id": "3893111437",
@@ -40,24 +31,6 @@
    "time_added": "2023-06-25T14:57:37Z"
   },
   {
-   "item_id": "3892765818",
-   "given_url": "https://m.youtube.com/watch?time_continue=404\u0026v=To2_Gq14UVs\u0026embeds_referring_euri=https%3A%2F%2Ftwitter.com%2F\u0026source_ve_path=MTM5MTE3LDEzOTExNywyODY2Ng\u0026feature=emb_logo",
-   "given_title": "Magnapinna Squid Attack | New ROV Footage 2023 - Deepsea Oddities - YouTube",
-   "resolved_title": "Magnapinna Squid Attack | New ROV Footage 2023 - Deepsea Oddities",
-   "resolved_url": "https://www.youtube.com/watch?v=To2_Gq14UVs",
-   "time_updated": "2023-06-24T09:54:33Z",
-   "time_added": "2023-06-24T09:54:31Z"
-  },
-  {
-   "item_id": "3893247575",
-   "given_url": "https://www.youtube.com/watch?v=tTuS3jx5u7E",
-   "given_title": "(181) My House - YouTube",
-   "resolved_title": "My House",
-   "resolved_url": "https://www.youtube.com/watch?v=tTuS3jx5u7E",
-   "time_updated": "2023-06-25T10:06:07Z",
-   "time_added": "2023-06-25T10:06:06Z"
-  },
-  {
    "item_id": "3893378252",
    "given_url": "https://www.youtube.com/watch?v=ozLt80FNI_U",
    "given_title": "(181) Botinada A historia do punk no Brasil - YouTube",
@@ -65,6 +38,15 @@
    "resolved_url": "https://www.youtube.com/watch?v=ozLt80FNI_U",
    "time_updated": "2023-06-25T15:38:03Z",
    "time_added": "2023-06-25T15:38:02Z"
+  },
+  {
+   "item_id": "3887956176",
+   "given_url": "https://g1.globo.com/ma/maranhao/noticia/2023/06/15/maranhense-que-inspirou-o-filme-pureza-recebe-premio-internacional-award.ghtml",
+   "given_title": "Maranhense, que inspirou o filme 'Pureza', recebe prêmio internacional Awar",
+   "resolved_title": "Maranhense, que inspirou o filme 'Pureza', recebe prêmio internacional Award por sua contribuição na luta contra a escravidão e o tráfico de pessoas",
+   "resolved_url": "https://g1.globo.com/ma/maranhao/noticia/2023/06/15/maranhense-que-inspirou-o-filme-pureza-recebe-premio-internacional-award.ghtml",
+   "time_updated": "2023-06-25T16:25:06Z",
+   "time_added": "2023-06-25T16:25:06Z"
   },
   {
    "item_id": "1381283303",

@@ -13,22 +13,13 @@
    "time_added": "2023-06-25T10:06:06Z"
   },
   {
-   "item_id": "3893111437",
-   "given_url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2023/06/as-pessoas-tem-dificuldade-de-ouvir-um-disco-inteiro-diz-pitty.shtml",
-   "given_title": "Pitty: Pessoas têm dificuldade de ouvir um disco inteiro - 24/06/2023 - Môn",
-   "resolved_title": "'As pessoas têm dificuldade de ouvir um disco inteiro', diz Pitty",
-   "resolved_url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2023/06/as-pessoas-tem-dificuldade-de-ouvir-um-disco-inteiro-diz-pitty.shtml",
-   "time_updated": "2023-06-25T10:07:30Z",
-   "time_added": "2023-06-25T10:07:30Z"
-  },
-  {
-   "item_id": "3893361640",
-   "given_url": "https://twitter.com/XILFX/status/1672958846728544256",
-   "given_title": "Fabio Sakuda no Twitter: \"Vídeo muito bom sobre as mudanças na lei de refug",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/XILFX/status/1672958846728544256",
-   "time_updated": "2023-06-25T14:57:40Z",
-   "time_added": "2023-06-25T14:57:37Z"
+   "item_id": "1381283303",
+   "given_url": "https://github.com/geohot/fromthetransistor",
+   "given_title": "geohot/fromthetransistor: From the Transistor to the Web Browser, a rough o",
+   "resolved_title": "geohot/fromthetransistor",
+   "resolved_url": "https://github.com/geohot/fromthetransistor",
+   "time_updated": "2023-06-25T22:32:25Z",
+   "time_added": "2023-06-25T22:32:25Z"
   },
   {
    "item_id": "3893378252",
@@ -49,13 +40,22 @@
    "time_added": "2023-06-25T16:25:06Z"
   },
   {
-   "item_id": "1381283303",
-   "given_url": "https://github.com/geohot/fromthetransistor",
-   "given_title": "geohot/fromthetransistor: From the Transistor to the Web Browser, a rough o",
-   "resolved_title": "geohot/fromthetransistor",
-   "resolved_url": "https://github.com/geohot/fromthetransistor",
-   "time_updated": "2023-06-25T22:32:25Z",
-   "time_added": "2023-06-25T22:32:25Z"
+   "item_id": "3893361640",
+   "given_url": "https://twitter.com/XILFX/status/1672958846728544256",
+   "given_title": "Fabio Sakuda no Twitter: \"Vídeo muito bom sobre as mudanças na lei de refug",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/XILFX/status/1672958846728544256",
+   "time_updated": "2023-06-25T14:57:40Z",
+   "time_added": "2023-06-25T14:57:37Z"
+  },
+  {
+   "item_id": "3893111437",
+   "given_url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2023/06/as-pessoas-tem-dificuldade-de-ouvir-um-disco-inteiro-diz-pitty.shtml",
+   "given_title": "Pitty: Pessoas têm dificuldade de ouvir um disco inteiro - 24/06/2023 - Môn",
+   "resolved_title": "'As pessoas têm dificuldade de ouvir um disco inteiro', diz Pitty",
+   "resolved_url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2023/06/as-pessoas-tem-dificuldade-de-ouvir-um-disco-inteiro-diz-pitty.shtml",
+   "time_updated": "2023-06-25T10:07:30Z",
+   "time_added": "2023-06-25T10:07:30Z"
   }
  ]
 }

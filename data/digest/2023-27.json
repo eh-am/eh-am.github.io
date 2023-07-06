@@ -4,31 +4,22 @@
  "sortKey": "2023-27",
  "items": [
   {
-   "item_id": "3897653822",
-   "given_url": "https://twitter.com/coproduto/status/1675840275552280577",
-   "given_title": "coach na empresa coach no Twitter: \"Me pediram indicação do que estudar em ",
+   "item_id": "3898088769",
+   "given_url": "https://twitter.com/typesfast/status/1675909890353807366",
+   "given_title": "Ryan Petersen no Twitter: \"Do not use sms for two factor authentication. It",
    "resolved_title": "",
-   "resolved_url": "https://twitter.com/coproduto/status/1675840275552280577",
-   "time_updated": "2023-07-03T13:33:39Z",
-   "time_added": "2023-07-03T13:33:37Z"
+   "resolved_url": "https://twitter.com/typesfast/status/1675909890353807366",
+   "time_updated": "2023-07-04T09:25:23Z",
+   "time_added": "2023-07-04T09:25:21Z"
   },
   {
-   "item_id": "3898329364",
-   "given_url": "https://twitter.com/futebolistaaa/status/1676242355857375232",
-   "given_title": "Futebolista no Twitter: \"@futebol_info O LUAN https://t.co/LPdIGew523\" / Tw",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/futebolistaaa/status/1676242355857375232",
-   "time_updated": "2023-07-04T19:01:23Z",
-   "time_added": "2023-07-04T19:01:21Z"
-  },
-  {
-   "item_id": "3898283004",
-   "given_url": "https://twitter.com/RealHeathcliffs/status/1673719201280716804",
-   "given_title": "actual heathcliff comics no Twitter: \"27 Jun 2023 https://t.co/pc4kksQDtP\" ",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/RealHeathcliffs/status/1673719201280716804",
-   "time_updated": "2023-07-04T16:57:12Z",
-   "time_added": "2023-07-04T16:57:10Z"
+   "item_id": "988367517",
+   "given_url": "https://en.wikipedia.org/wiki/Who%27s_Afraid_of_Red,_Yellow_and_Blue",
+   "given_title": "Who's Afraid of Red, Yellow and Blue - Wikipedia",
+   "resolved_title": "Who's Afraid of Red, Yellow and Blue",
+   "resolved_url": "https://en.wikipedia.org/wiki/Who%27s_Afraid_of_Red,_Yellow_and_Blue",
+   "time_updated": "2023-07-05T19:55:15Z",
+   "time_added": "2023-07-05T19:55:15Z"
   },
   {
    "item_id": "3897340811",
@@ -40,6 +31,33 @@
    "time_added": "2023-07-03T13:13:21Z"
   },
   {
+   "item_id": "3898331253",
+   "given_url": "https://twitter.com/futebol_info/status/1676256749844668417?t=wV0JocUrGwvih8ERUCOzZw\u0026s=19",
+   "given_title": "Planeta do Futebol ? no Twitter: \"Vídeo do momento em que a Gaviões da Fiel",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/futebol_info/status/1676256749844668417?t=wV0JocUrGwvih8ERUCOzZw\u0026s=19",
+   "time_updated": "2023-07-04T19:06:39Z",
+   "time_added": "2023-07-04T19:06:37Z"
+  },
+  {
+   "item_id": "3898329364",
+   "given_url": "https://twitter.com/futebolistaaa/status/1676242355857375232",
+   "given_title": "Futebolista no Twitter: \"@futebol_info O LUAN https://t.co/LPdIGew523\" / Tw",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/futebolistaaa/status/1676242355857375232",
+   "time_updated": "2023-07-04T19:01:23Z",
+   "time_added": "2023-07-04T19:01:21Z"
+  },
+  {
+   "item_id": "3897653822",
+   "given_url": "https://twitter.com/coproduto/status/1675840275552280577",
+   "given_title": "coach na empresa coach no Twitter: \"Me pediram indicação do que estudar em ",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/coproduto/status/1675840275552280577",
+   "time_updated": "2023-07-03T13:33:39Z",
+   "time_added": "2023-07-03T13:33:37Z"
+  },
+  {
    "item_id": "2207301399",
    "given_url": "https://github.com/yandex/gixy/blob/master/docs/en/plugins/aliastraversal.md",
    "given_title": "gixy/docs/en/plugins/aliastraversal.md at master · yandex/gixy · GitHub",
@@ -49,22 +67,13 @@
    "time_added": "2023-07-04T13:14:02Z"
   },
   {
-   "item_id": "3898088769",
-   "given_url": "https://twitter.com/typesfast/status/1675909890353807366",
-   "given_title": "Ryan Petersen no Twitter: \"Do not use sms for two factor authentication. It",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/typesfast/status/1675909890353807366",
-   "time_updated": "2023-07-04T09:25:23Z",
-   "time_added": "2023-07-04T09:25:21Z"
-  },
-  {
-   "item_id": "3898331253",
-   "given_url": "https://twitter.com/futebol_info/status/1676256749844668417?t=wV0JocUrGwvih8ERUCOzZw\u0026s=19",
-   "given_title": "Planeta do Futebol ? no Twitter: \"Vídeo do momento em que a Gaviões da Fiel",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/futebol_info/status/1676256749844668417?t=wV0JocUrGwvih8ERUCOzZw\u0026s=19",
-   "time_updated": "2023-07-04T19:06:39Z",
-   "time_added": "2023-07-04T19:06:37Z"
+   "item_id": "3289566204",
+   "given_url": "https://poets.org/poem/athlete-dying-young",
+   "given_title": "To An Athlete Dying Young by A. E. Housman - Poems | Academy of American Po",
+   "resolved_title": "To An Athlete Dying Young",
+   "resolved_url": "https://poets.org/poem/athlete-dying-young",
+   "time_updated": "2023-07-03T10:40:01Z",
+   "time_added": "2023-07-03T10:40:00Z"
   },
   {
    "item_id": "200661112",
@@ -76,13 +85,31 @@
    "time_added": "2023-07-04T14:55:46Z"
   },
   {
-   "item_id": "3289566204",
-   "given_url": "https://poets.org/poem/athlete-dying-young",
-   "given_title": "To An Athlete Dying Young by A. E. Housman - Poems | Academy of American Po",
-   "resolved_title": "To An Athlete Dying Young",
-   "resolved_url": "https://poets.org/poem/athlete-dying-young",
-   "time_updated": "2023-07-03T10:40:01Z",
-   "time_added": "2023-07-03T10:40:00Z"
+   "item_id": "3898283004",
+   "given_url": "https://twitter.com/RealHeathcliffs/status/1673719201280716804",
+   "given_title": "actual heathcliff comics no Twitter: \"27 Jun 2023 https://t.co/pc4kksQDtP\" ",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/RealHeathcliffs/status/1673719201280716804",
+   "time_updated": "2023-07-04T16:57:12Z",
+   "time_added": "2023-07-04T16:57:10Z"
+  },
+  {
+   "item_id": "3898737508",
+   "given_url": "https://institucional.tauste.com.br/loja/em-breve-tauste-general-carneiro",
+   "given_title": "Tauste General Carneiro - (Sorocaba) | Nossas Lojas",
+   "resolved_title": "Tauste General Carneiro - (Sorocaba)",
+   "resolved_url": "https://institucional.tauste.com.br/loja/em-breve-tauste-general-carneiro",
+   "time_updated": "2023-07-05T14:01:24Z",
+   "time_added": "2023-07-05T14:01:22Z"
+  },
+  {
+   "item_id": "3898740026",
+   "given_url": "https://www1.folha.uol.com.br/mundo/2023/07/portugal-rompe-acordo-de-reciprocidade-para-advogados-brasileiros.shtml",
+   "given_title": "Portugal dá fim a reciprocidade para advogados brasileiros - 05/07/2023 - M",
+   "resolved_title": "Portugal rompe acordo de reciprocidade para advogados brasileiros",
+   "resolved_url": "https://www1.folha.uol.com.br/mundo/2023/07/portugal-rompe-acordo-de-reciprocidade-para-advogados-brasileiros.shtml",
+   "time_updated": "2023-07-05T14:34:58Z",
+   "time_added": "2023-07-05T14:34:58Z"
   }
  ]
 }

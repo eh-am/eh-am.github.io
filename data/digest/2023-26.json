@@ -13,33 +13,6 @@
    "time_added": "2023-07-02T22:01:58Z"
   },
   {
-   "item_id": "3897082930",
-   "given_url": "https://m.youtube.com/watch?v=jKdkWTbUkIQ\u0026t=1760s",
-   "given_title": "Super Mario RPG Secrets - YouTube",
-   "resolved_title": "Super Mario RPG Secrets",
-   "resolved_url": "http://www.youtube.com/watch?v=jKdkWTbUkIQ",
-   "time_updated": "2023-07-02T11:29:49Z",
-   "time_added": "2023-07-02T11:29:47Z"
-  },
-  {
-   "item_id": "3897117073",
-   "given_url": "https://braziljournal.com/livraria-cultura-bar-balcao-e-o-irresistivel-tombamento-do-proprio-umbigo/",
-   "given_title": "Livraria Cultura, Bar Balcão, e o irresistível tombamento do próprio umbigo",
-   "resolved_title": "Livraria Cultura, Bar Balcão, e o irresistível tombamento do próprio umbigo",
-   "resolved_url": "https://braziljournal.com/livraria-cultura-bar-balcao-e-o-irresistivel-tombamento-do-proprio-umbigo/",
-   "time_updated": "2023-07-02T14:51:34Z",
-   "time_added": "2023-07-02T14:51:33Z"
-  },
-  {
-   "item_id": "3298961296",
-   "given_url": "https://pkg.go.dev/context#WithCancelCause",
-   "given_title": "context package - context - Go Packages",
-   "resolved_title": "context",
-   "resolved_url": "https://pkg.go.dev/context",
-   "time_updated": "2023-07-02T10:32:39Z",
-   "time_added": "2023-07-02T10:32:38Z"
-  },
-  {
    "item_id": "299680264",
    "given_url": "https://www.ctrlpaint.com/library",
    "given_title": "Free Video Library — Ctrl Paint - Digital Painting Simplified",
@@ -47,42 +20,6 @@
    "resolved_url": "https://www.ctrlpaint.com/library",
    "time_updated": "2023-07-02T20:30:14Z",
    "time_added": "2023-07-02T20:30:14Z"
-  },
-  {
-   "item_id": "3897335070",
-   "given_url": "https://www.uol.com.br/nossa/noticias/redacao/2023/07/02/jantar-com-estranhos-e-nova-moda-em-restaurantes-descolados-de-lisboa.htm",
-   "given_title": "Jantar com estranhos é nova moda em restaurantes descolados de Lisboa - 02/",
-   "resolved_title": "Jantar com estranhos é nova moda em restaurantes descolados de Lisboa",
-   "resolved_url": "https://www.uol.com.br/nossa/noticias/redacao/2023/07/02/jantar-com-estranhos-e-nova-moda-em-restaurantes-descolados-de-lisboa.htm",
-   "time_updated": "2023-07-02T22:40:13Z",
-   "time_added": "2023-07-02T22:40:13Z"
-  },
-  {
-   "item_id": "3896976549",
-   "given_url": "https://twitter.com/maggiepint/status/1675331352584134658",
-   "given_title": "Maggie Johnson-Pint no Twitter: \"This is weird to say out loud, but I actua",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/maggiepint/status/1675331352584134658",
-   "time_updated": "2023-07-02T09:03:41Z",
-   "time_added": "2023-07-02T09:03:40Z"
-  },
-  {
-   "item_id": "3063833456",
-   "given_url": "https://www.dn.pt/dn-ocio/mariscos-qual-tem-o-sabor-mais-intenso-a-mar-12476511.html",
-   "given_title": "Mariscos: qual tem o sabor mais intenso a mar?",
-   "resolved_title": "Mariscos: qual tem o sabor mais intenso a mar?",
-   "resolved_url": "https://www.dn.pt/dn-ocio/mariscos-qual-tem-o-sabor-mais-intenso-a-mar-12476511.html",
-   "time_updated": "2023-07-02T10:32:56Z",
-   "time_added": "2023-07-02T10:32:55Z"
-  },
-  {
-   "item_id": "3897063789",
-   "given_url": "https://www.fondazioneslowfood.com/en/ark-of-taste-slow-food/shottsuru-made-with-hatahata-from-the-gulf-of-akita/",
-   "given_title": "Akita Hatahata Shottsuru - Arca del Gusto - Slow Food Foundation",
-   "resolved_title": "Akita Hatahata Shottsuru",
-   "resolved_url": "https://www.fondazioneslowfood.com/en/ark-of-taste-slow-food/shottsuru-made-with-hatahata-from-the-gulf-of-akita/",
-   "time_updated": "2023-07-02T10:33:06Z",
-   "time_added": "2023-07-02T10:33:03Z"
   },
   {
    "item_id": "3897145302",
@@ -94,13 +31,22 @@
    "time_added": "2023-07-02T14:08:23Z"
   },
   {
-   "item_id": "3896768134",
-   "given_url": "https://sfba.social/@sysop408/110639435788921057",
-   "given_title": "Sheldon Chang ??: \"This is hilarious. It appears …\" - SFBA.social",
-   "resolved_title": "Sheldon Chang 🇺🇸 (@sysop408@sfba.social)",
-   "resolved_url": "https://sfba.social/@sysop408/110639435788921057",
-   "time_updated": "2023-07-02T11:38:33Z",
-   "time_added": "2023-07-02T11:38:32Z"
+   "item_id": "3897335070",
+   "given_url": "https://www.uol.com.br/nossa/noticias/redacao/2023/07/02/jantar-com-estranhos-e-nova-moda-em-restaurantes-descolados-de-lisboa.htm",
+   "given_title": "Jantar com estranhos é nova moda em restaurantes descolados de Lisboa - 02/",
+   "resolved_title": "Jantar com estranhos é nova moda em restaurantes descolados de Lisboa",
+   "resolved_url": "https://www.uol.com.br/nossa/noticias/redacao/2023/07/02/jantar-com-estranhos-e-nova-moda-em-restaurantes-descolados-de-lisboa.htm",
+   "time_updated": "2023-07-02T22:40:13Z",
+   "time_added": "2023-07-02T22:40:13Z"
+  },
+  {
+   "item_id": "3897117073",
+   "given_url": "https://braziljournal.com/livraria-cultura-bar-balcao-e-o-irresistivel-tombamento-do-proprio-umbigo/",
+   "given_title": "Livraria Cultura, Bar Balcão, e o irresistível tombamento do próprio umbigo",
+   "resolved_title": "Livraria Cultura, Bar Balcão, e o irresistível tombamento do próprio umbigo",
+   "resolved_url": "https://braziljournal.com/livraria-cultura-bar-balcao-e-o-irresistivel-tombamento-do-proprio-umbigo/",
+   "time_updated": "2023-07-02T14:51:34Z",
+   "time_added": "2023-07-02T14:51:33Z"
   }
  ]
 }

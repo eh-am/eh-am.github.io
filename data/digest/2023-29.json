@@ -4,15 +4,6 @@
  "sortKey": "2023-29",
  "items": [
   {
-   "item_id": "3904949149",
-   "given_url": "https://www.uol.com.br/splash/noticias/2023/07/17/rodolfo-et-recusou-globo.htm",
-   "given_title": "Rodolfo: jornalista diz que veto a ET o fez recusar oferta da Globo",
-   "resolved_title": "'Está dizendo não?': Rodolfo, dupla de ET, revela por que recusou a Globo",
-   "resolved_url": "https://www.uol.com.br/splash/noticias/2023/07/17/rodolfo-et-recusou-globo.htm",
-   "time_updated": "2023-07-17T17:16:51Z",
-   "time_added": "2023-07-17T17:16:50Z"
-  },
-  {
    "item_id": "87261279",
    "given_url": "https://en.m.wikipedia.org/wiki/South_Atlantic_Anomaly",
    "given_title": "South Atlantic Anomaly - Wikipedia",
@@ -22,31 +13,31 @@
    "time_added": "2023-07-18T08:26:07Z"
   },
   {
-   "item_id": "3905577199",
-   "given_url": "https://twitter.com/chriscoyier/status/1681407724993798144",
-   "given_title": "Chris Coyier no Twitter: \"I was unaware of `text-wrap: pretty;` I knew abou",
+   "item_id": "358106440",
+   "given_url": "https://omscs.gatech.edu/",
+   "given_title": "Home | OMSCS | Georgia Institute of Technology | Atlanta, GA",
+   "resolved_title": "Home",
+   "resolved_url": "http://omscs.gatech.edu/home",
+   "time_updated": "2023-07-18T16:50:15Z",
+   "time_added": "2023-07-18T16:50:15Z"
+  },
+  {
+   "item_id": "3905612352",
+   "given_url": "https://m.youtube.com/watch?v=0z-7EM5JPps",
+   "given_title": "自宅に大量の鶏の頭が届きました - YouTube",
+   "resolved_title": "自宅に大量の鶏の頭が届きました",
+   "resolved_url": "http://www.youtube.com/watch?v=0z-7EM5JPps",
+   "time_updated": "2023-07-18T22:45:32Z",
+   "time_added": "2023-07-18T22:45:31Z"
+  },
+  {
+   "item_id": "3905852975",
+   "given_url": "https://twitter.com/TaliaRinger/status/1681410191278080000",
+   "given_title": "Talia Ringer no Twitter: \"Terry Tao and I spoke over coffee for like two ho",
    "resolved_title": "",
-   "resolved_url": "https://twitter.com/chriscoyier/status/1681407724993798144",
-   "time_updated": "2023-07-18T21:13:27Z",
-   "time_added": "2023-07-18T21:13:25Z"
-  },
-  {
-   "item_id": "3904777835",
-   "given_url": "https://www.noahpinion.blog/p/tokyo-is-the-new-paris?sd=pf",
-   "given_title": "Tokyo is the new Paris - by Noah Smith - Noahpinion",
-   "resolved_title": "Tokyo is the new Paris",
-   "resolved_url": "https://www.noahpinion.blog/p/tokyo-is-the-new-paris",
-   "time_updated": "2023-07-17T15:30:08Z",
-   "time_added": "2023-07-17T15:30:08Z"
-  },
-  {
-   "item_id": "1059172669",
-   "given_url": "https://www.urbandictionary.com/define.php?term=hugbox",
-   "given_title": "Urban Dictionary: hugbox",
-   "resolved_title": "hugbox",
-   "resolved_url": "https://www.urbandictionary.com/define.php?term=hugbox",
-   "time_updated": "2023-07-18T13:16:44Z",
-   "time_added": "2023-07-18T13:16:43Z"
+   "resolved_url": "https://twitter.com/TaliaRinger/status/1681410191278080000",
+   "time_updated": "2023-07-19T10:31:18Z",
+   "time_added": "2023-07-19T10:31:16Z"
   },
   {
    "item_id": "3904703774",
@@ -58,6 +49,15 @@
    "time_added": "2023-07-17T07:09:23Z"
   },
   {
+   "item_id": "676239104",
+   "given_url": "https://www.independent.co.uk/news/world/americas/bush-god-told-me-to-invade-iraq-6262644.html",
+   "given_title": "Bush: God told me to invade Iraq | The Independent | The Independent",
+   "resolved_title": "Bush: God told me to invade Iraq",
+   "resolved_url": "https://www.independent.co.uk/news/world/americas/bush-god-told-me-invade-iraq-6262644.html",
+   "time_updated": "2023-07-18T11:12:52Z",
+   "time_added": "2023-07-18T11:12:52Z"
+  },
+  {
    "item_id": "3903617805",
    "given_url": "https://neurosciencenews.com/memory-learning-genetics-evolution-23629/",
    "given_title": "Genetic Origins of Learning and Memory Traced Back 650 Million Years - Neur",
@@ -67,6 +67,96 @@
    "time_added": "2023-07-17T17:23:09Z"
   },
   {
+   "item_id": "3905577199",
+   "given_url": "https://twitter.com/chriscoyier/status/1681407724993798144",
+   "given_title": "Chris Coyier no Twitter: \"I was unaware of `text-wrap: pretty;` I knew abou",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/chriscoyier/status/1681407724993798144",
+   "time_updated": "2023-07-18T21:13:27Z",
+   "time_added": "2023-07-18T21:13:25Z"
+  },
+  {
+   "item_id": "3905277988",
+   "given_url": "https://twitter.com/kareem_carr/status/1680946838302789634",
+   "given_title": "Kareem Carr | Data Scientist no Twitter: \"Struggling with math in the past ",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/kareem_carr/status/1680946838302789634",
+   "time_updated": "2023-07-19T13:44:28Z",
+   "time_added": "2023-07-19T13:44:28Z"
+  },
+  {
+   "item_id": "3906091084",
+   "given_url": "https://www.youtube.com/watch?v=QEJjVkh9fBY",
+   "given_title": "(2) 5 NEN 3 KUMI MAHOGUMI (Episode 1) - YouTube",
+   "resolved_title": "5 NEN 3 KUMI MAHOGUMI (Episode 1)",
+   "resolved_url": "https://www.youtube.com/watch?v=QEJjVkh9fBY",
+   "time_updated": "2023-07-19T19:47:54Z",
+   "time_added": "2023-07-19T19:47:53Z"
+  },
+  {
+   "item_id": "3905573166",
+   "given_url": "https://twitter.com/DrJimFan/status/1681372700881854465",
+   "given_title": "Jim Fan no Twitter: \"You'll soon see lots of \"Llama just dethroned ChatGPT\"",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/DrJimFan/status/1681372700881854465",
+   "time_updated": "2023-07-18T23:04:15Z",
+   "time_added": "2023-07-18T23:04:15Z"
+  },
+  {
+   "item_id": "3905332232",
+   "given_url": "https://www.brasil247.com/blog/as-boas-vindas-a-marcia-tiburi-de-volta-de-seu-auto-exilio",
+   "given_title": "As boas-vindas a Marcia Tiburi de volta de seu auto-exílio - Hildegard Ange",
+   "resolved_title": "As boas-vindas a Marcia Tiburi de volta de seu auto-exílio",
+   "resolved_url": "https://www.brasil247.com/blog/as-boas-vindas-a-marcia-tiburi-de-volta-de-seu-auto-exilio",
+   "time_updated": "2023-07-19T14:57:11Z",
+   "time_added": "2023-07-19T14:57:11Z"
+  },
+  {
+   "item_id": "1059172669",
+   "given_url": "https://www.urbandictionary.com/define.php?term=hugbox",
+   "given_title": "Urban Dictionary: hugbox",
+   "resolved_title": "hugbox",
+   "resolved_url": "https://www.urbandictionary.com/define.php?term=hugbox",
+   "time_updated": "2023-07-18T13:16:44Z",
+   "time_added": "2023-07-18T13:16:43Z"
+  },
+  {
+   "item_id": "3905510651",
+   "given_url": "https://twitter.com/ines_rocha/status/1681250291516157952",
+   "given_title": "Inês Rocha no Twitter: \"Sobre o chavão “Os ciganos não querem trabalhar”: M",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/ines_rocha/status/1681250291516157952",
+   "time_updated": "2023-07-18T18:18:51Z",
+   "time_added": "2023-07-18T18:18:49Z"
+  },
+  {
+   "item_id": "194111522",
+   "given_url": "https://en.m.wikipedia.org/wiki/Rent_(film)",
+   "given_title": "Rent (film) - Wikipedia",
+   "resolved_title": "Rent (film)",
+   "resolved_url": "https://en.wikipedia.org/wiki/Rent_(film)",
+   "time_updated": "2023-07-18T20:37:21Z",
+   "time_added": "2023-07-18T20:37:21Z"
+  },
+  {
+   "item_id": "3905605289",
+   "given_url": "https://twitter.com/justLV/status/1681377298308820992",
+   "given_title": "Justin Alvey no Twitter: \"I “jailbroke” a Google Nest Mini so that you can ",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/justLV/status/1681377298308820992",
+   "time_updated": "2023-07-19T15:19:01Z",
+   "time_added": "2023-07-19T15:19:01Z"
+  },
+  {
+   "item_id": "3906035233",
+   "given_url": "https://twitter.com/obrigahistoria/status/1681667958215528448",
+   "given_title": "(1) Prof. Icles Rodrigues - Podcast História FM no Twitter: \"Eu vou compart",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/obrigahistoria/status/1681667958215528448",
+   "time_updated": "2023-07-19T17:28:48Z",
+   "time_added": "2023-07-19T17:28:46Z"
+  },
+  {
    "item_id": "3904979302",
    "given_url": "https://amensagem.pt/2023/07/17/papa-francisco-tendas-sem-abrigo-almirante-reis-desinformacao/",
    "given_title": "O Papa e as tendas na Almirante Reis: desinformação e milagre",
@@ -74,6 +164,33 @@
    "resolved_url": "https://amensagem.pt/2023/07/17/papa-francisco-tendas-sem-abrigo-almirante-reis-desinformacao/",
    "time_updated": "2023-07-18T10:15:17Z",
    "time_added": "2023-07-18T10:15:17Z"
+  },
+  {
+   "item_id": "3385671424",
+   "given_url": "https://threedollarkit.weebly.com/travis-walton.html",
+   "given_title": "Travis Walton - Three-Dollar Kit",
+   "resolved_title": "Travis Walton",
+   "resolved_url": "https://threedollarkit.weebly.com/travis-walton.html",
+   "time_updated": "2023-07-18T15:06:26Z",
+   "time_added": "2023-07-18T15:06:26Z"
+  },
+  {
+   "item_id": "3904956731",
+   "given_url": "https://www.youtube.com/watch?v=gPlFnVKqfv4",
+   "given_title": "けど Is Not Always But - YouTube",
+   "resolved_title": "けど Is Not Always But",
+   "resolved_url": "https://www.youtube.com/watch?v=gPlFnVKqfv4",
+   "time_updated": "2023-07-17T17:37:08Z",
+   "time_added": "2023-07-17T17:37:07Z"
+  },
+  {
+   "item_id": "3904949149",
+   "given_url": "https://www.uol.com.br/splash/noticias/2023/07/17/rodolfo-et-recusou-globo.htm",
+   "given_title": "Rodolfo: jornalista diz que veto a ET o fez recusar oferta da Globo",
+   "resolved_title": "'Está dizendo não?': Rodolfo, dupla de ET, revela por que recusou a Globo",
+   "resolved_url": "https://www.uol.com.br/splash/noticias/2023/07/17/rodolfo-et-recusou-globo.htm",
+   "time_updated": "2023-07-17T17:16:51Z",
+   "time_added": "2023-07-17T17:16:50Z"
   },
   {
    "item_id": "551023090",
@@ -103,13 +220,22 @@
    "time_added": "2023-07-19T10:22:37Z"
   },
   {
-   "item_id": "3905852975",
-   "given_url": "https://twitter.com/TaliaRinger/status/1681410191278080000",
-   "given_title": "Talia Ringer no Twitter: \"Terry Tao and I spoke over coffee for like two ho",
+   "item_id": "3906049564",
+   "given_url": "https://twitter.com/Leeeeeeite/status/1681327022340026371?t=l-jD27sdwg7O14Uf7J5hgQ\u0026s=08",
+   "given_title": "Manuel Freitas Leite no Twitter: \"Quando acho que já nada me surpreende, en",
    "resolved_title": "",
-   "resolved_url": "https://twitter.com/TaliaRinger/status/1681410191278080000",
-   "time_updated": "2023-07-19T10:31:18Z",
-   "time_added": "2023-07-19T10:31:16Z"
+   "resolved_url": "https://twitter.com/Leeeeeeite/status/1681327022340026371?t=l-jD27sdwg7O14Uf7J5hgQ\u0026s=08",
+   "time_updated": "2023-07-19T18:01:47Z",
+   "time_added": "2023-07-19T18:01:45Z"
+  },
+  {
+   "item_id": "3904777835",
+   "given_url": "https://www.noahpinion.blog/p/tokyo-is-the-new-paris?sd=pf",
+   "given_title": "Tokyo is the new Paris - by Noah Smith - Noahpinion",
+   "resolved_title": "Tokyo is the new Paris",
+   "resolved_url": "https://www.noahpinion.blog/p/tokyo-is-the-new-paris",
+   "time_updated": "2023-07-17T15:30:08Z",
+   "time_added": "2023-07-17T15:30:08Z"
   },
   {
    "item_id": "1308958329",
@@ -121,51 +247,6 @@
    "time_added": "2023-07-18T14:56:23Z"
   },
   {
-   "item_id": "3385671424",
-   "given_url": "https://threedollarkit.weebly.com/travis-walton.html",
-   "given_title": "Travis Walton - Three-Dollar Kit",
-   "resolved_title": "Travis Walton",
-   "resolved_url": "https://threedollarkit.weebly.com/travis-walton.html",
-   "time_updated": "2023-07-18T15:06:26Z",
-   "time_added": "2023-07-18T15:06:26Z"
-  },
-  {
-   "item_id": "3904956731",
-   "given_url": "https://www.youtube.com/watch?v=gPlFnVKqfv4",
-   "given_title": "けど Is Not Always But - YouTube",
-   "resolved_title": "けど Is Not Always But",
-   "resolved_url": "https://www.youtube.com/watch?v=gPlFnVKqfv4",
-   "time_updated": "2023-07-17T17:37:08Z",
-   "time_added": "2023-07-17T17:37:07Z"
-  },
-  {
-   "item_id": "676239104",
-   "given_url": "https://www.independent.co.uk/news/world/americas/bush-god-told-me-to-invade-iraq-6262644.html",
-   "given_title": "Bush: God told me to invade Iraq | The Independent | The Independent",
-   "resolved_title": "Bush: God told me to invade Iraq",
-   "resolved_url": "https://www.independent.co.uk/news/world/americas/bush-god-told-me-invade-iraq-6262644.html",
-   "time_updated": "2023-07-18T11:12:52Z",
-   "time_added": "2023-07-18T11:12:52Z"
-  },
-  {
-   "item_id": "3905612352",
-   "given_url": "https://m.youtube.com/watch?v=0z-7EM5JPps",
-   "given_title": "自宅に大量の鶏の頭が届きました - YouTube",
-   "resolved_title": "自宅に大量の鶏の頭が届きました",
-   "resolved_url": "http://www.youtube.com/watch?v=0z-7EM5JPps",
-   "time_updated": "2023-07-18T22:45:32Z",
-   "time_added": "2023-07-18T22:45:31Z"
-  },
-  {
-   "item_id": "3905573166",
-   "given_url": "https://twitter.com/DrJimFan/status/1681372700881854465",
-   "given_title": "Jim Fan no Twitter: \"You'll soon see lots of \"Llama just dethroned ChatGPT\"",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/DrJimFan/status/1681372700881854465",
-   "time_updated": "2023-07-18T23:04:15Z",
-   "time_added": "2023-07-18T23:04:15Z"
-  },
-  {
    "item_id": "3905007216",
    "given_url": "https://m.youtube.com/watch?v=UMIXMcMMzQc\u0026pp=ygUMY2FyYiBjeWNsaW5n",
    "given_title": "Ciclo de carboidratos | carb cycling - YouTube",
@@ -173,33 +254,6 @@
    "resolved_url": "http://www.youtube.com/watch?v=UMIXMcMMzQc",
    "time_updated": "2023-07-17T19:52:07Z",
    "time_added": "2023-07-17T19:52:06Z"
-  },
-  {
-   "item_id": "358106440",
-   "given_url": "https://omscs.gatech.edu/",
-   "given_title": "Home | OMSCS | Georgia Institute of Technology | Atlanta, GA",
-   "resolved_title": "Home",
-   "resolved_url": "http://omscs.gatech.edu/home",
-   "time_updated": "2023-07-18T16:50:15Z",
-   "time_added": "2023-07-18T16:50:15Z"
-  },
-  {
-   "item_id": "3905510651",
-   "given_url": "https://twitter.com/ines_rocha/status/1681250291516157952",
-   "given_title": "Inês Rocha no Twitter: \"Sobre o chavão “Os ciganos não querem trabalhar”: M",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/ines_rocha/status/1681250291516157952",
-   "time_updated": "2023-07-18T18:18:51Z",
-   "time_added": "2023-07-18T18:18:49Z"
-  },
-  {
-   "item_id": "194111522",
-   "given_url": "https://en.m.wikipedia.org/wiki/Rent_(film)",
-   "given_title": "Rent (film) - Wikipedia",
-   "resolved_title": "Rent (film)",
-   "resolved_url": "https://en.wikipedia.org/wiki/Rent_(film)",
-   "time_updated": "2023-07-18T20:37:21Z",
-   "time_added": "2023-07-18T20:37:21Z"
   }
  ]
 }

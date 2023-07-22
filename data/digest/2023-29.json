@@ -4,58 +4,31 @@
  "sortKey": "2023-29",
  "items": [
   {
-   "item_id": "3904703774",
-   "given_url": "https://twitter.com/AzevedoAudio/status/1680670436990803969",
-   "given_title": "M Azevedo no Twitter: \"So, @GoodWillsmith posted a comment about the master",
+   "item_id": "358106440",
+   "given_url": "https://omscs.gatech.edu/",
+   "given_title": "Home | OMSCS | Georgia Institute of Technology | Atlanta, GA",
+   "resolved_title": "Home",
+   "resolved_url": "http://omscs.gatech.edu/home",
+   "time_updated": "2023-07-18T16:50:15Z",
+   "time_added": "2023-07-18T16:50:15Z"
+  },
+  {
+   "item_id": "3905510651",
+   "given_url": "https://twitter.com/ines_rocha/status/1681250291516157952",
+   "given_title": "Inês Rocha no Twitter: \"Sobre o chavão “Os ciganos não querem trabalhar”: M",
    "resolved_title": "",
-   "resolved_url": "https://twitter.com/AzevedoAudio/status/1680670436990803969",
-   "time_updated": "2023-07-17T07:09:26Z",
-   "time_added": "2023-07-17T07:09:23Z"
+   "resolved_url": "https://twitter.com/ines_rocha/status/1681250291516157952",
+   "time_updated": "2023-07-18T18:18:51Z",
+   "time_added": "2023-07-18T18:18:49Z"
   },
   {
-   "item_id": "3905007216",
-   "given_url": "https://m.youtube.com/watch?v=UMIXMcMMzQc\u0026pp=ygUMY2FyYiBjeWNsaW5n",
-   "given_title": "Ciclo de carboidratos | carb cycling - YouTube",
-   "resolved_title": "Ciclo de carboidratos | carb cycling",
-   "resolved_url": "http://www.youtube.com/watch?v=UMIXMcMMzQc",
-   "time_updated": "2023-07-17T19:52:07Z",
-   "time_added": "2023-07-17T19:52:06Z"
-  },
-  {
-   "item_id": "3904979302",
-   "given_url": "https://amensagem.pt/2023/07/17/papa-francisco-tendas-sem-abrigo-almirante-reis-desinformacao/",
-   "given_title": "O Papa e as tendas na Almirante Reis: desinformação e milagre",
-   "resolved_title": "O Papa Francisco e as tendas dos sem-abrigo na Almirante Reis: entre a desinformação e um milagre",
-   "resolved_url": "https://amensagem.pt/2023/07/17/papa-francisco-tendas-sem-abrigo-almirante-reis-desinformacao/",
-   "time_updated": "2023-07-18T10:15:17Z",
-   "time_added": "2023-07-18T10:15:17Z"
-  },
-  {
-   "item_id": "194111522",
-   "given_url": "https://en.m.wikipedia.org/wiki/Rent_(film)",
-   "given_title": "Rent (film) - Wikipedia",
-   "resolved_title": "Rent (film)",
-   "resolved_url": "https://en.wikipedia.org/wiki/Rent_(film)",
-   "time_updated": "2023-07-18T20:37:21Z",
-   "time_added": "2023-07-18T20:37:21Z"
-  },
-  {
-   "item_id": "551023090",
-   "given_url": "https://en.m.wikipedia.org/wiki/Alligator_snapping_turtle",
-   "given_title": "Alligator snapping turtle - Wikipedia",
-   "resolved_title": "Alligator snapping turtle",
-   "resolved_url": "https://en.wikipedia.org/wiki/Alligator_snapping_turtle",
-   "time_updated": "2023-07-18T22:49:26Z",
-   "time_added": "2023-07-18T22:49:26Z"
-  },
-  {
-   "item_id": "3905843747",
-   "given_url": "https://gingamerch.com/",
-   "given_title": "GingaMerch",
-   "resolved_title": "GingaMerch",
-   "resolved_url": "https://gingamerch.com/",
-   "time_updated": "2023-07-19T10:07:31Z",
-   "time_added": "2023-07-19T10:07:30Z"
+   "item_id": "3905612352",
+   "given_url": "https://m.youtube.com/watch?v=0z-7EM5JPps",
+   "given_title": "自宅に大量の鶏の頭が届きました - YouTube",
+   "resolved_title": "自宅に大量の鶏の頭が届きました",
+   "resolved_url": "http://www.youtube.com/watch?v=0z-7EM5JPps",
+   "time_updated": "2023-07-18T22:45:32Z",
+   "time_added": "2023-07-18T22:45:31Z"
   },
   {
    "item_id": "3905850034",
@@ -67,6 +40,42 @@
    "time_added": "2023-07-19T10:22:37Z"
   },
   {
+   "item_id": "3905605289",
+   "given_url": "https://twitter.com/justLV/status/1681377298308820992",
+   "given_title": "Justin Alvey no Twitter: \"I “jailbroke” a Google Nest Mini so that you can ",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/justLV/status/1681377298308820992",
+   "time_updated": "2023-07-19T15:19:01Z",
+   "time_added": "2023-07-19T15:19:01Z"
+  },
+  {
+   "item_id": "3904703774",
+   "given_url": "https://twitter.com/AzevedoAudio/status/1680670436990803969",
+   "given_title": "M Azevedo no Twitter: \"So, @GoodWillsmith posted a comment about the master",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/AzevedoAudio/status/1680670436990803969",
+   "time_updated": "2023-07-17T07:09:26Z",
+   "time_added": "2023-07-17T07:09:23Z"
+  },
+  {
+   "item_id": "1308958329",
+   "given_url": "https://en.wikipedia.org/wiki/Travis_Walton_UFO_incident",
+   "given_title": "Travis Walton UFO incident - Wikipedia",
+   "resolved_title": "Travis Walton UFO incident",
+   "resolved_url": "https://en.wikipedia.org/wiki/Travis_Walton_UFO_incident",
+   "time_updated": "2023-07-18T14:56:23Z",
+   "time_added": "2023-07-18T14:56:23Z"
+  },
+  {
+   "item_id": "551023090",
+   "given_url": "https://en.m.wikipedia.org/wiki/Alligator_snapping_turtle",
+   "given_title": "Alligator snapping turtle - Wikipedia",
+   "resolved_title": "Alligator snapping turtle",
+   "resolved_url": "https://en.wikipedia.org/wiki/Alligator_snapping_turtle",
+   "time_updated": "2023-07-18T22:49:26Z",
+   "time_added": "2023-07-18T22:49:26Z"
+  },
+  {
    "item_id": "3905332232",
    "given_url": "https://www.brasil247.com/blog/as-boas-vindas-a-marcia-tiburi-de-volta-de-seu-auto-exilio",
    "given_title": "As boas-vindas a Marcia Tiburi de volta de seu auto-exílio - Hildegard Ange",
@@ -76,31 +85,76 @@
    "time_added": "2023-07-19T14:57:11Z"
   },
   {
-   "item_id": "3906091084",
-   "given_url": "https://www.youtube.com/watch?v=QEJjVkh9fBY",
-   "given_title": "(2) 5 NEN 3 KUMI MAHOGUMI (Episode 1) - YouTube",
-   "resolved_title": "5 NEN 3 KUMI MAHOGUMI (Episode 1)",
-   "resolved_url": "https://www.youtube.com/watch?v=QEJjVkh9fBY",
-   "time_updated": "2023-07-19T19:47:54Z",
-   "time_added": "2023-07-19T19:47:53Z"
+   "item_id": "3906049564",
+   "given_url": "https://twitter.com/Leeeeeeite/status/1681327022340026371?t=l-jD27sdwg7O14Uf7J5hgQ\u0026s=08",
+   "given_title": "Manuel Freitas Leite no Twitter: \"Quando acho que já nada me surpreende, en",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/Leeeeeeite/status/1681327022340026371?t=l-jD27sdwg7O14Uf7J5hgQ\u0026s=08",
+   "time_updated": "2023-07-19T18:01:47Z",
+   "time_added": "2023-07-19T18:01:45Z"
   },
   {
-   "item_id": "358106440",
-   "given_url": "https://omscs.gatech.edu/",
-   "given_title": "Home | OMSCS | Georgia Institute of Technology | Atlanta, GA",
-   "resolved_title": "Home",
-   "resolved_url": "http://omscs.gatech.edu/home",
-   "time_updated": "2023-07-18T16:50:15Z",
-   "time_added": "2023-07-18T16:50:15Z"
+   "item_id": "3906387097",
+   "given_url": "https://expresso.pt/opiniao/2023-07-20-O-portugues-de-Portugal-esta-em-risco--91c0daeb",
+   "given_title": "O português de Portugal está em risco? - Expresso",
+   "resolved_title": "O português de Portugal está em risco?",
+   "resolved_url": "https://expresso.pt/opiniao/2023-07-20-O-portugues-de-Portugal-esta-em-risco--91c0daeb",
+   "time_updated": "2023-07-21T18:07:21Z",
+   "time_added": "2023-07-21T18:07:21Z"
   },
   {
-   "item_id": "3906337455",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Conjectura_de_Collatz",
-   "given_title": "Conjectura de Collatz – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Conjectura de Collatz",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Conjectura_de_Collatz",
-   "time_updated": "2023-07-20T07:46:19Z",
-   "time_added": "2023-07-20T07:46:18Z"
+   "item_id": "3261448423",
+   "given_url": "https://observador.pt/opiniao/erradicar-o-portugues-ponto-de-situacao/",
+   "given_title": "Erradicar o Português: ponto de situação – Observador",
+   "resolved_title": "",
+   "resolved_url": "https://observador.pt/opiniao/erradicar-o-portugues-ponto-de-situacao/",
+   "time_updated": "2023-07-21T18:17:27Z",
+   "time_added": "2023-07-21T18:17:27Z"
+  },
+  {
+   "item_id": "3903617805",
+   "given_url": "https://neurosciencenews.com/memory-learning-genetics-evolution-23629/",
+   "given_title": "Genetic Origins of Learning and Memory Traced Back 650 Million Years - Neur",
+   "resolved_title": "Genetic Origins of Learning and Memory Traced Back 650 Million Years",
+   "resolved_url": "https://neurosciencenews.com/memory-learning-genetics-evolution-23629/",
+   "time_updated": "2023-07-17T17:23:10Z",
+   "time_added": "2023-07-17T17:23:09Z"
+  },
+  {
+   "item_id": "3904979302",
+   "given_url": "https://amensagem.pt/2023/07/17/papa-francisco-tendas-sem-abrigo-almirante-reis-desinformacao/",
+   "given_title": "O Papa e as tendas na Almirante Reis: desinformação e milagre",
+   "resolved_title": "O Papa Francisco e as tendas dos sem-abrigo na Almirante Reis: entre a desinformação e um milagre",
+   "resolved_url": "https://amensagem.pt/2023/07/17/papa-francisco-tendas-sem-abrigo-almirante-reis-desinformacao/",
+   "time_updated": "2023-07-18T10:15:17Z",
+   "time_added": "2023-07-18T10:15:17Z"
+  },
+  {
+   "item_id": "3905696366",
+   "given_url": "https://noticias.uol.com.br/politica/ultimas-noticias/2023/07/18/conversas-de-lula-e-dilma-com-correa-foram-espionadas-pela-cia-diz-jornal.htm",
+   "given_title": "CIA espionou conversas de Rafael Correa com Lula e Dilma, diz jornal",
+   "resolved_title": "CIA espionou conversas de Rafael Correa com Lula e Dilma, diz jornal",
+   "resolved_url": "https://noticias.uol.com.br/politica/ultimas-noticias/2023/07/18/conversas-de-lula-e-dilma-com-correa-foram-espionadas-pela-cia-diz-jornal.htm",
+   "time_updated": "2023-07-21T12:26:44Z",
+   "time_added": "2023-07-21T12:26:42Z"
+  },
+  {
+   "item_id": "3904577536",
+   "given_url": "https://addyosmani.com/blog/boring-architecture/",
+   "given_title": "AddyOsmani.com - Stick to boring architecture for as long as possible",
+   "resolved_title": "Stick to boring architecture for as long as possible",
+   "resolved_url": "https://addyosmani.com/blog/boring-architecture/",
+   "time_updated": "2023-07-21T16:16:40Z",
+   "time_added": "2023-07-21T16:16:40Z"
+  },
+  {
+   "item_id": "676239104",
+   "given_url": "https://www.independent.co.uk/news/world/americas/bush-god-told-me-to-invade-iraq-6262644.html",
+   "given_title": "Bush: God told me to invade Iraq | The Independent | The Independent",
+   "resolved_title": "Bush: God told me to invade Iraq",
+   "resolved_url": "https://www.independent.co.uk/news/world/americas/bush-god-told-me-invade-iraq-6262644.html",
+   "time_updated": "2023-07-18T11:12:52Z",
+   "time_added": "2023-07-18T11:12:52Z"
   },
   {
    "item_id": "3905277988",
@@ -121,49 +175,22 @@
    "time_added": "2023-07-19T17:28:46Z"
   },
   {
-   "item_id": "3906049564",
-   "given_url": "https://twitter.com/Leeeeeeite/status/1681327022340026371?t=l-jD27sdwg7O14Uf7J5hgQ\u0026s=08",
-   "given_title": "Manuel Freitas Leite no Twitter: \"Quando acho que já nada me surpreende, en",
+   "item_id": "3905852975",
+   "given_url": "https://twitter.com/TaliaRinger/status/1681410191278080000",
+   "given_title": "Talia Ringer no Twitter: \"Terry Tao and I spoke over coffee for like two ho",
    "resolved_title": "",
-   "resolved_url": "https://twitter.com/Leeeeeeite/status/1681327022340026371?t=l-jD27sdwg7O14Uf7J5hgQ\u0026s=08",
-   "time_updated": "2023-07-19T18:01:47Z",
-   "time_added": "2023-07-19T18:01:45Z"
+   "resolved_url": "https://twitter.com/TaliaRinger/status/1681410191278080000",
+   "time_updated": "2023-07-19T10:31:18Z",
+   "time_added": "2023-07-19T10:31:16Z"
   },
   {
-   "item_id": "3905612352",
-   "given_url": "https://m.youtube.com/watch?v=0z-7EM5JPps",
-   "given_title": "自宅に大量の鶏の頭が届きました - YouTube",
-   "resolved_title": "自宅に大量の鶏の頭が届きました",
-   "resolved_url": "http://www.youtube.com/watch?v=0z-7EM5JPps",
-   "time_updated": "2023-07-18T22:45:32Z",
-   "time_added": "2023-07-18T22:45:31Z"
-  },
-  {
-   "item_id": "3906198785",
-   "given_url": "https://sive.rs/pnt",
-   "given_title": "The past is not true | Derek Sivers",
-   "resolved_title": "The past is not true",
-   "resolved_url": "https://sive.rs/pnt",
-   "time_updated": "2023-07-20T18:11:39Z",
-   "time_added": "2023-07-20T18:11:39Z"
-  },
-  {
-   "item_id": "1308958329",
-   "given_url": "https://en.wikipedia.org/wiki/Travis_Walton_UFO_incident",
-   "given_title": "Travis Walton UFO incident - Wikipedia",
-   "resolved_title": "Travis Walton UFO incident",
-   "resolved_url": "https://en.wikipedia.org/wiki/Travis_Walton_UFO_incident",
-   "time_updated": "2023-07-18T14:56:23Z",
-   "time_added": "2023-07-18T14:56:23Z"
-  },
-  {
-   "item_id": "3904949149",
-   "given_url": "https://www.uol.com.br/splash/noticias/2023/07/17/rodolfo-et-recusou-globo.htm",
-   "given_title": "Rodolfo: jornalista diz que veto a ET o fez recusar oferta da Globo",
-   "resolved_title": "'Está dizendo não?': Rodolfo, dupla de ET, revela por que recusou a Globo",
-   "resolved_url": "https://www.uol.com.br/splash/noticias/2023/07/17/rodolfo-et-recusou-globo.htm",
-   "time_updated": "2023-07-17T17:16:51Z",
-   "time_added": "2023-07-17T17:16:50Z"
+   "item_id": "3906337455",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Conjectura_de_Collatz",
+   "given_title": "Conjectura de Collatz – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Conjectura de Collatz",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Conjectura_de_Collatz",
+   "time_updated": "2023-07-20T07:46:19Z",
+   "time_added": "2023-07-20T07:46:18Z"
   },
   {
    "item_id": "87261279",
@@ -175,42 +202,6 @@
    "time_added": "2023-07-18T08:26:07Z"
   },
   {
-   "item_id": "3385671424",
-   "given_url": "https://threedollarkit.weebly.com/travis-walton.html",
-   "given_title": "Travis Walton - Three-Dollar Kit",
-   "resolved_title": "Travis Walton",
-   "resolved_url": "https://threedollarkit.weebly.com/travis-walton.html",
-   "time_updated": "2023-07-18T15:06:26Z",
-   "time_added": "2023-07-18T15:06:26Z"
-  },
-  {
-   "item_id": "3905577199",
-   "given_url": "https://twitter.com/chriscoyier/status/1681407724993798144",
-   "given_title": "Chris Coyier no Twitter: \"I was unaware of `text-wrap: pretty;` I knew abou",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/chriscoyier/status/1681407724993798144",
-   "time_updated": "2023-07-18T21:13:27Z",
-   "time_added": "2023-07-18T21:13:25Z"
-  },
-  {
-   "item_id": "3903617805",
-   "given_url": "https://neurosciencenews.com/memory-learning-genetics-evolution-23629/",
-   "given_title": "Genetic Origins of Learning and Memory Traced Back 650 Million Years - Neur",
-   "resolved_title": "Genetic Origins of Learning and Memory Traced Back 650 Million Years",
-   "resolved_url": "https://neurosciencenews.com/memory-learning-genetics-evolution-23629/",
-   "time_updated": "2023-07-17T17:23:10Z",
-   "time_added": "2023-07-17T17:23:09Z"
-  },
-  {
-   "item_id": "3905510651",
-   "given_url": "https://twitter.com/ines_rocha/status/1681250291516157952",
-   "given_title": "Inês Rocha no Twitter: \"Sobre o chavão “Os ciganos não querem trabalhar”: M",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/ines_rocha/status/1681250291516157952",
-   "time_updated": "2023-07-18T18:18:51Z",
-   "time_added": "2023-07-18T18:18:49Z"
-  },
-  {
    "item_id": "3905573166",
    "given_url": "https://twitter.com/DrJimFan/status/1681372700881854465",
    "given_title": "Jim Fan no Twitter: \"You'll soon see lots of \"Llama just dethroned ChatGPT\"",
@@ -220,13 +211,13 @@
    "time_added": "2023-07-18T23:04:15Z"
   },
   {
-   "item_id": "3905852975",
-   "given_url": "https://twitter.com/TaliaRinger/status/1681410191278080000",
-   "given_title": "Talia Ringer no Twitter: \"Terry Tao and I spoke over coffee for like two ho",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/TaliaRinger/status/1681410191278080000",
-   "time_updated": "2023-07-19T10:31:18Z",
-   "time_added": "2023-07-19T10:31:16Z"
+   "item_id": "3906091084",
+   "given_url": "https://www.youtube.com/watch?v=QEJjVkh9fBY",
+   "given_title": "(2) 5 NEN 3 KUMI MAHOGUMI (Episode 1) - YouTube",
+   "resolved_title": "5 NEN 3 KUMI MAHOGUMI (Episode 1)",
+   "resolved_url": "https://www.youtube.com/watch?v=QEJjVkh9fBY",
+   "time_updated": "2023-07-19T19:47:54Z",
+   "time_added": "2023-07-19T19:47:53Z"
   },
   {
    "item_id": "3904777835",
@@ -238,22 +229,22 @@
    "time_added": "2023-07-17T15:30:08Z"
   },
   {
-   "item_id": "1059172669",
-   "given_url": "https://www.urbandictionary.com/define.php?term=hugbox",
-   "given_title": "Urban Dictionary: hugbox",
-   "resolved_title": "hugbox",
-   "resolved_url": "https://www.urbandictionary.com/define.php?term=hugbox",
-   "time_updated": "2023-07-18T13:16:44Z",
-   "time_added": "2023-07-18T13:16:43Z"
+   "item_id": "3905577199",
+   "given_url": "https://twitter.com/chriscoyier/status/1681407724993798144",
+   "given_title": "Chris Coyier no Twitter: \"I was unaware of `text-wrap: pretty;` I knew abou",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/chriscoyier/status/1681407724993798144",
+   "time_updated": "2023-07-18T21:13:27Z",
+   "time_added": "2023-07-18T21:13:25Z"
   },
   {
-   "item_id": "3905605289",
-   "given_url": "https://twitter.com/justLV/status/1681377298308820992",
-   "given_title": "Justin Alvey no Twitter: \"I “jailbroke” a Google Nest Mini so that you can ",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/justLV/status/1681377298308820992",
-   "time_updated": "2023-07-19T15:19:01Z",
-   "time_added": "2023-07-19T15:19:01Z"
+   "item_id": "3904949149",
+   "given_url": "https://www.uol.com.br/splash/noticias/2023/07/17/rodolfo-et-recusou-globo.htm",
+   "given_title": "Rodolfo: jornalista diz que veto a ET o fez recusar oferta da Globo",
+   "resolved_title": "'Está dizendo não?': Rodolfo, dupla de ET, revela por que recusou a Globo",
+   "resolved_url": "https://www.uol.com.br/splash/noticias/2023/07/17/rodolfo-et-recusou-globo.htm",
+   "time_updated": "2023-07-17T17:16:51Z",
+   "time_added": "2023-07-17T17:16:50Z"
   },
   {
    "item_id": "3904956731",
@@ -265,13 +256,67 @@
    "time_added": "2023-07-17T17:37:07Z"
   },
   {
-   "item_id": "676239104",
-   "given_url": "https://www.independent.co.uk/news/world/americas/bush-god-told-me-to-invade-iraq-6262644.html",
-   "given_title": "Bush: God told me to invade Iraq | The Independent | The Independent",
-   "resolved_title": "Bush: God told me to invade Iraq",
-   "resolved_url": "https://www.independent.co.uk/news/world/americas/bush-god-told-me-invade-iraq-6262644.html",
-   "time_updated": "2023-07-18T11:12:52Z",
-   "time_added": "2023-07-18T11:12:52Z"
+   "item_id": "1059172669",
+   "given_url": "https://www.urbandictionary.com/define.php?term=hugbox",
+   "given_title": "Urban Dictionary: hugbox",
+   "resolved_title": "hugbox",
+   "resolved_url": "https://www.urbandictionary.com/define.php?term=hugbox",
+   "time_updated": "2023-07-18T13:16:44Z",
+   "time_added": "2023-07-18T13:16:43Z"
+  },
+  {
+   "item_id": "3385671424",
+   "given_url": "https://threedollarkit.weebly.com/travis-walton.html",
+   "given_title": "Travis Walton - Three-Dollar Kit",
+   "resolved_title": "Travis Walton",
+   "resolved_url": "https://threedollarkit.weebly.com/travis-walton.html",
+   "time_updated": "2023-07-18T15:06:26Z",
+   "time_added": "2023-07-18T15:06:26Z"
+  },
+  {
+   "item_id": "194111522",
+   "given_url": "https://en.m.wikipedia.org/wiki/Rent_(film)",
+   "given_title": "Rent (film) - Wikipedia",
+   "resolved_title": "Rent (film)",
+   "resolved_url": "https://en.wikipedia.org/wiki/Rent_(film)",
+   "time_updated": "2023-07-18T20:37:21Z",
+   "time_added": "2023-07-18T20:37:21Z"
+  },
+  {
+   "item_id": "3907150477",
+   "given_url": "https://www.youtube.com/watch?v=--IaoZY6dnE",
+   "given_title": "(27) Alan e Aladim - Só liguei para dizer que eu Te Amo! - YouTube",
+   "resolved_title": "Alan e Aladim - Só liguei para dizer que eu Te Amo!",
+   "resolved_url": "https://www.youtube.com/watch?v=--IaoZY6dnE",
+   "time_updated": "2023-07-21T17:39:50Z",
+   "time_added": "2023-07-21T17:39:49Z"
+  },
+  {
+   "item_id": "3906198785",
+   "given_url": "https://sive.rs/pnt",
+   "given_title": "The past is not true | Derek Sivers",
+   "resolved_title": "The past is not true",
+   "resolved_url": "https://sive.rs/pnt",
+   "time_updated": "2023-07-20T18:11:39Z",
+   "time_added": "2023-07-20T18:11:39Z"
+  },
+  {
+   "item_id": "3905007216",
+   "given_url": "https://m.youtube.com/watch?v=UMIXMcMMzQc\u0026pp=ygUMY2FyYiBjeWNsaW5n",
+   "given_title": "Ciclo de carboidratos | carb cycling - YouTube",
+   "resolved_title": "Ciclo de carboidratos | carb cycling",
+   "resolved_url": "http://www.youtube.com/watch?v=UMIXMcMMzQc",
+   "time_updated": "2023-07-17T19:52:07Z",
+   "time_added": "2023-07-17T19:52:06Z"
+  },
+  {
+   "item_id": "3905843747",
+   "given_url": "https://gingamerch.com/",
+   "given_title": "GingaMerch",
+   "resolved_title": "GingaMerch",
+   "resolved_url": "https://gingamerch.com/",
+   "time_updated": "2023-07-19T10:07:31Z",
+   "time_added": "2023-07-19T10:07:30Z"
   }
  ]
 }

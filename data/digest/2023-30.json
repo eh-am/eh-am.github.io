@@ -4,13 +4,22 @@
  "sortKey": "2023-30",
  "items": [
   {
-   "item_id": "3905264868",
-   "given_url": "https://cpu.land/",
-   "given_title": "Intro | Putting the \"You\" in CPU",
-   "resolved_title": "Putting the “You” in CPU",
-   "resolved_url": "https://cpu.land/",
-   "time_updated": "2023-07-24T09:58:00Z",
-   "time_added": "2023-07-24T09:58:00Z"
+   "item_id": "462537586",
+   "given_url": "https://pt.wikipedia.org/wiki/Glabela",
+   "given_title": "Glabela – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Glabela",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Glabela",
+   "time_updated": "2023-07-24T18:03:27Z",
+   "time_added": "2023-07-24T18:03:27Z"
+  },
+  {
+   "item_id": "3908938638",
+   "given_url": "https://developer.oculus.com/blog/platform-integrity-attestation-api-meta-quest-developer/?utm_source=social-Twitter\u0026utm_medium=mqd\u0026utm_campaign=organic\u0026utm_content=post-url\u0026utm_offering=news\u0026utm_product=_07242023\u0026eventSource=organicsocialmqd",
+   "given_title": "Protect Your Apps with the New Platform Integrity Attestation API",
+   "resolved_title": "",
+   "resolved_url": "https://developer.oculus.com/blog/platform-integrity-attestation-api-meta-quest-developer/?utm_source=social-Twitter\u0026utm_medium=mqd\u0026utm_campaign=organic\u0026utm_content=post-url\u0026utm_offering=news\u0026utm_product=_07242023\u0026eventSource=organicsocialmqd",
+   "time_updated": "2023-07-25T09:43:52Z",
+   "time_added": "2023-07-25T09:43:47Z"
   },
   {
    "item_id": "3213469181",
@@ -22,15 +31,6 @@
    "time_added": "2023-07-24T15:00:31Z"
   },
   {
-   "item_id": "462537586",
-   "given_url": "https://pt.wikipedia.org/wiki/Glabela",
-   "given_title": "Glabela – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Glabela",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Glabela",
-   "time_updated": "2023-07-24T18:03:27Z",
-   "time_added": "2023-07-24T18:03:27Z"
-  },
-  {
    "item_id": "3908611181",
    "given_url": "http://dmitrysoshnikov.com/courses/transpiler-from-scratch/",
    "given_title": "Building a Transpiler from scratch – Dmitry Soshnikov",
@@ -40,15 +40,6 @@
    "time_added": "2023-07-24T18:03:58Z"
   },
   {
-   "item_id": "3317723458",
-   "given_url": "https://davidtruxall.com/misleading-cors-errors/",
-   "given_title": "Misleading CORS Errors – Dev Notes",
-   "resolved_title": "Misleading CORS Errors",
-   "resolved_url": "https://davidtruxall.com/misleading-cors-errors/",
-   "time_updated": "2023-07-24T18:02:07Z",
-   "time_added": "2023-07-24T18:02:07Z"
-  },
-  {
    "item_id": "3844879527",
    "given_url": "https://ge.globo.com/sp/tem-esporte/futebol/noticia/2023/04/12/clube-e-primeiras-tacas-de-diniz-campeao-sumiram-se-voce-descobrir-algo-me-avise.ghtml",
    "given_title": "Clube e primeiras taças de Diniz campeão sumiram: \"Se você descobrir algo, ",
@@ -56,6 +47,24 @@
    "resolved_url": "https://ge.globo.com/sp/tem-esporte/futebol/noticia/2023/04/12/clube-e-primeiras-tacas-de-diniz-campeao-sumiram-se-voce-descobrir-algo-me-avise.ghtml",
    "time_updated": "2023-07-24T09:25:07Z",
    "time_added": "2023-07-24T09:25:07Z"
+  },
+  {
+   "item_id": "3905264868",
+   "given_url": "https://cpu.land/",
+   "given_title": "Intro | Putting the \"You\" in CPU",
+   "resolved_title": "Putting the “You” in CPU",
+   "resolved_url": "https://cpu.land/",
+   "time_updated": "2023-07-24T09:58:00Z",
+   "time_added": "2023-07-24T09:58:00Z"
+  },
+  {
+   "item_id": "3317723458",
+   "given_url": "https://davidtruxall.com/misleading-cors-errors/",
+   "given_title": "Misleading CORS Errors – Dev Notes",
+   "resolved_title": "Misleading CORS Errors",
+   "resolved_url": "https://davidtruxall.com/misleading-cors-errors/",
+   "time_updated": "2023-07-24T18:02:07Z",
+   "time_added": "2023-07-24T18:02:07Z"
   }
  ]
 }

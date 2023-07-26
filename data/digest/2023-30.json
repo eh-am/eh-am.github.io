@@ -4,33 +4,6 @@
  "sortKey": "2023-30",
  "items": [
   {
-   "item_id": "3844879527",
-   "given_url": "https://ge.globo.com/sp/tem-esporte/futebol/noticia/2023/04/12/clube-e-primeiras-tacas-de-diniz-campeao-sumiram-se-voce-descobrir-algo-me-avise.ghtml",
-   "given_title": "Clube e primeiras taças de Diniz campeão sumiram: \"Se você descobrir algo, ",
-   "resolved_title": "Clube e primeiras taças de Diniz campeão sumiram: \"Se você descobrir algo, me avise\"",
-   "resolved_url": "https://ge.globo.com/sp/tem-esporte/futebol/noticia/2023/04/12/clube-e-primeiras-tacas-de-diniz-campeao-sumiram-se-voce-descobrir-algo-me-avise.ghtml",
-   "time_updated": "2023-07-24T09:25:07Z",
-   "time_added": "2023-07-24T09:25:07Z"
-  },
-  {
-   "item_id": "3908611181",
-   "given_url": "http://dmitrysoshnikov.com/courses/transpiler-from-scratch/",
-   "given_title": "Building a Transpiler from scratch – Dmitry Soshnikov",
-   "resolved_title": "Building a Transpiler from scratch",
-   "resolved_url": "http://dmitrysoshnikov.com/courses/transpiler-from-scratch/",
-   "time_updated": "2023-07-24T18:04:04Z",
-   "time_added": "2023-07-24T18:03:58Z"
-  },
-  {
-   "item_id": "3531298764",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Sati",
-   "given_title": "Sati – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Sati",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Sati",
-   "time_updated": "2023-07-25T23:50:13Z",
-   "time_added": "2023-07-25T23:50:13Z"
-  },
-  {
    "item_id": "462537586",
    "given_url": "https://pt.wikipedia.org/wiki/Glabela",
    "given_title": "Glabela – Wikipédia, a enciclopédia livre",
@@ -40,13 +13,31 @@
    "time_added": "2023-07-24T18:03:27Z"
   },
   {
-   "item_id": "3909206648",
-   "given_url": "https://www.dexerto.com/gaming/how-does-vaudeville-work-ai-murder-mystery-game-explained-2216792/",
-   "given_title": "",
-   "resolved_title": "How does Vaudeville work? AI murder mystery game explained",
-   "resolved_url": "https://www.dexerto.com/gaming/how-does-vaudeville-work-ai-murder-mystery-game-explained-2216792/",
-   "time_updated": "2023-07-25T19:54:26Z",
-   "time_added": "2023-07-25T19:54:24Z"
+   "item_id": "3908938638",
+   "given_url": "https://developer.oculus.com/blog/platform-integrity-attestation-api-meta-quest-developer/?utm_source=social-Twitter\u0026utm_medium=mqd\u0026utm_campaign=organic\u0026utm_content=post-url\u0026utm_offering=news\u0026utm_product=_07242023\u0026eventSource=organicsocialmqd",
+   "given_title": "Protect Your Apps with the New Platform Integrity Attestation API",
+   "resolved_title": "",
+   "resolved_url": "https://developer.oculus.com/blog/platform-integrity-attestation-api-meta-quest-developer/?utm_source=social-Twitter\u0026utm_medium=mqd\u0026utm_campaign=organic\u0026utm_content=post-url\u0026utm_offering=news\u0026utm_product=_07242023\u0026eventSource=organicsocialmqd",
+   "time_updated": "2023-07-25T09:43:52Z",
+   "time_added": "2023-07-25T09:43:47Z"
+  },
+  {
+   "item_id": "3909448784",
+   "given_url": "https://twitter.com/RogerioCasanova/status/1683947549814673408",
+   "given_title": "Rogério Tomás Cupertino de Casanova no Twitter: \"peça sobre o fogo em Casca",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/RogerioCasanova/status/1683947549814673408",
+   "time_updated": "2023-07-26T07:43:50Z",
+   "time_added": "2023-07-26T07:43:48Z"
+  },
+  {
+   "item_id": "977384736",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Nullius_in_verba",
+   "given_title": "Nullius in verba – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Nullius in verba",
+   "resolved_url": "https://pt.m.wikipedia.org/wiki/Nullius_in_verba",
+   "time_updated": "2023-07-26T09:22:58Z",
+   "time_added": "2023-07-26T09:22:58Z"
   },
   {
    "item_id": "3905264868",
@@ -58,13 +49,13 @@
    "time_added": "2023-07-24T09:58:00Z"
   },
   {
-   "item_id": "3909224865",
-   "given_url": "https://www.uol.com.br/esporte/colunas/saque-e-voleio/2023/07/25/sobre-alcaraz-carisma-e-calendario.htm",
-   "given_title": "Sobre Alcaraz, carisma e calendário",
-   "resolved_title": "Sobre Alcaraz, carisma e calendário",
-   "resolved_url": "https://www.uol.com.br/esporte/colunas/saque-e-voleio/2023/07/25/sobre-alcaraz-carisma-e-calendario.htm",
-   "time_updated": "2023-07-25T20:39:33Z",
-   "time_added": "2023-07-25T20:39:31Z"
+   "item_id": "3213469181",
+   "given_url": "https://www.ldao.ca/introduction-to-ldsadhd/articles/about-issues-specific-to-adults-with-lds/adults-with-visual-spatial-learning-disabilities/",
+   "given_title": "Adults With Visual-Spatial Learning Disabilities – Learning Disabilities As",
+   "resolved_title": "Adults With Visual-Spatial Learning Disabilities",
+   "resolved_url": "https://www.ldao.ca/introduction-to-ldsadhd/articles/about-issues-specific-to-adults-with-lds/adults-with-visual-spatial-learning-disabilities/",
+   "time_updated": "2023-07-24T15:00:31Z",
+   "time_added": "2023-07-24T15:00:31Z"
   },
   {
    "item_id": "3317723458",
@@ -76,22 +67,58 @@
    "time_added": "2023-07-24T18:02:07Z"
   },
   {
-   "item_id": "3213469181",
-   "given_url": "https://www.ldao.ca/introduction-to-ldsadhd/articles/about-issues-specific-to-adults-with-lds/adults-with-visual-spatial-learning-disabilities/",
-   "given_title": "Adults With Visual-Spatial Learning Disabilities – Learning Disabilities As",
-   "resolved_title": "Adults With Visual-Spatial Learning Disabilities",
-   "resolved_url": "https://www.ldao.ca/introduction-to-ldsadhd/articles/about-issues-specific-to-adults-with-lds/adults-with-visual-spatial-learning-disabilities/",
-   "time_updated": "2023-07-24T15:00:31Z",
-   "time_added": "2023-07-24T15:00:31Z"
+   "item_id": "3908611181",
+   "given_url": "http://dmitrysoshnikov.com/courses/transpiler-from-scratch/",
+   "given_title": "Building a Transpiler from scratch – Dmitry Soshnikov",
+   "resolved_title": "Building a Transpiler from scratch",
+   "resolved_url": "http://dmitrysoshnikov.com/courses/transpiler-from-scratch/",
+   "time_updated": "2023-07-24T18:04:04Z",
+   "time_added": "2023-07-24T18:03:58Z"
   },
   {
-   "item_id": "3908938638",
-   "given_url": "https://developer.oculus.com/blog/platform-integrity-attestation-api-meta-quest-developer/?utm_source=social-Twitter\u0026utm_medium=mqd\u0026utm_campaign=organic\u0026utm_content=post-url\u0026utm_offering=news\u0026utm_product=_07242023\u0026eventSource=organicsocialmqd",
-   "given_title": "Protect Your Apps with the New Platform Integrity Attestation API",
-   "resolved_title": "",
-   "resolved_url": "https://developer.oculus.com/blog/platform-integrity-attestation-api-meta-quest-developer/?utm_source=social-Twitter\u0026utm_medium=mqd\u0026utm_campaign=organic\u0026utm_content=post-url\u0026utm_offering=news\u0026utm_product=_07242023\u0026eventSource=organicsocialmqd",
-   "time_updated": "2023-07-25T09:43:52Z",
-   "time_added": "2023-07-25T09:43:47Z"
+   "item_id": "3909224865",
+   "given_url": "https://www.uol.com.br/esporte/colunas/saque-e-voleio/2023/07/25/sobre-alcaraz-carisma-e-calendario.htm",
+   "given_title": "Sobre Alcaraz, carisma e calendário",
+   "resolved_title": "Sobre Alcaraz, carisma e calendário",
+   "resolved_url": "https://www.uol.com.br/esporte/colunas/saque-e-voleio/2023/07/25/sobre-alcaraz-carisma-e-calendario.htm",
+   "time_updated": "2023-07-25T20:39:33Z",
+   "time_added": "2023-07-25T20:39:31Z"
+  },
+  {
+   "item_id": "3531298764",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Sati",
+   "given_title": "Sati – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Sati",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Sati",
+   "time_updated": "2023-07-25T23:50:13Z",
+   "time_added": "2023-07-25T23:50:13Z"
+  },
+  {
+   "item_id": "3844879527",
+   "given_url": "https://ge.globo.com/sp/tem-esporte/futebol/noticia/2023/04/12/clube-e-primeiras-tacas-de-diniz-campeao-sumiram-se-voce-descobrir-algo-me-avise.ghtml",
+   "given_title": "Clube e primeiras taças de Diniz campeão sumiram: \"Se você descobrir algo, ",
+   "resolved_title": "Clube e primeiras taças de Diniz campeão sumiram: \"Se você descobrir algo, me avise\"",
+   "resolved_url": "https://ge.globo.com/sp/tem-esporte/futebol/noticia/2023/04/12/clube-e-primeiras-tacas-de-diniz-campeao-sumiram-se-voce-descobrir-algo-me-avise.ghtml",
+   "time_updated": "2023-07-24T09:25:07Z",
+   "time_added": "2023-07-24T09:25:07Z"
+  },
+  {
+   "item_id": "3909206648",
+   "given_url": "https://www.dexerto.com/gaming/how-does-vaudeville-work-ai-murder-mystery-game-explained-2216792/",
+   "given_title": "",
+   "resolved_title": "How does Vaudeville work? AI murder mystery game explained",
+   "resolved_url": "https://www.dexerto.com/gaming/how-does-vaudeville-work-ai-murder-mystery-game-explained-2216792/",
+   "time_updated": "2023-07-25T19:54:26Z",
+   "time_added": "2023-07-25T19:54:24Z"
+  },
+  {
+   "item_id": "3905988253",
+   "given_url": "https://www.discoursemagazine.com/abundance/2023/07/19/where-did-our-belief-in-abundance-come-from/",
+   "given_title": "Where Did Our Belief in Abundance Come From? - Discourse",
+   "resolved_title": "Where Did Our Belief in Abundance Come From?",
+   "resolved_url": "https://www.discoursemagazine.com/abundance/2023/07/19/where-did-our-belief-in-abundance-come-from/",
+   "time_updated": "2023-07-26T08:41:51Z",
+   "time_added": "2023-07-26T08:41:50Z"
   }
  ]
 }

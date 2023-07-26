@@ -4,6 +4,15 @@
  "sortKey": "2023-29",
  "items": [
   {
+   "item_id": "527388931",
+   "given_url": "https://en.m.wikipedia.org/wiki/Kotodama",
+   "given_title": "Kotodama - Wikipedia",
+   "resolved_title": "Kotodama",
+   "resolved_url": "https://en.wikipedia.org/wiki/Kotodama",
+   "time_updated": "2023-07-22T23:42:07Z",
+   "time_added": "2023-07-22T23:42:07Z"
+  },
+  {
    "item_id": "3905332232",
    "given_url": "https://www.brasil247.com/blog/as-boas-vindas-a-marcia-tiburi-de-volta-de-seu-auto-exilio",
    "given_title": "As boas-vindas a Marcia Tiburi de volta de seu auto-exílio - Hildegard Ange",
@@ -13,22 +22,22 @@
    "time_added": "2023-07-19T14:57:11Z"
   },
   {
-   "item_id": "3907585289",
-   "given_url": "https://www.naturezaeconservacao.eco.br/2016/08/jacu-bird-coffee-cafe-produzido-partir.html?m=1",
-   "given_title": "Jacu Bird Coffee, café produzido a partir das fezes da ave ganha o mundo - ",
-   "resolved_title": "Jacu Bird Coffee, café produzido a partir das fezes da ave ganha o mundo",
-   "resolved_url": "https://www.naturezaeconservacao.eco.br/2016/08/jacu-bird-coffee-cafe-produzido-partir.html",
-   "time_updated": "2023-07-22T15:34:25Z",
-   "time_added": "2023-07-22T15:34:23Z"
+   "item_id": "3906337455",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Conjectura_de_Collatz",
+   "given_title": "Conjectura de Collatz – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Conjectura de Collatz",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Conjectura_de_Collatz",
+   "time_updated": "2023-07-20T07:46:19Z",
+   "time_added": "2023-07-20T07:46:18Z"
   },
   {
-   "item_id": "155576354",
-   "given_url": "https://en.m.wikipedia.org/wiki/Chicago_Tylenol_murders",
-   "given_title": "Chicago Tylenol murders - Wikipedia",
-   "resolved_title": "Chicago Tylenol murders",
-   "resolved_url": "https://en.wikipedia.org/wiki/Chicago_Tylenol_murders",
-   "time_updated": "2023-07-22T23:41:49Z",
-   "time_added": "2023-07-22T23:41:49Z"
+   "item_id": "659727227",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Kopi_Luwak",
+   "given_title": "Kopi Luwak – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Kopi Luwak",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Kopi_Luwak",
+   "time_updated": "2023-07-22T15:32:32Z",
+   "time_added": "2023-07-22T15:32:31Z"
   },
   {
    "item_id": "1983147693",
@@ -40,51 +49,6 @@
    "time_added": "2023-07-23T11:02:07Z"
   },
   {
-   "item_id": "3908052477",
-   "given_url": "https://m.youtube.com/watch?v=rKN5UTcH6RI",
-   "given_title": "YouTube",
-   "resolved_title": "Mmm Ice Cream So Good",
-   "resolved_url": "http://www.youtube.com/watch?v=rKN5UTcH6RI",
-   "time_updated": "2023-07-23T16:36:25Z",
-   "time_added": "2023-07-23T16:36:23Z"
-  },
-  {
-   "item_id": "3906035233",
-   "given_url": "https://twitter.com/obrigahistoria/status/1681667958215528448",
-   "given_title": "(1) Prof. Icles Rodrigues - Podcast História FM no Twitter: \"Eu vou compart",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/obrigahistoria/status/1681667958215528448",
-   "time_updated": "2023-07-19T17:28:48Z",
-   "time_added": "2023-07-19T17:28:46Z"
-  },
-  {
-   "item_id": "3906387097",
-   "given_url": "https://expresso.pt/opiniao/2023-07-20-O-portugues-de-Portugal-esta-em-risco--91c0daeb",
-   "given_title": "O português de Portugal está em risco? - Expresso",
-   "resolved_title": "O português de Portugal está em risco?",
-   "resolved_url": "https://expresso.pt/opiniao/2023-07-20-O-portugues-de-Portugal-esta-em-risco--91c0daeb",
-   "time_updated": "2023-07-21T18:07:21Z",
-   "time_added": "2023-07-21T18:07:21Z"
-  },
-  {
-   "item_id": "3261448423",
-   "given_url": "https://observador.pt/opiniao/erradicar-o-portugues-ponto-de-situacao/",
-   "given_title": "Erradicar o Português: ponto de situação – Observador",
-   "resolved_title": "",
-   "resolved_url": "https://observador.pt/opiniao/erradicar-o-portugues-ponto-de-situacao/",
-   "time_updated": "2023-07-21T18:17:27Z",
-   "time_added": "2023-07-21T18:17:27Z"
-  },
-  {
-   "item_id": "264831572",
-   "given_url": "https://en.m.wikipedia.org/wiki/Unintended_consequences",
-   "given_title": "",
-   "resolved_title": "Unintended consequences",
-   "resolved_url": "https://en.wikipedia.org/wiki/Unintended_consequences",
-   "time_updated": "2023-07-22T23:14:30Z",
-   "time_added": "2023-07-22T23:14:30Z"
-  },
-  {
    "item_id": "1994140227",
    "given_url": "https://s2geometry.io/about/overview",
    "given_title": "Overview | S2Geometry",
@@ -94,22 +58,13 @@
    "time_added": "2023-07-23T15:16:07Z"
   },
   {
-   "item_id": "3908176518",
-   "given_url": "https://www.reddit.com/r/SteamDeck/comments/1574djq/comment/jt31cdk/?utm_source=share\u0026utm_medium=mweb3x\u0026utm_name=mweb3xcss\u0026utm_term=1\u0026utm_content=share_button",
-   "given_title": "",
-   "resolved_title": "Reddit - Dive into anything",
-   "resolved_url": "https://www.reddit.com/r/SteamDeck/comments/1574djq/comment/jt31cdk/",
-   "time_updated": "2023-07-23T22:52:03Z",
-   "time_added": "2023-07-23T22:52:02Z"
-  },
-  {
-   "item_id": "3905852975",
-   "given_url": "https://twitter.com/TaliaRinger/status/1681410191278080000",
-   "given_title": "Talia Ringer no Twitter: \"Terry Tao and I spoke over coffee for like two ho",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/TaliaRinger/status/1681410191278080000",
-   "time_updated": "2023-07-19T10:31:18Z",
-   "time_added": "2023-07-19T10:31:16Z"
+   "item_id": "3907585289",
+   "given_url": "https://www.naturezaeconservacao.eco.br/2016/08/jacu-bird-coffee-cafe-produzido-partir.html?m=1",
+   "given_title": "Jacu Bird Coffee, café produzido a partir das fezes da ave ganha o mundo - ",
+   "resolved_title": "Jacu Bird Coffee, café produzido a partir das fezes da ave ganha o mundo",
+   "resolved_url": "https://www.naturezaeconservacao.eco.br/2016/08/jacu-bird-coffee-cafe-produzido-partir.html",
+   "time_updated": "2023-07-22T15:34:25Z",
+   "time_added": "2023-07-22T15:34:23Z"
   },
   {
    "item_id": "1053050475",
@@ -121,76 +76,13 @@
    "time_added": "2023-07-22T23:13:42Z"
   },
   {
-   "item_id": "183812092",
-   "given_url": "https://en.m.wikipedia.org/wiki/Burakumin",
-   "given_title": "Burakumin - Wikipedia",
-   "resolved_title": "Burakumin",
-   "resolved_url": "https://en.wikipedia.org/wiki/Burakumin",
-   "time_updated": "2023-07-22T23:22:47Z",
-   "time_added": "2023-07-22T23:22:46Z"
-  },
-  {
-   "item_id": "3908021820",
-   "given_url": "https://twitter.com/EpiEllie/status/1683111735463387137",
-   "given_title": "Dr Ellie Murray, ScD no Twitter: \"People love to claim to we can’t change p",
+   "item_id": "3906035233",
+   "given_url": "https://twitter.com/obrigahistoria/status/1681667958215528448",
+   "given_title": "(1) Prof. Icles Rodrigues - Podcast História FM no Twitter: \"Eu vou compart",
    "resolved_title": "",
-   "resolved_url": "https://twitter.com/EpiEllie/status/1683111735463387137",
-   "time_updated": "2023-07-23T15:17:38Z",
-   "time_added": "2023-07-23T15:17:36Z"
-  },
-  {
-   "item_id": "3907474583",
-   "given_url": "https://twitter.com/UnseenJapanSite/status/1682410402775445504",
-   "given_title": "Unseen Japan no Twitter: \"It's often said that there are no swear words in ",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/UnseenJapanSite/status/1682410402775445504",
-   "time_updated": "2023-07-22T10:23:32Z",
-   "time_added": "2023-07-22T10:23:29Z"
-  },
-  {
-   "item_id": "3907549928",
-   "given_url": "https://twitter.com/napenape12/status/1678214553899876352?s=20",
-   "given_title": "Nape no Twitter: \"Hardest goal I have ever scored with tas #RocketLeague ht",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/napenape12/status/1678214553899876352?s=20",
-   "time_updated": "2023-07-22T14:05:19Z",
-   "time_added": "2023-07-22T14:05:17Z"
-  },
-  {
-   "item_id": "3907614725",
-   "given_url": "https://twitter.com/swyx/status/1682748872047886337",
-   "given_title": "swyx ♥️ ?? no Twitter: \"I think I first started talking about the \"Frontend",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/swyx/status/1682748872047886337",
-   "time_updated": "2023-07-22T16:53:22Z",
-   "time_added": "2023-07-22T16:53:21Z"
-  },
-  {
-   "item_id": "527388931",
-   "given_url": "https://en.m.wikipedia.org/wiki/Kotodama",
-   "given_title": "Kotodama - Wikipedia",
-   "resolved_title": "Kotodama",
-   "resolved_url": "https://en.wikipedia.org/wiki/Kotodama",
-   "time_updated": "2023-07-22T23:42:07Z",
-   "time_added": "2023-07-22T23:42:07Z"
-  },
-  {
-   "item_id": "3905605289",
-   "given_url": "https://twitter.com/justLV/status/1681377298308820992",
-   "given_title": "Justin Alvey no Twitter: \"I “jailbroke” a Google Nest Mini so that you can ",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/justLV/status/1681377298308820992",
-   "time_updated": "2023-07-19T15:19:01Z",
-   "time_added": "2023-07-19T15:19:01Z"
-  },
-  {
-   "item_id": "3906049564",
-   "given_url": "https://twitter.com/Leeeeeeite/status/1681327022340026371?t=l-jD27sdwg7O14Uf7J5hgQ\u0026s=08",
-   "given_title": "Manuel Freitas Leite no Twitter: \"Quando acho que já nada me surpreende, en",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/Leeeeeeite/status/1681327022340026371?t=l-jD27sdwg7O14Uf7J5hgQ\u0026s=08",
-   "time_updated": "2023-07-19T18:01:47Z",
-   "time_added": "2023-07-19T18:01:45Z"
+   "resolved_url": "https://twitter.com/obrigahistoria/status/1681667958215528448",
+   "time_updated": "2023-07-19T17:28:48Z",
+   "time_added": "2023-07-19T17:28:46Z"
   },
   {
    "item_id": "3904577536",
@@ -211,58 +103,31 @@
    "time_added": "2023-07-21T17:39:49Z"
   },
   {
-   "item_id": "659727227",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Kopi_Luwak",
-   "given_title": "Kopi Luwak – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Kopi Luwak",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Kopi_Luwak",
-   "time_updated": "2023-07-22T15:32:32Z",
-   "time_added": "2023-07-22T15:32:31Z"
-  },
-  {
-   "item_id": "831247317",
-   "given_url": "https://adnauseam.io/",
-   "given_title": "AdNauseam",
-   "resolved_title": "AdNauseam",
-   "resolved_url": "https://adnauseam.io",
-   "time_updated": "2023-07-23T07:38:45Z",
-   "time_added": "2023-07-23T07:38:44Z"
-  },
-  {
-   "item_id": "1160609735",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Ni%C3%A8de_Guidon",
-   "given_title": "Niède Guidon – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Niède Guidon",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Ni%C3%A8de_Guidon",
-   "time_updated": "2023-07-23T22:41:13Z",
-   "time_added": "2023-07-23T22:41:12Z"
-  },
-  {
-   "item_id": "3905843747",
-   "given_url": "https://gingamerch.com/",
-   "given_title": "GingaMerch",
-   "resolved_title": "GingaMerch",
-   "resolved_url": "https://gingamerch.com/",
-   "time_updated": "2023-07-19T10:07:31Z",
-   "time_added": "2023-07-19T10:07:30Z"
-  },
-  {
-   "item_id": "3905277988",
-   "given_url": "https://twitter.com/kareem_carr/status/1680946838302789634",
-   "given_title": "Kareem Carr | Data Scientist no Twitter: \"Struggling with math in the past ",
+   "item_id": "3905605289",
+   "given_url": "https://twitter.com/justLV/status/1681377298308820992",
+   "given_title": "Justin Alvey no Twitter: \"I “jailbroke” a Google Nest Mini so that you can ",
    "resolved_title": "",
-   "resolved_url": "https://twitter.com/kareem_carr/status/1680946838302789634",
-   "time_updated": "2023-07-19T13:44:28Z",
-   "time_added": "2023-07-19T13:44:28Z"
+   "resolved_url": "https://twitter.com/justLV/status/1681377298308820992",
+   "time_updated": "2023-07-19T15:19:01Z",
+   "time_added": "2023-07-19T15:19:01Z"
   },
   {
-   "item_id": "3905696366",
-   "given_url": "https://noticias.uol.com.br/politica/ultimas-noticias/2023/07/18/conversas-de-lula-e-dilma-com-correa-foram-espionadas-pela-cia-diz-jornal.htm",
-   "given_title": "CIA espionou conversas de Rafael Correa com Lula e Dilma, diz jornal",
-   "resolved_title": "CIA espionou conversas de Rafael Correa com Lula e Dilma, diz jornal",
-   "resolved_url": "https://noticias.uol.com.br/politica/ultimas-noticias/2023/07/18/conversas-de-lula-e-dilma-com-correa-foram-espionadas-pela-cia-diz-jornal.htm",
-   "time_updated": "2023-07-21T12:26:44Z",
-   "time_added": "2023-07-21T12:26:42Z"
+   "item_id": "3906091084",
+   "given_url": "https://www.youtube.com/watch?v=QEJjVkh9fBY",
+   "given_title": "(2) 5 NEN 3 KUMI MAHOGUMI (Episode 1) - YouTube",
+   "resolved_title": "5 NEN 3 KUMI MAHOGUMI (Episode 1)",
+   "resolved_url": "https://www.youtube.com/watch?v=QEJjVkh9fBY",
+   "time_updated": "2023-07-19T19:47:54Z",
+   "time_added": "2023-07-19T19:47:53Z"
+  },
+  {
+   "item_id": "3907549928",
+   "given_url": "https://twitter.com/napenape12/status/1678214553899876352?s=20",
+   "given_title": "Nape no Twitter: \"Hardest goal I have ever scored with tas #RocketLeague ht",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/napenape12/status/1678214553899876352?s=20",
+   "time_updated": "2023-07-22T14:05:19Z",
+   "time_added": "2023-07-22T14:05:17Z"
   },
   {
    "item_id": "3907564012",
@@ -274,31 +139,85 @@
    "time_added": "2023-07-22T14:40:30Z"
   },
   {
-   "item_id": "54201299",
-   "given_url": "https://en.m.wikipedia.org/wiki/Glico_Morinaga_case",
-   "given_title": "Glico Morinaga case - Wikipedia",
-   "resolved_title": "Glico Morinaga case",
-   "resolved_url": "https://en.wikipedia.org/wiki/Glico_Morinaga_case",
-   "time_updated": "2023-07-22T23:39:23Z",
-   "time_added": "2023-07-22T23:39:23Z"
+   "item_id": "3908157539",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Mie",
+   "given_title": "Mie – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Mie",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Mie",
+   "time_updated": "2023-07-23T21:50:15Z",
+   "time_added": "2023-07-23T21:50:14Z"
   },
   {
-   "item_id": "3905850034",
-   "given_url": "https://twitter.com/TaliaRinger/status/1681411500832092160",
-   "given_title": "Talia Ringer no Twitter: \"Terry noted that he cannot visualize shapes and r",
+   "item_id": "3906049564",
+   "given_url": "https://twitter.com/Leeeeeeite/status/1681327022340026371?t=l-jD27sdwg7O14Uf7J5hgQ\u0026s=08",
+   "given_title": "Manuel Freitas Leite no Twitter: \"Quando acho que já nada me surpreende, en",
    "resolved_title": "",
-   "resolved_url": "https://twitter.com/TaliaRinger/status/1681411500832092160",
-   "time_updated": "2023-07-19T10:22:39Z",
-   "time_added": "2023-07-19T10:22:37Z"
+   "resolved_url": "https://twitter.com/Leeeeeeite/status/1681327022340026371?t=l-jD27sdwg7O14Uf7J5hgQ\u0026s=08",
+   "time_updated": "2023-07-19T18:01:47Z",
+   "time_added": "2023-07-19T18:01:45Z"
   },
   {
-   "item_id": "3906337455",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Conjectura_de_Collatz",
-   "given_title": "Conjectura de Collatz – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Conjectura de Collatz",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Conjectura_de_Collatz",
-   "time_updated": "2023-07-20T07:46:19Z",
-   "time_added": "2023-07-20T07:46:18Z"
+   "item_id": "3261448423",
+   "given_url": "https://observador.pt/opiniao/erradicar-o-portugues-ponto-de-situacao/",
+   "given_title": "Erradicar o Português: ponto de situação – Observador",
+   "resolved_title": "",
+   "resolved_url": "https://observador.pt/opiniao/erradicar-o-portugues-ponto-de-situacao/",
+   "time_updated": "2023-07-21T18:17:27Z",
+   "time_added": "2023-07-21T18:17:27Z"
+  },
+  {
+   "item_id": "3907474583",
+   "given_url": "https://twitter.com/UnseenJapanSite/status/1682410402775445504",
+   "given_title": "Unseen Japan no Twitter: \"It's often said that there are no swear words in ",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/UnseenJapanSite/status/1682410402775445504",
+   "time_updated": "2023-07-22T10:23:32Z",
+   "time_added": "2023-07-22T10:23:29Z"
+  },
+  {
+   "item_id": "3907614725",
+   "given_url": "https://twitter.com/swyx/status/1682748872047886337",
+   "given_title": "swyx ♥️ ?? no Twitter: \"I think I first started talking about the \"Frontend",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/swyx/status/1682748872047886337",
+   "time_updated": "2023-07-22T16:53:22Z",
+   "time_added": "2023-07-22T16:53:21Z"
+  },
+  {
+   "item_id": "831247317",
+   "given_url": "https://adnauseam.io/",
+   "given_title": "AdNauseam",
+   "resolved_title": "AdNauseam",
+   "resolved_url": "https://adnauseam.io",
+   "time_updated": "2023-07-23T07:38:45Z",
+   "time_added": "2023-07-23T07:38:44Z"
+  },
+  {
+   "item_id": "3908052477",
+   "given_url": "https://m.youtube.com/watch?v=rKN5UTcH6RI",
+   "given_title": "YouTube",
+   "resolved_title": "Mmm Ice Cream So Good",
+   "resolved_url": "http://www.youtube.com/watch?v=rKN5UTcH6RI",
+   "time_updated": "2023-07-23T16:36:25Z",
+   "time_added": "2023-07-23T16:36:23Z"
+  },
+  {
+   "item_id": "1160609735",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Ni%C3%A8de_Guidon",
+   "given_title": "Niède Guidon – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Niède Guidon",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Ni%C3%A8de_Guidon",
+   "time_updated": "2023-07-23T22:41:13Z",
+   "time_added": "2023-07-23T22:41:12Z"
+  },
+  {
+   "item_id": "3905277988",
+   "given_url": "https://twitter.com/kareem_carr/status/1680946838302789634",
+   "given_title": "Kareem Carr | Data Scientist no Twitter: \"Struggling with math in the past ",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/kareem_carr/status/1680946838302789634",
+   "time_updated": "2023-07-19T13:44:28Z",
+   "time_added": "2023-07-19T13:44:28Z"
   },
   {
    "item_id": "3906198785",
@@ -310,22 +229,76 @@
    "time_added": "2023-07-20T18:11:39Z"
   },
   {
-   "item_id": "3908157539",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Mie",
-   "given_title": "Mie – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Mie",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Mie",
-   "time_updated": "2023-07-23T21:50:15Z",
-   "time_added": "2023-07-23T21:50:14Z"
+   "item_id": "3906387097",
+   "given_url": "https://expresso.pt/opiniao/2023-07-20-O-portugues-de-Portugal-esta-em-risco--91c0daeb",
+   "given_title": "O português de Portugal está em risco? - Expresso",
+   "resolved_title": "O português de Portugal está em risco?",
+   "resolved_url": "https://expresso.pt/opiniao/2023-07-20-O-portugues-de-Portugal-esta-em-risco--91c0daeb",
+   "time_updated": "2023-07-21T18:07:21Z",
+   "time_added": "2023-07-21T18:07:21Z"
   },
   {
-   "item_id": "3906091084",
-   "given_url": "https://www.youtube.com/watch?v=QEJjVkh9fBY",
-   "given_title": "(2) 5 NEN 3 KUMI MAHOGUMI (Episode 1) - YouTube",
-   "resolved_title": "5 NEN 3 KUMI MAHOGUMI (Episode 1)",
-   "resolved_url": "https://www.youtube.com/watch?v=QEJjVkh9fBY",
-   "time_updated": "2023-07-19T19:47:54Z",
-   "time_added": "2023-07-19T19:47:53Z"
+   "item_id": "54201299",
+   "given_url": "https://en.m.wikipedia.org/wiki/Glico_Morinaga_case",
+   "given_title": "Glico Morinaga case - Wikipedia",
+   "resolved_title": "Glico Morinaga case",
+   "resolved_url": "https://en.wikipedia.org/wiki/Glico_Morinaga_case",
+   "time_updated": "2023-07-22T23:39:23Z",
+   "time_added": "2023-07-22T23:39:23Z"
+  },
+  {
+   "item_id": "155576354",
+   "given_url": "https://en.m.wikipedia.org/wiki/Chicago_Tylenol_murders",
+   "given_title": "Chicago Tylenol murders - Wikipedia",
+   "resolved_title": "Chicago Tylenol murders",
+   "resolved_url": "https://en.wikipedia.org/wiki/Chicago_Tylenol_murders",
+   "time_updated": "2023-07-22T23:41:49Z",
+   "time_added": "2023-07-22T23:41:49Z"
+  },
+  {
+   "item_id": "3908021820",
+   "given_url": "https://twitter.com/EpiEllie/status/1683111735463387137",
+   "given_title": "Dr Ellie Murray, ScD no Twitter: \"People love to claim to we can’t change p",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/EpiEllie/status/1683111735463387137",
+   "time_updated": "2023-07-23T15:17:38Z",
+   "time_added": "2023-07-23T15:17:36Z"
+  },
+  {
+   "item_id": "3908176518",
+   "given_url": "https://www.reddit.com/r/SteamDeck/comments/1574djq/comment/jt31cdk/?utm_source=share\u0026utm_medium=mweb3x\u0026utm_name=mweb3xcss\u0026utm_term=1\u0026utm_content=share_button",
+   "given_title": "",
+   "resolved_title": "Reddit - Dive into anything",
+   "resolved_url": "https://www.reddit.com/r/SteamDeck/comments/1574djq/comment/jt31cdk/",
+   "time_updated": "2023-07-23T22:52:03Z",
+   "time_added": "2023-07-23T22:52:02Z"
+  },
+  {
+   "item_id": "3905696366",
+   "given_url": "https://noticias.uol.com.br/politica/ultimas-noticias/2023/07/18/conversas-de-lula-e-dilma-com-correa-foram-espionadas-pela-cia-diz-jornal.htm",
+   "given_title": "CIA espionou conversas de Rafael Correa com Lula e Dilma, diz jornal",
+   "resolved_title": "CIA espionou conversas de Rafael Correa com Lula e Dilma, diz jornal",
+   "resolved_url": "https://noticias.uol.com.br/politica/ultimas-noticias/2023/07/18/conversas-de-lula-e-dilma-com-correa-foram-espionadas-pela-cia-diz-jornal.htm",
+   "time_updated": "2023-07-21T12:26:44Z",
+   "time_added": "2023-07-21T12:26:42Z"
+  },
+  {
+   "item_id": "264831572",
+   "given_url": "https://en.m.wikipedia.org/wiki/Unintended_consequences",
+   "given_title": "",
+   "resolved_title": "Unintended consequences",
+   "resolved_url": "https://en.wikipedia.org/wiki/Unintended_consequences",
+   "time_updated": "2023-07-22T23:14:30Z",
+   "time_added": "2023-07-22T23:14:30Z"
+  },
+  {
+   "item_id": "183812092",
+   "given_url": "https://en.m.wikipedia.org/wiki/Burakumin",
+   "given_title": "Burakumin - Wikipedia",
+   "resolved_title": "Burakumin",
+   "resolved_url": "https://en.wikipedia.org/wiki/Burakumin",
+   "time_updated": "2023-07-22T23:22:47Z",
+   "time_added": "2023-07-22T23:22:46Z"
   }
  ]
 }

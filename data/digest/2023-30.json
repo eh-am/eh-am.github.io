@@ -4,15 +4,6 @@
  "sortKey": "2023-30",
  "items": [
   {
-   "item_id": "462537586",
-   "given_url": "https://pt.wikipedia.org/wiki/Glabela",
-   "given_title": "Glabela – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Glabela",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Glabela",
-   "time_updated": "2023-07-24T18:03:27Z",
-   "time_added": "2023-07-24T18:03:27Z"
-  },
-  {
    "item_id": "3908938638",
    "given_url": "https://developer.oculus.com/blog/platform-integrity-attestation-api-meta-quest-developer/?utm_source=social-Twitter\u0026utm_medium=mqd\u0026utm_campaign=organic\u0026utm_content=post-url\u0026utm_offering=news\u0026utm_product=_07242023\u0026eventSource=organicsocialmqd",
    "given_title": "Protect Your Apps with the New Platform Integrity Attestation API",
@@ -20,15 +11,6 @@
    "resolved_url": "https://developer.oculus.com/blog/platform-integrity-attestation-api-meta-quest-developer/?utm_source=social-Twitter\u0026utm_medium=mqd\u0026utm_campaign=organic\u0026utm_content=post-url\u0026utm_offering=news\u0026utm_product=_07242023\u0026eventSource=organicsocialmqd",
    "time_updated": "2023-07-25T09:43:52Z",
    "time_added": "2023-07-25T09:43:47Z"
-  },
-  {
-   "item_id": "3909448784",
-   "given_url": "https://twitter.com/RogerioCasanova/status/1683947549814673408",
-   "given_title": "Rogério Tomás Cupertino de Casanova no Twitter: \"peça sobre o fogo em Casca",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/RogerioCasanova/status/1683947549814673408",
-   "time_updated": "2023-07-26T07:43:50Z",
-   "time_added": "2023-07-26T07:43:48Z"
   },
   {
    "item_id": "977384736",
@@ -40,22 +22,94 @@
    "time_added": "2023-07-26T09:22:58Z"
   },
   {
-   "item_id": "3905264868",
-   "given_url": "https://cpu.land/",
-   "given_title": "Intro | Putting the \"You\" in CPU",
-   "resolved_title": "Putting the “You” in CPU",
-   "resolved_url": "https://cpu.land/",
-   "time_updated": "2023-07-24T09:58:00Z",
-   "time_added": "2023-07-24T09:58:00Z"
+   "item_id": "542945130",
+   "given_url": "https://www.salon.com/2014/02/09/dont_tell_the_kids_the_real_history_of_the_tooth_fairy/",
+   "given_title": "Don't tell the kids: The real history of the tooth fairy | Salon.com",
+   "resolved_title": "Don't tell the kids: The real history of the tooth fairy",
+   "resolved_url": "https://www.salon.com/2014/02/09/dont_tell_the_kids_the_real_history_of_the_tooth_fairy/",
+   "time_updated": "2023-07-26T13:17:16Z",
+   "time_added": "2023-07-26T13:17:15Z"
   },
   {
-   "item_id": "3213469181",
-   "given_url": "https://www.ldao.ca/introduction-to-ldsadhd/articles/about-issues-specific-to-adults-with-lds/adults-with-visual-spatial-learning-disabilities/",
-   "given_title": "Adults With Visual-Spatial Learning Disabilities – Learning Disabilities As",
-   "resolved_title": "Adults With Visual-Spatial Learning Disabilities",
-   "resolved_url": "https://www.ldao.ca/introduction-to-ldsadhd/articles/about-issues-specific-to-adults-with-lds/adults-with-visual-spatial-learning-disabilities/",
-   "time_updated": "2023-07-24T15:00:31Z",
-   "time_added": "2023-07-24T15:00:31Z"
+   "item_id": "3758426892",
+   "given_url": "https://everyday-data-science.tigyog.app/time-series",
+   "given_title": "Time Series | Everyday Data Science",
+   "resolved_title": "Time Series",
+   "resolved_url": "https://everyday-data-science.tigyog.app/time-series",
+   "time_updated": "2023-07-26T15:45:13Z",
+   "time_added": "2023-07-26T15:45:12Z"
+  },
+  {
+   "item_id": "3531298764",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Sati",
+   "given_title": "Sati – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Sati",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Sati",
+   "time_updated": "2023-07-25T23:50:13Z",
+   "time_added": "2023-07-25T23:50:13Z"
+  },
+  {
+   "item_id": "3909571699",
+   "given_url": "https://twitter.com/procurasedevs/status/1683894740708622343",
+   "given_title": "psicoloka no Twitter: \"coisas que eu aprendi na aula de psicologia do sono ",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/procurasedevs/status/1683894740708622343",
+   "time_updated": "2023-07-26T12:44:54Z",
+   "time_added": "2023-07-26T12:44:51Z"
+  },
+  {
+   "item_id": "462537586",
+   "given_url": "https://pt.wikipedia.org/wiki/Glabela",
+   "given_title": "Glabela – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Glabela",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Glabela",
+   "time_updated": "2023-07-24T18:03:27Z",
+   "time_added": "2023-07-24T18:03:27Z"
+  },
+  {
+   "item_id": "3909206648",
+   "given_url": "https://www.dexerto.com/gaming/how-does-vaudeville-work-ai-murder-mystery-game-explained-2216792/",
+   "given_title": "",
+   "resolved_title": "How does Vaudeville work? AI murder mystery game explained",
+   "resolved_url": "https://www.dexerto.com/gaming/how-does-vaudeville-work-ai-murder-mystery-game-explained-2216792/",
+   "time_updated": "2023-07-25T19:54:26Z",
+   "time_added": "2023-07-25T19:54:24Z"
+  },
+  {
+   "item_id": "3909626232",
+   "given_url": "https://remix.run/docs/en/main/tutorials/jokes#set-up-prisma",
+   "given_title": "App Tutorial (long) | Remix",
+   "resolved_title": "",
+   "resolved_url": "https://remix.run/docs/en/main/tutorials/jokes#set-up-prisma",
+   "time_updated": "2023-07-26T14:38:18Z",
+   "time_added": "2023-07-26T14:38:18Z"
+  },
+  {
+   "item_id": "1997386735",
+   "given_url": "https://bigmachine.io/products/a-curious-moon/",
+   "given_title": "A Curious Moon | Big Machine",
+   "resolved_title": "A Curious Moon",
+   "resolved_url": "https://bigmachine.io/products/a-curious-moon/",
+   "time_updated": "2023-07-26T15:45:14Z",
+   "time_added": "2023-07-26T15:45:14Z"
+  },
+  {
+   "item_id": "3905524782",
+   "given_url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-introduces-legislation-to-establish-national-strategy-to-combat-loneliness-promote-social-connection",
+   "given_title": "Murphy Introduces Legislation to Establish National Strategy to Combat Lone",
+   "resolved_title": "Murphy Introduces Legislation to Establish National Strategy to Combat Loneliness, Promote Social Connection",
+   "resolved_url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-introduces-legislation-to-establish-national-strategy-to-combat-loneliness-promote-social-connection",
+   "time_updated": "2023-07-26T18:26:21Z",
+   "time_added": "2023-07-26T18:26:20Z"
+  },
+  {
+   "item_id": "3909649474",
+   "given_url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+   "given_title": "Cultivating a state of mind where new ideas are born",
+   "resolved_title": "Cultivating a state of mind where new ideas are born",
+   "resolved_url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+   "time_updated": "2023-07-26T22:36:03Z",
+   "time_added": "2023-07-26T22:36:02Z"
   },
   {
    "item_id": "3317723458",
@@ -76,22 +130,13 @@
    "time_added": "2023-07-24T18:03:58Z"
   },
   {
-   "item_id": "3909224865",
-   "given_url": "https://www.uol.com.br/esporte/colunas/saque-e-voleio/2023/07/25/sobre-alcaraz-carisma-e-calendario.htm",
-   "given_title": "Sobre Alcaraz, carisma e calendário",
-   "resolved_title": "Sobre Alcaraz, carisma e calendário",
-   "resolved_url": "https://www.uol.com.br/esporte/colunas/saque-e-voleio/2023/07/25/sobre-alcaraz-carisma-e-calendario.htm",
-   "time_updated": "2023-07-25T20:39:33Z",
-   "time_added": "2023-07-25T20:39:31Z"
-  },
-  {
-   "item_id": "3531298764",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Sati",
-   "given_title": "Sati – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Sati",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Sati",
-   "time_updated": "2023-07-25T23:50:13Z",
-   "time_added": "2023-07-25T23:50:13Z"
+   "item_id": "3905988253",
+   "given_url": "https://www.discoursemagazine.com/abundance/2023/07/19/where-did-our-belief-in-abundance-come-from/",
+   "given_title": "Where Did Our Belief in Abundance Come From? - Discourse",
+   "resolved_title": "Where Did Our Belief in Abundance Come From?",
+   "resolved_url": "https://www.discoursemagazine.com/abundance/2023/07/19/where-did-our-belief-in-abundance-come-from/",
+   "time_updated": "2023-07-26T08:41:51Z",
+   "time_added": "2023-07-26T08:41:50Z"
   },
   {
    "item_id": "3844879527",
@@ -103,22 +148,40 @@
    "time_added": "2023-07-24T09:25:07Z"
   },
   {
-   "item_id": "3909206648",
-   "given_url": "https://www.dexerto.com/gaming/how-does-vaudeville-work-ai-murder-mystery-game-explained-2216792/",
-   "given_title": "",
-   "resolved_title": "How does Vaudeville work? AI murder mystery game explained",
-   "resolved_url": "https://www.dexerto.com/gaming/how-does-vaudeville-work-ai-murder-mystery-game-explained-2216792/",
-   "time_updated": "2023-07-25T19:54:26Z",
-   "time_added": "2023-07-25T19:54:24Z"
+   "item_id": "3905264868",
+   "given_url": "https://cpu.land/",
+   "given_title": "Intro | Putting the \"You\" in CPU",
+   "resolved_title": "Putting the “You” in CPU",
+   "resolved_url": "https://cpu.land/",
+   "time_updated": "2023-07-24T09:58:00Z",
+   "time_added": "2023-07-24T09:58:00Z"
   },
   {
-   "item_id": "3905988253",
-   "given_url": "https://www.discoursemagazine.com/abundance/2023/07/19/where-did-our-belief-in-abundance-come-from/",
-   "given_title": "Where Did Our Belief in Abundance Come From? - Discourse",
-   "resolved_title": "Where Did Our Belief in Abundance Come From?",
-   "resolved_url": "https://www.discoursemagazine.com/abundance/2023/07/19/where-did-our-belief-in-abundance-come-from/",
-   "time_updated": "2023-07-26T08:41:51Z",
-   "time_added": "2023-07-26T08:41:50Z"
+   "item_id": "3213469181",
+   "given_url": "https://www.ldao.ca/introduction-to-ldsadhd/articles/about-issues-specific-to-adults-with-lds/adults-with-visual-spatial-learning-disabilities/",
+   "given_title": "Adults With Visual-Spatial Learning Disabilities – Learning Disabilities As",
+   "resolved_title": "Adults With Visual-Spatial Learning Disabilities",
+   "resolved_url": "https://www.ldao.ca/introduction-to-ldsadhd/articles/about-issues-specific-to-adults-with-lds/adults-with-visual-spatial-learning-disabilities/",
+   "time_updated": "2023-07-24T15:00:31Z",
+   "time_added": "2023-07-24T15:00:31Z"
+  },
+  {
+   "item_id": "3909448784",
+   "given_url": "https://twitter.com/RogerioCasanova/status/1683947549814673408",
+   "given_title": "Rogério Tomás Cupertino de Casanova no Twitter: \"peça sobre o fogo em Casca",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/RogerioCasanova/status/1683947549814673408",
+   "time_updated": "2023-07-26T07:43:50Z",
+   "time_added": "2023-07-26T07:43:48Z"
+  },
+  {
+   "item_id": "3909224865",
+   "given_url": "https://www.uol.com.br/esporte/colunas/saque-e-voleio/2023/07/25/sobre-alcaraz-carisma-e-calendario.htm",
+   "given_title": "Sobre Alcaraz, carisma e calendário",
+   "resolved_title": "Sobre Alcaraz, carisma e calendário",
+   "resolved_url": "https://www.uol.com.br/esporte/colunas/saque-e-voleio/2023/07/25/sobre-alcaraz-carisma-e-calendario.htm",
+   "time_updated": "2023-07-25T20:39:33Z",
+   "time_added": "2023-07-25T20:39:31Z"
   }
  ]
 }

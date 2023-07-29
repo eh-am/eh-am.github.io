@@ -4,13 +4,31 @@
  "sortKey": "2023-30",
  "items": [
   {
-   "item_id": "542945130",
-   "given_url": "https://www.salon.com/2014/02/09/dont_tell_the_kids_the_real_history_of_the_tooth_fairy/",
-   "given_title": "Don't tell the kids: The real history of the tooth fairy | Salon.com",
-   "resolved_title": "Don't tell the kids: The real history of the tooth fairy",
-   "resolved_url": "https://www.salon.com/2014/02/09/dont_tell_the_kids_the_real_history_of_the_tooth_fairy/",
-   "time_updated": "2023-07-26T13:17:16Z",
-   "time_added": "2023-07-26T13:17:15Z"
+   "item_id": "3461412684",
+   "given_url": "https://en.m.wikipedia.org/wiki/The_Food_of_the_Gods_(short_story)",
+   "given_title": "The Food of the Gods (short story) - Wikipedia",
+   "resolved_title": "The Food of the Gods (short story)",
+   "resolved_url": "https://en.wikipedia.org/wiki/The_Food_of_the_Gods_(short_story)",
+   "time_updated": "2023-07-28T17:50:44Z",
+   "time_added": "2023-07-28T17:50:44Z"
+  },
+  {
+   "item_id": "462537586",
+   "given_url": "https://pt.wikipedia.org/wiki/Glabela",
+   "given_title": "Glabela – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Glabela",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Glabela",
+   "time_updated": "2023-07-24T18:03:27Z",
+   "time_added": "2023-07-24T18:03:27Z"
+  },
+  {
+   "item_id": "3908938638",
+   "given_url": "https://developer.oculus.com/blog/platform-integrity-attestation-api-meta-quest-developer/?utm_source=social-Twitter\u0026utm_medium=mqd\u0026utm_campaign=organic\u0026utm_content=post-url\u0026utm_offering=news\u0026utm_product=_07242023\u0026eventSource=organicsocialmqd",
+   "given_title": "Protect Your Apps with the New Platform Integrity Attestation API",
+   "resolved_title": "",
+   "resolved_url": "https://developer.oculus.com/blog/platform-integrity-attestation-api-meta-quest-developer/?utm_source=social-Twitter\u0026utm_medium=mqd\u0026utm_campaign=organic\u0026utm_content=post-url\u0026utm_offering=news\u0026utm_product=_07242023\u0026eventSource=organicsocialmqd",
+   "time_updated": "2023-07-25T09:43:52Z",
+   "time_added": "2023-07-25T09:43:47Z"
   },
   {
    "item_id": "3910019340",
@@ -22,6 +40,42 @@
    "time_added": "2023-07-27T08:21:37Z"
   },
   {
+   "item_id": "3729546800",
+   "given_url": "https://www.cascada.travel/blog/the-truth-about-patagonia-s-giants",
+   "given_title": "The Truth About Patagonia's Giants",
+   "resolved_title": "The Truth About Patagonia's Giants",
+   "resolved_url": "https://www.cascada.travel/blog/the-truth-about-patagonia-s-giants",
+   "time_updated": "2023-07-28T23:44:57Z",
+   "time_added": "2023-07-28T23:44:57Z"
+  },
+  {
+   "item_id": "3905264868",
+   "given_url": "https://cpu.land/",
+   "given_title": "Intro | Putting the \"You\" in CPU",
+   "resolved_title": "Putting the “You” in CPU",
+   "resolved_url": "https://cpu.land/",
+   "time_updated": "2023-07-24T09:58:00Z",
+   "time_added": "2023-07-24T09:58:00Z"
+  },
+  {
+   "item_id": "3835617931",
+   "given_url": "https://bitfieldconsulting.com/golang/adapter",
+   "given_title": "The adapter pattern in Go — Bitfield Consulting",
+   "resolved_title": "The adapter pattern in Go — Bitfield Consulting",
+   "resolved_url": "https://bitfieldconsulting.com/golang/adapter",
+   "time_updated": "2023-07-27T10:55:56Z",
+   "time_added": "2023-07-27T10:55:56Z"
+  },
+  {
+   "item_id": "69200289",
+   "given_url": "https://en.m.wikipedia.org/wiki/Ahimsa",
+   "given_title": "Ahimsa - Wikipedia",
+   "resolved_title": "Ahimsa",
+   "resolved_url": "https://en.wikipedia.org/wiki/Ahimsa",
+   "time_updated": "2023-07-28T17:45:25Z",
+   "time_added": "2023-07-28T17:45:25Z"
+  },
+  {
    "item_id": "3909448784",
    "given_url": "https://twitter.com/RogerioCasanova/status/1683947549814673408",
    "given_title": "Rogério Tomás Cupertino de Casanova no Twitter: \"peça sobre o fogo em Casca",
@@ -29,6 +83,132 @@
    "resolved_url": "https://twitter.com/RogerioCasanova/status/1683947549814673408",
    "time_updated": "2023-07-26T07:43:50Z",
    "time_added": "2023-07-26T07:43:48Z"
+  },
+  {
+   "item_id": "3909571699",
+   "given_url": "https://twitter.com/procurasedevs/status/1683894740708622343",
+   "given_title": "psicoloka no Twitter: \"coisas que eu aprendi na aula de psicologia do sono ",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/procurasedevs/status/1683894740708622343",
+   "time_updated": "2023-07-26T12:44:54Z",
+   "time_added": "2023-07-26T12:44:51Z"
+  },
+  {
+   "item_id": "542945130",
+   "given_url": "https://www.salon.com/2014/02/09/dont_tell_the_kids_the_real_history_of_the_tooth_fairy/",
+   "given_title": "Don't tell the kids: The real history of the tooth fairy | Salon.com",
+   "resolved_title": "Don't tell the kids: The real history of the tooth fairy",
+   "resolved_url": "https://www.salon.com/2014/02/09/dont_tell_the_kids_the_real_history_of_the_tooth_fairy/",
+   "time_updated": "2023-07-26T13:17:16Z",
+   "time_added": "2023-07-26T13:17:15Z"
+  },
+  {
+   "item_id": "3531298764",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Sati",
+   "given_title": "Sati – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Sati",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Sati",
+   "time_updated": "2023-07-25T23:50:13Z",
+   "time_added": "2023-07-25T23:50:13Z"
+  },
+  {
+   "item_id": "3905988253",
+   "given_url": "https://www.discoursemagazine.com/abundance/2023/07/19/where-did-our-belief-in-abundance-come-from/",
+   "given_title": "Where Did Our Belief in Abundance Come From? - Discourse",
+   "resolved_title": "Where Did Our Belief in Abundance Come From?",
+   "resolved_url": "https://www.discoursemagazine.com/abundance/2023/07/19/where-did-our-belief-in-abundance-come-from/",
+   "time_updated": "2023-07-26T08:41:51Z",
+   "time_added": "2023-07-26T08:41:50Z"
+  },
+  {
+   "item_id": "3844879527",
+   "given_url": "https://ge.globo.com/sp/tem-esporte/futebol/noticia/2023/04/12/clube-e-primeiras-tacas-de-diniz-campeao-sumiram-se-voce-descobrir-algo-me-avise.ghtml",
+   "given_title": "Clube e primeiras taças de Diniz campeão sumiram: \"Se você descobrir algo, ",
+   "resolved_title": "Clube e primeiras taças de Diniz campeão sumiram: \"Se você descobrir algo, me avise\"",
+   "resolved_url": "https://ge.globo.com/sp/tem-esporte/futebol/noticia/2023/04/12/clube-e-primeiras-tacas-de-diniz-campeao-sumiram-se-voce-descobrir-algo-me-avise.ghtml",
+   "time_updated": "2023-07-24T09:25:07Z",
+   "time_added": "2023-07-24T09:25:07Z"
+  },
+  {
+   "item_id": "3213469181",
+   "given_url": "https://www.ldao.ca/introduction-to-ldsadhd/articles/about-issues-specific-to-adults-with-lds/adults-with-visual-spatial-learning-disabilities/",
+   "given_title": "Adults With Visual-Spatial Learning Disabilities – Learning Disabilities As",
+   "resolved_title": "Adults With Visual-Spatial Learning Disabilities",
+   "resolved_url": "https://www.ldao.ca/introduction-to-ldsadhd/articles/about-issues-specific-to-adults-with-lds/adults-with-visual-spatial-learning-disabilities/",
+   "time_updated": "2023-07-24T15:00:31Z",
+   "time_added": "2023-07-24T15:00:31Z"
+  },
+  {
+   "item_id": "1997386735",
+   "given_url": "https://bigmachine.io/products/a-curious-moon/",
+   "given_title": "A Curious Moon | Big Machine",
+   "resolved_title": "A Curious Moon",
+   "resolved_url": "https://bigmachine.io/products/a-curious-moon/",
+   "time_updated": "2023-07-26T15:45:14Z",
+   "time_added": "2023-07-26T15:45:14Z"
+  },
+  {
+   "item_id": "99281000",
+   "given_url": "https://en.m.wikipedia.org/wiki/Matthew_effect",
+   "given_title": "Matthew effect - Wikipedia",
+   "resolved_title": "Matthew effect",
+   "resolved_url": "https://en.wikipedia.org/wiki/Matthew_effect",
+   "time_updated": "2023-07-28T20:01:56Z",
+   "time_added": "2023-07-28T20:01:56Z"
+  },
+  {
+   "item_id": "3909224865",
+   "given_url": "https://www.uol.com.br/esporte/colunas/saque-e-voleio/2023/07/25/sobre-alcaraz-carisma-e-calendario.htm",
+   "given_title": "Sobre Alcaraz, carisma e calendário",
+   "resolved_title": "Sobre Alcaraz, carisma e calendário",
+   "resolved_url": "https://www.uol.com.br/esporte/colunas/saque-e-voleio/2023/07/25/sobre-alcaraz-carisma-e-calendario.htm",
+   "time_updated": "2023-07-25T20:39:33Z",
+   "time_added": "2023-07-25T20:39:31Z"
+  },
+  {
+   "item_id": "2689721615",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Janela_de_Overton",
+   "given_title": "Janela de Overton – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Janela de Overton",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Janela_de_Overton",
+   "time_updated": "2023-07-27T11:13:07Z",
+   "time_added": "2023-07-27T11:13:06Z"
+  },
+  {
+   "item_id": "3909702597",
+   "given_url": "https://www.science.org/content/blog-post/breaking-superconductor-news",
+   "given_title": "Breaking Superconductor News | Science | AAAS",
+   "resolved_title": "",
+   "resolved_url": "https://www.science.org/content/blog-post/breaking-superconductor-news",
+   "time_updated": "2023-07-28T09:26:56Z",
+   "time_added": "2023-07-28T09:26:56Z"
+  },
+  {
+   "item_id": "3905524782",
+   "given_url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-introduces-legislation-to-establish-national-strategy-to-combat-loneliness-promote-social-connection",
+   "given_title": "Murphy Introduces Legislation to Establish National Strategy to Combat Lone",
+   "resolved_title": "Murphy Introduces Legislation to Establish National Strategy to Combat Loneliness, Promote Social Connection",
+   "resolved_url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-introduces-legislation-to-establish-national-strategy-to-combat-loneliness-promote-social-connection",
+   "time_updated": "2023-07-26T18:26:21Z",
+   "time_added": "2023-07-26T18:26:20Z"
+  },
+  {
+   "item_id": "3909626232",
+   "given_url": "https://remix.run/docs/en/main/tutorials/jokes#set-up-prisma",
+   "given_title": "App Tutorial (long) | Remix",
+   "resolved_title": "",
+   "resolved_url": "https://remix.run/docs/en/main/tutorials/jokes#set-up-prisma",
+   "time_updated": "2023-07-26T14:38:18Z",
+   "time_added": "2023-07-26T14:38:18Z"
+  },
+  {
+   "item_id": "3909649474",
+   "given_url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+   "given_title": "Cultivating a state of mind where new ideas are born",
+   "resolved_title": "Cultivating a state of mind where new ideas are born",
+   "resolved_url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+   "time_updated": "2023-07-26T22:36:03Z",
+   "time_added": "2023-07-26T22:36:02Z"
   },
   {
    "item_id": "3909786462",
@@ -40,24 +220,6 @@
    "time_added": "2023-07-27T08:24:23Z"
   },
   {
-   "item_id": "3910096576",
-   "given_url": "https://m.youtube.com/watch?v=EL_HYG3uXQg",
-   "given_title": "House Oversight Subcommittee Holds Hearing on UFOs - YouTube",
-   "resolved_title": "House Oversight Subcommittee Holds Hearing on UFOs",
-   "resolved_url": "http://www.youtube.com/watch?v=EL_HYG3uXQg",
-   "time_updated": "2023-07-27T11:28:18Z",
-   "time_added": "2023-07-27T11:28:16Z"
-  },
-  {
-   "item_id": "3910587957",
-   "given_url": "https://tab.uol.com.br/noticias/redacao/2023/07/28/a-guerra-dos-cogumelos-no-brasil.htm",
-   "given_title": "Cogumelos mágicos são vendidos livremente e causam guerra no Brasil",
-   "resolved_title": "Com ameaças, treta entre vendedores agita mercado de 'cogumelos mágicos'",
-   "resolved_url": "https://tab.uol.com.br/noticias/redacao/2023/07/28/a-guerra-dos-cogumelos-no-brasil.htm",
-   "time_updated": "2023-07-28T08:51:54Z",
-   "time_added": "2023-07-28T08:51:52Z"
-  },
-  {
    "item_id": "3910916039",
    "given_url": "https://www.jbox.com.br/2023/07/28/shin-kamen-rider-resenha/",
    "given_title": "Crítica | ‘Shin Kamen Rider’ é uma ode ao tokusatsu | JBox",
@@ -65,6 +227,60 @@
    "resolved_url": "https://www.jbox.com.br/2023/07/28/shin-kamen-rider-resenha/",
    "time_updated": "2023-07-28T22:30:16Z",
    "time_added": "2023-07-28T22:30:15Z"
+  },
+  {
+   "item_id": "3908611181",
+   "given_url": "http://dmitrysoshnikov.com/courses/transpiler-from-scratch/",
+   "given_title": "Building a Transpiler from scratch – Dmitry Soshnikov",
+   "resolved_title": "Building a Transpiler from scratch",
+   "resolved_url": "http://dmitrysoshnikov.com/courses/transpiler-from-scratch/",
+   "time_updated": "2023-07-24T18:04:04Z",
+   "time_added": "2023-07-24T18:03:58Z"
+  },
+  {
+   "item_id": "3909239975",
+   "given_url": "https://sciencecast.org/casts/suc384jly50n",
+   "given_title": "Science Cast",
+   "resolved_title": "Superconductor Pb$_{10-x}$Cu$_x$(PO$_4$)$_{6O}$ showing levitation at room temperature and atmospheric pressure and mechanism",
+   "resolved_url": "https://sciencecast.org/casts/suc384jly50n",
+   "time_updated": "2023-07-28T09:29:52Z",
+   "time_added": "2023-07-28T09:29:52Z"
+  },
+  {
+   "item_id": "3758426892",
+   "given_url": "https://everyday-data-science.tigyog.app/time-series",
+   "given_title": "Time Series | Everyday Data Science",
+   "resolved_title": "Time Series",
+   "resolved_url": "https://everyday-data-science.tigyog.app/time-series",
+   "time_updated": "2023-07-26T15:45:13Z",
+   "time_added": "2023-07-26T15:45:12Z"
+  },
+  {
+   "item_id": "3910855959",
+   "given_url": "https://www.ipma.pt/pt/pescas/eppo/dourada/",
+   "given_title": "IPMA - Dourada",
+   "resolved_title": "Dourada – Sparus aurata",
+   "resolved_url": "https://www.ipma.pt/pt/pescas/eppo/dourada/",
+   "time_updated": "2023-07-28T19:38:31Z",
+   "time_added": "2023-07-28T19:38:24Z"
+  },
+  {
+   "item_id": "3597770407",
+   "given_url": "https://www.youtube.com/watch?v=eiPhLu0ATMQ",
+   "given_title": "(19) How to use iPad as a Graphics Tablet | Sidecar Tutorial - YouTube",
+   "resolved_title": "How to use iPad as a Graphics Tablet | Sidecar Tutorial",
+   "resolved_url": "https://www.youtube.com/watch?v=eiPhLu0ATMQ",
+   "time_updated": "2023-07-27T10:43:29Z",
+   "time_added": "2023-07-27T10:43:29Z"
+  },
+  {
+   "item_id": "22238967",
+   "given_url": "https://en.wikipedia.org/wiki/Three_men_make_a_tiger",
+   "given_title": "Three men make a tiger - Wikipedia",
+   "resolved_title": "Three men make a tiger",
+   "resolved_url": "https://en.wikipedia.org/wiki/Three_men_make_a_tiger",
+   "time_updated": "2023-07-27T10:44:25Z",
+   "time_added": "2023-07-27T10:44:25Z"
   },
   {
    "item_id": "3909206648",
@@ -85,166 +301,31 @@
    "time_added": "2023-07-28T17:47:31Z"
   },
   {
-   "item_id": "3905264868",
-   "given_url": "https://cpu.land/",
-   "given_title": "Intro | Putting the \"You\" in CPU",
-   "resolved_title": "Putting the “You” in CPU",
-   "resolved_url": "https://cpu.land/",
-   "time_updated": "2023-07-24T09:58:00Z",
-   "time_added": "2023-07-24T09:58:00Z"
+   "item_id": "3317723458",
+   "given_url": "https://davidtruxall.com/misleading-cors-errors/",
+   "given_title": "Misleading CORS Errors – Dev Notes",
+   "resolved_title": "Misleading CORS Errors",
+   "resolved_url": "https://davidtruxall.com/misleading-cors-errors/",
+   "time_updated": "2023-07-24T18:02:07Z",
+   "time_added": "2023-07-24T18:02:07Z"
   },
   {
-   "item_id": "3213469181",
-   "given_url": "https://www.ldao.ca/introduction-to-ldsadhd/articles/about-issues-specific-to-adults-with-lds/adults-with-visual-spatial-learning-disabilities/",
-   "given_title": "Adults With Visual-Spatial Learning Disabilities – Learning Disabilities As",
-   "resolved_title": "Adults With Visual-Spatial Learning Disabilities",
-   "resolved_url": "https://www.ldao.ca/introduction-to-ldsadhd/articles/about-issues-specific-to-adults-with-lds/adults-with-visual-spatial-learning-disabilities/",
-   "time_updated": "2023-07-24T15:00:31Z",
-   "time_added": "2023-07-24T15:00:31Z"
+   "item_id": "3910587957",
+   "given_url": "https://tab.uol.com.br/noticias/redacao/2023/07/28/a-guerra-dos-cogumelos-no-brasil.htm",
+   "given_title": "Cogumelos mágicos são vendidos livremente e causam guerra no Brasil",
+   "resolved_title": "Com ameaças, treta entre vendedores agita mercado de 'cogumelos mágicos'",
+   "resolved_url": "https://tab.uol.com.br/noticias/redacao/2023/07/28/a-guerra-dos-cogumelos-no-brasil.htm",
+   "time_updated": "2023-07-28T08:51:54Z",
+   "time_added": "2023-07-28T08:51:52Z"
   },
   {
-   "item_id": "3531298764",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Sati",
-   "given_title": "Sati – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Sati",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Sati",
-   "time_updated": "2023-07-25T23:50:13Z",
-   "time_added": "2023-07-25T23:50:13Z"
-  },
-  {
-   "item_id": "3910935918",
-   "given_url": "https://m.youtube.com/watch?v=KSHYsA-PEsQ",
-   "given_title": "Giant Encounters in the Old Americas - YouTube",
-   "resolved_title": "Giant Encounters in the Old Americas",
-   "resolved_url": "http://www.youtube.com/watch?v=KSHYsA-PEsQ",
-   "time_updated": "2023-07-28T23:33:48Z",
-   "time_added": "2023-07-28T23:33:46Z"
-  },
-  {
-   "item_id": "22238967",
-   "given_url": "https://en.wikipedia.org/wiki/Three_men_make_a_tiger",
-   "given_title": "Three men make a tiger - Wikipedia",
-   "resolved_title": "Three men make a tiger",
-   "resolved_url": "https://en.wikipedia.org/wiki/Three_men_make_a_tiger",
-   "time_updated": "2023-07-27T10:44:25Z",
-   "time_added": "2023-07-27T10:44:25Z"
-  },
-  {
-   "item_id": "3909702597",
-   "given_url": "https://www.science.org/content/blog-post/breaking-superconductor-news",
-   "given_title": "Breaking Superconductor News | Science | AAAS",
-   "resolved_title": "",
-   "resolved_url": "https://www.science.org/content/blog-post/breaking-superconductor-news",
-   "time_updated": "2023-07-28T09:26:56Z",
-   "time_added": "2023-07-28T09:26:56Z"
-  },
-  {
-   "item_id": "3909239975",
-   "given_url": "https://sciencecast.org/casts/suc384jly50n",
-   "given_title": "Science Cast",
-   "resolved_title": "Superconductor Pb$_{10-x}$Cu$_x$(PO$_4$)$_{6O}$ showing levitation at room temperature and atmospheric pressure and mechanism",
-   "resolved_url": "https://sciencecast.org/casts/suc384jly50n",
-   "time_updated": "2023-07-28T09:29:52Z",
-   "time_added": "2023-07-28T09:29:52Z"
-  },
-  {
-   "item_id": "3844879527",
-   "given_url": "https://ge.globo.com/sp/tem-esporte/futebol/noticia/2023/04/12/clube-e-primeiras-tacas-de-diniz-campeao-sumiram-se-voce-descobrir-algo-me-avise.ghtml",
-   "given_title": "Clube e primeiras taças de Diniz campeão sumiram: \"Se você descobrir algo, ",
-   "resolved_title": "Clube e primeiras taças de Diniz campeão sumiram: \"Se você descobrir algo, me avise\"",
-   "resolved_url": "https://ge.globo.com/sp/tem-esporte/futebol/noticia/2023/04/12/clube-e-primeiras-tacas-de-diniz-campeao-sumiram-se-voce-descobrir-algo-me-avise.ghtml",
-   "time_updated": "2023-07-24T09:25:07Z",
-   "time_added": "2023-07-24T09:25:07Z"
-  },
-  {
-   "item_id": "3909224865",
-   "given_url": "https://www.uol.com.br/esporte/colunas/saque-e-voleio/2023/07/25/sobre-alcaraz-carisma-e-calendario.htm",
-   "given_title": "Sobre Alcaraz, carisma e calendário",
-   "resolved_title": "Sobre Alcaraz, carisma e calendário",
-   "resolved_url": "https://www.uol.com.br/esporte/colunas/saque-e-voleio/2023/07/25/sobre-alcaraz-carisma-e-calendario.htm",
-   "time_updated": "2023-07-25T20:39:33Z",
-   "time_added": "2023-07-25T20:39:31Z"
-  },
-  {
-   "item_id": "977384736",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Nullius_in_verba",
-   "given_title": "Nullius in verba – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Nullius in verba",
-   "resolved_url": "https://pt.m.wikipedia.org/wiki/Nullius_in_verba",
-   "time_updated": "2023-07-26T09:22:58Z",
-   "time_added": "2023-07-26T09:22:58Z"
-  },
-  {
-   "item_id": "1997386735",
-   "given_url": "https://bigmachine.io/products/a-curious-moon/",
-   "given_title": "A Curious Moon | Big Machine",
-   "resolved_title": "A Curious Moon",
-   "resolved_url": "https://bigmachine.io/products/a-curious-moon/",
-   "time_updated": "2023-07-26T15:45:14Z",
-   "time_added": "2023-07-26T15:45:14Z"
-  },
-  {
-   "item_id": "3835617931",
-   "given_url": "https://bitfieldconsulting.com/golang/adapter",
-   "given_title": "The adapter pattern in Go — Bitfield Consulting",
-   "resolved_title": "The adapter pattern in Go — Bitfield Consulting",
-   "resolved_url": "https://bitfieldconsulting.com/golang/adapter",
-   "time_updated": "2023-07-27T10:55:56Z",
-   "time_added": "2023-07-27T10:55:56Z"
-  },
-  {
-   "item_id": "3909649474",
-   "given_url": "https://www.henrikkarlsson.xyz/p/good-ideas",
-   "given_title": "Cultivating a state of mind where new ideas are born",
-   "resolved_title": "Cultivating a state of mind where new ideas are born",
-   "resolved_url": "https://www.henrikkarlsson.xyz/p/good-ideas",
-   "time_updated": "2023-07-26T22:36:03Z",
-   "time_added": "2023-07-26T22:36:02Z"
-  },
-  {
-   "item_id": "3461412684",
-   "given_url": "https://en.m.wikipedia.org/wiki/The_Food_of_the_Gods_(short_story)",
-   "given_title": "The Food of the Gods (short story) - Wikipedia",
-   "resolved_title": "The Food of the Gods (short story)",
-   "resolved_url": "https://en.wikipedia.org/wiki/The_Food_of_the_Gods_(short_story)",
-   "time_updated": "2023-07-28T17:50:44Z",
-   "time_added": "2023-07-28T17:50:44Z"
-  },
-  {
-   "item_id": "3910855959",
-   "given_url": "https://www.ipma.pt/pt/pescas/eppo/dourada/",
-   "given_title": "IPMA - Dourada",
-   "resolved_title": "Dourada – Sparus aurata",
-   "resolved_url": "https://www.ipma.pt/pt/pescas/eppo/dourada/",
-   "time_updated": "2023-07-28T19:38:31Z",
-   "time_added": "2023-07-28T19:38:24Z"
-  },
-  {
-   "item_id": "3908938638",
-   "given_url": "https://developer.oculus.com/blog/platform-integrity-attestation-api-meta-quest-developer/?utm_source=social-Twitter\u0026utm_medium=mqd\u0026utm_campaign=organic\u0026utm_content=post-url\u0026utm_offering=news\u0026utm_product=_07242023\u0026eventSource=organicsocialmqd",
-   "given_title": "Protect Your Apps with the New Platform Integrity Attestation API",
-   "resolved_title": "",
-   "resolved_url": "https://developer.oculus.com/blog/platform-integrity-attestation-api-meta-quest-developer/?utm_source=social-Twitter\u0026utm_medium=mqd\u0026utm_campaign=organic\u0026utm_content=post-url\u0026utm_offering=news\u0026utm_product=_07242023\u0026eventSource=organicsocialmqd",
-   "time_updated": "2023-07-25T09:43:52Z",
-   "time_added": "2023-07-25T09:43:47Z"
-  },
-  {
-   "item_id": "99281000",
-   "given_url": "https://en.m.wikipedia.org/wiki/Matthew_effect",
-   "given_title": "Matthew effect - Wikipedia",
-   "resolved_title": "Matthew effect",
-   "resolved_url": "https://en.wikipedia.org/wiki/Matthew_effect",
-   "time_updated": "2023-07-28T20:01:56Z",
-   "time_added": "2023-07-28T20:01:56Z"
-  },
-  {
-   "item_id": "3909571699",
-   "given_url": "https://twitter.com/procurasedevs/status/1683894740708622343",
-   "given_title": "psicoloka no Twitter: \"coisas que eu aprendi na aula de psicologia do sono ",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/procurasedevs/status/1683894740708622343",
-   "time_updated": "2023-07-26T12:44:54Z",
-   "time_added": "2023-07-26T12:44:51Z"
+   "item_id": "3910096576",
+   "given_url": "https://m.youtube.com/watch?v=EL_HYG3uXQg",
+   "given_title": "House Oversight Subcommittee Holds Hearing on UFOs - YouTube",
+   "resolved_title": "House Oversight Subcommittee Holds Hearing on UFOs",
+   "resolved_url": "http://www.youtube.com/watch?v=EL_HYG3uXQg",
+   "time_updated": "2023-07-27T11:28:18Z",
+   "time_added": "2023-07-27T11:28:16Z"
   },
   {
    "item_id": "1425966349",
@@ -256,87 +337,6 @@
    "time_added": "2023-07-28T18:18:19Z"
   },
   {
-   "item_id": "3905988253",
-   "given_url": "https://www.discoursemagazine.com/abundance/2023/07/19/where-did-our-belief-in-abundance-come-from/",
-   "given_title": "Where Did Our Belief in Abundance Come From? - Discourse",
-   "resolved_title": "Where Did Our Belief in Abundance Come From?",
-   "resolved_url": "https://www.discoursemagazine.com/abundance/2023/07/19/where-did-our-belief-in-abundance-come-from/",
-   "time_updated": "2023-07-26T08:41:51Z",
-   "time_added": "2023-07-26T08:41:50Z"
-  },
-  {
-   "item_id": "3317723458",
-   "given_url": "https://davidtruxall.com/misleading-cors-errors/",
-   "given_title": "Misleading CORS Errors – Dev Notes",
-   "resolved_title": "Misleading CORS Errors",
-   "resolved_url": "https://davidtruxall.com/misleading-cors-errors/",
-   "time_updated": "2023-07-24T18:02:07Z",
-   "time_added": "2023-07-24T18:02:07Z"
-  },
-  {
-   "item_id": "69200289",
-   "given_url": "https://en.m.wikipedia.org/wiki/Ahimsa",
-   "given_title": "Ahimsa - Wikipedia",
-   "resolved_title": "Ahimsa",
-   "resolved_url": "https://en.wikipedia.org/wiki/Ahimsa",
-   "time_updated": "2023-07-28T17:45:25Z",
-   "time_added": "2023-07-28T17:45:25Z"
-  },
-  {
-   "item_id": "462537586",
-   "given_url": "https://pt.wikipedia.org/wiki/Glabela",
-   "given_title": "Glabela – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Glabela",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Glabela",
-   "time_updated": "2023-07-24T18:03:27Z",
-   "time_added": "2023-07-24T18:03:27Z"
-  },
-  {
-   "item_id": "3908611181",
-   "given_url": "http://dmitrysoshnikov.com/courses/transpiler-from-scratch/",
-   "given_title": "Building a Transpiler from scratch – Dmitry Soshnikov",
-   "resolved_title": "Building a Transpiler from scratch",
-   "resolved_url": "http://dmitrysoshnikov.com/courses/transpiler-from-scratch/",
-   "time_updated": "2023-07-24T18:04:04Z",
-   "time_added": "2023-07-24T18:03:58Z"
-  },
-  {
-   "item_id": "3909626232",
-   "given_url": "https://remix.run/docs/en/main/tutorials/jokes#set-up-prisma",
-   "given_title": "App Tutorial (long) | Remix",
-   "resolved_title": "",
-   "resolved_url": "https://remix.run/docs/en/main/tutorials/jokes#set-up-prisma",
-   "time_updated": "2023-07-26T14:38:18Z",
-   "time_added": "2023-07-26T14:38:18Z"
-  },
-  {
-   "item_id": "3729546800",
-   "given_url": "https://www.cascada.travel/blog/the-truth-about-patagonia-s-giants",
-   "given_title": "The Truth About Patagonia's Giants",
-   "resolved_title": "The Truth About Patagonia's Giants",
-   "resolved_url": "https://www.cascada.travel/blog/the-truth-about-patagonia-s-giants",
-   "time_updated": "2023-07-28T23:44:57Z",
-   "time_added": "2023-07-28T23:44:57Z"
-  },
-  {
-   "item_id": "3758426892",
-   "given_url": "https://everyday-data-science.tigyog.app/time-series",
-   "given_title": "Time Series | Everyday Data Science",
-   "resolved_title": "Time Series",
-   "resolved_url": "https://everyday-data-science.tigyog.app/time-series",
-   "time_updated": "2023-07-26T15:45:13Z",
-   "time_added": "2023-07-26T15:45:12Z"
-  },
-  {
-   "item_id": "3905524782",
-   "given_url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-introduces-legislation-to-establish-national-strategy-to-combat-loneliness-promote-social-connection",
-   "given_title": "Murphy Introduces Legislation to Establish National Strategy to Combat Lone",
-   "resolved_title": "Murphy Introduces Legislation to Establish National Strategy to Combat Loneliness, Promote Social Connection",
-   "resolved_url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-introduces-legislation-to-establish-national-strategy-to-combat-loneliness-promote-social-connection",
-   "time_updated": "2023-07-26T18:26:21Z",
-   "time_added": "2023-07-26T18:26:20Z"
-  },
-  {
    "item_id": "220849071",
    "given_url": "https://en.m.wikipedia.org/wiki/Patagon",
    "given_title": "Patagon - Wikipedia",
@@ -346,22 +346,13 @@
    "time_added": "2023-07-28T23:41:28Z"
   },
   {
-   "item_id": "3597770407",
-   "given_url": "https://www.youtube.com/watch?v=eiPhLu0ATMQ",
-   "given_title": "(19) How to use iPad as a Graphics Tablet | Sidecar Tutorial - YouTube",
-   "resolved_title": "How to use iPad as a Graphics Tablet | Sidecar Tutorial",
-   "resolved_url": "https://www.youtube.com/watch?v=eiPhLu0ATMQ",
-   "time_updated": "2023-07-27T10:43:29Z",
-   "time_added": "2023-07-27T10:43:29Z"
-  },
-  {
-   "item_id": "2689721615",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Janela_de_Overton",
-   "given_title": "Janela de Overton – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Janela de Overton",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Janela_de_Overton",
-   "time_updated": "2023-07-27T11:13:07Z",
-   "time_added": "2023-07-27T11:13:06Z"
+   "item_id": "977384736",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Nullius_in_verba",
+   "given_title": "Nullius in verba – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Nullius in verba",
+   "resolved_url": "https://pt.m.wikipedia.org/wiki/Nullius_in_verba",
+   "time_updated": "2023-07-26T09:22:58Z",
+   "time_added": "2023-07-26T09:22:58Z"
   },
   {
    "item_id": "3910857605",
@@ -371,6 +362,15 @@
    "resolved_url": "https://www.mundodanutricao.com/2019/02/duelo-de-alimentos-dourada-vs-robalo/",
    "time_updated": "2023-07-28T19:43:54Z",
    "time_added": "2023-07-28T19:43:52Z"
+  },
+  {
+   "item_id": "3910935918",
+   "given_url": "https://m.youtube.com/watch?v=KSHYsA-PEsQ",
+   "given_title": "Giant Encounters in the Old Americas - YouTube",
+   "resolved_title": "Giant Encounters in the Old Americas",
+   "resolved_url": "http://www.youtube.com/watch?v=KSHYsA-PEsQ",
+   "time_updated": "2023-07-28T23:33:48Z",
+   "time_added": "2023-07-28T23:33:46Z"
   }
  ]
 }

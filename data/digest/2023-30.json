@@ -4,15 +4,6 @@
  "sortKey": "2023-30",
  "items": [
   {
-   "item_id": "3461412684",
-   "given_url": "https://en.m.wikipedia.org/wiki/The_Food_of_the_Gods_(short_story)",
-   "given_title": "The Food of the Gods (short story) - Wikipedia",
-   "resolved_title": "The Food of the Gods (short story)",
-   "resolved_url": "https://en.wikipedia.org/wiki/The_Food_of_the_Gods_(short_story)",
-   "time_updated": "2023-07-28T17:50:44Z",
-   "time_added": "2023-07-28T17:50:44Z"
-  },
-  {
    "item_id": "1425966349",
    "given_url": "https://piaui.folha.uol.com.br/materia/a-voz-das-coisas/",
    "given_title": "A voz das coisas",
@@ -20,33 +11,6 @@
    "resolved_url": "https://piaui.folha.uol.com.br/materia/a-voz-das-coisas/",
    "time_updated": "2023-07-28T18:18:19Z",
    "time_added": "2023-07-28T18:18:19Z"
-  },
-  {
-   "item_id": "3910916039",
-   "given_url": "https://www.jbox.com.br/2023/07/28/shin-kamen-rider-resenha/",
-   "given_title": "Crítica | ‘Shin Kamen Rider’ é uma ode ao tokusatsu | JBox",
-   "resolved_title": "Crítica | ‘Shin Kamen Rider’ é uma ode ao tokusatsu",
-   "resolved_url": "https://www.jbox.com.br/2023/07/28/shin-kamen-rider-resenha/",
-   "time_updated": "2023-07-28T22:30:16Z",
-   "time_added": "2023-07-28T22:30:15Z"
-  },
-  {
-   "item_id": "3910935918",
-   "given_url": "https://m.youtube.com/watch?v=KSHYsA-PEsQ",
-   "given_title": "Giant Encounters in the Old Americas - YouTube",
-   "resolved_title": "Giant Encounters in the Old Americas",
-   "resolved_url": "http://www.youtube.com/watch?v=KSHYsA-PEsQ",
-   "time_updated": "2023-07-28T23:33:48Z",
-   "time_added": "2023-07-28T23:33:46Z"
-  },
-  {
-   "item_id": "220849071",
-   "given_url": "https://en.m.wikipedia.org/wiki/Patagon",
-   "given_title": "Patagon - Wikipedia",
-   "resolved_title": "Patagon",
-   "resolved_url": "https://en.wikipedia.org/wiki/Patagon",
-   "time_updated": "2023-07-28T23:41:29Z",
-   "time_added": "2023-07-28T23:41:28Z"
   },
   {
    "item_id": "3729546800",
@@ -58,67 +22,13 @@
    "time_added": "2023-07-28T23:44:57Z"
   },
   {
-   "item_id": "57724952",
-   "given_url": "https://en.m.wikipedia.org/wiki/Cognitive_dissonance",
-   "given_title": "Cognitive dissonance - Wikipedia",
-   "resolved_title": "Cognitive dissonance",
-   "resolved_url": "https://en.wikipedia.org/wiki/Cognitive_dissonance",
-   "time_updated": "2023-07-28T17:47:31Z",
-   "time_added": "2023-07-28T17:47:31Z"
-  },
-  {
-   "item_id": "3910587957",
-   "given_url": "https://tab.uol.com.br/noticias/redacao/2023/07/28/a-guerra-dos-cogumelos-no-brasil.htm",
-   "given_title": "Cogumelos mágicos são vendidos livremente e causam guerra no Brasil",
-   "resolved_title": "Com ameaças, treta entre vendedores agita mercado de 'cogumelos mágicos'",
-   "resolved_url": "https://tab.uol.com.br/noticias/redacao/2023/07/28/a-guerra-dos-cogumelos-no-brasil.htm",
-   "time_updated": "2023-07-28T08:51:54Z",
-   "time_added": "2023-07-28T08:51:52Z"
-  },
-  {
-   "item_id": "69200289",
-   "given_url": "https://en.m.wikipedia.org/wiki/Ahimsa",
-   "given_title": "Ahimsa - Wikipedia",
-   "resolved_title": "Ahimsa",
-   "resolved_url": "https://en.wikipedia.org/wiki/Ahimsa",
-   "time_updated": "2023-07-28T17:45:25Z",
-   "time_added": "2023-07-28T17:45:25Z"
-  },
-  {
-   "item_id": "3910857605",
-   "given_url": "https://www.mundodanutricao.com/2019/02/duelo-de-alimentos-dourada-vs-robalo/",
-   "given_title": "Duelo de Alimentos: Dourada vs. Robalo – Mundo da Nutrição",
-   "resolved_title": "Duelo de Alimentos: Dourada vs. Robalo",
-   "resolved_url": "https://www.mundodanutricao.com/2019/02/duelo-de-alimentos-dourada-vs-robalo/",
-   "time_updated": "2023-07-28T19:43:54Z",
-   "time_added": "2023-07-28T19:43:52Z"
-  },
-  {
-   "item_id": "99281000",
-   "given_url": "https://en.m.wikipedia.org/wiki/Matthew_effect",
-   "given_title": "Matthew effect - Wikipedia",
-   "resolved_title": "Matthew effect",
-   "resolved_url": "https://en.wikipedia.org/wiki/Matthew_effect",
-   "time_updated": "2023-07-28T20:01:56Z",
-   "time_added": "2023-07-28T20:01:56Z"
-  },
-  {
-   "item_id": "3909239975",
-   "given_url": "https://sciencecast.org/casts/suc384jly50n",
-   "given_title": "Science Cast",
-   "resolved_title": "Superconductor Pb$_{10-x}$Cu$_x$(PO$_4$)$_{6O}$ showing levitation at room temperature and atmospheric pressure and mechanism",
-   "resolved_url": "https://sciencecast.org/casts/suc384jly50n",
-   "time_updated": "2023-07-28T09:29:52Z",
-   "time_added": "2023-07-28T09:29:52Z"
-  },
-  {
-   "item_id": "3909702597",
-   "given_url": "https://www.science.org/content/blog-post/breaking-superconductor-news",
-   "given_title": "Breaking Superconductor News | Science | AAAS",
-   "resolved_title": "",
-   "resolved_url": "https://www.science.org/content/blog-post/breaking-superconductor-news",
-   "time_updated": "2023-07-28T09:26:56Z",
-   "time_added": "2023-07-28T09:26:56Z"
+   "item_id": "3910935918",
+   "given_url": "https://m.youtube.com/watch?v=KSHYsA-PEsQ",
+   "given_title": "Giant Encounters in the Old Americas - YouTube",
+   "resolved_title": "Giant Encounters in the Old Americas",
+   "resolved_url": "http://www.youtube.com/watch?v=KSHYsA-PEsQ",
+   "time_updated": "2023-07-28T23:33:48Z",
+   "time_added": "2023-07-28T23:33:46Z"
   },
   {
    "item_id": "3911299067",
@@ -130,6 +40,15 @@
    "time_added": "2023-07-29T22:47:27Z"
   },
   {
+   "item_id": "69200289",
+   "given_url": "https://en.m.wikipedia.org/wiki/Ahimsa",
+   "given_title": "Ahimsa - Wikipedia",
+   "resolved_title": "Ahimsa",
+   "resolved_url": "https://en.wikipedia.org/wiki/Ahimsa",
+   "time_updated": "2023-07-28T17:45:25Z",
+   "time_added": "2023-07-28T17:45:25Z"
+  },
+  {
    "item_id": "71297659",
    "given_url": "https://en.m.wikipedia.org/wiki/Ren%C3%A9_Schneider",
    "given_title": "René Schneider - Wikipedia",
@@ -139,6 +58,42 @@
    "time_added": "2023-07-30T08:02:06Z"
   },
   {
+   "item_id": "3910857605",
+   "given_url": "https://www.mundodanutricao.com/2019/02/duelo-de-alimentos-dourada-vs-robalo/",
+   "given_title": "Duelo de Alimentos: Dourada vs. Robalo – Mundo da Nutrição",
+   "resolved_title": "Duelo de Alimentos: Dourada vs. Robalo",
+   "resolved_url": "https://www.mundodanutricao.com/2019/02/duelo-de-alimentos-dourada-vs-robalo/",
+   "time_updated": "2023-07-28T19:43:54Z",
+   "time_added": "2023-07-28T19:43:52Z"
+  },
+  {
+   "item_id": "3910916039",
+   "given_url": "https://www.jbox.com.br/2023/07/28/shin-kamen-rider-resenha/",
+   "given_title": "Crítica | ‘Shin Kamen Rider’ é uma ode ao tokusatsu | JBox",
+   "resolved_title": "Crítica | ‘Shin Kamen Rider’ é uma ode ao tokusatsu",
+   "resolved_url": "https://www.jbox.com.br/2023/07/28/shin-kamen-rider-resenha/",
+   "time_updated": "2023-07-28T22:30:16Z",
+   "time_added": "2023-07-28T22:30:15Z"
+  },
+  {
+   "item_id": "57724952",
+   "given_url": "https://en.m.wikipedia.org/wiki/Cognitive_dissonance",
+   "given_title": "Cognitive dissonance - Wikipedia",
+   "resolved_title": "Cognitive dissonance",
+   "resolved_url": "https://en.wikipedia.org/wiki/Cognitive_dissonance",
+   "time_updated": "2023-07-28T17:47:31Z",
+   "time_added": "2023-07-28T17:47:31Z"
+  },
+  {
+   "item_id": "3461412684",
+   "given_url": "https://en.m.wikipedia.org/wiki/The_Food_of_the_Gods_(short_story)",
+   "given_title": "The Food of the Gods (short story) - Wikipedia",
+   "resolved_title": "The Food of the Gods (short story)",
+   "resolved_url": "https://en.wikipedia.org/wiki/The_Food_of_the_Gods_(short_story)",
+   "time_updated": "2023-07-28T17:50:44Z",
+   "time_added": "2023-07-28T17:50:44Z"
+  },
+  {
    "item_id": "3910855959",
    "given_url": "https://www.ipma.pt/pt/pescas/eppo/dourada/",
    "given_title": "IPMA - Dourada",
@@ -146,6 +101,24 @@
    "resolved_url": "https://www.ipma.pt/pt/pescas/eppo/dourada/",
    "time_updated": "2023-07-28T19:38:31Z",
    "time_added": "2023-07-28T19:38:24Z"
+  },
+  {
+   "item_id": "99281000",
+   "given_url": "https://en.m.wikipedia.org/wiki/Matthew_effect",
+   "given_title": "Matthew effect - Wikipedia",
+   "resolved_title": "Matthew effect",
+   "resolved_url": "https://en.wikipedia.org/wiki/Matthew_effect",
+   "time_updated": "2023-07-28T20:01:56Z",
+   "time_added": "2023-07-28T20:01:56Z"
+  },
+  {
+   "item_id": "220849071",
+   "given_url": "https://en.m.wikipedia.org/wiki/Patagon",
+   "given_title": "Patagon - Wikipedia",
+   "resolved_title": "Patagon",
+   "resolved_url": "https://en.wikipedia.org/wiki/Patagon",
+   "time_updated": "2023-07-28T23:41:29Z",
+   "time_added": "2023-07-28T23:41:28Z"
   }
  ]
 }

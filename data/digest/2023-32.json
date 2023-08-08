@@ -8,18 +8,9 @@
    "given_url": "https://www.youtube.com/watch?v=qHsBA_9JWFA",
    "given_title": "(65) Fugazi, Philadelphia '88 - YouTube",
    "resolved_title": "Fugazi, Philadelphia '88",
-   "resolved_url": "http://www.youtube.com/watch?v=qHsBA_9JWFA",
+   "resolved_url": "https://www.youtube.com/watch?v=qHsBA_9JWFA",
    "time_updated": "2023-08-07T22:28:51Z",
    "time_added": "2023-08-07T22:28:51Z"
-  },
-  {
-   "item_id": "3916041631",
-   "given_url": "https://m.youtube.com/watch?v=bUVWRnjwM60",
-   "given_title": "Japanese Mario RPG is VERY Different - Region Break - YouTube",
-   "resolved_title": "Japanese Mario RPG is VERY Different - Region Break",
-   "resolved_url": "http://www.youtube.com/watch?v=bUVWRnjwM60",
-   "time_updated": "2023-08-08T00:14:16Z",
-   "time_added": "2023-08-08T00:14:16Z"
   },
   {
    "item_id": "3915987260",
@@ -38,6 +29,15 @@
    "resolved_url": "https://www.espn.com/nba/story/_/id/36146138/million-dollar-shot-michael-jordan-chicago-bulls-1993",
    "time_updated": "2023-08-07T15:03:36Z",
    "time_added": "2023-08-07T15:03:35Z"
+  },
+  {
+   "item_id": "3916041631",
+   "given_url": "https://m.youtube.com/watch?v=bUVWRnjwM60",
+   "given_title": "Japanese Mario RPG is VERY Different - Region Break - YouTube",
+   "resolved_title": "Japanese Mario RPG is VERY Different - Region Break",
+   "resolved_url": "http://www.youtube.com/watch?v=bUVWRnjwM60",
+   "time_updated": "2023-08-08T00:14:16Z",
+   "time_added": "2023-08-08T00:14:16Z"
   }
  ]
 }

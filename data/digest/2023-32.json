@@ -4,31 +4,13 @@
  "sortKey": "2023-32",
  "items": [
   {
-   "item_id": "378665557",
-   "given_url": "https://www.youtube.com/watch?v=qHsBA_9JWFA",
-   "given_title": "(65) Fugazi, Philadelphia '88 - YouTube",
-   "resolved_title": "Fugazi, Philadelphia '88",
-   "resolved_url": "https://www.youtube.com/watch?v=qHsBA_9JWFA",
-   "time_updated": "2023-08-07T22:28:51Z",
-   "time_added": "2023-08-07T22:28:51Z"
-  },
-  {
-   "item_id": "3916542074",
-   "given_url": "https://old.reddit.com/r/SteamDeck/comments/15kveoq/what_are_your_favorite_couchcoop_games/",
-   "given_title": "What are your favorite couch-coop games? : SteamDeck",
-   "resolved_title": "Reddit - Dive into anything",
-   "resolved_url": "https://www.reddit.com/r/SteamDeck/comments/15kveoq/what_are_your_favorite_couchcoop_games/",
-   "time_updated": "2023-08-08T19:32:51Z",
-   "time_added": "2023-08-08T19:32:49Z"
-  },
-  {
-   "item_id": "3844008012",
-   "given_url": "https://www.espn.com/nba/story/_/id/36146138/million-dollar-shot-michael-jordan-chicago-bulls-1993",
-   "given_title": "The $1 million shot that changed sports contests forever - ESPN",
-   "resolved_title": "The time Michael Jordan helped a guy win $1 million",
-   "resolved_url": "https://www.espn.com/nba/story/_/id/36146138/million-dollar-shot-michael-jordan-chicago-bulls-1993",
-   "time_updated": "2023-08-07T15:03:36Z",
-   "time_added": "2023-08-07T15:03:35Z"
+   "item_id": "3916041631",
+   "given_url": "https://m.youtube.com/watch?v=bUVWRnjwM60",
+   "given_title": "Japanese Mario RPG is VERY Different - Region Break - YouTube",
+   "resolved_title": "Japanese Mario RPG is VERY Different - Region Break",
+   "resolved_url": "http://www.youtube.com/watch?v=bUVWRnjwM60",
+   "time_updated": "2023-08-08T00:14:16Z",
+   "time_added": "2023-08-08T00:14:16Z"
   },
   {
    "item_id": "3916376658",
@@ -40,22 +22,31 @@
    "time_added": "2023-08-08T13:47:18Z"
   },
   {
-   "item_id": "3916982203",
-   "given_url": "https://twitter.com/frazettagirls/status/1689060278309142529",
-   "given_title": "Frank Frazetta no Twitter: \"It’s official—The ???? ??? ??? Miniatures Board",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/frazettagirls/status/1689060278309142529",
-   "time_updated": "2023-08-09T14:22:44Z",
-   "time_added": "2023-08-09T14:22:41Z"
+   "item_id": "223482343",
+   "given_url": "https://en.m.wikipedia.org/wiki/Multiregional_origin_of_modern_humans",
+   "given_title": "Multiregional origin of modern humans - Wikipedia",
+   "resolved_title": "Multiregional origin of modern humans",
+   "resolved_url": "https://en.wikipedia.org/wiki/Multiregional_origin_of_modern_humans",
+   "time_updated": "2023-08-09T11:45:02Z",
+   "time_added": "2023-08-09T11:45:01Z"
   },
   {
-   "item_id": "3605252629",
-   "given_url": "https://github.com/PJ-Singh-001/Cubic",
-   "given_title": "GitHub - PJ-Singh-001/Cubic: The Official Web Site for Cubic (Custom Ubuntu",
-   "resolved_title": "Cubic",
-   "resolved_url": "https://github.com/PJ-Singh-001/Cubic",
-   "time_updated": "2023-08-08T16:55:01Z",
-   "time_added": "2023-08-08T16:55:00Z"
+   "item_id": "3917957760",
+   "given_url": "https://twitter.com/adamhjk/status/1689810704256335872",
+   "given_title": "Adam Jacob no Twitter: \"Next time you think non-compete licenses are mostly",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/adamhjk/status/1689810704256335872",
+   "time_updated": "2023-08-11T08:58:43Z",
+   "time_added": "2023-08-11T08:58:40Z"
+  },
+  {
+   "item_id": "378665557",
+   "given_url": "https://www.youtube.com/watch?v=qHsBA_9JWFA",
+   "given_title": "(65) Fugazi, Philadelphia '88 - YouTube",
+   "resolved_title": "Fugazi, Philadelphia '88",
+   "resolved_url": "https://www.youtube.com/watch?v=qHsBA_9JWFA",
+   "time_updated": "2023-08-07T22:28:51Z",
+   "time_added": "2023-08-07T22:28:51Z"
   },
   {
    "item_id": "3916521729",
@@ -67,76 +58,13 @@
    "time_added": "2023-08-08T18:48:44Z"
   },
   {
-   "item_id": "3917585367",
-   "given_url": "https://m.youtube.com/watch?v=_d-gvd9wKVE\u0026feature=youtu.be",
-   "given_title": "O dia em que os Estados Unidos DESTRUÍRAM Digimon - YouTube",
-   "resolved_title": "O dia em que os Estados Unidos DESTRUÍRAM Digimon",
-   "resolved_url": "http://www.youtube.com/watch?v=_d-gvd9wKVE",
-   "time_updated": "2023-08-10T15:37:35Z",
-   "time_added": "2023-08-10T15:37:33Z"
-  },
-  {
-   "item_id": "3916041631",
-   "given_url": "https://m.youtube.com/watch?v=bUVWRnjwM60",
-   "given_title": "Japanese Mario RPG is VERY Different - Region Break - YouTube",
-   "resolved_title": "Japanese Mario RPG is VERY Different - Region Break",
-   "resolved_url": "http://www.youtube.com/watch?v=bUVWRnjwM60",
-   "time_updated": "2023-08-08T00:14:16Z",
-   "time_added": "2023-08-08T00:14:16Z"
-  },
-  {
-   "item_id": "3915987260",
-   "given_url": "https://www.youtube.com/watch?v=zw2Cf7AuKpg",
-   "given_title": "(65) Balanço Geral mostra como funciona equipamento que atingiu aluno em ac",
-   "resolved_title": "Balanço Geral mostra como funciona equipamento que atingiu aluno em academia do Ceará",
-   "resolved_url": "https://www.youtube.com/watch?v=zw2Cf7AuKpg",
-   "time_updated": "2023-08-07T21:44:49Z",
-   "time_added": "2023-08-07T21:44:49Z"
-  },
-  {
-   "item_id": "223482343",
-   "given_url": "https://en.m.wikipedia.org/wiki/Multiregional_origin_of_modern_humans",
-   "given_title": "Multiregional origin of modern humans - Wikipedia",
-   "resolved_title": "Multiregional origin of modern humans",
-   "resolved_url": "https://en.wikipedia.org/wiki/Multiregional_origin_of_modern_humans",
-   "time_updated": "2023-08-09T11:45:02Z",
-   "time_added": "2023-08-09T11:45:01Z"
-  },
-  {
-   "item_id": "3916935568",
-   "given_url": "https://en.m.wikipedia.org/wiki/List_of_theorems_called_fundamental",
-   "given_title": "List of theorems called fundamental - Wikipedia",
-   "resolved_title": "List of theorems called fundamental",
-   "resolved_url": "https://en.wikipedia.org/wiki/List_of_theorems_called_fundamental",
-   "time_updated": "2023-08-09T12:44:35Z",
-   "time_added": "2023-08-09T12:44:34Z"
-  },
-  {
-   "item_id": "3916845112",
-   "given_url": "https://old.reddit.com/r/recruitinghell/comments/15kj845/canonical_the_recruitment_process_really_is_that/",
-   "given_title": "Canonical: the recruitment process really is that long/complex/you want how",
+   "item_id": "3916542074",
+   "given_url": "https://old.reddit.com/r/SteamDeck/comments/15kveoq/what_are_your_favorite_couchcoop_games/",
+   "given_title": "What are your favorite couch-coop games? : SteamDeck",
    "resolved_title": "Reddit - Dive into anything",
-   "resolved_url": "https://www.reddit.com/r/recruitinghell/comments/15kj845/canonical_the_recruitment_process_really_is_that/",
-   "time_updated": "2023-08-09T10:19:51Z",
-   "time_added": "2023-08-09T10:19:50Z"
-  },
-  {
-   "item_id": "3862765936",
-   "given_url": "https://redd.one/blog/my-struggle-with-remix",
-   "given_title": "My Struggle With Remix - Redd",
-   "resolved_title": "My Struggle With Remix",
-   "resolved_url": "https://redd.one/blog/my-struggle-with-remix#145: Next.js, Server Actions, useFormStatus, useOptimistic, App Router, Canaries, Ink, ReasonML, Redwood, Reanimated, VisionCamera... - 10736507",
-   "time_updated": "2023-08-10T11:21:39Z",
-   "time_added": "2023-08-10T11:21:39Z"
-  },
-  {
-   "item_id": "3917647173",
-   "given_url": "https://brasil-elpais-com.cdn.ampproject.org/v/s/brasil.elpais.com/brasil/2017/01/07/internacional/1483795840_886159.html?amp_gsa=1\u0026amp_js_v=a9\u0026outputType=amp\u0026usqp=mq331AQIUAKwASCAAgM%3D#amp_tf=De%20%251%24s\u0026aoh=16916184399755\u0026csi=1\u0026referrer=https%3A%2F%2Fwww.google.com\u0026ampshare=https%3A%2F%2Fbrasil.elpais.com%2Fbrasil%2F2017%2F01%2F07%2Finternacional%2F1483795840_886159.html",
-   "given_title": "Onde estão os negros da Argentina? | Internacional | EL PAÍS Brasil",
-   "resolved_title": "Onde estão os negros da Argentina?",
-   "resolved_url": "https://brasil-elpais-com.cdn.ampproject.org/v/s/brasil.elpais.com/brasil/2017/01/07/internacional/1483795840_886159.html?amp_gsa=1\u0026amp_js_v=a9\u0026outputType=amp\u0026usqp=mq331AQIUAKwASCAAgM%3D#amp_tf=De%20%251%24s\u0026aoh=16916184399755\u0026csi=1\u0026referrer=https%3A%2F%2Fwww.google.com\u0026ampshare=https%3A%2F%2Fbrasil.elpais.com%2Fbrasil%2F2017%2F01%2F07%2Finternacional%2F1483795840_886159.html",
-   "time_updated": "2023-08-10T17:51:56Z",
-   "time_added": "2023-08-10T17:51:54Z"
+   "resolved_url": "https://www.reddit.com/r/SteamDeck/comments/15kveoq/what_are_your_favorite_couchcoop_games/",
+   "time_updated": "2023-08-08T19:32:51Z",
+   "time_added": "2023-08-08T19:32:49Z"
   },
   {
    "item_id": "3916656838",
@@ -155,6 +83,105 @@
    "resolved_url": "https://blog.nuclearsecrecy.com/2022/05/02/did-the-japanese-offer-to-surrender-before-hiroshima-part-1/",
    "time_updated": "2023-08-10T00:23:56Z",
    "time_added": "2023-08-10T00:23:55Z"
+  },
+  {
+   "item_id": "3917647173",
+   "given_url": "https://brasil-elpais-com.cdn.ampproject.org/v/s/brasil.elpais.com/brasil/2017/01/07/internacional/1483795840_886159.html?amp_gsa=1\u0026amp_js_v=a9\u0026outputType=amp\u0026usqp=mq331AQIUAKwASCAAgM%3D#amp_tf=De%20%251%24s\u0026aoh=16916184399755\u0026csi=1\u0026referrer=https%3A%2F%2Fwww.google.com\u0026ampshare=https%3A%2F%2Fbrasil.elpais.com%2Fbrasil%2F2017%2F01%2F07%2Finternacional%2F1483795840_886159.html",
+   "given_title": "Onde estão os negros da Argentina? | Internacional | EL PAÍS Brasil",
+   "resolved_title": "Onde estão os negros da Argentina?",
+   "resolved_url": "https://brasil-elpais-com.cdn.ampproject.org/v/s/brasil.elpais.com/brasil/2017/01/07/internacional/1483795840_886159.html?amp_gsa=1\u0026amp_js_v=a9\u0026outputType=amp\u0026usqp=mq331AQIUAKwASCAAgM%3D#amp_tf=De%20%251%24s\u0026aoh=16916184399755\u0026csi=1\u0026referrer=https%3A%2F%2Fwww.google.com\u0026ampshare=https%3A%2F%2Fbrasil.elpais.com%2Fbrasil%2F2017%2F01%2F07%2Finternacional%2F1483795840_886159.html",
+   "time_updated": "2023-08-10T17:51:56Z",
+   "time_added": "2023-08-10T17:51:54Z"
+  },
+  {
+   "item_id": "3916935568",
+   "given_url": "https://en.m.wikipedia.org/wiki/List_of_theorems_called_fundamental",
+   "given_title": "List of theorems called fundamental - Wikipedia",
+   "resolved_title": "List of theorems called fundamental",
+   "resolved_url": "https://en.wikipedia.org/wiki/List_of_theorems_called_fundamental",
+   "time_updated": "2023-08-09T12:44:35Z",
+   "time_added": "2023-08-09T12:44:34Z"
+  },
+  {
+   "item_id": "3917973181",
+   "given_url": "https://twitter.com/diegodeabreu/status/1689733026383572992",
+   "given_title": "Diego Feijó de Abreu no Twitter: \"O Perigo Invisível Ontem milhares de paul",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/diegodeabreu/status/1689733026383572992",
+   "time_updated": "2023-08-11T09:39:05Z",
+   "time_added": "2023-08-11T09:39:03Z"
+  },
+  {
+   "item_id": "3917458823",
+   "given_url": "https://www.publico.pt/2023/08/10/sociedade/noticia/bispos-forcas-armadas-d-rui-valerio-novo-patriarca-lisboa-2059757",
+   "given_title": "Bispo das Forças Armadas, D. Rui Valério, é o novo patriarca de Lisboa | Ig",
+   "resolved_title": "Bispo das Forças Armadas, D. Rui Valério, é o novo Patriarca de Lisboa",
+   "resolved_url": "https://www.publico.pt/2023/08/10/sociedade/noticia/bispos-forcas-armadas-d-rui-valerio-novo-patriarca-lisboa-2059757",
+   "time_updated": "2023-08-11T09:42:36Z",
+   "time_added": "2023-08-11T09:42:36Z"
+  },
+  {
+   "item_id": "3916982203",
+   "given_url": "https://twitter.com/frazettagirls/status/1689060278309142529",
+   "given_title": "Frank Frazetta no Twitter: \"It’s official—The ???? ??? ??? Miniatures Board",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/frazettagirls/status/1689060278309142529",
+   "time_updated": "2023-08-09T14:22:44Z",
+   "time_added": "2023-08-09T14:22:41Z"
+  },
+  {
+   "item_id": "3862765936",
+   "given_url": "https://redd.one/blog/my-struggle-with-remix",
+   "given_title": "My Struggle With Remix - Redd",
+   "resolved_title": "My Struggle With Remix",
+   "resolved_url": "https://redd.one/blog/my-struggle-with-remix#145: Next.js, Server Actions, useFormStatus, useOptimistic, App Router, Canaries, Ink, ReasonML, Redwood, Reanimated, VisionCamera... - 10736507",
+   "time_updated": "2023-08-10T11:21:39Z",
+   "time_added": "2023-08-10T11:21:39Z"
+  },
+  {
+   "item_id": "3605252629",
+   "given_url": "https://github.com/PJ-Singh-001/Cubic",
+   "given_title": "GitHub - PJ-Singh-001/Cubic: The Official Web Site for Cubic (Custom Ubuntu",
+   "resolved_title": "Cubic",
+   "resolved_url": "https://github.com/PJ-Singh-001/Cubic",
+   "time_updated": "2023-08-08T16:55:01Z",
+   "time_added": "2023-08-08T16:55:00Z"
+  },
+  {
+   "item_id": "3844008012",
+   "given_url": "https://www.espn.com/nba/story/_/id/36146138/million-dollar-shot-michael-jordan-chicago-bulls-1993",
+   "given_title": "The $1 million shot that changed sports contests forever - ESPN",
+   "resolved_title": "The time Michael Jordan helped a guy win $1 million",
+   "resolved_url": "https://www.espn.com/nba/story/_/id/36146138/million-dollar-shot-michael-jordan-chicago-bulls-1993",
+   "time_updated": "2023-08-07T15:03:36Z",
+   "time_added": "2023-08-07T15:03:35Z"
+  },
+  {
+   "item_id": "3916845112",
+   "given_url": "https://old.reddit.com/r/recruitinghell/comments/15kj845/canonical_the_recruitment_process_really_is_that/",
+   "given_title": "Canonical: the recruitment process really is that long/complex/you want how",
+   "resolved_title": "Reddit - Dive into anything",
+   "resolved_url": "https://www.reddit.com/r/recruitinghell/comments/15kj845/canonical_the_recruitment_process_really_is_that/",
+   "time_updated": "2023-08-09T10:19:51Z",
+   "time_added": "2023-08-09T10:19:50Z"
+  },
+  {
+   "item_id": "3915987260",
+   "given_url": "https://www.youtube.com/watch?v=zw2Cf7AuKpg",
+   "given_title": "(65) Balanço Geral mostra como funciona equipamento que atingiu aluno em ac",
+   "resolved_title": "Balanço Geral mostra como funciona equipamento que atingiu aluno em academia do Ceará",
+   "resolved_url": "https://www.youtube.com/watch?v=zw2Cf7AuKpg",
+   "time_updated": "2023-08-07T21:44:49Z",
+   "time_added": "2023-08-07T21:44:49Z"
+  },
+  {
+   "item_id": "3917585367",
+   "given_url": "https://m.youtube.com/watch?v=_d-gvd9wKVE\u0026feature=youtu.be",
+   "given_title": "O dia em que os Estados Unidos DESTRUÍRAM Digimon - YouTube",
+   "resolved_title": "O dia em que os Estados Unidos DESTRUÍRAM Digimon",
+   "resolved_url": "http://www.youtube.com/watch?v=_d-gvd9wKVE",
+   "time_updated": "2023-08-10T15:37:35Z",
+   "time_added": "2023-08-10T15:37:33Z"
   }
  ]
 }

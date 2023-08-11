@@ -4,31 +4,31 @@
  "sortKey": "2023-31",
  "items": [
   {
-   "item_id": "3914914040",
-   "given_url": "https://twitter.com/pikuma/status/1687782176828325888",
-   "given_title": "pikuma no Twitter: \"Why do we call it the \"Square Root\"? √‾‾‾ We have been ",
+   "item_id": "3266248875",
+   "given_url": "https://www.surveymonkey.co.uk/mp/ab-testing-significance-calculator/",
+   "given_title": "A/B Testing Calculator for Statistical Significance | SurveyMonkey",
+   "resolved_title": "AB testing calculator",
+   "resolved_url": "https://www.surveymonkey.co.uk/mp/ab-testing-significance-calculator/",
+   "time_updated": "2023-08-05T19:38:34Z",
+   "time_added": "2023-08-05T19:38:34Z"
+  },
+  {
+   "item_id": "3914821962",
+   "given_url": "https://twitter.com/techsavvytravvy/status/1687320153095098368/photo/1",
+   "given_title": "trav no Twitter: \"skill issue tbh https://t.co/VlSL7mrnHV\" / X",
    "resolved_title": "",
-   "resolved_url": "https://twitter.com/pikuma/status/1687782176828325888",
-   "time_updated": "2023-08-05T16:27:39Z",
-   "time_added": "2023-08-05T16:27:37Z"
+   "resolved_url": "https://twitter.com/techsavvytravvy/status/1687320153095098368/photo/1",
+   "time_updated": "2023-08-05T12:24:37Z",
+   "time_added": "2023-08-05T12:24:36Z"
   },
   {
-   "item_id": "1196140255",
-   "given_url": "https://hbr.org/2016/02/a-refresher-on-statistical-significance",
-   "given_title": "A Refresher on Statistical Significance",
-   "resolved_title": "A Refresher on Statistical Significance",
-   "resolved_url": "https://hbr.org/2016/02/a-refresher-on-statistical-significance",
-   "time_updated": "2023-08-05T19:54:34Z",
-   "time_added": "2023-08-05T19:54:34Z"
-  },
-  {
-   "item_id": "3913885420",
-   "given_url": "https://m.facebook.com/story.php/?id=2216008\u0026story_fbid=10105858897519223",
-   "given_title": "",
-   "resolved_title": "You’re Temporarily Blocked",
-   "resolved_url": "https://m.facebook.com/story.php/?id=2216008\u0026story_fbid=10105858897519223",
-   "time_updated": "2023-08-03T15:54:48Z",
-   "time_added": "2023-08-03T15:54:46Z"
+   "item_id": "3915198808",
+   "given_url": "https://filiph.net/text/memex-is-already-here,-it%27s-just-not-evenly-distributed.html",
+   "given_title": "Memex is already here, it’s just not evenly distributed",
+   "resolved_title": "Memex is already here, it’s just not evenly distributed",
+   "resolved_url": "https://filiph.net/text/memex-is-already-here,-it's-just-not-evenly-distributed.html",
+   "time_updated": "2023-08-06T12:13:40Z",
+   "time_added": "2023-08-06T12:13:39Z"
   },
   {
    "item_id": "3914348707",
@@ -40,13 +40,31 @@
    "time_added": "2023-08-04T13:05:01Z"
   },
   {
-   "item_id": "3897235361",
-   "given_url": "https://en.m.wikipedia.org/wiki/Hwang_affair",
-   "given_title": "Hwang affair - Wikipedia",
-   "resolved_title": "Hwang affair",
-   "resolved_url": "https://en.wikipedia.org/wiki/Hwang_affair",
-   "time_updated": "2023-08-05T09:43:06Z",
-   "time_added": "2023-08-05T09:43:05Z"
+   "item_id": "3016637200",
+   "given_url": "https://www.ligadosgames.com/fusoes-yu-gi-oh-forbidden-memories/",
+   "given_title": "Yu-Gi-Oh! Forbidden Memories: veja TODAS as fusões do jogo! - Liga dos Game",
+   "resolved_title": "Yu-Gi-Oh! Forbidden Memories: veja TODAS as fusões do jogo!",
+   "resolved_url": "https://www.ligadosgames.com/fusoes-yu-gi-oh-forbidden-memories/",
+   "time_updated": "2023-08-04T21:49:09Z",
+   "time_added": "2023-08-04T21:49:08Z"
+  },
+  {
+   "item_id": "1196140255",
+   "given_url": "https://hbr.org/2016/02/a-refresher-on-statistical-significance",
+   "given_title": "A Refresher on Statistical Significance",
+   "resolved_title": "A Refresher on Statistical Significance",
+   "resolved_url": "https://hbr.org/2016/02/a-refresher-on-statistical-significance",
+   "time_updated": "2023-08-05T19:54:34Z",
+   "time_added": "2023-08-05T19:54:34Z"
+  },
+  {
+   "item_id": "3665128556",
+   "given_url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2022/07/21/por-que-calor-de-40c-causa-panico-na-inglaterra-e-no-brasil-e-normal.htm",
+   "given_title": "Onde de calor na Europa: por que 40ªC lá é pior que Brasil?",
+   "resolved_title": "Por que calor de 40ºC é mortal na Inglaterra e no Brasil é \"normal\"?",
+   "resolved_url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2022/07/21/por-que-calor-de-40c-causa-panico-na-inglaterra-e-no-brasil-e-normal.htm",
+   "time_updated": "2023-08-06T12:42:13Z",
+   "time_added": "2023-08-06T12:42:13Z"
   },
   {
    "item_id": "3914787497",
@@ -56,6 +74,51 @@
    "resolved_url": "https://twitter.com/SebAaltonen/status/1687691543157829632",
    "time_updated": "2023-08-05T12:51:09Z",
    "time_added": "2023-08-05T12:51:09Z"
+  },
+  {
+   "item_id": "3914591819",
+   "given_url": "https://www1.folha.uol.com.br/colunas/demetriomagnoli/2023/08/a-palavra-blasfema.shtml",
+   "given_title": "A palavra blasfema - 04/08/2023 - Demétrio Magnoli - Folha",
+   "resolved_title": "A palavra blasfema",
+   "resolved_url": "https://www1.folha.uol.com.br/colunas/demetriomagnoli/2023/08/a-palavra-blasfema.shtml",
+   "time_updated": "2023-08-05T16:40:45Z",
+   "time_added": "2023-08-05T16:40:44Z"
+  },
+  {
+   "item_id": "3915265528",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Terra_preta",
+   "given_title": "Terra preta – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Terra preta",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Terra_preta",
+   "time_updated": "2023-08-06T12:17:04Z",
+   "time_added": "2023-08-06T12:17:02Z"
+  },
+  {
+   "item_id": "3914111272",
+   "given_url": "https://www.uol.com.br/carros/reportagens-especiais/sexo-no-carro/#page7",
+   "given_title": "Tesão sobre rodas: relação entre sexo e carros tem voyerismo e poder",
+   "resolved_title": "Tesão sobre rodas",
+   "resolved_url": "https://www.uol.com.br/carros/reportagens-especiais/sexo-no-carro/",
+   "time_updated": "2023-08-04T03:56:57Z",
+   "time_added": "2023-08-04T03:56:57Z"
+  },
+  {
+   "item_id": "3914914040",
+   "given_url": "https://twitter.com/pikuma/status/1687782176828325888",
+   "given_title": "pikuma no Twitter: \"Why do we call it the \"Square Root\"? √‾‾‾ We have been ",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/pikuma/status/1687782176828325888",
+   "time_updated": "2023-08-05T16:27:39Z",
+   "time_added": "2023-08-05T16:27:37Z"
+  },
+  {
+   "item_id": "3915008364",
+   "given_url": "https://twitter.com/mattpocockuk/status/1687906780800487424",
+   "given_title": "Matt Pocock no Twitter: \"I'm starting to get interested in AI. Specifically",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/mattpocockuk/status/1687906780800487424",
+   "time_updated": "2023-08-05T21:19:23Z",
+   "time_added": "2023-08-05T21:19:21Z"
   },
   {
    "item_id": "3915056433",
@@ -76,40 +139,13 @@
    "time_added": "2023-08-06T09:59:24Z"
   },
   {
-   "item_id": "103226000",
-   "given_url": "https://en.m.wikipedia.org/wiki/Maroons",
-   "given_title": "Maroons - Wikipedia",
-   "resolved_title": "Maroons",
-   "resolved_url": "https://en.wikipedia.org/wiki/Maroons",
-   "time_updated": "2023-08-03T23:26:09Z",
-   "time_added": "2023-08-03T23:26:08Z"
-  },
-  {
-   "item_id": "1035680416",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Sedevacantismo",
-   "given_title": "Sedevacantismo – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Sedevacantismo",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Sedevacantismo",
-   "time_updated": "2023-08-05T09:29:04Z",
-   "time_added": "2023-08-05T09:29:03Z"
-  },
-  {
-   "item_id": "3914591819",
-   "given_url": "https://www1.folha.uol.com.br/colunas/demetriomagnoli/2023/08/a-palavra-blasfema.shtml",
-   "given_title": "A palavra blasfema - 04/08/2023 - Demétrio Magnoli - Folha",
-   "resolved_title": "A palavra blasfema",
-   "resolved_url": "https://www1.folha.uol.com.br/colunas/demetriomagnoli/2023/08/a-palavra-blasfema.shtml",
-   "time_updated": "2023-08-05T16:40:45Z",
-   "time_added": "2023-08-05T16:40:44Z"
-  },
-  {
-   "item_id": "3914416786",
-   "given_url": "https://3010tangents.wordpress.com/2015/03/06/applications-of-imaginary-numbers/",
-   "given_title": "Applications of Imaginary Numbers | 3010tangents",
-   "resolved_title": "Applications of Imaginary Numbers",
-   "resolved_url": "https://3010tangents.wordpress.com/2015/03/06/applications-of-imaginary-numbers/",
-   "time_updated": "2023-08-04T15:33:34Z",
-   "time_added": "2023-08-04T15:33:33Z"
+   "item_id": "19826324",
+   "given_url": "https://en.wikipedia.org/wiki/The_Persistence_of_Memory",
+   "given_title": "The Persistence of Memory - Wikipedia",
+   "resolved_title": "The Persistence of Memory",
+   "resolved_url": "https://en.wikipedia.org/wiki/The_Persistence_of_Memory",
+   "time_updated": "2023-08-06T11:58:43Z",
+   "time_added": "2023-08-06T11:58:43Z"
   },
   {
    "item_id": "805481389",
@@ -121,42 +157,6 @@
    "time_added": "2023-08-06T12:17:18Z"
   },
   {
-   "item_id": "3914111272",
-   "given_url": "https://www.uol.com.br/carros/reportagens-especiais/sexo-no-carro/#page7",
-   "given_title": "Tesão sobre rodas: relação entre sexo e carros tem voyerismo e poder",
-   "resolved_title": "Tesão sobre rodas",
-   "resolved_url": "https://www.uol.com.br/carros/reportagens-especiais/sexo-no-carro/",
-   "time_updated": "2023-08-04T03:56:57Z",
-   "time_added": "2023-08-04T03:56:57Z"
-  },
-  {
-   "item_id": "3914821962",
-   "given_url": "https://twitter.com/techsavvytravvy/status/1687320153095098368/photo/1",
-   "given_title": "trav no Twitter: \"skill issue tbh https://t.co/VlSL7mrnHV\" / X",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/techsavvytravvy/status/1687320153095098368/photo/1",
-   "time_updated": "2023-08-05T12:24:37Z",
-   "time_added": "2023-08-05T12:24:36Z"
-  },
-  {
-   "item_id": "3915008364",
-   "given_url": "https://twitter.com/mattpocockuk/status/1687906780800487424",
-   "given_title": "Matt Pocock no Twitter: \"I'm starting to get interested in AI. Specifically",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/mattpocockuk/status/1687906780800487424",
-   "time_updated": "2023-08-05T21:19:23Z",
-   "time_added": "2023-08-05T21:19:21Z"
-  },
-  {
-   "item_id": "19826324",
-   "given_url": "https://en.wikipedia.org/wiki/The_Persistence_of_Memory",
-   "given_title": "The Persistence of Memory - Wikipedia",
-   "resolved_title": "The Persistence of Memory",
-   "resolved_url": "https://en.wikipedia.org/wiki/The_Persistence_of_Memory",
-   "time_updated": "2023-08-06T11:58:43Z",
-   "time_added": "2023-08-06T11:58:43Z"
-  },
-  {
    "item_id": "349762905",
    "given_url": "https://en.m.wikipedia.org/wiki/Galago",
    "given_title": "Galago - Wikipedia",
@@ -166,49 +166,31 @@
    "time_added": "2023-08-04T21:43:01Z"
   },
   {
-   "item_id": "3016637200",
-   "given_url": "https://www.ligadosgames.com/fusoes-yu-gi-oh-forbidden-memories/",
-   "given_title": "Yu-Gi-Oh! Forbidden Memories: veja TODAS as fusões do jogo! - Liga dos Game",
-   "resolved_title": "Yu-Gi-Oh! Forbidden Memories: veja TODAS as fusões do jogo!",
-   "resolved_url": "https://www.ligadosgames.com/fusoes-yu-gi-oh-forbidden-memories/",
-   "time_updated": "2023-08-04T21:49:09Z",
-   "time_added": "2023-08-04T21:49:08Z"
+   "item_id": "3897235361",
+   "given_url": "https://en.m.wikipedia.org/wiki/Hwang_affair",
+   "given_title": "Hwang affair - Wikipedia",
+   "resolved_title": "Hwang affair",
+   "resolved_url": "https://en.wikipedia.org/wiki/Hwang_affair",
+   "time_updated": "2023-08-05T09:43:06Z",
+   "time_added": "2023-08-05T09:43:05Z"
   },
   {
-   "item_id": "3266248875",
-   "given_url": "https://www.surveymonkey.co.uk/mp/ab-testing-significance-calculator/",
-   "given_title": "A/B Testing Calculator for Statistical Significance | SurveyMonkey",
-   "resolved_title": "AB testing calculator",
-   "resolved_url": "https://www.surveymonkey.co.uk/mp/ab-testing-significance-calculator/",
-   "time_updated": "2023-08-05T19:38:34Z",
-   "time_added": "2023-08-05T19:38:34Z"
+   "item_id": "3914416786",
+   "given_url": "https://3010tangents.wordpress.com/2015/03/06/applications-of-imaginary-numbers/",
+   "given_title": "Applications of Imaginary Numbers | 3010tangents",
+   "resolved_title": "Applications of Imaginary Numbers",
+   "resolved_url": "https://3010tangents.wordpress.com/2015/03/06/applications-of-imaginary-numbers/",
+   "time_updated": "2023-08-04T15:33:34Z",
+   "time_added": "2023-08-04T15:33:33Z"
   },
   {
-   "item_id": "3915198808",
-   "given_url": "https://filiph.net/text/memex-is-already-here,-it%27s-just-not-evenly-distributed.html",
-   "given_title": "Memex is already here, it’s just not evenly distributed",
-   "resolved_title": "Memex is already here, it’s just not evenly distributed",
-   "resolved_url": "https://filiph.net/text/memex-is-already-here,-it's-just-not-evenly-distributed.html",
-   "time_updated": "2023-08-06T12:13:40Z",
-   "time_added": "2023-08-06T12:13:39Z"
-  },
-  {
-   "item_id": "3915265528",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Terra_preta",
-   "given_title": "Terra preta – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Terra preta",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Terra_preta",
-   "time_updated": "2023-08-06T12:17:04Z",
-   "time_added": "2023-08-06T12:17:02Z"
-  },
-  {
-   "item_id": "3665128556",
-   "given_url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2022/07/21/por-que-calor-de-40c-causa-panico-na-inglaterra-e-no-brasil-e-normal.htm",
-   "given_title": "Onde de calor na Europa: por que 40ªC lá é pior que Brasil?",
-   "resolved_title": "Por que calor de 40ºC é mortal na Inglaterra e no Brasil é \"normal\"?",
-   "resolved_url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2022/07/21/por-que-calor-de-40c-causa-panico-na-inglaterra-e-no-brasil-e-normal.htm",
-   "time_updated": "2023-08-06T12:42:13Z",
-   "time_added": "2023-08-06T12:42:13Z"
+   "item_id": "1035680416",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Sedevacantismo",
+   "given_title": "Sedevacantismo – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Sedevacantismo",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Sedevacantismo",
+   "time_updated": "2023-08-05T09:29:04Z",
+   "time_added": "2023-08-05T09:29:03Z"
   }
  ]
 }

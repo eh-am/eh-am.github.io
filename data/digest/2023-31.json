@@ -4,24 +4,6 @@
  "sortKey": "2023-31",
  "items": [
   {
-   "item_id": "3915198808",
-   "given_url": "https://filiph.net/text/memex-is-already-here,-it%27s-just-not-evenly-distributed.html",
-   "given_title": "Memex is already here, it’s just not evenly distributed",
-   "resolved_title": "Memex is already here, it’s just not evenly distributed",
-   "resolved_url": "https://filiph.net/text/memex-is-already-here,-it's-just-not-evenly-distributed.html",
-   "time_updated": "2023-08-06T12:13:40Z",
-   "time_added": "2023-08-06T12:13:39Z"
-  },
-  {
-   "item_id": "805481389",
-   "given_url": "https://pt.m.wikipedia.org/wiki/%C3%87atalh%C3%BCy%C3%BCk",
-   "given_title": "Çatalhüyük – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Çatalhüyük",
-   "resolved_url": "https://pt.wikipedia.org/wiki/%C3%87atalh%C3%BCy%C3%BCk",
-   "time_updated": "2023-08-06T12:17:18Z",
-   "time_added": "2023-08-06T12:17:18Z"
-  },
-  {
    "item_id": "3665128556",
    "given_url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2022/07/21/por-que-calor-de-40c-causa-panico-na-inglaterra-e-no-brasil-e-normal.htm",
    "given_title": "Onde de calor na Europa: por que 40ªC lá é pior que Brasil?",
@@ -31,13 +13,13 @@
    "time_added": "2023-08-06T12:42:13Z"
   },
   {
-   "item_id": "3915008364",
-   "given_url": "https://twitter.com/mattpocockuk/status/1687906780800487424",
-   "given_title": "Matt Pocock no Twitter: \"I'm starting to get interested in AI. Specifically",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/mattpocockuk/status/1687906780800487424",
-   "time_updated": "2023-08-05T21:19:23Z",
-   "time_added": "2023-08-05T21:19:21Z"
+   "item_id": "3915198808",
+   "given_url": "https://filiph.net/text/memex-is-already-here,-it%27s-just-not-evenly-distributed.html",
+   "given_title": "Memex is already here, it’s just not evenly distributed",
+   "resolved_title": "Memex is already here, it’s just not evenly distributed",
+   "resolved_url": "https://filiph.net/text/memex-is-already-here,-it's-just-not-evenly-distributed.html",
+   "time_updated": "2023-08-06T12:13:40Z",
+   "time_added": "2023-08-06T12:13:39Z"
   },
   {
    "item_id": "3915265528",
@@ -49,49 +31,13 @@
    "time_added": "2023-08-06T12:17:02Z"
   },
   {
-   "item_id": "3914821962",
-   "given_url": "https://twitter.com/techsavvytravvy/status/1687320153095098368/photo/1",
-   "given_title": "trav no Twitter: \"skill issue tbh https://t.co/VlSL7mrnHV\" / X",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/techsavvytravvy/status/1687320153095098368/photo/1",
-   "time_updated": "2023-08-05T12:24:37Z",
-   "time_added": "2023-08-05T12:24:36Z"
-  },
-  {
-   "item_id": "3266248875",
-   "given_url": "https://www.surveymonkey.co.uk/mp/ab-testing-significance-calculator/",
-   "given_title": "A/B Testing Calculator for Statistical Significance | SurveyMonkey",
-   "resolved_title": "AB testing calculator",
-   "resolved_url": "https://www.surveymonkey.co.uk/mp/ab-testing-significance-calculator/",
-   "time_updated": "2023-08-05T19:38:34Z",
-   "time_added": "2023-08-05T19:38:34Z"
-  },
-  {
-   "item_id": "3915218924",
-   "given_url": "https://twitter.com/_JeanLannes/status/1687649736356982784",
-   "given_title": "Maréchal Lannes no Twitter: \"Today I learned you can just send JWs to peopl",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/_JeanLannes/status/1687649736356982784",
-   "time_updated": "2023-08-06T09:59:26Z",
-   "time_added": "2023-08-06T09:59:24Z"
-  },
-  {
-   "item_id": "3914914040",
-   "given_url": "https://twitter.com/pikuma/status/1687782176828325888",
-   "given_title": "pikuma no Twitter: \"Why do we call it the \"Square Root\"? √‾‾‾ We have been ",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/pikuma/status/1687782176828325888",
-   "time_updated": "2023-08-05T16:27:39Z",
-   "time_added": "2023-08-05T16:27:37Z"
-  },
-  {
-   "item_id": "3914591819",
-   "given_url": "https://www1.folha.uol.com.br/colunas/demetriomagnoli/2023/08/a-palavra-blasfema.shtml",
-   "given_title": "A palavra blasfema - 04/08/2023 - Demétrio Magnoli - Folha",
-   "resolved_title": "A palavra blasfema",
-   "resolved_url": "https://www1.folha.uol.com.br/colunas/demetriomagnoli/2023/08/a-palavra-blasfema.shtml",
-   "time_updated": "2023-08-05T16:40:45Z",
-   "time_added": "2023-08-05T16:40:44Z"
+   "item_id": "805481389",
+   "given_url": "https://pt.m.wikipedia.org/wiki/%C3%87atalh%C3%BCy%C3%BCk",
+   "given_title": "Çatalhüyük – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Çatalhüyük",
+   "resolved_url": "https://pt.wikipedia.org/wiki/%C3%87atalh%C3%BCy%C3%BCk",
+   "time_updated": "2023-08-06T12:17:18Z",
+   "time_added": "2023-08-06T12:17:18Z"
   },
   {
    "item_id": "19826324",
@@ -103,31 +49,13 @@
    "time_added": "2023-08-06T11:58:43Z"
   },
   {
-   "item_id": "3914787497",
-   "given_url": "https://twitter.com/SebAaltonen/status/1687691543157829632",
-   "given_title": "Sebastian Aaltonen @ SIGGRAPH no Twitter: \"A thread about rollback network ",
+   "item_id": "3915218924",
+   "given_url": "https://twitter.com/_JeanLannes/status/1687649736356982784",
+   "given_title": "Maréchal Lannes no Twitter: \"Today I learned you can just send JWs to peopl",
    "resolved_title": "",
-   "resolved_url": "https://twitter.com/SebAaltonen/status/1687691543157829632",
-   "time_updated": "2023-08-05T12:51:09Z",
-   "time_added": "2023-08-05T12:51:09Z"
-  },
-  {
-   "item_id": "1196140255",
-   "given_url": "https://hbr.org/2016/02/a-refresher-on-statistical-significance",
-   "given_title": "A Refresher on Statistical Significance",
-   "resolved_title": "A Refresher on Statistical Significance",
-   "resolved_url": "https://hbr.org/2016/02/a-refresher-on-statistical-significance",
-   "time_updated": "2023-08-05T19:54:34Z",
-   "time_added": "2023-08-05T19:54:34Z"
-  },
-  {
-   "item_id": "3915056433",
-   "given_url": "https://twitter.com/agsportlight/status/1687963462830284800",
-   "given_title": "Agência Sportlight no Twitter: \"Falcão está nas manchetes por grave denúnci",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/agsportlight/status/1687963462830284800",
-   "time_updated": "2023-08-06T00:17:29Z",
-   "time_added": "2023-08-06T00:17:27Z"
+   "resolved_url": "https://twitter.com/_JeanLannes/status/1687649736356982784",
+   "time_updated": "2023-08-06T09:59:26Z",
+   "time_added": "2023-08-06T09:59:24Z"
   }
  ]
 }

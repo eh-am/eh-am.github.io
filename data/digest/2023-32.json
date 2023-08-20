@@ -13,15 +13,6 @@
    "time_added": "2023-08-13T16:52:38Z"
   },
   {
-   "item_id": "3918960819",
-   "given_url": "https://meuartigo.brasilescola.uol.com.br/administracao/feiras-livres-suas-origens-relacoes-consumo.htm",
-   "given_title": "Feiras Livres: Suas Origens e Relações de Consumo - Brasil Escola",
-   "resolved_title": "Feiras Livres: Suas Origens e Relações de Consumo",
-   "resolved_url": "https://meuartigo.brasilescola.uol.com.br/administracao/feiras-livres-suas-origens-relacoes-consumo.htm",
-   "time_updated": "2023-08-13T12:39:24Z",
-   "time_added": "2023-08-13T12:39:22Z"
-  },
-  {
    "item_id": "3918953493",
    "given_url": "https://www.uol.com.br/ecoa/ultimas-noticias/2023/08/13/incolonizavel-e-afropindoramico-quem-e-o-quilombola-nego-bispo.htm",
    "given_title": "Nêgo Bispo: 'A sociedade colonialista acabou. Por isso querem ir pra Marte'",
@@ -29,6 +20,15 @@
    "resolved_url": "https://www.uol.com.br/ecoa/ultimas-noticias/2023/08/13/incolonizavel-e-afropindoramico-quem-e-o-quilombola-nego-bispo.htm",
    "time_updated": "2023-08-13T14:16:26Z",
    "time_added": "2023-08-13T14:16:26Z"
+  },
+  {
+   "item_id": "3918960819",
+   "given_url": "https://meuartigo.brasilescola.uol.com.br/administracao/feiras-livres-suas-origens-relacoes-consumo.htm",
+   "given_title": "Feiras Livres: Suas Origens e Relações de Consumo - Brasil Escola",
+   "resolved_title": "Feiras Livres: Suas Origens e Relações de Consumo",
+   "resolved_url": "https://meuartigo.brasilescola.uol.com.br/administracao/feiras-livres-suas-origens-relacoes-consumo.htm",
+   "time_updated": "2023-08-13T12:39:24Z",
+   "time_added": "2023-08-13T12:39:22Z"
   }
  ]
 }

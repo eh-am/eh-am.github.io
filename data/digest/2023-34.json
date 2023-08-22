@@ -4,15 +4,6 @@
  "sortKey": "2023-34",
  "items": [
   {
-   "item_id": "3922787947",
-   "given_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2023/08/20/gralha-abatida-pentacampeao-paranaense-corre-risco-de-fechar-as-portas.htm",
-   "given_title": "Paraná Clube: pentacampeão paranaense corre risco de fechar as portas",
-   "resolved_title": "Gralha abatida: pentacampeão paranaense corre risco de fechar as portas",
-   "resolved_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2023/08/20/gralha-abatida-pentacampeao-paranaense-corre-risco-de-fechar-as-portas.htm",
-   "time_updated": "2023-08-21T21:09:07Z",
-   "time_added": "2023-08-21T07:56:46Z"
-  },
-  {
    "item_id": "3732499320",
    "given_url": "https://igormiranda.com.br/2022/03/clube-da-esquina-milton-nascimento-lo-borges-historia/",
    "given_title": "Clube da Esquina e a bela história do emblemático álbum",
@@ -20,6 +11,15 @@
    "resolved_url": "https://igormiranda.com.br/2022/03/clube-da-esquina-milton-nascimento-lo-borges-historia/",
    "time_updated": "2023-08-21T15:17:07Z",
    "time_added": "2023-08-21T15:17:07Z"
+  },
+  {
+   "item_id": "3922860108",
+   "given_url": "https://viewports.fyi/",
+   "given_title": "The ideal viewport doesn’t exist",
+   "resolved_title": "The ideal viewport doesn’t exist",
+   "resolved_url": "https://viewports.fyi/",
+   "time_updated": "2023-08-22T11:38:04Z",
+   "time_added": "2023-08-22T11:38:04Z"
   },
   {
    "item_id": "3922839220",
@@ -31,13 +31,13 @@
    "time_added": "2023-08-21T11:38:11Z"
   },
   {
-   "item_id": "3757385339",
-   "given_url": "https://www.youtube.com/watch?v=4_MS1gmwfz4",
-   "given_title": "(1) Amazon Kindle Scribe vs Remarkable 2 | The Showdown - YouTube",
-   "resolved_title": "Amazon Kindle Scribe vs Remarkable 2 | The Showdown",
-   "resolved_url": "http://www.youtube.com/watch?v=4_MS1gmwfz4",
-   "time_updated": "2023-08-21T18:40:52Z",
-   "time_added": "2023-08-21T18:40:52Z"
+   "item_id": "3921349581",
+   "given_url": "https://superuser.com/questions/1804661/firefox-doesnt-allow-to-paste-into-whatsapp-web-anymore",
+   "given_title": "Firefox doesn't allow to paste into WhatsApp web anymore? - Super User",
+   "resolved_title": "Firefox doesn't allow to paste into WhatsApp web anymore?",
+   "resolved_url": "https://superuser.com/questions/1804661/firefox-doesnt-allow-to-paste-into-whatsapp-web-anymore",
+   "time_updated": "2023-08-21T17:39:26Z",
+   "time_added": "2023-08-21T17:39:26Z"
   },
   {
    "item_id": "3923141198",
@@ -58,13 +58,22 @@
    "time_added": "2023-08-21T18:49:10Z"
   },
   {
-   "item_id": "3921349581",
-   "given_url": "https://superuser.com/questions/1804661/firefox-doesnt-allow-to-paste-into-whatsapp-web-anymore",
-   "given_title": "Firefox doesn't allow to paste into WhatsApp web anymore? - Super User",
-   "resolved_title": "Firefox doesn't allow to paste into WhatsApp web anymore?",
-   "resolved_url": "https://superuser.com/questions/1804661/firefox-doesnt-allow-to-paste-into-whatsapp-web-anymore",
-   "time_updated": "2023-08-21T17:39:26Z",
-   "time_added": "2023-08-21T17:39:26Z"
+   "item_id": "3922787947",
+   "given_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2023/08/20/gralha-abatida-pentacampeao-paranaense-corre-risco-de-fechar-as-portas.htm",
+   "given_title": "Paraná Clube: pentacampeão paranaense corre risco de fechar as portas",
+   "resolved_title": "Gralha abatida: pentacampeão paranaense corre risco de fechar as portas",
+   "resolved_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2023/08/20/gralha-abatida-pentacampeao-paranaense-corre-risco-de-fechar-as-portas.htm",
+   "time_updated": "2023-08-21T21:09:07Z",
+   "time_added": "2023-08-21T07:56:46Z"
+  },
+  {
+   "item_id": "3757385339",
+   "given_url": "https://www.youtube.com/watch?v=4_MS1gmwfz4",
+   "given_title": "(1) Amazon Kindle Scribe vs Remarkable 2 | The Showdown - YouTube",
+   "resolved_title": "Amazon Kindle Scribe vs Remarkable 2 | The Showdown",
+   "resolved_url": "http://www.youtube.com/watch?v=4_MS1gmwfz4",
+   "time_updated": "2023-08-21T18:40:52Z",
+   "time_added": "2023-08-21T18:40:52Z"
   }
  ]
 }

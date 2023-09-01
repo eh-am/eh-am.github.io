@@ -4,22 +4,13 @@
  "sortKey": "2023-34",
  "items": [
   {
-   "item_id": "724812636",
-   "given_url": "https://m.youtube.com/watch?v=n5L8A0QXtcw",
-   "given_title": "Paul Dini - \"Days of Our Lives\" scene that inspired \"Harley Quinn\" characte",
-   "resolved_title": "Paul Dini - \"Days of Our Lives\" scene that inspired \"Harley Quinn\" character from \"Batman\"",
-   "resolved_url": "http://www.youtube.com/watch?v=n5L8A0QXtcw",
-   "time_updated": "2023-08-27T09:15:52Z",
-   "time_added": "2023-08-27T09:15:51Z"
-  },
-  {
-   "item_id": "629961221",
-   "given_url": "https://en.m.wikipedia.org/wiki/Vitrified_fort",
-   "given_title": "Vitrified fort - Wikipedia",
-   "resolved_title": "Vitrified fort",
-   "resolved_url": "https://en.wikipedia.org/wiki/Vitrified_fort",
-   "time_updated": "2023-08-27T20:55:12Z",
-   "time_added": "2023-08-27T20:55:11Z"
+   "item_id": "3925975817",
+   "given_url": "https://imgur.io/a/iXZAtt9",
+   "given_title": "Guide (not finished) - Imgur",
+   "resolved_title": "",
+   "resolved_url": "https://imgur.io/a/iXZAtt9",
+   "time_updated": "2023-08-27T10:53:12Z",
+   "time_added": "2023-08-27T10:53:11Z"
   },
   {
    "item_id": "3925333475",
@@ -31,13 +22,22 @@
    "time_added": "2023-08-25T22:44:43Z"
   },
   {
-   "item_id": "3925975817",
-   "given_url": "https://imgur.io/a/iXZAtt9",
-   "given_title": "Guide (not finished) - Imgur",
-   "resolved_title": "",
-   "resolved_url": "https://imgur.io/a/iXZAtt9",
-   "time_updated": "2023-08-27T10:53:12Z",
-   "time_added": "2023-08-27T10:53:11Z"
+   "item_id": "629961221",
+   "given_url": "https://en.m.wikipedia.org/wiki/Vitrified_fort",
+   "given_title": "Vitrified fort - Wikipedia",
+   "resolved_title": "Vitrified fort",
+   "resolved_url": "https://en.wikipedia.org/wiki/Vitrified_fort",
+   "time_updated": "2023-08-27T20:55:12Z",
+   "time_added": "2023-08-27T20:55:11Z"
+  },
+  {
+   "item_id": "724812636",
+   "given_url": "https://m.youtube.com/watch?v=n5L8A0QXtcw",
+   "given_title": "Paul Dini - \"Days of Our Lives\" scene that inspired \"Harley Quinn\" characte",
+   "resolved_title": "Paul Dini - \"Days of Our Lives\" scene that inspired \"Harley Quinn\" character from \"Batman\"",
+   "resolved_url": "http://www.youtube.com/watch?v=n5L8A0QXtcw",
+   "time_updated": "2023-08-27T09:15:52Z",
+   "time_added": "2023-08-27T09:15:51Z"
   },
   {
    "item_id": "3925980049",
@@ -47,24 +47,6 @@
    "resolved_url": "https://github.com/ValveSoftware/Proton/issues/2476",
    "time_updated": "2023-08-27T11:07:20Z",
    "time_added": "2023-08-27T11:07:18Z"
-  },
-  {
-   "item_id": "1460663947",
-   "given_url": "https://time.com/4547332/reading-benefits/",
-   "given_title": "Read a Novel: It's Just What the Doctor Ordered | Time",
-   "resolved_title": "Read a Novel: It's Just What the Doctor Ordered",
-   "resolved_url": "https://time.com/4547332/reading-benefits/",
-   "time_updated": "2023-08-24T18:21:27Z",
-   "time_added": "2023-08-24T18:21:27Z"
-  },
-  {
-   "item_id": "3924695536",
-   "given_url": "https://www.uol.com.br/vivabem/noticias/redacao/2023/08/24/comi-um-molho-contaminado-fui-entubada-e-passei-quase-um-ano-internada.htm",
-   "given_title": "'Comi molho contaminado, fui intubada e passei quase um ano internada'",
-   "resolved_title": "'Comi um molho contaminado, parei de andar e passei quase um ano internada'",
-   "resolved_url": "https://www.uol.com.br/vivabem/noticias/redacao/2023/08/24/comi-um-molho-contaminado-fui-entubada-e-passei-quase-um-ano-internada.htm",
-   "time_updated": "2023-08-24T20:26:19Z",
-   "time_added": "2023-08-24T20:26:19Z"
   },
   {
    "item_id": "3922250337",

@@ -4,15 +4,6 @@
  "sortKey": "2023-36",
  "items": [
   {
-   "item_id": "3929658210",
-   "given_url": "https://www.uol.com.br/esporte/reportagens-especiais/espirito-de-porco---como-duas-mortes-acirraram-a-rivalidade-entre-corinthians-e-palmeiras/#page2",
-   "given_title": "Corinthians x Palmeiras: como surgiu o apelido de porco",
-   "resolved_title": "Espírito de porco",
-   "resolved_url": "https://www.uol.com.br/esporte/reportagens-especiais/espirito-de-porco---como-duas-mortes-acirraram-a-rivalidade-entre-corinthians-e-palmeiras/",
-   "time_updated": "2023-09-04T08:22:08Z",
-   "time_added": "2023-09-04T08:22:08Z"
-  },
-  {
    "item_id": "247367479",
    "given_url": "https://www.bigocheatsheet.com/",
    "given_title": "Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowel",
@@ -20,6 +11,15 @@
    "resolved_url": "https://www.bigocheatsheet.com/",
    "time_updated": "2023-09-04T10:13:20Z",
    "time_added": "2023-09-04T10:13:19Z"
+  },
+  {
+   "item_id": "3929865505",
+   "given_url": "https://m.youtube.com/watch?v=jIgoBRbfkUA",
+   "given_title": "How We Know Languages like Proto-Indo-European Existed - YouTube",
+   "resolved_title": "How We Know Languages like Proto-Indo-European Existed",
+   "resolved_url": "http://www.youtube.com/watch?v=jIgoBRbfkUA",
+   "time_updated": "2023-09-04T13:08:36Z",
+   "time_added": "2023-09-04T13:08:35Z"
   },
   {
    "item_id": "3928077753",
@@ -31,6 +31,24 @@
    "time_added": "2023-09-04T11:12:00Z"
   },
   {
+   "item_id": "3930489315",
+   "given_url": "https://twitter.com/SaraSoueidan/status/1698940260682535280",
+   "given_title": "Sara Soueidan no X: \"Stop re-inventing the wheel and just use \u0026lt;button\u0026gt",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/SaraSoueidan/status/1698940260682535280",
+   "time_updated": "2023-09-05T10:40:56Z",
+   "time_added": "2023-09-05T10:40:54Z"
+  },
+  {
+   "item_id": "3929658210",
+   "given_url": "https://www.uol.com.br/esporte/reportagens-especiais/espirito-de-porco---como-duas-mortes-acirraram-a-rivalidade-entre-corinthians-e-palmeiras/#page2",
+   "given_title": "Corinthians x Palmeiras: como surgiu o apelido de porco",
+   "resolved_title": "Espírito de porco",
+   "resolved_url": "https://www.uol.com.br/esporte/reportagens-especiais/espirito-de-porco---como-duas-mortes-acirraram-a-rivalidade-entre-corinthians-e-palmeiras/",
+   "time_updated": "2023-09-04T08:22:08Z",
+   "time_added": "2023-09-04T08:22:08Z"
+  },
+  {
    "item_id": "3892376165",
    "given_url": "https://www.theparisreview.org/blog/2023/06/23/fernando-pessoas-many-personalities/",
    "given_title": "The Paris Review - Fernando Pessoa’s Unselving - The Paris Review",
@@ -38,15 +56,6 @@
    "resolved_url": "https://www.theparisreview.org/blog/2023/06/23/fernando-pessoas-many-personalities/",
    "time_updated": "2023-09-04T10:57:01Z",
    "time_added": "2023-09-04T10:57:01Z"
-  },
-  {
-   "item_id": "3929865505",
-   "given_url": "https://m.youtube.com/watch?v=jIgoBRbfkUA",
-   "given_title": "How We Know Languages like Proto-Indo-European Existed - YouTube",
-   "resolved_title": "How We Know Languages like Proto-Indo-European Existed",
-   "resolved_url": "http://www.youtube.com/watch?v=jIgoBRbfkUA",
-   "time_updated": "2023-09-04T13:08:36Z",
-   "time_added": "2023-09-04T13:08:35Z"
   }
  ]
 }

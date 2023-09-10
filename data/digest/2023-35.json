@@ -4,24 +4,6 @@
  "sortKey": "2023-35",
  "items": [
   {
-   "item_id": "3929196801",
-   "given_url": "https://en.m.wikipedia.org/wiki/Satoshi_Mizukami",
-   "given_title": "Satoshi Mizukami - Wikipedia",
-   "resolved_title": "Satoshi Mizukami",
-   "resolved_url": "https://en.wikipedia.org/wiki/Satoshi_Mizukami",
-   "time_updated": "2023-09-02T16:29:23Z",
-   "time_added": "2023-09-02T16:29:22Z"
-  },
-  {
-   "item_id": "3929261354",
-   "given_url": "https://www.brooklynvegan.com/g-i-s-m-vocalist-sakevi-yokoyama-has-reportedly-passed-away/",
-   "given_title": "G.I.S.M. vocalist Sakevi Yokoyama has reportedly passed away",
-   "resolved_title": "G.I.S.M. vocalist Sakevi Yokoyama has reportedly passed away",
-   "resolved_url": "https://www.brooklynvegan.com/g-i-s-m-vocalist-sakevi-yokoyama-has-reportedly-passed-away/",
-   "time_updated": "2023-09-02T19:53:32Z",
-   "time_added": "2023-09-02T19:53:31Z"
-  },
-  {
    "item_id": "392175645",
    "given_url": "https://en.m.wikipedia.org/wiki/Traditional_Korean_medicine",
    "given_title": "Traditional Korean medicine - Wikipedia",
@@ -29,15 +11,6 @@
    "resolved_url": "https://en.wikipedia.org/wiki/Traditional_Korean_medicine",
    "time_updated": "2023-09-03T13:40:34Z",
    "time_added": "2023-09-03T13:40:33Z"
-  },
-  {
-   "item_id": "619979857",
-   "given_url": "https://en.m.wikipedia.org/wiki/Walkabout",
-   "given_title": "Walkabout - Wikipedia",
-   "resolved_title": "Walkabout",
-   "resolved_url": "https://en.wikipedia.org/wiki/Walkabout",
-   "time_updated": "2023-09-02T17:15:34Z",
-   "time_added": "2023-09-02T17:15:34Z"
   }
  ]
 }

@@ -4,6 +4,15 @@
  "sortKey": "2023-36",
  "items": [
   {
+   "item_id": "3932738573",
+   "given_url": "https://twitter.com/marcelrgoto/status/1700296589686820899",
+   "given_title": "Marcel R Goto no X: \"A defesa da psicanálise nessas discussões segue a estr",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/marcelrgoto/status/1700296589686820899",
+   "time_updated": "2023-09-09T17:48:36Z",
+   "time_added": "2023-09-09T17:48:33Z"
+  },
+  {
    "item_id": "88575657",
    "given_url": "https://en.m.wikipedia.org/wiki/Cali_Gari",
    "given_title": "Cali Gari - Wikipedia",
@@ -11,15 +20,6 @@
    "resolved_url": "https://en.wikipedia.org/wiki/Cali_Gari",
    "time_updated": "2023-09-10T11:12:24Z",
    "time_added": "2023-09-10T11:12:23Z"
-  },
-  {
-   "item_id": "298873960",
-   "given_url": "https://pitchfork.com/reviews/albums/8015-deceit/",
-   "given_title": "This Heat: Deceit Album Review | Pitchfork",
-   "resolved_title": "Deceit",
-   "resolved_url": "https://pitchfork.com/reviews/albums/8015-deceit/",
-   "time_updated": "2023-09-08T09:05:42Z",
-   "time_added": "2023-09-08T09:05:41Z"
   },
   {
    "item_id": "3931870839",
@@ -31,22 +31,13 @@
    "time_added": "2023-09-08T17:38:37Z"
   },
   {
-   "item_id": "3932346287",
-   "given_url": "https://twitter.com/MarcJBrooker/status/1700210317152890963",
-   "given_title": "Marc Brooker no X: \"This seems fun. Here's my try. A 'vector' is a fancy na",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/MarcJBrooker/status/1700210317152890963",
-   "time_updated": "2023-09-08T20:36:04Z",
-   "time_added": "2023-09-08T20:36:02Z"
-  },
-  {
-   "item_id": "3932701774",
-   "given_url": "https://economictimes.indiatimes.com/news/politics-and-nation/we-want-to-be-indias-gateway-to-europe-portuguese-pm-costa/articleshow/72880656.cms?from=mdr",
-   "given_title": "Narendra Modi: We want to be India’s gateway to Europe: Portuguese PM Costa",
-   "resolved_title": "We want to be India’s gateway to Europe: Portuguese PM Costa",
-   "resolved_url": "https://economictimes.indiatimes.com/news/politics-and-nation/we-want-to-be-indias-gateway-to-europe-portuguese-pm-costa/articleshow/72880656.cms",
-   "time_updated": "2023-09-09T15:57:57Z",
-   "time_added": "2023-09-09T15:57:55Z"
+   "item_id": "3932404363",
+   "given_url": "https://github.com/hotwired/turbo/issues/977",
+   "given_title": "Remove DHH for CoC Violations · Issue #977 · hotwired/turbo · GitHub",
+   "resolved_title": "Remove DHH for CoC Violations#977",
+   "resolved_url": "https://github.com/hotwired/turbo/issues/977",
+   "time_updated": "2023-09-09T13:27:56Z",
+   "time_added": "2023-09-09T13:27:55Z"
   },
   {
    "item_id": "3175882746",
@@ -67,6 +58,15 @@
    "time_added": "2023-09-08T22:11:34Z"
   },
   {
+   "item_id": "737503524",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Aposta_de_Pascal",
+   "given_title": "Aposta de Pascal – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Aposta de Pascal",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Aposta_de_Pascal",
+   "time_updated": "2023-09-10T15:55:33Z",
+   "time_added": "2023-09-10T15:55:33Z"
+  },
+  {
    "item_id": "3932727670",
    "given_url": "https://twitter.com/JLarky/status/1700319448107028515",
    "given_title": "JLarky no X: \"Storytime: As you might have heard I started my job search Au",
@@ -74,15 +74,6 @@
    "resolved_url": "https://twitter.com/JLarky/status/1700319448107028515",
    "time_updated": "2023-09-09T17:14:20Z",
    "time_added": "2023-09-09T17:14:18Z"
-  },
-  {
-   "item_id": "147096756",
-   "given_url": "https://en.m.wikipedia.org/wiki/Tokyo_Rose",
-   "given_title": "Tokyo Rose - Wikipedia",
-   "resolved_title": "Tokyo Rose",
-   "resolved_url": "https://en.wikipedia.org/wiki/Tokyo_Rose",
-   "time_updated": "2023-09-09T17:31:43Z",
-   "time_added": "2023-09-09T17:31:42Z"
   },
   {
    "item_id": "3932618638",
@@ -94,31 +85,31 @@
    "time_added": "2023-09-10T11:16:00Z"
   },
   {
-   "item_id": "3932404363",
-   "given_url": "https://github.com/hotwired/turbo/issues/977",
-   "given_title": "Remove DHH for CoC Violations · Issue #977 · hotwired/turbo · GitHub",
-   "resolved_title": "Remove DHH for CoC Violations#977",
-   "resolved_url": "https://github.com/hotwired/turbo/issues/977",
-   "time_updated": "2023-09-09T13:27:56Z",
-   "time_added": "2023-09-09T13:27:55Z"
+   "item_id": "147096756",
+   "given_url": "https://en.m.wikipedia.org/wiki/Tokyo_Rose",
+   "given_title": "Tokyo Rose - Wikipedia",
+   "resolved_title": "Tokyo Rose",
+   "resolved_url": "https://en.wikipedia.org/wiki/Tokyo_Rose",
+   "time_updated": "2023-09-09T17:31:43Z",
+   "time_added": "2023-09-09T17:31:42Z"
   },
   {
-   "item_id": "3932738573",
-   "given_url": "https://twitter.com/marcelrgoto/status/1700296589686820899",
-   "given_title": "Marcel R Goto no X: \"A defesa da psicanálise nessas discussões segue a estr",
+   "item_id": "3932346287",
+   "given_url": "https://twitter.com/MarcJBrooker/status/1700210317152890963",
+   "given_title": "Marc Brooker no X: \"This seems fun. Here's my try. A 'vector' is a fancy na",
    "resolved_title": "",
-   "resolved_url": "https://twitter.com/marcelrgoto/status/1700296589686820899",
-   "time_updated": "2023-09-09T17:48:36Z",
-   "time_added": "2023-09-09T17:48:33Z"
+   "resolved_url": "https://twitter.com/MarcJBrooker/status/1700210317152890963",
+   "time_updated": "2023-09-08T20:36:04Z",
+   "time_added": "2023-09-08T20:36:02Z"
   },
   {
-   "item_id": "737503524",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Aposta_de_Pascal",
-   "given_title": "Aposta de Pascal – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Aposta de Pascal",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Aposta_de_Pascal",
-   "time_updated": "2023-09-10T15:55:33Z",
-   "time_added": "2023-09-10T15:55:33Z"
+   "item_id": "3932701774",
+   "given_url": "https://economictimes.indiatimes.com/news/politics-and-nation/we-want-to-be-indias-gateway-to-europe-portuguese-pm-costa/articleshow/72880656.cms?from=mdr",
+   "given_title": "Narendra Modi: We want to be India’s gateway to Europe: Portuguese PM Costa",
+   "resolved_title": "We want to be India’s gateway to Europe: Portuguese PM Costa",
+   "resolved_url": "https://economictimes.indiatimes.com/news/politics-and-nation/we-want-to-be-indias-gateway-to-europe-portuguese-pm-costa/articleshow/72880656.cms",
+   "time_updated": "2023-09-09T15:57:57Z",
+   "time_added": "2023-09-09T15:57:55Z"
   }
  ]
 }

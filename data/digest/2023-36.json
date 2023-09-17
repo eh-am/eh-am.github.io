@@ -4,15 +4,6 @@
  "sortKey": "2023-36",
  "items": [
   {
-   "item_id": "3932404363",
-   "given_url": "https://github.com/hotwired/turbo/issues/977",
-   "given_title": "Remove DHH for CoC Violations · Issue #977 · hotwired/turbo · GitHub",
-   "resolved_title": "Remove DHH for CoC Violations#977",
-   "resolved_url": "https://github.com/hotwired/turbo/issues/977",
-   "time_updated": "2023-09-09T13:27:56Z",
-   "time_added": "2023-09-09T13:27:55Z"
-  },
-  {
    "item_id": "88575657",
    "given_url": "https://en.m.wikipedia.org/wiki/Cali_Gari",
    "given_title": "Cali Gari - Wikipedia",
@@ -31,24 +22,6 @@
    "time_added": "2023-09-10T15:55:33Z"
   },
   {
-   "item_id": "3932701774",
-   "given_url": "https://economictimes.indiatimes.com/news/politics-and-nation/we-want-to-be-indias-gateway-to-europe-portuguese-pm-costa/articleshow/72880656.cms?from=mdr",
-   "given_title": "Narendra Modi: We want to be India’s gateway to Europe: Portuguese PM Costa",
-   "resolved_title": "We want to be India’s gateway to Europe: Portuguese PM Costa",
-   "resolved_url": "https://economictimes.indiatimes.com/news/politics-and-nation/we-want-to-be-indias-gateway-to-europe-portuguese-pm-costa/articleshow/72880656.cms",
-   "time_updated": "2023-09-09T15:57:57Z",
-   "time_added": "2023-09-09T15:57:55Z"
-  },
-  {
-   "item_id": "3932727670",
-   "given_url": "https://twitter.com/JLarky/status/1700319448107028515",
-   "given_title": "JLarky no X: \"Storytime: As you might have heard I started my job search Au",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/JLarky/status/1700319448107028515",
-   "time_updated": "2023-09-09T17:14:20Z",
-   "time_added": "2023-09-09T17:14:18Z"
-  },
-  {
    "item_id": "3932618638",
    "given_url": "https://fstvl.org/incorporadoras-de-festivais/",
    "given_title": "Os grandes conglomerados do mercado de festivais – FSTVL",
@@ -56,24 +29,6 @@
    "resolved_url": "https://fstvl.org/incorporadoras-de-festivais/",
    "time_updated": "2023-09-10T11:16:00Z",
    "time_added": "2023-09-10T11:16:00Z"
-  },
-  {
-   "item_id": "147096756",
-   "given_url": "https://en.m.wikipedia.org/wiki/Tokyo_Rose",
-   "given_title": "Tokyo Rose - Wikipedia",
-   "resolved_title": "Tokyo Rose",
-   "resolved_url": "https://en.wikipedia.org/wiki/Tokyo_Rose",
-   "time_updated": "2023-09-09T17:31:43Z",
-   "time_added": "2023-09-09T17:31:42Z"
-  },
-  {
-   "item_id": "3932738573",
-   "given_url": "https://twitter.com/marcelrgoto/status/1700296589686820899",
-   "given_title": "Marcel R Goto no X: \"A defesa da psicanálise nessas discussões segue a estr",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/marcelrgoto/status/1700296589686820899",
-   "time_updated": "2023-09-09T17:48:36Z",
-   "time_added": "2023-09-09T17:48:33Z"
   }
  ]
 }

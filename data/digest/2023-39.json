@@ -4,13 +4,49 @@
  "sortKey": "2023-39",
  "items": [
   {
+   "item_id": "3940637386",
+   "given_url": "https://en.m.wiktionary.org/wiki/werewolf",
+   "given_title": "werewolf - Wiktionary, the free dictionary",
+   "resolved_title": "werewolf",
+   "resolved_url": "https://en.wiktionary.org/wiki/werewolf",
+   "time_updated": "2023-09-25T13:49:44Z",
+   "time_added": "2023-09-25T13:49:42Z"
+  },
+  {
    "item_id": "3940599430",
    "given_url": "https://twitter.com/Trek_Problems/status/1705976144355291435",
    "given_title": "Trek Problems no X: \"Star Trek Facepalms, a Thread Facepalms and #TrekProbl",
    "resolved_title": "",
-   "resolved_url": "",
-   "time_updated": "2023-09-25T12:26:04Z",
+   "resolved_url": "https://twitter.com/Trek_Problems/status/1705976144355291435",
+   "time_updated": "2023-09-25T12:26:06Z",
    "time_added": "2023-09-25T12:26:03Z"
+  },
+  {
+   "item_id": "3940644907",
+   "given_url": "https://m.youtube.com/watch?v=Y4wxLzFNCJk",
+   "given_title": "Lula discursa na Assembleia Geral da ONU - YouTube",
+   "resolved_title": "Lula discursa na Assembleia Geral da ONU",
+   "resolved_url": "http://www.youtube.com/watch?v=Y4wxLzFNCJk",
+   "time_updated": "2023-09-25T14:06:27Z",
+   "time_added": "2023-09-25T14:06:26Z"
+  },
+  {
+   "item_id": "3460843763",
+   "given_url": "https://github.com/BoltzmannEntropy/interviews.ai",
+   "given_title": "BoltzmannEntropy/interviews.ai: It is my belief that you, the postgraduate ",
+   "resolved_title": "Deep Learning Interviews book: Hundreds of fully solved job interview questions from a wide range of key topics in AI.",
+   "resolved_url": "https://github.com/BoltzmannEntropy/interviews.ai",
+   "time_updated": "2023-09-25T15:00:23Z",
+   "time_added": "2023-09-25T15:00:22Z"
+  },
+  {
+   "item_id": "3940638765",
+   "given_url": "https://twitter.com/Rainmaker1973/status/1705884791273635889",
+   "given_title": "Massimo no X: \"Valonia ventricosa is one of the largest known unicellular o",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/Rainmaker1973/status/1705884791273635889",
+   "time_updated": "2023-09-25T13:52:18Z",
+   "time_added": "2023-09-25T13:52:16Z"
   }
  ]
 }

@@ -4,31 +4,13 @@
  "sortKey": "2023-38",
  "items": [
   {
-   "item_id": "3799419072",
-   "given_url": "https://pikuma.com/blog/math-for-game-developers",
-   "given_title": "Pikuma: Fundamental Math for Game Developers",
-   "resolved_title": "Fundamental Math for Game Developers",
-   "resolved_url": "https://pikuma.com/blog/math-for-game-developers",
-   "time_updated": "2023-09-23T12:45:33Z",
-   "time_added": "2023-09-23T12:45:33Z"
-  },
-  {
-   "item_id": "3940233400",
-   "given_url": "https://discovernikkei.org/pt/journal/2017/6/26/culinaria-japonesa-brasil/",
-   "given_title": "A influência da culinária japonesa no Brasil – ontem, hoje e amanhã - Descu",
-   "resolved_title": "A influência da culinária japonesa no Brasil – ontem, hoje e amanhã",
-   "resolved_url": "https://discovernikkei.org/pt/journal/2017/6/26/culinaria-japonesa-brasil/",
-   "time_updated": "2023-09-24T17:55:31Z",
-   "time_added": "2023-09-24T17:55:29Z"
-  },
-  {
-   "item_id": "13970843",
-   "given_url": "https://en.wikipedia.org/wiki/Maya_script",
-   "given_title": "Maya script - Wikipedia",
-   "resolved_title": "Maya script",
-   "resolved_url": "https://en.wikipedia.org/wiki/Maya_script",
-   "time_updated": "2023-09-23T12:41:55Z",
-   "time_added": "2023-09-23T12:41:55Z"
+   "item_id": "3940234812",
+   "given_url": "https://www.youtube.com/watch?v=H3b7qGIESbA",
+   "given_title": "(24) Agricultura e os primeiros imigrantes japoneses no Brasil - TV Bunkyo ",
+   "resolved_title": "Agricultura e os primeiros imigrantes japoneses no Brasil - TV Bunkyo",
+   "resolved_url": "https://www.youtube.com/watch?v=H3b7qGIESbA",
+   "time_updated": "2023-09-24T18:00:11Z",
+   "time_added": "2023-09-24T18:00:11Z"
   },
   {
    "item_id": "3939830980",
@@ -40,22 +22,13 @@
    "time_added": "2023-09-23T19:35:43Z"
   },
   {
-   "item_id": "3634936997",
-   "given_url": "https://en.m.wikipedia.org/wiki/Tulip_Period",
-   "given_title": "",
-   "resolved_title": "Tulip period",
-   "resolved_url": "https://en.wikipedia.org/wiki/Tulip_period",
-   "time_updated": "2023-09-24T20:27:19Z",
-   "time_added": "2023-09-24T20:27:19Z"
-  },
-  {
-   "item_id": "3567210768",
-   "given_url": "https://g1.globo.com/pr/norte-noroeste/noticia/2015/07/geada-negra-que-destruiu-pes-de-cafe-no-parana-completa-40-anos.html",
-   "given_title": "G1 - 'Geada negra' que destruiu pés de café no Paraná completa 40 anos - no",
-   "resolved_title": "'Geada negra' que destruiu pés de café no Paraná completa 40 anos",
-   "resolved_url": "https://g1.globo.com/pr/norte-noroeste/noticia/2015/07/geada-negra-que-destruiu-pes-de-cafe-no-parana-completa-40-anos.html",
-   "time_updated": "2023-09-23T10:33:00Z",
-   "time_added": "2023-09-23T10:32:59Z"
+   "item_id": "3938918498",
+   "given_url": "https://www.wired.com/story/google-mourns-luiz-andre-barroso-veteran-engineer-invented-the-modern-data-center/",
+   "given_title": "Google Mourns Veteran Engineer Luiz André Barroso Who Invented the Modern D",
+   "resolved_title": "Google Mourns Veteran Engineer Luiz André Barroso Who Invented the Modern Data Center",
+   "resolved_url": "https://www.wired.com/story/google-mourns-luiz-andre-barroso-veteran-engineer-invented-the-modern-data-center/",
+   "time_updated": "2023-09-23T12:32:09Z",
+   "time_added": "2023-09-23T12:32:09Z"
   },
   {
    "item_id": "3940074866",
@@ -76,6 +49,33 @@
    "time_added": "2023-09-22T14:43:07Z"
   },
   {
+   "item_id": "3634936997",
+   "given_url": "https://en.m.wikipedia.org/wiki/Tulip_Period",
+   "given_title": "",
+   "resolved_title": "Tulip period",
+   "resolved_url": "https://en.wikipedia.org/wiki/Tulip_period",
+   "time_updated": "2023-09-24T20:27:19Z",
+   "time_added": "2023-09-24T20:27:19Z"
+  },
+  {
+   "item_id": "3799419072",
+   "given_url": "https://pikuma.com/blog/math-for-game-developers",
+   "given_title": "Pikuma: Fundamental Math for Game Developers",
+   "resolved_title": "Fundamental Math for Game Developers",
+   "resolved_url": "https://pikuma.com/blog/math-for-game-developers",
+   "time_updated": "2023-09-23T12:45:33Z",
+   "time_added": "2023-09-23T12:45:33Z"
+  },
+  {
+   "item_id": "3940233400",
+   "given_url": "https://discovernikkei.org/pt/journal/2017/6/26/culinaria-japonesa-brasil/",
+   "given_title": "A influência da culinária japonesa no Brasil – ontem, hoje e amanhã - Descu",
+   "resolved_title": "A influência da culinária japonesa no Brasil – ontem, hoje e amanhã",
+   "resolved_url": "https://discovernikkei.org/pt/journal/2017/6/26/culinaria-japonesa-brasil/",
+   "time_updated": "2023-09-24T17:55:31Z",
+   "time_added": "2023-09-24T17:55:29Z"
+  },
+  {
    "item_id": "162896320",
    "given_url": "https://en.m.wikipedia.org/wiki/Lost:_Missing_Pieces",
    "given_title": "Lost: Missing Pieces - Wikipedia",
@@ -85,31 +85,13 @@
    "time_added": "2023-09-24T16:18:38Z"
   },
   {
-   "item_id": "3940234812",
-   "given_url": "https://www.youtube.com/watch?v=H3b7qGIESbA",
-   "given_title": "(24) Agricultura e os primeiros imigrantes japoneses no Brasil - TV Bunkyo ",
-   "resolved_title": "Agricultura e os primeiros imigrantes japoneses no Brasil - TV Bunkyo",
-   "resolved_url": "https://www.youtube.com/watch?v=H3b7qGIESbA",
-   "time_updated": "2023-09-24T18:00:11Z",
-   "time_added": "2023-09-24T18:00:11Z"
-  },
-  {
-   "item_id": "3939141875",
-   "given_url": "https://www.youtube.com/watch?v=f8kako3Yicw",
-   "given_title": "(10) Lordy - YouTube",
-   "resolved_title": "Lordy",
-   "resolved_url": "https://www.youtube.com/watch?v=f8kako3Yicw",
-   "time_updated": "2023-09-22T10:22:50Z",
-   "time_added": "2023-09-22T10:22:49Z"
-  },
-  {
-   "item_id": "3367744060",
-   "given_url": "https://marcosticks.org/ten-thousand-ways/",
-   "given_title": "Ten thousand ways to use chopsticks - Marcosticks",
-   "resolved_title": "Ten thousand ways to use chopsticks",
-   "resolved_url": "https://marcosticks.org/ten-thousand-ways/",
-   "time_updated": "2023-09-24T18:11:55Z",
-   "time_added": "2023-09-24T18:11:55Z"
+   "item_id": "13970843",
+   "given_url": "https://en.wikipedia.org/wiki/Maya_script",
+   "given_title": "Maya script - Wikipedia",
+   "resolved_title": "Maya script",
+   "resolved_url": "https://en.wikipedia.org/wiki/Maya_script",
+   "time_updated": "2023-09-23T12:41:55Z",
+   "time_added": "2023-09-23T12:41:55Z"
   },
   {
    "item_id": "3940152504",
@@ -121,24 +103,6 @@
    "time_added": "2023-09-24T14:09:02Z"
   },
   {
-   "item_id": "3938758818",
-   "given_url": "https://www.youtube.com/watch?v=PeDNuITuJPA",
-   "given_title": "(36) A puzzle game where you decipher languages - YouTube",
-   "resolved_title": "A puzzle game where you decipher languages",
-   "resolved_url": "https://www.youtube.com/watch?v=PeDNuITuJPA",
-   "time_updated": "2023-09-22T09:36:27Z",
-   "time_added": "2023-09-22T09:36:27Z"
-  },
-  {
-   "item_id": "3938918498",
-   "given_url": "https://www.wired.com/story/google-mourns-luiz-andre-barroso-veteran-engineer-invented-the-modern-data-center/",
-   "given_title": "Google Mourns Veteran Engineer Luiz André Barroso Who Invented the Modern D",
-   "resolved_title": "Google Mourns Veteran Engineer Luiz André Barroso Who Invented the Modern Data Center",
-   "resolved_url": "https://www.wired.com/story/google-mourns-luiz-andre-barroso-veteran-engineer-invented-the-modern-data-center/",
-   "time_updated": "2023-09-23T12:32:09Z",
-   "time_added": "2023-09-23T12:32:09Z"
-  },
-  {
    "item_id": "3940168313",
    "given_url": "https://enlightio.com/flashforward-definition-examples",
    "given_title": "Flashforward: Definition and 10  Examples",
@@ -146,6 +110,15 @@
    "resolved_url": "https://enlightio.com/flashforward-definition-examples",
    "time_updated": "2023-09-24T14:54:57Z",
    "time_added": "2023-09-24T14:54:56Z"
+  },
+  {
+   "item_id": "3367744060",
+   "given_url": "https://marcosticks.org/ten-thousand-ways/",
+   "given_title": "Ten thousand ways to use chopsticks - Marcosticks",
+   "resolved_title": "Ten thousand ways to use chopsticks",
+   "resolved_url": "https://marcosticks.org/ten-thousand-ways/",
+   "time_updated": "2023-09-24T18:11:55Z",
+   "time_added": "2023-09-24T18:11:55Z"
   },
   {
    "item_id": "3924768901",
@@ -157,13 +130,13 @@
    "time_added": "2023-09-24T19:52:10Z"
   },
   {
-   "item_id": "3939120028",
-   "given_url": "https://twitter.com/dieubussy/status/1704939940113437169",
-   "given_title": "Bruno de Figueiredo no X: \"The beginning of the historical relations betwee",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/dieubussy/status/1704939940113437169",
-   "time_updated": "2023-09-22T09:27:43Z",
-   "time_added": "2023-09-22T09:27:41Z"
+   "item_id": "3567210768",
+   "given_url": "https://g1.globo.com/pr/norte-noroeste/noticia/2015/07/geada-negra-que-destruiu-pes-de-cafe-no-parana-completa-40-anos.html",
+   "given_title": "G1 - 'Geada negra' que destruiu pés de café no Paraná completa 40 anos - no",
+   "resolved_title": "'Geada negra' que destruiu pés de café no Paraná completa 40 anos",
+   "resolved_url": "https://g1.globo.com/pr/norte-noroeste/noticia/2015/07/geada-negra-que-destruiu-pes-de-cafe-no-parana-completa-40-anos.html",
+   "time_updated": "2023-09-23T10:33:00Z",
+   "time_added": "2023-09-23T10:32:59Z"
   }
  ]
 }

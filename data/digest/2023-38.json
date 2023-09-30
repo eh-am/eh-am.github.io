@@ -4,15 +4,6 @@
  "sortKey": "2023-38",
  "items": [
   {
-   "item_id": "3940234812",
-   "given_url": "https://www.youtube.com/watch?v=H3b7qGIESbA",
-   "given_title": "(24) Agricultura e os primeiros imigrantes japoneses no Brasil - TV Bunkyo ",
-   "resolved_title": "Agricultura e os primeiros imigrantes japoneses no Brasil - TV Bunkyo",
-   "resolved_url": "https://www.youtube.com/watch?v=H3b7qGIESbA",
-   "time_updated": "2023-09-24T18:00:11Z",
-   "time_added": "2023-09-24T18:00:11Z"
-  },
-  {
    "item_id": "3939830980",
    "given_url": "https://www.saberatualizadonews.com/2017/11/besouros-que-conseguem-pular-sem-as.html?m=1",
    "given_title": "Besouros que conseguem pular sem as pernas podem possibilitar a construção ",
@@ -22,31 +13,31 @@
    "time_added": "2023-09-23T19:35:43Z"
   },
   {
-   "item_id": "3938918498",
-   "given_url": "https://www.wired.com/story/google-mourns-luiz-andre-barroso-veteran-engineer-invented-the-modern-data-center/",
-   "given_title": "Google Mourns Veteran Engineer Luiz André Barroso Who Invented the Modern D",
-   "resolved_title": "Google Mourns Veteran Engineer Luiz André Barroso Who Invented the Modern Data Center",
-   "resolved_url": "https://www.wired.com/story/google-mourns-luiz-andre-barroso-veteran-engineer-invented-the-modern-data-center/",
-   "time_updated": "2023-09-23T12:32:09Z",
-   "time_added": "2023-09-23T12:32:09Z"
+   "item_id": "3940152504",
+   "given_url": "https://m.youtube.com/watch?v=NaClswwRgFM",
+   "given_title": "Jack from Lost likes Nirvana! - YouTube",
+   "resolved_title": "Jack from Lost likes Nirvana!",
+   "resolved_url": "http://www.youtube.com/watch?v=NaClswwRgFM",
+   "time_updated": "2023-09-24T14:09:04Z",
+   "time_added": "2023-09-24T14:09:02Z"
   },
   {
-   "item_id": "3940074866",
-   "given_url": "https://history.stackexchange.com/questions/49697/why-couldnt-the-ottoman-empire-modernise-at-the-same-time-as-meiji-japan-did",
-   "given_title": "Why couldn't the Ottoman Empire modernise at the same time as Meiji Japan d",
-   "resolved_title": "Why couldn't the Ottoman Empire modernise at the same time as Meiji Japan did? [closed]",
-   "resolved_url": "https://history.stackexchange.com/questions/49697/why-couldnt-the-ottoman-empire-modernise-at-the-same-time-as-meiji-japan-did",
-   "time_updated": "2023-09-24T10:19:29Z",
-   "time_added": "2023-09-24T10:19:28Z"
+   "item_id": "13970843",
+   "given_url": "https://en.wikipedia.org/wiki/Maya_script",
+   "given_title": "Maya script - Wikipedia",
+   "resolved_title": "Maya script",
+   "resolved_url": "https://en.wikipedia.org/wiki/Maya_script",
+   "time_updated": "2023-09-23T12:41:55Z",
+   "time_added": "2023-09-23T12:41:55Z"
   },
   {
-   "item_id": "3939252622",
-   "given_url": "https://www.folhape.com.br/noticias/o-arroz-no-brasil-final/29712/",
-   "given_title": "O arroz no Brasil (final) - Folha PE",
-   "resolved_title": "O arroz no Brasil (final)",
-   "resolved_url": "https://www.folhape.com.br/noticias/o-arroz-no-brasil-final/29712/",
-   "time_updated": "2023-09-22T14:43:08Z",
-   "time_added": "2023-09-22T14:43:07Z"
+   "item_id": "3567210768",
+   "given_url": "https://g1.globo.com/pr/norte-noroeste/noticia/2015/07/geada-negra-que-destruiu-pes-de-cafe-no-parana-completa-40-anos.html",
+   "given_title": "G1 - 'Geada negra' que destruiu pés de café no Paraná completa 40 anos - no",
+   "resolved_title": "'Geada negra' que destruiu pés de café no Paraná completa 40 anos",
+   "resolved_url": "https://g1.globo.com/pr/norte-noroeste/noticia/2015/07/geada-negra-que-destruiu-pes-de-cafe-no-parana-completa-40-anos.html",
+   "time_updated": "2023-09-23T10:33:00Z",
+   "time_added": "2023-09-23T10:32:59Z"
   },
   {
    "item_id": "3634936997",
@@ -76,6 +67,15 @@
    "time_added": "2023-09-24T17:55:29Z"
   },
   {
+   "item_id": "3938918498",
+   "given_url": "https://www.wired.com/story/google-mourns-luiz-andre-barroso-veteran-engineer-invented-the-modern-data-center/",
+   "given_title": "Google Mourns Veteran Engineer Luiz André Barroso Who Invented the Modern D",
+   "resolved_title": "Google Mourns Veteran Engineer Luiz André Barroso Who Invented the Modern Data Center",
+   "resolved_url": "https://www.wired.com/story/google-mourns-luiz-andre-barroso-veteran-engineer-invented-the-modern-data-center/",
+   "time_updated": "2023-09-23T12:32:09Z",
+   "time_added": "2023-09-23T12:32:09Z"
+  },
+  {
    "item_id": "162896320",
    "given_url": "https://en.m.wikipedia.org/wiki/Lost:_Missing_Pieces",
    "given_title": "Lost: Missing Pieces - Wikipedia",
@@ -85,31 +85,22 @@
    "time_added": "2023-09-24T16:18:38Z"
   },
   {
-   "item_id": "13970843",
-   "given_url": "https://en.wikipedia.org/wiki/Maya_script",
-   "given_title": "Maya script - Wikipedia",
-   "resolved_title": "Maya script",
-   "resolved_url": "https://en.wikipedia.org/wiki/Maya_script",
-   "time_updated": "2023-09-23T12:41:55Z",
-   "time_added": "2023-09-23T12:41:55Z"
+   "item_id": "3940074866",
+   "given_url": "https://history.stackexchange.com/questions/49697/why-couldnt-the-ottoman-empire-modernise-at-the-same-time-as-meiji-japan-did",
+   "given_title": "Why couldn't the Ottoman Empire modernise at the same time as Meiji Japan d",
+   "resolved_title": "Why couldn't the Ottoman Empire modernise at the same time as Meiji Japan did? [closed]",
+   "resolved_url": "https://history.stackexchange.com/questions/49697/why-couldnt-the-ottoman-empire-modernise-at-the-same-time-as-meiji-japan-did",
+   "time_updated": "2023-09-24T10:19:29Z",
+   "time_added": "2023-09-24T10:19:28Z"
   },
   {
-   "item_id": "3940152504",
-   "given_url": "https://m.youtube.com/watch?v=NaClswwRgFM",
-   "given_title": "Jack from Lost likes Nirvana! - YouTube",
-   "resolved_title": "Jack from Lost likes Nirvana!",
-   "resolved_url": "http://www.youtube.com/watch?v=NaClswwRgFM",
-   "time_updated": "2023-09-24T14:09:04Z",
-   "time_added": "2023-09-24T14:09:02Z"
-  },
-  {
-   "item_id": "3940168313",
-   "given_url": "https://enlightio.com/flashforward-definition-examples",
-   "given_title": "Flashforward: Definition and 10  Examples",
-   "resolved_title": "Flashforward: Definition and Examples – A Future Narrative Glimpse",
-   "resolved_url": "https://enlightio.com/flashforward-definition-examples",
-   "time_updated": "2023-09-24T14:54:57Z",
-   "time_added": "2023-09-24T14:54:56Z"
+   "item_id": "3940234812",
+   "given_url": "https://www.youtube.com/watch?v=H3b7qGIESbA",
+   "given_title": "(24) Agricultura e os primeiros imigrantes japoneses no Brasil - TV Bunkyo ",
+   "resolved_title": "Agricultura e os primeiros imigrantes japoneses no Brasil - TV Bunkyo",
+   "resolved_url": "https://www.youtube.com/watch?v=H3b7qGIESbA",
+   "time_updated": "2023-09-24T18:00:11Z",
+   "time_added": "2023-09-24T18:00:11Z"
   },
   {
    "item_id": "3367744060",
@@ -130,13 +121,13 @@
    "time_added": "2023-09-24T19:52:10Z"
   },
   {
-   "item_id": "3567210768",
-   "given_url": "https://g1.globo.com/pr/norte-noroeste/noticia/2015/07/geada-negra-que-destruiu-pes-de-cafe-no-parana-completa-40-anos.html",
-   "given_title": "G1 - 'Geada negra' que destruiu pés de café no Paraná completa 40 anos - no",
-   "resolved_title": "'Geada negra' que destruiu pés de café no Paraná completa 40 anos",
-   "resolved_url": "https://g1.globo.com/pr/norte-noroeste/noticia/2015/07/geada-negra-que-destruiu-pes-de-cafe-no-parana-completa-40-anos.html",
-   "time_updated": "2023-09-23T10:33:00Z",
-   "time_added": "2023-09-23T10:32:59Z"
+   "item_id": "3940168313",
+   "given_url": "https://enlightio.com/flashforward-definition-examples",
+   "given_title": "Flashforward: Definition and 10  Examples",
+   "resolved_title": "Flashforward: Definition and Examples – A Future Narrative Glimpse",
+   "resolved_url": "https://enlightio.com/flashforward-definition-examples",
+   "time_updated": "2023-09-24T14:54:57Z",
+   "time_added": "2023-09-24T14:54:56Z"
   }
  ]
 }

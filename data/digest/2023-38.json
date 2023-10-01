@@ -4,22 +4,13 @@
  "sortKey": "2023-38",
  "items": [
   {
-   "item_id": "3940234812",
-   "given_url": "https://www.youtube.com/watch?v=H3b7qGIESbA",
-   "given_title": "(24) Agricultura e os primeiros imigrantes japoneses no Brasil - TV Bunkyo ",
-   "resolved_title": "Agricultura e os primeiros imigrantes japoneses no Brasil - TV Bunkyo",
-   "resolved_url": "https://www.youtube.com/watch?v=H3b7qGIESbA",
-   "time_updated": "2023-09-24T18:00:11Z",
-   "time_added": "2023-09-24T18:00:11Z"
-  },
-  {
-   "item_id": "3367744060",
-   "given_url": "https://marcosticks.org/ten-thousand-ways/",
-   "given_title": "Ten thousand ways to use chopsticks - Marcosticks",
-   "resolved_title": "Ten thousand ways to use chopsticks",
-   "resolved_url": "https://marcosticks.org/ten-thousand-ways/",
-   "time_updated": "2023-09-24T18:11:55Z",
-   "time_added": "2023-09-24T18:11:55Z"
+   "item_id": "162896320",
+   "given_url": "https://en.m.wikipedia.org/wiki/Lost:_Missing_Pieces",
+   "given_title": "Lost: Missing Pieces - Wikipedia",
+   "resolved_title": "Lost: Missing Pieces",
+   "resolved_url": "https://en.wikipedia.org/wiki/Lost:_Missing_Pieces",
+   "time_updated": "2023-09-24T16:18:38Z",
+   "time_added": "2023-09-24T16:18:38Z"
   },
   {
    "item_id": "3924768901",
@@ -31,40 +22,13 @@
    "time_added": "2023-09-24T19:52:10Z"
   },
   {
-   "item_id": "3940233400",
-   "given_url": "https://discovernikkei.org/pt/journal/2017/6/26/culinaria-japonesa-brasil/",
-   "given_title": "A influência da culinária japonesa no Brasil – ontem, hoje e amanhã - Descu",
-   "resolved_title": "A influência da culinária japonesa no Brasil – ontem, hoje e amanhã",
-   "resolved_url": "https://discovernikkei.org/pt/journal/2017/6/26/culinaria-japonesa-brasil/",
-   "time_updated": "2023-09-24T17:55:31Z",
-   "time_added": "2023-09-24T17:55:29Z"
-  },
-  {
-   "item_id": "162896320",
-   "given_url": "https://en.m.wikipedia.org/wiki/Lost:_Missing_Pieces",
-   "given_title": "Lost: Missing Pieces - Wikipedia",
-   "resolved_title": "Lost: Missing Pieces",
-   "resolved_url": "https://en.wikipedia.org/wiki/Lost:_Missing_Pieces",
-   "time_updated": "2023-09-24T16:18:38Z",
-   "time_added": "2023-09-24T16:18:38Z"
-  },
-  {
-   "item_id": "3940074866",
-   "given_url": "https://history.stackexchange.com/questions/49697/why-couldnt-the-ottoman-empire-modernise-at-the-same-time-as-meiji-japan-did",
-   "given_title": "Why couldn't the Ottoman Empire modernise at the same time as Meiji Japan d",
-   "resolved_title": "Why couldn't the Ottoman Empire modernise at the same time as Meiji Japan did? [closed]",
-   "resolved_url": "https://history.stackexchange.com/questions/49697/why-couldnt-the-ottoman-empire-modernise-at-the-same-time-as-meiji-japan-did",
-   "time_updated": "2023-09-24T10:19:29Z",
-   "time_added": "2023-09-24T10:19:28Z"
-  },
-  {
-   "item_id": "3940152504",
-   "given_url": "https://m.youtube.com/watch?v=NaClswwRgFM",
-   "given_title": "Jack from Lost likes Nirvana! - YouTube",
-   "resolved_title": "Jack from Lost likes Nirvana!",
-   "resolved_url": "http://www.youtube.com/watch?v=NaClswwRgFM",
-   "time_updated": "2023-09-24T14:09:04Z",
-   "time_added": "2023-09-24T14:09:02Z"
+   "item_id": "3634936997",
+   "given_url": "https://en.m.wikipedia.org/wiki/Tulip_Period",
+   "given_title": "",
+   "resolved_title": "Tulip period",
+   "resolved_url": "https://en.wikipedia.org/wiki/Tulip_period",
+   "time_updated": "2023-09-24T20:27:19Z",
+   "time_added": "2023-09-24T20:27:19Z"
   },
   {
    "item_id": "3940168313",
@@ -76,13 +40,40 @@
    "time_added": "2023-09-24T14:54:56Z"
   },
   {
-   "item_id": "3634936997",
-   "given_url": "https://en.m.wikipedia.org/wiki/Tulip_Period",
-   "given_title": "",
-   "resolved_title": "Tulip period",
-   "resolved_url": "https://en.wikipedia.org/wiki/Tulip_period",
-   "time_updated": "2023-09-24T20:27:19Z",
-   "time_added": "2023-09-24T20:27:19Z"
+   "item_id": "3940152504",
+   "given_url": "https://m.youtube.com/watch?v=NaClswwRgFM",
+   "given_title": "Jack from Lost likes Nirvana! - YouTube",
+   "resolved_title": "Jack from Lost likes Nirvana!",
+   "resolved_url": "http://www.youtube.com/watch?v=NaClswwRgFM",
+   "time_updated": "2023-09-24T14:09:04Z",
+   "time_added": "2023-09-24T14:09:02Z"
+  },
+  {
+   "item_id": "3940233400",
+   "given_url": "https://discovernikkei.org/pt/journal/2017/6/26/culinaria-japonesa-brasil/",
+   "given_title": "A influência da culinária japonesa no Brasil – ontem, hoje e amanhã - Descu",
+   "resolved_title": "A influência da culinária japonesa no Brasil – ontem, hoje e amanhã",
+   "resolved_url": "https://discovernikkei.org/pt/journal/2017/6/26/culinaria-japonesa-brasil/",
+   "time_updated": "2023-09-24T17:55:31Z",
+   "time_added": "2023-09-24T17:55:29Z"
+  },
+  {
+   "item_id": "3367744060",
+   "given_url": "https://marcosticks.org/ten-thousand-ways/",
+   "given_title": "Ten thousand ways to use chopsticks - Marcosticks",
+   "resolved_title": "Ten thousand ways to use chopsticks",
+   "resolved_url": "https://marcosticks.org/ten-thousand-ways/",
+   "time_updated": "2023-09-24T18:11:55Z",
+   "time_added": "2023-09-24T18:11:55Z"
+  },
+  {
+   "item_id": "3940234812",
+   "given_url": "https://www.youtube.com/watch?v=H3b7qGIESbA",
+   "given_title": "(24) Agricultura e os primeiros imigrantes japoneses no Brasil - TV Bunkyo ",
+   "resolved_title": "Agricultura e os primeiros imigrantes japoneses no Brasil - TV Bunkyo",
+   "resolved_url": "https://www.youtube.com/watch?v=H3b7qGIESbA",
+   "time_updated": "2023-09-24T18:00:11Z",
+   "time_added": "2023-09-24T18:00:11Z"
   }
  ]
 }

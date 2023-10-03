@@ -4,6 +4,87 @@
  "sortKey": "2023-40",
  "items": [
   {
+   "item_id": "3943992635",
+   "given_url": "https://twitter.com/palashp40616755/status/1708268666347811194",
+   "given_title": "palash pandey no X: \"@AskLyft My Lyft driver drove off with my pet cat stil",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/palashp40616755/status/1708268666347811194",
+   "time_updated": "2023-10-02T08:22:38Z",
+   "time_added": "2023-10-02T08:22:35Z"
+  },
+  {
+   "item_id": "239075893",
+   "given_url": "https://en.m.wikipedia.org/wiki/Marx%27s_theory_of_alienation",
+   "given_title": "Marx's theory of alienation - Wikipedia",
+   "resolved_title": "Marx's theory of alienation",
+   "resolved_url": "https://en.wikipedia.org/wiki/Marx%27s_theory_of_alienation",
+   "time_updated": "2023-10-02T10:51:03Z",
+   "time_added": "2023-10-02T10:51:03Z"
+  },
+  {
+   "item_id": "3944156442",
+   "given_url": "https://www.nbcnews.com/news/amp/rcna118200",
+   "given_title": "Bedbugs bite into Paris, stoking fears ahead of the Olympics",
+   "resolved_title": "news Alerts",
+   "resolved_url": "https://www.nbcnews.com/news/world/bed-bugs-paris-olympics-fears-rcna118200",
+   "time_updated": "2023-10-02T15:15:35Z",
+   "time_added": "2023-10-02T15:15:34Z"
+  },
+  {
+   "item_id": "3943996122",
+   "given_url": "https://archive.md/AUpYp",
+   "given_title": "Intimacy Does Not Scale",
+   "resolved_title": "",
+   "resolved_url": "https://archive.md/AUpYp",
+   "time_updated": "2023-10-02T08:33:53Z",
+   "time_added": "2023-10-02T08:33:22Z"
+  },
+  {
+   "item_id": "3944587227",
+   "given_url": "https://cnnportugal.iol.pt/habitacao/vistos-gold/neste-momento-nao-faz-mais-sentido-costa-anuncia-fim-da-taxacao-especial-para-residentes-nao-habituais/20231002/651b2ac9d34e65afa2f5f4cf",
+   "given_title": "\"Não faz mais sentido\": Costa anuncia fim da taxação especial para resident",
+   "resolved_title": "\"Não faz mais sentido\": Costa anuncia fim da taxação especial para residentes não habituais",
+   "resolved_url": "https://cnnportugal.iol.pt/habitacao/vistos-gold/neste-momento-nao-faz-mais-sentido-costa-anuncia-fim-da-taxacao-especial-para-residentes-nao-habituais/20231002/651b2ac9d34e65afa2f5f4cf",
+   "time_updated": "2023-10-03T11:58:15Z",
+   "time_added": "2023-10-03T11:58:13Z"
+  },
+  {
+   "item_id": "3944032228",
+   "given_url": "https://reddit.com/r/portugal/s/80x8qtGbU1",
+   "given_title": "",
+   "resolved_title": "Reddit - Dive into anything",
+   "resolved_url": "https://reddit.com/r/portugal/s/80x8qtGbU1",
+   "time_updated": "2023-10-02T10:18:22Z",
+   "time_added": "2023-10-02T10:18:21Z"
+  },
+  {
+   "item_id": "3944240866",
+   "given_url": "https://twitter.com/VulcanIgnis/status/1708851772435968017",
+   "given_title": "?‍⬛? no X: \"Released L2E OS v0.1 \"Temple DOS\" . A new OS on the block! The ",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/VulcanIgnis/status/1708851772435968017",
+   "time_updated": "2023-10-03T08:55:20Z",
+   "time_added": "2023-10-03T08:55:19Z"
+  },
+  {
+   "item_id": "3943225198",
+   "given_url": "https://arkeonews.net/new-discoveries-in-gobeklitepe-and-karahantepe-a-human-sculpture-with-a-realistic-facial-expression-found-in-karahantepe/",
+   "given_title": "New discoveries in Göbeklitepe and Karahantepe: A Human statue with a reali",
+   "resolved_title": "New discoveries in Göbeklitepe and Karahantepe: A Human statue with a realistic facial expression found in Karahantepe",
+   "resolved_url": "https://arkeonews.net/new-discoveries-in-gobeklitepe-and-karahantepe-a-human-sculpture-with-a-realistic-facial-expression-found-in-karahantepe/",
+   "time_updated": "2023-10-02T13:37:10Z",
+   "time_added": "2023-10-02T13:37:10Z"
+  },
+  {
+   "item_id": "3901758052",
+   "given_url": "https://www.youtube.com/watch?v=KTPa2Obfqzs",
+   "given_title": "(3) Sonic Boom - Rock n Roll Is Killing My Life - YouTube",
+   "resolved_title": "Sonic Boom - Rock n Roll Is Killing My Life",
+   "resolved_url": "https://www.youtube.com/watch?v=KTPa2Obfqzs",
+   "time_updated": "2023-10-02T14:44:36Z",
+   "time_added": "2023-10-02T14:44:36Z"
+  },
+  {
    "item_id": "3944040291",
    "given_url": "https://pt.m.wikipedia.org/wiki/Gekkonidae",
    "given_title": "Gekkonidae – Wikipédia, a enciclopédia livre",
@@ -22,24 +103,6 @@
    "time_added": "2023-10-02T09:25:07Z"
   },
   {
-   "item_id": "3901758052",
-   "given_url": "https://www.youtube.com/watch?v=KTPa2Obfqzs",
-   "given_title": "(3) Sonic Boom - Rock n Roll Is Killing My Life - YouTube",
-   "resolved_title": "Sonic Boom - Rock n Roll Is Killing My Life",
-   "resolved_url": "https://www.youtube.com/watch?v=KTPa2Obfqzs",
-   "time_updated": "2023-10-02T14:44:36Z",
-   "time_added": "2023-10-02T14:44:36Z"
-  },
-  {
-   "item_id": "3943996122",
-   "given_url": "https://archive.md/AUpYp",
-   "given_title": "Intimacy Does Not Scale",
-   "resolved_title": "",
-   "resolved_url": "https://archive.md/AUpYp",
-   "time_updated": "2023-10-02T08:33:53Z",
-   "time_added": "2023-10-02T08:33:22Z"
-  },
-  {
    "item_id": "2438944149",
    "given_url": "https://minirevver.weebly.com/",
    "given_title": "Mini-Revver - Home",
@@ -49,49 +112,13 @@
    "time_added": "2023-10-02T14:53:50Z"
   },
   {
-   "item_id": "3944156442",
-   "given_url": "https://www.nbcnews.com/news/amp/rcna118200",
-   "given_title": "Bedbugs bite into Paris, stoking fears ahead of the Olympics",
-   "resolved_title": "news Alerts",
-   "resolved_url": "https://www.nbcnews.com/news/world/bed-bugs-paris-olympics-fears-rcna118200",
-   "time_updated": "2023-10-02T15:15:35Z",
-   "time_added": "2023-10-02T15:15:34Z"
-  },
-  {
-   "item_id": "3943992635",
-   "given_url": "https://twitter.com/palashp40616755/status/1708268666347811194",
-   "given_title": "palash pandey no X: \"@AskLyft My Lyft driver drove off with my pet cat stil",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/palashp40616755/status/1708268666347811194",
-   "time_updated": "2023-10-02T08:22:38Z",
-   "time_added": "2023-10-02T08:22:35Z"
-  },
-  {
-   "item_id": "3944032228",
-   "given_url": "https://reddit.com/r/portugal/s/80x8qtGbU1",
-   "given_title": "",
-   "resolved_title": "Reddit - Dive into anything",
-   "resolved_url": "https://reddit.com/r/portugal/s/80x8qtGbU1",
-   "time_updated": "2023-10-02T10:18:22Z",
-   "time_added": "2023-10-02T10:18:21Z"
-  },
-  {
-   "item_id": "3943225198",
-   "given_url": "https://arkeonews.net/new-discoveries-in-gobeklitepe-and-karahantepe-a-human-sculpture-with-a-realistic-facial-expression-found-in-karahantepe/",
-   "given_title": "New discoveries in Göbeklitepe and Karahantepe: A Human statue with a reali",
-   "resolved_title": "New discoveries in Göbeklitepe and Karahantepe: A Human statue with a realistic facial expression found in Karahantepe",
-   "resolved_url": "https://arkeonews.net/new-discoveries-in-gobeklitepe-and-karahantepe-a-human-sculpture-with-a-realistic-facial-expression-found-in-karahantepe/",
-   "time_updated": "2023-10-02T13:37:10Z",
-   "time_added": "2023-10-02T13:37:10Z"
-  },
-  {
-   "item_id": "239075893",
-   "given_url": "https://en.m.wikipedia.org/wiki/Marx%27s_theory_of_alienation",
-   "given_title": "Marx's theory of alienation - Wikipedia",
-   "resolved_title": "Marx's theory of alienation",
-   "resolved_url": "https://en.wikipedia.org/wiki/Marx%27s_theory_of_alienation",
-   "time_updated": "2023-10-02T10:51:03Z",
-   "time_added": "2023-10-02T10:51:03Z"
+   "item_id": "3944172057",
+   "given_url": "https://fusionauth.io/blog/anonymous-user",
+   "given_title": "How to set up an anonymous user flow",
+   "resolved_title": "How to set up an anonymous user flow",
+   "resolved_url": "https://fusionauth.io/blog/anonymous-user",
+   "time_updated": "2023-10-03T08:58:58Z",
+   "time_added": "2023-10-03T08:58:58Z"
   }
  ]
 }

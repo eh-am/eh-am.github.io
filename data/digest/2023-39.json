@@ -4,15 +4,6 @@
  "sortKey": "2023-39",
  "items": [
   {
-   "item_id": "2175631733",
-   "given_url": "https://pt.wikipedia.org/wiki/Arara-canind%C3%A9",
-   "given_title": "Arara-canindé – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Arara-canindé",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Arara-canind%C3%A9",
-   "time_updated": "2023-09-29T17:56:18Z",
-   "time_added": "2023-09-29T17:56:18Z"
-  },
-  {
    "item_id": "3817836849",
    "given_url": "https://www.redblobgames.com/making-of/draggable/",
    "given_title": "Draggable objects",
@@ -22,31 +13,13 @@
    "time_added": "2023-09-29T21:30:19Z"
   },
   {
-   "item_id": "448071144",
-   "given_url": "https://pt.wikipedia.org/wiki/Juca_Chaves",
-   "given_title": "Juca Chaves – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Juca Chaves",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Juca_Chaves",
-   "time_updated": "2023-09-29T08:53:07Z",
-   "time_added": "2023-09-29T08:53:07Z"
-  },
-  {
-   "item_id": "1860094905",
-   "given_url": "https://pt.wikipedia.org/wiki/Costinha_(humorista)",
-   "given_title": "Costinha (humorista) – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Costinha (humorista)",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Costinha_(humorista)",
-   "time_updated": "2023-09-29T08:53:11Z",
-   "time_added": "2023-09-29T08:53:11Z"
-  },
-  {
-   "item_id": "3942641468",
-   "given_url": "https://twitter.com/GaijinMommy/status/1707330354238099784",
-   "given_title": "Gaijin Mommy no X: \"The loosely translated English language map of Japan’s ",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/GaijinMommy/status/1707330354238099784",
-   "time_updated": "2023-09-29T09:23:33Z",
-   "time_added": "2023-09-29T09:23:32Z"
+   "item_id": "3589960163",
+   "given_url": "https://m.youtube.com/watch?v=1EAawXDvLjI",
+   "given_title": "Glenn vs. Hitchens: The Reparations Debate - YouTube",
+   "resolved_title": "Glenn vs. Hitchens: The Reparations Debate",
+   "resolved_url": "http://www.youtube.com/watch?v=1EAawXDvLjI",
+   "time_updated": "2023-10-01T00:21:39Z",
+   "time_added": "2023-10-01T00:21:38Z"
   },
   {
    "item_id": "533796598",
@@ -67,13 +40,13 @@
    "time_added": "2023-09-29T15:59:28Z"
   },
   {
-   "item_id": "3589960163",
-   "given_url": "https://m.youtube.com/watch?v=1EAawXDvLjI",
-   "given_title": "Glenn vs. Hitchens: The Reparations Debate - YouTube",
-   "resolved_title": "Glenn vs. Hitchens: The Reparations Debate",
-   "resolved_url": "http://www.youtube.com/watch?v=1EAawXDvLjI",
-   "time_updated": "2023-10-01T00:21:39Z",
-   "time_added": "2023-10-01T00:21:38Z"
+   "item_id": "2175631733",
+   "given_url": "https://pt.wikipedia.org/wiki/Arara-canind%C3%A9",
+   "given_title": "Arara-canindé – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Arara-canindé",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Arara-canind%C3%A9",
+   "time_updated": "2023-09-29T17:56:18Z",
+   "time_added": "2023-09-29T17:56:18Z"
   },
   {
    "item_id": "3942861172",

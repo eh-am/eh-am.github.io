@@ -4,15 +4,6 @@
  "sortKey": "2023-39",
  "items": [
   {
-   "item_id": "3817836849",
-   "given_url": "https://www.redblobgames.com/making-of/draggable/",
-   "given_title": "Draggable objects",
-   "resolved_title": "Draggable objects",
-   "resolved_url": "https://www.redblobgames.com/making-of/draggable/",
-   "time_updated": "2023-09-29T21:30:19Z",
-   "time_added": "2023-09-29T21:30:19Z"
-  },
-  {
    "item_id": "3589960163",
    "given_url": "https://m.youtube.com/watch?v=1EAawXDvLjI",
    "given_title": "Glenn vs. Hitchens: The Reparations Debate - YouTube",
@@ -29,33 +20,6 @@
    "resolved_url": "http://en.m.wikipedia.org/wiki/Takeshi_no_Ch%C5%8Dsenj%C5%8D",
    "time_updated": "2023-09-30T14:56:45Z",
    "time_added": "2023-09-30T14:56:45Z"
-  },
-  {
-   "item_id": "3942814269",
-   "given_url": "https://twitter.com/gopherconbrasil/status/1707786541290987629/photo/4",
-   "given_title": "Página Inicial / X",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/gopherconbrasil/status/1707786541290987629/photo/4",
-   "time_updated": "2023-09-29T15:59:30Z",
-   "time_added": "2023-09-29T15:59:28Z"
-  },
-  {
-   "item_id": "2175631733",
-   "given_url": "https://pt.wikipedia.org/wiki/Arara-canind%C3%A9",
-   "given_title": "Arara-canindé – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Arara-canindé",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Arara-canind%C3%A9",
-   "time_updated": "2023-09-29T17:56:18Z",
-   "time_added": "2023-09-29T17:56:18Z"
-  },
-  {
-   "item_id": "3942861172",
-   "given_url": "https://pt.wikipedia.org/wiki/Curicaca",
-   "given_title": "Curicaca – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Curicaca",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Curicaca",
-   "time_updated": "2023-09-29T17:57:14Z",
-   "time_added": "2023-09-29T17:57:13Z"
   }
  ]
 }

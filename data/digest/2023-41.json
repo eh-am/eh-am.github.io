@@ -4,6 +4,24 @@
  "sortKey": "2023-41",
  "items": [
   {
+   "item_id": "3947523189",
+   "given_url": "https://m.youtube.com/watch?v=89mxEEGAglE\u0026embeds_referring_euri=https%3A%2F%2Fobservador.pt%2F\u0026source_ve_path=OTY3MTQ\u0026feature=emb_imp_woyt",
+   "given_title": "Explicador em vídeo. Como Portugal quase construiu Israel em Angola - YouTu",
+   "resolved_title": "Explicador em vídeo. Como Portugal quase construiu Israel em Angola",
+   "resolved_url": "http://www.youtube.com/watch?v=89mxEEGAglE",
+   "time_updated": "2023-10-09T13:04:46Z",
+   "time_added": "2023-10-09T13:04:45Z"
+  },
+  {
+   "item_id": "3615033986",
+   "given_url": "https://www.alexedwards.net/blog/using-go-run-to-manage-tool-dependencies",
+   "given_title": "How to use go run to manage tool dependencies – Alex Edwards",
+   "resolved_title": "Using go run to manage tool dependencies",
+   "resolved_url": "https://www.alexedwards.net/blog/using-go-run-to-manage-tool-dependencies",
+   "time_updated": "2023-10-09T15:33:11Z",
+   "time_added": "2023-10-09T15:33:11Z"
+  },
+  {
    "item_id": "1824141774",
    "given_url": "https://news.ycombinator.com/item?id=14791601",
    "given_title": "So, I've read most of these. Here's a tour of what is definitely useful and",
@@ -11,6 +29,24 @@
    "resolved_url": "https://news.ycombinator.com/item?id=14791601",
    "time_updated": "2023-10-09T11:37:27Z",
    "time_added": "2023-10-09T11:37:26Z"
+  },
+  {
+   "item_id": "2760603982",
+   "given_url": "https://howvideo.works/",
+   "given_title": "",
+   "resolved_title": "HowVideo.works",
+   "resolved_url": "https://howvideo.works/#processing",
+   "time_updated": "2023-10-09T21:24:02Z",
+   "time_added": "2023-10-09T21:24:02Z"
+  },
+  {
+   "item_id": "3947130496",
+   "given_url": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/",
+   "given_title": "Speeding up the JavaScript ecosystem - The barrel file debacle",
+   "resolved_title": "Speeding up the JavaScript ecosystem - The barrel file debacle",
+   "resolved_url": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/",
+   "time_updated": "2023-10-09T13:39:57Z",
+   "time_added": "2023-10-09T13:39:57Z"
   },
   {
    "item_id": "3947418629",

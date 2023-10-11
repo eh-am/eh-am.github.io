@@ -4,6 +4,15 @@
  "sortKey": "2023-41",
  "items": [
   {
+   "item_id": "3948419821",
+   "given_url": "https://twitter.com/zei_squirrel/status/1711806491848487349",
+   "given_title": "☀️? no X: \"I am gathering a list of all the \"reporters\" who are claiming th",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/zei_squirrel/status/1711806491848487349",
+   "time_updated": "2023-10-11T06:55:15Z",
+   "time_added": "2023-10-11T06:55:13Z"
+  },
+  {
    "item_id": "3615033986",
    "given_url": "https://www.alexedwards.net/blog/using-go-run-to-manage-tool-dependencies",
    "given_title": "How to use go run to manage tool dependencies – Alex Edwards",
@@ -13,15 +22,6 @@
    "time_added": "2023-10-09T15:33:11Z"
   },
   {
-   "item_id": "558065625",
-   "given_url": "https://blog.codinghorror.com/preventing-csrf-and-xsrf-attacks/",
-   "given_title": "Preventing CSRF and XSRF Attacks",
-   "resolved_title": "Preventing CSRF and XSRF Attacks",
-   "resolved_url": "https://blog.codinghorror.com/preventing-csrf-and-xsrf-attacks/",
-   "time_updated": "2023-10-10T16:07:02Z",
-   "time_added": "2023-10-10T16:07:02Z"
-  },
-  {
    "item_id": "3947130496",
    "given_url": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/",
    "given_title": "Speeding up the JavaScript ecosystem - The barrel file debacle",
@@ -29,6 +29,15 @@
    "resolved_url": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/",
    "time_updated": "2023-10-09T13:39:57Z",
    "time_added": "2023-10-09T13:39:57Z"
+  },
+  {
+   "item_id": "3891736313",
+   "given_url": "https://agoraeuropa.com/portugal/sef-completa-250-dias-sem-abrir-novas-vagas-para-reagrupamento-familiar-em-portugal/",
+   "given_title": "SEF completa 250 dias sem abrir novas vagas para reagrupamento familiar em ",
+   "resolved_title": "SEF completa 250 dias sem abrir novas vagas para reagrupamento familiar em Portugal",
+   "resolved_url": "https://agoraeuropa.com/portugal/sef-completa-250-dias-sem-abrir-novas-vagas-para-reagrupamento-familiar-em-portugal/",
+   "time_updated": "2023-10-11T09:51:49Z",
+   "time_added": "2023-10-11T09:51:48Z"
   },
   {
    "item_id": "3947523189",
@@ -65,6 +74,15 @@
    "resolved_url": "https://news.ycombinator.com/item?id=14791601",
    "time_updated": "2023-10-09T11:37:27Z",
    "time_added": "2023-10-09T11:37:26Z"
+  },
+  {
+   "item_id": "558065625",
+   "given_url": "https://blog.codinghorror.com/preventing-csrf-and-xsrf-attacks/",
+   "given_title": "Preventing CSRF and XSRF Attacks",
+   "resolved_title": "Preventing CSRF and XSRF Attacks",
+   "resolved_url": "https://blog.codinghorror.com/preventing-csrf-and-xsrf-attacks/",
+   "time_updated": "2023-10-10T16:07:02Z",
+   "time_added": "2023-10-10T16:07:02Z"
   }
  ]
 }

@@ -4,13 +4,22 @@
  "sortKey": "2023-41",
  "items": [
   {
-   "item_id": "2760603982",
-   "given_url": "https://howvideo.works/",
-   "given_title": "",
-   "resolved_title": "HowVideo.works",
-   "resolved_url": "https://howvideo.works/#processing",
-   "time_updated": "2023-10-09T21:24:02Z",
-   "time_added": "2023-10-09T21:24:02Z"
+   "item_id": "3948791440",
+   "given_url": "https://m.youtube.com/watch?v=HqwMLCh8RnE",
+   "given_title": "Who Was the Best English Monarch? | Rating Royals With David Mitchell - You",
+   "resolved_title": "Who Was the Best English Monarch? | Rating Royals With David Mitchell",
+   "resolved_url": "http://www.youtube.com/watch?v=HqwMLCh8RnE",
+   "time_updated": "2023-10-11T22:50:05Z",
+   "time_added": "2023-10-11T22:50:03Z"
+  },
+  {
+   "item_id": "3947418629",
+   "given_url": "https://m.youtube.com/watch?v=oTZ88eUQrJo",
+   "given_title": "LOST Explained - The Theory of Everything: Part One (The Light, The Island ",
+   "resolved_title": "LOST Explained - The Theory of Everything: Part One (The Light, The Island \u0026 The Protector)",
+   "resolved_url": "http://www.youtube.com/watch?v=oTZ88eUQrJo",
+   "time_updated": "2023-10-09T08:20:19Z",
+   "time_added": "2023-10-09T08:20:17Z"
   },
   {
    "item_id": "3948419821",
@@ -22,15 +31,6 @@
    "time_added": "2023-10-11T06:55:13Z"
   },
   {
-   "item_id": "3948595622",
-   "given_url": "https://twitter.com/_jessicasachs/status/1712043659330310488",
-   "given_title": "jess no X: \"Definition of Lawful Evil in FOSS: Scanning your user’s resolve",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/_jessicasachs/status/1712043659330310488",
-   "time_updated": "2023-10-11T14:31:41Z",
-   "time_added": "2023-10-11T14:31:40Z"
-  },
-  {
    "item_id": "134733426",
    "given_url": "https://en.m.wikipedia.org/wiki/Haskalah",
    "given_title": "Haskalah - Wikipedia",
@@ -38,51 +38,6 @@
    "resolved_url": "https://en.wikipedia.org/wiki/Haskalah",
    "time_updated": "2023-10-11T16:32:57Z",
    "time_added": "2023-10-11T16:32:57Z"
-  },
-  {
-   "item_id": "3891736313",
-   "given_url": "https://agoraeuropa.com/portugal/sef-completa-250-dias-sem-abrir-novas-vagas-para-reagrupamento-familiar-em-portugal/",
-   "given_title": "SEF completa 250 dias sem abrir novas vagas para reagrupamento familiar em ",
-   "resolved_title": "SEF completa 250 dias sem abrir novas vagas para reagrupamento familiar em Portugal",
-   "resolved_url": "https://agoraeuropa.com/portugal/sef-completa-250-dias-sem-abrir-novas-vagas-para-reagrupamento-familiar-em-portugal/",
-   "time_updated": "2023-10-11T09:51:49Z",
-   "time_added": "2023-10-11T09:51:48Z"
-  },
-  {
-   "item_id": "3947523189",
-   "given_url": "https://m.youtube.com/watch?v=89mxEEGAglE\u0026embeds_referring_euri=https%3A%2F%2Fobservador.pt%2F\u0026source_ve_path=OTY3MTQ\u0026feature=emb_imp_woyt",
-   "given_title": "Explicador em vídeo. Como Portugal quase construiu Israel em Angola - YouTu",
-   "resolved_title": "Explicador em vídeo. Como Portugal quase construiu Israel em Angola",
-   "resolved_url": "http://www.youtube.com/watch?v=89mxEEGAglE",
-   "time_updated": "2023-10-09T13:04:46Z",
-   "time_added": "2023-10-09T13:04:45Z"
-  },
-  {
-   "item_id": "3615033986",
-   "given_url": "https://www.alexedwards.net/blog/using-go-run-to-manage-tool-dependencies",
-   "given_title": "How to use go run to manage tool dependencies – Alex Edwards",
-   "resolved_title": "Using go run to manage tool dependencies",
-   "resolved_url": "https://www.alexedwards.net/blog/using-go-run-to-manage-tool-dependencies",
-   "time_updated": "2023-10-09T15:33:11Z",
-   "time_added": "2023-10-09T15:33:11Z"
-  },
-  {
-   "item_id": "558065625",
-   "given_url": "https://blog.codinghorror.com/preventing-csrf-and-xsrf-attacks/",
-   "given_title": "Preventing CSRF and XSRF Attacks",
-   "resolved_title": "Preventing CSRF and XSRF Attacks",
-   "resolved_url": "https://blog.codinghorror.com/preventing-csrf-and-xsrf-attacks/",
-   "time_updated": "2023-10-10T16:07:02Z",
-   "time_added": "2023-10-10T16:07:02Z"
-  },
-  {
-   "item_id": "3947418629",
-   "given_url": "https://m.youtube.com/watch?v=oTZ88eUQrJo",
-   "given_title": "LOST Explained - The Theory of Everything: Part One (The Light, The Island ",
-   "resolved_title": "LOST Explained - The Theory of Everything: Part One (The Light, The Island \u0026 The Protector)",
-   "resolved_url": "http://www.youtube.com/watch?v=oTZ88eUQrJo",
-   "time_updated": "2023-10-09T08:20:19Z",
-   "time_added": "2023-10-09T08:20:17Z"
   },
   {
    "item_id": "1824141774",
@@ -103,13 +58,94 @@
    "time_added": "2023-10-09T13:39:57Z"
   },
   {
-   "item_id": "3948791440",
-   "given_url": "https://m.youtube.com/watch?v=HqwMLCh8RnE",
-   "given_title": "Who Was the Best English Monarch? | Rating Royals With David Mitchell - You",
-   "resolved_title": "Who Was the Best English Monarch? | Rating Royals With David Mitchell",
-   "resolved_url": "http://www.youtube.com/watch?v=HqwMLCh8RnE",
-   "time_updated": "2023-10-11T22:50:05Z",
-   "time_added": "2023-10-11T22:50:03Z"
+   "item_id": "1442797006",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Oliveira_Viana",
+   "given_title": "Oliveira Viana – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Oliveira Viana",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Oliveira_Viana",
+   "time_updated": "2023-10-12T17:43:44Z",
+   "time_added": "2023-10-12T17:43:44Z"
+  },
+  {
+   "item_id": "3949084033",
+   "given_url": "http://segabits.com/blog/2012/05/23/yakuza-5-famitsu-interview-fully-translated/",
+   "given_title": "Yakuza 5 Famitsu interview fully translated » SEGAbits - #1 Source for SEGA",
+   "resolved_title": "Yakuza 5 Famitsu interview fully translated",
+   "resolved_url": "https://segabits.com/blog/2012/05/23/yakuza-5-famitsu-interview-fully-translated/",
+   "time_updated": "2023-10-12T13:35:40Z",
+   "time_added": "2023-10-12T13:35:39Z"
+  },
+  {
+   "item_id": "3513712563",
+   "given_url": "https://www.stadafa.com/2020/12/stockholm-syndrome-discredit.html?m=1",
+   "given_title": "“Stockholm Syndrome” was invented by police to discredit a female hostage",
+   "resolved_title": "“Stockholm Syndrome” was invented by police to discredit a female hostage",
+   "resolved_url": "https://www.stadafa.com/2020/12/stockholm-syndrome-discredit.html",
+   "time_updated": "2023-10-12T13:40:34Z",
+   "time_added": "2023-10-12T13:40:34Z"
+  },
+  {
+   "item_id": "3947523189",
+   "given_url": "https://m.youtube.com/watch?v=89mxEEGAglE\u0026embeds_referring_euri=https%3A%2F%2Fobservador.pt%2F\u0026source_ve_path=OTY3MTQ\u0026feature=emb_imp_woyt",
+   "given_title": "Explicador em vídeo. Como Portugal quase construiu Israel em Angola - YouTu",
+   "resolved_title": "Explicador em vídeo. Como Portugal quase construiu Israel em Angola",
+   "resolved_url": "http://www.youtube.com/watch?v=89mxEEGAglE",
+   "time_updated": "2023-10-09T13:04:46Z",
+   "time_added": "2023-10-09T13:04:45Z"
+  },
+  {
+   "item_id": "3948595622",
+   "given_url": "https://twitter.com/_jessicasachs/status/1712043659330310488",
+   "given_title": "jess no X: \"Definition of Lawful Evil in FOSS: Scanning your user’s resolve",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/_jessicasachs/status/1712043659330310488",
+   "time_updated": "2023-10-11T14:31:41Z",
+   "time_added": "2023-10-11T14:31:40Z"
+  },
+  {
+   "item_id": "3949183404",
+   "given_url": "https://amensagem.pt/2023/10/11/escola-n-1-lisboa-alunos-imigrantes-em-maioria/",
+   "given_title": "Na Escola N.º1 de Lisboa, a maioria dos alunos é imigrante",
+   "resolved_title": "Na Escola N.º1 de Lisboa, os alunos imigrantes estão em maioria e “ultrapassam o preconceito do adulto”",
+   "resolved_url": "https://amensagem.pt/2023/10/11/escola-n-1-lisboa-alunos-imigrantes-em-maioria/",
+   "time_updated": "2023-10-12T17:27:17Z",
+   "time_added": "2023-10-12T17:27:16Z"
+  },
+  {
+   "item_id": "2760603982",
+   "given_url": "https://howvideo.works/",
+   "given_title": "",
+   "resolved_title": "HowVideo.works",
+   "resolved_url": "https://howvideo.works/#processing",
+   "time_updated": "2023-10-09T21:24:02Z",
+   "time_added": "2023-10-09T21:24:02Z"
+  },
+  {
+   "item_id": "3891736313",
+   "given_url": "https://agoraeuropa.com/portugal/sef-completa-250-dias-sem-abrir-novas-vagas-para-reagrupamento-familiar-em-portugal/",
+   "given_title": "SEF completa 250 dias sem abrir novas vagas para reagrupamento familiar em ",
+   "resolved_title": "SEF completa 250 dias sem abrir novas vagas para reagrupamento familiar em Portugal",
+   "resolved_url": "https://agoraeuropa.com/portugal/sef-completa-250-dias-sem-abrir-novas-vagas-para-reagrupamento-familiar-em-portugal/",
+   "time_updated": "2023-10-11T09:51:49Z",
+   "time_added": "2023-10-11T09:51:48Z"
+  },
+  {
+   "item_id": "3615033986",
+   "given_url": "https://www.alexedwards.net/blog/using-go-run-to-manage-tool-dependencies",
+   "given_title": "How to use go run to manage tool dependencies – Alex Edwards",
+   "resolved_title": "Using go run to manage tool dependencies",
+   "resolved_url": "https://www.alexedwards.net/blog/using-go-run-to-manage-tool-dependencies",
+   "time_updated": "2023-10-09T15:33:11Z",
+   "time_added": "2023-10-09T15:33:11Z"
+  },
+  {
+   "item_id": "558065625",
+   "given_url": "https://blog.codinghorror.com/preventing-csrf-and-xsrf-attacks/",
+   "given_title": "Preventing CSRF and XSRF Attacks",
+   "resolved_title": "Preventing CSRF and XSRF Attacks",
+   "resolved_url": "https://blog.codinghorror.com/preventing-csrf-and-xsrf-attacks/",
+   "time_updated": "2023-10-10T16:07:02Z",
+   "time_added": "2023-10-10T16:07:02Z"
   }
  ]
 }

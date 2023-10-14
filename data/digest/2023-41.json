@@ -4,69 +4,6 @@
  "sortKey": "2023-41",
  "items": [
   {
-   "item_id": "3891736313",
-   "given_url": "https://agoraeuropa.com/portugal/sef-completa-250-dias-sem-abrir-novas-vagas-para-reagrupamento-familiar-em-portugal/",
-   "given_title": "SEF completa 250 dias sem abrir novas vagas para reagrupamento familiar em ",
-   "resolved_title": "SEF completa 250 dias sem abrir novas vagas para reagrupamento familiar em Portugal",
-   "resolved_url": "https://agoraeuropa.com/portugal/sef-completa-250-dias-sem-abrir-novas-vagas-para-reagrupamento-familiar-em-portugal/",
-   "time_updated": "2023-10-11T09:51:49Z",
-   "time_added": "2023-10-11T09:51:48Z"
-  },
-  {
-   "item_id": "3947418629",
-   "given_url": "https://m.youtube.com/watch?v=oTZ88eUQrJo",
-   "given_title": "LOST Explained - The Theory of Everything: Part One (The Light, The Island ",
-   "resolved_title": "LOST Explained - The Theory of Everything: Part One (The Light, The Island \u0026 The Protector)",
-   "resolved_url": "http://www.youtube.com/watch?v=oTZ88eUQrJo",
-   "time_updated": "2023-10-09T08:20:19Z",
-   "time_added": "2023-10-09T08:20:17Z"
-  },
-  {
-   "item_id": "3947130496",
-   "given_url": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/",
-   "given_title": "Speeding up the JavaScript ecosystem - The barrel file debacle",
-   "resolved_title": "Speeding up the JavaScript ecosystem - The barrel file debacle",
-   "resolved_url": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/",
-   "time_updated": "2023-10-09T13:39:57Z",
-   "time_added": "2023-10-09T13:39:57Z"
-  },
-  {
-   "item_id": "3948419821",
-   "given_url": "https://twitter.com/zei_squirrel/status/1711806491848487349",
-   "given_title": "☀️? no X: \"I am gathering a list of all the \"reporters\" who are claiming th",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/zei_squirrel/status/1711806491848487349",
-   "time_updated": "2023-10-11T06:55:15Z",
-   "time_added": "2023-10-11T06:55:13Z"
-  },
-  {
-   "item_id": "3949183404",
-   "given_url": "https://amensagem.pt/2023/10/11/escola-n-1-lisboa-alunos-imigrantes-em-maioria/",
-   "given_title": "Na Escola N.º1 de Lisboa, a maioria dos alunos é imigrante",
-   "resolved_title": "Na Escola N.º1 de Lisboa, os alunos imigrantes estão em maioria e “ultrapassam o preconceito do adulto”",
-   "resolved_url": "https://amensagem.pt/2023/10/11/escola-n-1-lisboa-alunos-imigrantes-em-maioria/",
-   "time_updated": "2023-10-12T17:27:17Z",
-   "time_added": "2023-10-12T17:27:16Z"
-  },
-  {
-   "item_id": "3949596087",
-   "given_url": "https://twitter.com/adamsilverhq/status/1712721110150848704",
-   "given_title": "Adam Silver no X: \"Design tip: avoid infinite scroll Here’s why: 1. It stop",
-   "resolved_title": "",
-   "resolved_url": "https://twitter.com/adamsilverhq/status/1712721110150848704",
-   "time_updated": "2023-10-13T13:35:51Z",
-   "time_added": "2023-10-13T13:35:48Z"
-  },
-  {
-   "item_id": "1045141933",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Civiliza%C3%A7%C3%A3o_cartaginesa",
-   "given_title": "Civilização cartaginesa – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Civilização cartaginesa",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Civiliza%C3%A7%C3%A3o_cartaginesa",
-   "time_updated": "2023-10-13T21:31:47Z",
-   "time_added": "2023-10-13T21:31:47Z"
-  },
-  {
    "item_id": "2760603982",
    "given_url": "https://howvideo.works/",
    "given_title": "",
@@ -74,6 +11,15 @@
    "resolved_url": "https://howvideo.works/#processing",
    "time_updated": "2023-10-09T21:24:02Z",
    "time_added": "2023-10-09T21:24:02Z"
+  },
+  {
+   "item_id": "558065625",
+   "given_url": "https://blog.codinghorror.com/preventing-csrf-and-xsrf-attacks/",
+   "given_title": "Preventing CSRF and XSRF Attacks",
+   "resolved_title": "Preventing CSRF and XSRF Attacks",
+   "resolved_url": "https://blog.codinghorror.com/preventing-csrf-and-xsrf-attacks/",
+   "time_updated": "2023-10-10T16:07:02Z",
+   "time_added": "2023-10-10T16:07:02Z"
   },
   {
    "item_id": "3948791440",
@@ -85,13 +31,85 @@
    "time_added": "2023-10-11T22:50:03Z"
   },
   {
-   "item_id": "3949762011",
-   "given_url": "https://www.youtube.com/watch?v=au48l5rETNU",
-   "given_title": "Pram - Sleepy Sweet (Official Video) - YouTube",
-   "resolved_title": "Pram - Sleepy Sweet (Official Video)",
-   "resolved_url": "https://www.youtube.com/watch?v=au48l5rETNU",
-   "time_updated": "2023-10-13T20:42:59Z",
-   "time_added": "2023-10-13T20:42:59Z"
+   "item_id": "3949771511",
+   "given_url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURabElTenB3RRAB!2m1!1s0x0:0x1fd91861288561a7!3m1!1s2@1:CIHM0ogKEICAgIDZlISzpwE%7CCgwIy_DDqAYQqLaiqAI%7C?hl=en\u0026entry=tts",
+   "given_title": "Google Maps",
+   "resolved_title": "Google review of Lisbon Central Mosque by Musa Abadi",
+   "resolved_url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURabElTenB3RRAB!2m1!1s0x0:0x1fd91861288561a7!3m1!1s2@1:CIHM0ogKEICAgIDZlISzpwE%7CCgwIy_DDqAYQqLaiqAI%7C?hl=en\u0026entry=tts",
+   "time_updated": "2023-10-13T21:09:39Z",
+   "time_added": "2023-10-13T21:09:39Z"
+  },
+  {
+   "item_id": "3513712563",
+   "given_url": "https://www.stadafa.com/2020/12/stockholm-syndrome-discredit.html?m=1",
+   "given_title": "“Stockholm Syndrome” was invented by police to discredit a female hostage",
+   "resolved_title": "“Stockholm Syndrome” was invented by police to discredit a female hostage",
+   "resolved_url": "https://www.stadafa.com/2020/12/stockholm-syndrome-discredit.html",
+   "time_updated": "2023-10-12T13:40:34Z",
+   "time_added": "2023-10-12T13:40:34Z"
+  },
+  {
+   "item_id": "1045141933",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Civiliza%C3%A7%C3%A3o_cartaginesa",
+   "given_title": "Civilização cartaginesa – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Civilização cartaginesa",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Civiliza%C3%A7%C3%A3o_cartaginesa",
+   "time_updated": "2023-10-13T21:31:47Z",
+   "time_added": "2023-10-13T21:31:47Z"
+  },
+  {
+   "item_id": "3891736313",
+   "given_url": "https://agoraeuropa.com/portugal/sef-completa-250-dias-sem-abrir-novas-vagas-para-reagrupamento-familiar-em-portugal/",
+   "given_title": "SEF completa 250 dias sem abrir novas vagas para reagrupamento familiar em ",
+   "resolved_title": "SEF completa 250 dias sem abrir novas vagas para reagrupamento familiar em Portugal",
+   "resolved_url": "https://agoraeuropa.com/portugal/sef-completa-250-dias-sem-abrir-novas-vagas-para-reagrupamento-familiar-em-portugal/",
+   "time_updated": "2023-10-11T09:51:49Z",
+   "time_added": "2023-10-11T09:51:48Z"
+  },
+  {
+   "item_id": "3948419821",
+   "given_url": "https://twitter.com/zei_squirrel/status/1711806491848487349",
+   "given_title": "☀️? no X: \"I am gathering a list of all the \"reporters\" who are claiming th",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/zei_squirrel/status/1711806491848487349",
+   "time_updated": "2023-10-11T06:55:15Z",
+   "time_added": "2023-10-11T06:55:13Z"
+  },
+  {
+   "item_id": "3949596087",
+   "given_url": "https://twitter.com/adamsilverhq/status/1712721110150848704",
+   "given_title": "Adam Silver no X: \"Design tip: avoid infinite scroll Here’s why: 1. It stop",
+   "resolved_title": "",
+   "resolved_url": "https://twitter.com/adamsilverhq/status/1712721110150848704",
+   "time_updated": "2023-10-13T13:35:51Z",
+   "time_added": "2023-10-13T13:35:48Z"
+  },
+  {
+   "item_id": "134733426",
+   "given_url": "https://en.m.wikipedia.org/wiki/Haskalah",
+   "given_title": "Haskalah - Wikipedia",
+   "resolved_title": "Haskalah",
+   "resolved_url": "https://en.wikipedia.org/wiki/Haskalah",
+   "time_updated": "2023-10-11T16:32:57Z",
+   "time_added": "2023-10-11T16:32:57Z"
+  },
+  {
+   "item_id": "3947523189",
+   "given_url": "https://m.youtube.com/watch?v=89mxEEGAglE\u0026embeds_referring_euri=https%3A%2F%2Fobservador.pt%2F\u0026source_ve_path=OTY3MTQ\u0026feature=emb_imp_woyt",
+   "given_title": "Explicador em vídeo. Como Portugal quase construiu Israel em Angola - YouTu",
+   "resolved_title": "Explicador em vídeo. Como Portugal quase construiu Israel em Angola",
+   "resolved_url": "http://www.youtube.com/watch?v=89mxEEGAglE",
+   "time_updated": "2023-10-09T13:04:46Z",
+   "time_added": "2023-10-09T13:04:45Z"
+  },
+  {
+   "item_id": "3947130496",
+   "given_url": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/",
+   "given_title": "Speeding up the JavaScript ecosystem - The barrel file debacle",
+   "resolved_title": "Speeding up the JavaScript ecosystem - The barrel file debacle",
+   "resolved_url": "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/",
+   "time_updated": "2023-10-09T13:39:57Z",
+   "time_added": "2023-10-09T13:39:57Z"
   },
   {
    "item_id": "3615033986",
@@ -121,31 +139,31 @@
    "time_added": "2023-10-12T13:35:39Z"
   },
   {
-   "item_id": "3947523189",
-   "given_url": "https://m.youtube.com/watch?v=89mxEEGAglE\u0026embeds_referring_euri=https%3A%2F%2Fobservador.pt%2F\u0026source_ve_path=OTY3MTQ\u0026feature=emb_imp_woyt",
-   "given_title": "Explicador em vídeo. Como Portugal quase construiu Israel em Angola - YouTu",
-   "resolved_title": "Explicador em vídeo. Como Portugal quase construiu Israel em Angola",
-   "resolved_url": "http://www.youtube.com/watch?v=89mxEEGAglE",
-   "time_updated": "2023-10-09T13:04:46Z",
-   "time_added": "2023-10-09T13:04:45Z"
+   "item_id": "3949762011",
+   "given_url": "https://www.youtube.com/watch?v=au48l5rETNU",
+   "given_title": "Pram - Sleepy Sweet (Official Video) - YouTube",
+   "resolved_title": "Pram - Sleepy Sweet (Official Video)",
+   "resolved_url": "https://www.youtube.com/watch?v=au48l5rETNU",
+   "time_updated": "2023-10-13T20:42:59Z",
+   "time_added": "2023-10-13T20:42:59Z"
   },
   {
-   "item_id": "134733426",
-   "given_url": "https://en.m.wikipedia.org/wiki/Haskalah",
-   "given_title": "Haskalah - Wikipedia",
-   "resolved_title": "Haskalah",
-   "resolved_url": "https://en.wikipedia.org/wiki/Haskalah",
-   "time_updated": "2023-10-11T16:32:57Z",
-   "time_added": "2023-10-11T16:32:57Z"
+   "item_id": "3947418629",
+   "given_url": "https://m.youtube.com/watch?v=oTZ88eUQrJo",
+   "given_title": "LOST Explained - The Theory of Everything: Part One (The Light, The Island ",
+   "resolved_title": "LOST Explained - The Theory of Everything: Part One (The Light, The Island \u0026 The Protector)",
+   "resolved_url": "http://www.youtube.com/watch?v=oTZ88eUQrJo",
+   "time_updated": "2023-10-09T08:20:19Z",
+   "time_added": "2023-10-09T08:20:17Z"
   },
   {
-   "item_id": "3513712563",
-   "given_url": "https://www.stadafa.com/2020/12/stockholm-syndrome-discredit.html?m=1",
-   "given_title": "“Stockholm Syndrome” was invented by police to discredit a female hostage",
-   "resolved_title": "“Stockholm Syndrome” was invented by police to discredit a female hostage",
-   "resolved_url": "https://www.stadafa.com/2020/12/stockholm-syndrome-discredit.html",
-   "time_updated": "2023-10-12T13:40:34Z",
-   "time_added": "2023-10-12T13:40:34Z"
+   "item_id": "1824141774",
+   "given_url": "https://news.ycombinator.com/item?id=14791601",
+   "given_title": "So, I've read most of these. Here's a tour of what is definitely useful and",
+   "resolved_title": "",
+   "resolved_url": "https://news.ycombinator.com/item?id=14791601",
+   "time_updated": "2023-10-09T11:37:27Z",
+   "time_added": "2023-10-09T11:37:26Z"
   },
   {
    "item_id": "1442797006",
@@ -166,31 +184,13 @@
    "time_added": "2023-10-13T19:43:51Z"
   },
   {
-   "item_id": "1824141774",
-   "given_url": "https://news.ycombinator.com/item?id=14791601",
-   "given_title": "So, I've read most of these. Here's a tour of what is definitely useful and",
-   "resolved_title": "",
-   "resolved_url": "https://news.ycombinator.com/item?id=14791601",
-   "time_updated": "2023-10-09T11:37:27Z",
-   "time_added": "2023-10-09T11:37:26Z"
-  },
-  {
-   "item_id": "558065625",
-   "given_url": "https://blog.codinghorror.com/preventing-csrf-and-xsrf-attacks/",
-   "given_title": "Preventing CSRF and XSRF Attacks",
-   "resolved_title": "Preventing CSRF and XSRF Attacks",
-   "resolved_url": "https://blog.codinghorror.com/preventing-csrf-and-xsrf-attacks/",
-   "time_updated": "2023-10-10T16:07:02Z",
-   "time_added": "2023-10-10T16:07:02Z"
-  },
-  {
-   "item_id": "3949771511",
-   "given_url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURabElTenB3RRAB!2m1!1s0x0:0x1fd91861288561a7!3m1!1s2@1:CIHM0ogKEICAgIDZlISzpwE%7CCgwIy_DDqAYQqLaiqAI%7C?hl=en\u0026entry=tts",
-   "given_title": "Google Maps",
-   "resolved_title": "Google review of Lisbon Central Mosque by Musa Abadi",
-   "resolved_url": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURabElTenB3RRAB!2m1!1s0x0:0x1fd91861288561a7!3m1!1s2@1:CIHM0ogKEICAgIDZlISzpwE%7CCgwIy_DDqAYQqLaiqAI%7C?hl=en\u0026entry=tts",
-   "time_updated": "2023-10-13T21:09:39Z",
-   "time_added": "2023-10-13T21:09:39Z"
+   "item_id": "3949183404",
+   "given_url": "https://amensagem.pt/2023/10/11/escola-n-1-lisboa-alunos-imigrantes-em-maioria/",
+   "given_title": "Na Escola N.º1 de Lisboa, a maioria dos alunos é imigrante",
+   "resolved_title": "Na Escola N.º1 de Lisboa, os alunos imigrantes estão em maioria e “ultrapassam o preconceito do adulto”",
+   "resolved_url": "https://amensagem.pt/2023/10/11/escola-n-1-lisboa-alunos-imigrantes-em-maioria/",
+   "time_updated": "2023-10-12T17:27:17Z",
+   "time_added": "2023-10-12T17:27:16Z"
   }
  ]
 }

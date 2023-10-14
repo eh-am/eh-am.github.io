@@ -4,15 +4,6 @@
  "sortKey": "2023-40",
  "items": [
   {
-   "item_id": "3947012627",
-   "given_url": "https://web-japan.org/niponica/pdf/niponica32/no32_en.pdf",
-   "given_title": "no32_en.pdf",
-   "resolved_title": "",
-   "resolved_url": "https://web-japan.org/niponica/pdf/niponica32/no32_en.pdf",
-   "time_updated": "2023-10-08T10:10:55Z",
-   "time_added": "2023-10-08T10:10:54Z"
-  },
-  {
    "item_id": "2274654043",
    "given_url": "https://www.hillelwayne.com/post/augmenting-agile/",
    "given_title": "Augmenting Agile with Formal Methods",
@@ -22,22 +13,13 @@
    "time_added": "2023-10-08T17:34:59Z"
   },
   {
-   "item_id": "886949639",
-   "given_url": "https://renderdoc.org/",
-   "given_title": "RenderDoc",
-   "resolved_title": "RenderDoc",
-   "resolved_url": "https://renderdoc.org/",
-   "time_updated": "2023-10-07T13:50:30Z",
-   "time_added": "2023-10-07T13:50:30Z"
-  },
-  {
-   "item_id": "3946348299",
-   "given_url": "https://www1.folha.uol.com.br/ciencia/2023/10/amazonia-possui-mais-de-10-mil-monumentos-desconhecidos-estima-estudo.shtml#comentarios",
-   "given_title": "Amazônia esconde mais de 10 mil monumentos desconhecidos - 06/10/2023 - Ciê",
-   "resolved_title": "Amazônia possui mais de 10 mil monumentos desconhecidos, estima estudo",
-   "resolved_url": "https://www1.folha.uol.com.br/ciencia/2023/10/amazonia-possui-mais-de-10-mil-monumentos-desconhecidos-estima-estudo.shtml",
-   "time_updated": "2023-10-07T08:53:24Z",
-   "time_added": "2023-10-07T08:53:24Z"
+   "item_id": "3947012627",
+   "given_url": "https://web-japan.org/niponica/pdf/niponica32/no32_en.pdf",
+   "given_title": "no32_en.pdf",
+   "resolved_title": "",
+   "resolved_url": "https://web-japan.org/niponica/pdf/niponica32/no32_en.pdf",
+   "time_updated": "2023-10-08T10:10:55Z",
+   "time_added": "2023-10-08T10:10:54Z"
   },
   {
    "item_id": "3947022311",
@@ -58,6 +40,15 @@
    "time_added": "2023-10-07T12:44:52Z"
   },
   {
+   "item_id": "886949639",
+   "given_url": "https://renderdoc.org/",
+   "given_title": "RenderDoc",
+   "resolved_title": "RenderDoc",
+   "resolved_url": "https://renderdoc.org/",
+   "time_updated": "2023-10-07T13:50:30Z",
+   "time_added": "2023-10-07T13:50:30Z"
+  },
+  {
    "item_id": "83259712",
    "given_url": "https://en.wikipedia.org/wiki/Proposals_for_a_Jewish_state",
    "given_title": "Proposals for a Jewish state - Wikipedia",
@@ -65,15 +56,6 @@
    "resolved_url": "https://en.wikipedia.org/wiki/Proposals_for_a_Jewish_state",
    "time_updated": "2023-10-08T16:57:38Z",
    "time_added": "2023-10-08T16:57:38Z"
-  },
-  {
-   "item_id": "3946602578",
-   "given_url": "https://www.reddit.com/r/SteamDeck/comments/11xbgfx/comment/jqpawcw/?utm_source=share\u0026utm_medium=ios_app\u0026utm_name=ioscss\u0026utm_content=1\u0026utm_term=1\u0026context=3",
-   "given_title": "PSA: If your official Steam Deck Dock is not working on your tv - make sure",
-   "resolved_title": "Reddit - Dive into anything",
-   "resolved_url": "https://www.reddit.com/r/SteamDeck/comments/11xbgfx/comment/jqpawcw/",
-   "time_updated": "2023-10-07T10:52:09Z",
-   "time_added": "2023-10-07T10:52:07Z"
   }
  ]
 }

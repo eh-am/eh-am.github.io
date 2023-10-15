@@ -4,6 +4,15 @@
  "sortKey": "2023-40",
  "items": [
   {
+   "item_id": "83259712",
+   "given_url": "https://en.wikipedia.org/wiki/Proposals_for_a_Jewish_state",
+   "given_title": "Proposals for a Jewish state - Wikipedia",
+   "resolved_title": "Proposals for a Jewish state",
+   "resolved_url": "https://en.wikipedia.org/wiki/Proposals_for_a_Jewish_state",
+   "time_updated": "2023-10-08T16:57:38Z",
+   "time_added": "2023-10-08T16:57:38Z"
+  },
+  {
    "item_id": "2274654043",
    "given_url": "https://www.hillelwayne.com/post/augmenting-agile/",
    "given_title": "Augmenting Agile with Formal Methods",
@@ -11,15 +20,6 @@
    "resolved_url": "https://www.hillelwayne.com/post/augmenting-agile/",
    "time_updated": "2023-10-08T17:34:59Z",
    "time_added": "2023-10-08T17:34:59Z"
-  },
-  {
-   "item_id": "3947012627",
-   "given_url": "https://web-japan.org/niponica/pdf/niponica32/no32_en.pdf",
-   "given_title": "no32_en.pdf",
-   "resolved_title": "",
-   "resolved_url": "https://web-japan.org/niponica/pdf/niponica32/no32_en.pdf",
-   "time_updated": "2023-10-08T10:10:55Z",
-   "time_added": "2023-10-08T10:10:54Z"
   },
   {
    "item_id": "3947022311",
@@ -31,31 +31,13 @@
    "time_added": "2023-10-08T10:46:04Z"
   },
   {
-   "item_id": "3946572054",
-   "given_url": "https://tab.uol.com.br/noticias/redacao/2023/10/07/brasileiros-pagam-350-milhoes-de-euros-ao-ano-a-seguranca-social-portuguesa.htm",
-   "given_title": "Brasileiros pagam 350 milhões de euros à segurança social portuguesa",
-   "resolved_title": "Brasileiros pagam 350 milhões de euros ao ano à segurança social portuguesa",
-   "resolved_url": "https://tab.uol.com.br/noticias/redacao/2023/10/07/brasileiros-pagam-350-milhoes-de-euros-ao-ano-a-seguranca-social-portuguesa.htm",
-   "time_updated": "2023-10-07T12:44:53Z",
-   "time_added": "2023-10-07T12:44:52Z"
-  },
-  {
-   "item_id": "886949639",
-   "given_url": "https://renderdoc.org/",
-   "given_title": "RenderDoc",
-   "resolved_title": "RenderDoc",
-   "resolved_url": "https://renderdoc.org/",
-   "time_updated": "2023-10-07T13:50:30Z",
-   "time_added": "2023-10-07T13:50:30Z"
-  },
-  {
-   "item_id": "83259712",
-   "given_url": "https://en.wikipedia.org/wiki/Proposals_for_a_Jewish_state",
-   "given_title": "Proposals for a Jewish state - Wikipedia",
-   "resolved_title": "Proposals for a Jewish state",
-   "resolved_url": "https://en.wikipedia.org/wiki/Proposals_for_a_Jewish_state",
-   "time_updated": "2023-10-08T16:57:38Z",
-   "time_added": "2023-10-08T16:57:38Z"
+   "item_id": "3947012627",
+   "given_url": "https://web-japan.org/niponica/pdf/niponica32/no32_en.pdf",
+   "given_title": "no32_en.pdf",
+   "resolved_title": "",
+   "resolved_url": "https://web-japan.org/niponica/pdf/niponica32/no32_en.pdf",
+   "time_updated": "2023-10-08T10:10:55Z",
+   "time_added": "2023-10-08T10:10:54Z"
   }
  ]
 }

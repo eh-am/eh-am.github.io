@@ -13,22 +13,13 @@
    "time_added": "2023-10-17T12:37:01Z"
   },
   {
-   "item_id": "1607586729",
-   "given_url": "https://en.m.wikipedia.org/wiki/Jason_(cartoonist)",
-   "given_title": "Jason (cartoonist) - Wikipedia",
-   "resolved_title": "Jason (cartoonist)",
-   "resolved_url": "https://en.wikipedia.org/wiki/Jason_(cartoonist)",
-   "time_updated": "2023-10-18T22:50:56Z",
-   "time_added": "2023-10-18T22:50:56Z"
-  },
-  {
-   "item_id": "3952046686",
-   "given_url": "https://open.substack.com/pub/davekarpf/p/why-cant-our-tech-billionaires-learn?utm_campaign=post\u0026utm_medium=web",
-   "given_title": "Why can't our tech billionaires learn anything new?",
-   "resolved_title": "Why can't our tech billionaires learn anything new?",
-   "resolved_url": "https://davekarpf.substack.com/p/why-cant-our-tech-billionaires-learn",
-   "time_updated": "2023-10-18T15:31:40Z",
-   "time_added": "2023-10-18T15:31:39Z"
+   "item_id": "3952218628",
+   "given_url": "https://minabemestar.uol.com.br/entrevista-dira-paes/",
+   "given_title": "Dira Paes fala sobre idade, ativismo, casamento e maternidade - Mina",
+   "resolved_title": "Dira Paes: “Nós, mulheres, não vamos recuar nos nossos direitos”",
+   "resolved_url": "https://minabemestar.uol.com.br/entrevista-dira-paes/",
+   "time_updated": "2023-10-18T22:58:09Z",
+   "time_added": "2023-10-18T22:58:07Z"
   },
   {
    "item_id": "3950329621",
@@ -40,6 +31,15 @@
    "time_added": "2023-10-16T22:07:23Z"
   },
   {
+   "item_id": "3952046686",
+   "given_url": "https://open.substack.com/pub/davekarpf/p/why-cant-our-tech-billionaires-learn?utm_campaign=post\u0026utm_medium=web",
+   "given_title": "Why can't our tech billionaires learn anything new?",
+   "resolved_title": "Why can't our tech billionaires learn anything new?",
+   "resolved_url": "https://davekarpf.substack.com/p/why-cant-our-tech-billionaires-learn",
+   "time_updated": "2023-10-18T15:31:40Z",
+   "time_added": "2023-10-18T15:31:39Z"
+  },
+  {
    "item_id": "3950219209",
    "given_url": "https://m.youtube.com/watch?v=hAMk9MqhYVk",
    "given_title": "Roid Renaissance: The UK’s Steroid Epidemic | High Society - YouTube",
@@ -47,15 +47,6 @@
    "resolved_url": "http://www.youtube.com/watch?v=hAMk9MqhYVk",
    "time_updated": "2023-10-17T15:02:46Z",
    "time_added": "2023-10-17T15:02:45Z"
-  },
-  {
-   "item_id": "3951894819",
-   "given_url": "https://twitter.com/copyconstruct/status/1714463519243178101",
-   "given_title": "Cindy Sridharan no X: \"The most insightful and state-of-the-art infrastruct",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/copyconstruct/status/1714463519243178101",
-   "time_updated": "2023-10-18T09:33:04Z",
-   "time_added": "2023-10-18T09:33:03Z"
   },
   {
    "item_id": "3951302617",
@@ -67,13 +58,31 @@
    "time_added": "2023-10-18T15:06:44Z"
   },
   {
-   "item_id": "3952218628",
-   "given_url": "https://minabemestar.uol.com.br/entrevista-dira-paes/",
-   "given_title": "Dira Paes fala sobre idade, ativismo, casamento e maternidade - Mina",
-   "resolved_title": "Dira Paes: “Nós, mulheres, não vamos recuar nos nossos direitos”",
-   "resolved_url": "https://minabemestar.uol.com.br/entrevista-dira-paes/",
-   "time_updated": "2023-10-18T22:58:09Z",
-   "time_added": "2023-10-18T22:58:07Z"
+   "item_id": "3952317425",
+   "given_url": "https://xadrezverbal.com/2023/10/18/sobre-o-veto-dos-eua-a-resolucao-brasileira-no-conselho-de-seguranca-da-onu/",
+   "given_title": "Sobre o veto dos EUA à resolução brasileira no Conselho de Segurança da ONU",
+   "resolved_title": "Sobre o veto dos EUA à resolução brasileira no Conselho de Segurança da ONU",
+   "resolved_url": "https://xadrezverbal.com/2023/10/18/sobre-o-veto-dos-eua-a-resolucao-brasileira-no-conselho-de-seguranca-da-onu/",
+   "time_updated": "2023-10-19T10:29:17Z",
+   "time_added": "2023-10-19T10:29:17Z"
+  },
+  {
+   "item_id": "3951894819",
+   "given_url": "https://twitter.com/copyconstruct/status/1714463519243178101",
+   "given_title": "Cindy Sridharan no X: \"The most insightful and state-of-the-art infrastruct",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/copyconstruct/status/1714463519243178101",
+   "time_updated": "2023-10-18T09:33:04Z",
+   "time_added": "2023-10-18T09:33:03Z"
+  },
+  {
+   "item_id": "1607586729",
+   "given_url": "https://en.m.wikipedia.org/wiki/Jason_(cartoonist)",
+   "given_title": "Jason (cartoonist) - Wikipedia",
+   "resolved_title": "Jason (cartoonist)",
+   "resolved_url": "https://en.wikipedia.org/wiki/Jason_(cartoonist)",
+   "time_updated": "2023-10-18T22:50:56Z",
+   "time_added": "2023-10-18T22:50:56Z"
   }
  ]
 }

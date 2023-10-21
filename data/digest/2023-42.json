@@ -4,60 +4,6 @@
  "sortKey": "2023-42",
  "items": [
   {
-   "item_id": "1219095305",
-   "given_url": "https://en.m.wikipedia.org/wiki/Cura_Annonae",
-   "given_title": "Cura Annonae - Wikipedia",
-   "resolved_title": "Cura Annonae",
-   "resolved_url": "https://en.wikipedia.org/wiki/Cura_Annonae",
-   "time_updated": "2023-10-19T16:30:37Z",
-   "time_added": "2023-10-19T16:30:37Z"
-  },
-  {
-   "item_id": "401532718",
-   "given_url": "https://en.m.wikipedia.org/wiki/Brachistochrone_curve",
-   "given_title": "Brachistochrone curve - Wikipedia",
-   "resolved_title": "Brachistochrone curve",
-   "resolved_url": "https://en.wikipedia.org/wiki/Brachistochrone_curve",
-   "time_updated": "2023-10-20T11:17:36Z",
-   "time_added": "2023-10-20T11:17:35Z"
-  },
-  {
-   "item_id": "3951426830",
-   "given_url": "https://cervejar.com/cerveja-ale-e-beer-diferentes-nomes-da-cerveja-redor-do-mundo/",
-   "given_title": "Cerveja, ale e beer: Os diferentes nomes da cerveja ao redor do mundo | Cer",
-   "resolved_title": "Cerveja, ale e beer: Os diferentes nomes da cerveja ao redor do mundo",
-   "resolved_url": "https://cervejar.com/cerveja-ale-e-beer-diferentes-nomes-da-cerveja-redor-do-mundo/",
-   "time_updated": "2023-10-17T12:37:04Z",
-   "time_added": "2023-10-17T12:37:01Z"
-  },
-  {
-   "item_id": "3952317425",
-   "given_url": "https://xadrezverbal.com/2023/10/18/sobre-o-veto-dos-eua-a-resolucao-brasileira-no-conselho-de-seguranca-da-onu/",
-   "given_title": "Sobre o veto dos EUA à resolução brasileira no Conselho de Segurança da ONU",
-   "resolved_title": "Sobre o veto dos EUA à resolução brasileira no Conselho de Segurança da ONU",
-   "resolved_url": "https://xadrezverbal.com/2023/10/18/sobre-o-veto-dos-eua-a-resolucao-brasileira-no-conselho-de-seguranca-da-onu/",
-   "time_updated": "2023-10-19T10:29:17Z",
-   "time_added": "2023-10-19T10:29:17Z"
-  },
-  {
-   "item_id": "3951302617",
-   "given_url": "https://twitter.com/tha_rami/status/1713852085676965971",
-   "given_title": "Rami Ismail / رامي no X: \"If you are confused why you suddenly feel like yo",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/tha_rami/status/1713852085676965971",
-   "time_updated": "2023-10-18T15:06:44Z",
-   "time_added": "2023-10-18T15:06:44Z"
-  },
-  {
-   "item_id": "1607586729",
-   "given_url": "https://en.m.wikipedia.org/wiki/Jason_(cartoonist)",
-   "given_title": "Jason (cartoonist) - Wikipedia",
-   "resolved_title": "Jason (cartoonist)",
-   "resolved_url": "https://en.wikipedia.org/wiki/Jason_(cartoonist)",
-   "time_updated": "2023-10-18T22:50:56Z",
-   "time_added": "2023-10-18T22:50:56Z"
-  },
-  {
    "item_id": "3952046686",
    "given_url": "https://open.substack.com/pub/davekarpf/p/why-cant-our-tech-billionaires-learn?utm_campaign=post\u0026utm_medium=web",
    "given_title": "Why can't our tech billionaires learn anything new?",
@@ -65,6 +11,15 @@
    "resolved_url": "https://davekarpf.substack.com/p/why-cant-our-tech-billionaires-learn",
    "time_updated": "2023-10-18T15:31:40Z",
    "time_added": "2023-10-18T15:31:39Z"
+  },
+  {
+   "item_id": "3952218628",
+   "given_url": "https://minabemestar.uol.com.br/entrevista-dira-paes/",
+   "given_title": "Dira Paes fala sobre idade, ativismo, casamento e maternidade - Mina",
+   "resolved_title": "Dira Paes: “Nós, mulheres, não vamos recuar nos nossos direitos”",
+   "resolved_url": "https://minabemestar.uol.com.br/entrevista-dira-paes/",
+   "time_updated": "2023-10-18T22:58:09Z",
+   "time_added": "2023-10-18T22:58:07Z"
   },
   {
    "item_id": "3952800971",
@@ -76,15 +31,6 @@
    "time_added": "2023-10-20T11:09:58Z"
   },
   {
-   "item_id": "3952721379",
-   "given_url": "https://twitter.com/AlsikkanTV/status/1715098841941213544",
-   "given_title": "Chris Alsikkan no X: \"can’t believe we’ve reached the culmination of Scorse",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/AlsikkanTV/status/1715098841941213544",
-   "time_updated": "2023-10-20T15:51:43Z",
-   "time_added": "2023-10-20T15:51:43Z"
-  },
-  {
    "item_id": "3950329621",
    "given_url": "https://www.theguardian.com/film/2023/oct/15/werner-herzog-documentary-film-memoir-every-man-for-himself-interview",
    "given_title": "‘I am not that much in pursuit of happiness’: Werner Herzog on beer, yoga a",
@@ -94,13 +40,13 @@
    "time_added": "2023-10-16T22:07:23Z"
   },
   {
-   "item_id": "3950219209",
-   "given_url": "https://m.youtube.com/watch?v=hAMk9MqhYVk",
-   "given_title": "Roid Renaissance: The UK’s Steroid Epidemic | High Society - YouTube",
-   "resolved_title": "Roid Renaissance: The UK’s Steroid Epidemic",
-   "resolved_url": "http://www.youtube.com/watch?v=hAMk9MqhYVk",
-   "time_updated": "2023-10-17T15:02:46Z",
-   "time_added": "2023-10-17T15:02:45Z"
+   "item_id": "1219095305",
+   "given_url": "https://en.m.wikipedia.org/wiki/Cura_Annonae",
+   "given_title": "Cura Annonae - Wikipedia",
+   "resolved_title": "Cura Annonae",
+   "resolved_url": "https://en.wikipedia.org/wiki/Cura_Annonae",
+   "time_updated": "2023-10-19T16:30:37Z",
+   "time_added": "2023-10-19T16:30:37Z"
   },
   {
    "item_id": "3951894819",
@@ -112,13 +58,76 @@
    "time_added": "2023-10-18T09:33:03Z"
   },
   {
-   "item_id": "3952218628",
-   "given_url": "https://minabemestar.uol.com.br/entrevista-dira-paes/",
-   "given_title": "Dira Paes fala sobre idade, ativismo, casamento e maternidade - Mina",
-   "resolved_title": "Dira Paes: “Nós, mulheres, não vamos recuar nos nossos direitos”",
-   "resolved_url": "https://minabemestar.uol.com.br/entrevista-dira-paes/",
-   "time_updated": "2023-10-18T22:58:09Z",
-   "time_added": "2023-10-18T22:58:07Z"
+   "item_id": "3951302617",
+   "given_url": "https://twitter.com/tha_rami/status/1713852085676965971",
+   "given_title": "Rami Ismail / رامي no X: \"If you are confused why you suddenly feel like yo",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/tha_rami/status/1713852085676965971",
+   "time_updated": "2023-10-18T15:06:44Z",
+   "time_added": "2023-10-18T15:06:44Z"
+  },
+  {
+   "item_id": "401532718",
+   "given_url": "https://en.m.wikipedia.org/wiki/Brachistochrone_curve",
+   "given_title": "Brachistochrone curve - Wikipedia",
+   "resolved_title": "Brachistochrone curve",
+   "resolved_url": "https://en.wikipedia.org/wiki/Brachistochrone_curve",
+   "time_updated": "2023-10-20T11:17:36Z",
+   "time_added": "2023-10-20T11:17:35Z"
+  },
+  {
+   "item_id": "3952721379",
+   "given_url": "https://twitter.com/AlsikkanTV/status/1715098841941213544",
+   "given_title": "Chris Alsikkan no X: \"can’t believe we’ve reached the culmination of Scorse",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/AlsikkanTV/status/1715098841941213544",
+   "time_updated": "2023-10-20T15:51:43Z",
+   "time_added": "2023-10-20T15:51:43Z"
+  },
+  {
+   "item_id": "3951426830",
+   "given_url": "https://cervejar.com/cerveja-ale-e-beer-diferentes-nomes-da-cerveja-redor-do-mundo/",
+   "given_title": "Cerveja, ale e beer: Os diferentes nomes da cerveja ao redor do mundo | Cer",
+   "resolved_title": "Cerveja, ale e beer: Os diferentes nomes da cerveja ao redor do mundo",
+   "resolved_url": "https://cervejar.com/cerveja-ale-e-beer-diferentes-nomes-da-cerveja-redor-do-mundo/",
+   "time_updated": "2023-10-17T12:37:04Z",
+   "time_added": "2023-10-17T12:37:01Z"
+  },
+  {
+   "item_id": "3950219209",
+   "given_url": "https://m.youtube.com/watch?v=hAMk9MqhYVk",
+   "given_title": "Roid Renaissance: The UK’s Steroid Epidemic | High Society - YouTube",
+   "resolved_title": "Roid Renaissance: The UK’s Steroid Epidemic",
+   "resolved_url": "http://www.youtube.com/watch?v=hAMk9MqhYVk",
+   "time_updated": "2023-10-17T15:02:46Z",
+   "time_added": "2023-10-17T15:02:45Z"
+  },
+  {
+   "item_id": "1607586729",
+   "given_url": "https://en.m.wikipedia.org/wiki/Jason_(cartoonist)",
+   "given_title": "Jason (cartoonist) - Wikipedia",
+   "resolved_title": "Jason (cartoonist)",
+   "resolved_url": "https://en.wikipedia.org/wiki/Jason_(cartoonist)",
+   "time_updated": "2023-10-18T22:50:56Z",
+   "time_added": "2023-10-18T22:50:56Z"
+  },
+  {
+   "item_id": "3952317425",
+   "given_url": "https://xadrezverbal.com/2023/10/18/sobre-o-veto-dos-eua-a-resolucao-brasileira-no-conselho-de-seguranca-da-onu/",
+   "given_title": "Sobre o veto dos EUA à resolução brasileira no Conselho de Segurança da ONU",
+   "resolved_title": "Sobre o veto dos EUA à resolução brasileira no Conselho de Segurança da ONU",
+   "resolved_url": "https://xadrezverbal.com/2023/10/18/sobre-o-veto-dos-eua-a-resolucao-brasileira-no-conselho-de-seguranca-da-onu/",
+   "time_updated": "2023-10-19T10:29:17Z",
+   "time_added": "2023-10-19T10:29:17Z"
+  },
+  {
+   "item_id": "25722553",
+   "given_url": "https://www.meforum.org/441/why-arabs-lose-wars",
+   "given_title": "Why Arabs Lose Wars :: Middle East Quarterly",
+   "resolved_title": "Why Arabs Lose Wars",
+   "resolved_url": "https://www.meforum.org/441/why-arabs-lose-wars",
+   "time_updated": "2023-10-21T10:25:58Z",
+   "time_added": "2023-10-21T10:25:58Z"
   }
  ]
 }

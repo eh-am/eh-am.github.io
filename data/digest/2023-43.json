@@ -4,24 +4,6 @@
  "sortKey": "2023-43",
  "items": [
   {
-   "item_id": "3954396787",
-   "given_url": "http://web.archive.org/web/20120120005956/https://leangains.com/2011/05/omega-3-fatty-acids-for-muscle-growth.html",
-   "given_title": "Omega-3 Fatty Acids for Muscle Growth: Promising Potential | Intermittent f",
-   "resolved_title": "Omega-3 Fatty Acids for Muscle Growth: Promising Potential",
-   "resolved_url": "http://web.archive.org/web/20120120005956/http://www.leangains.com/2011/05/omega-3-fatty-acids-for-muscle-growth.html",
-   "time_updated": "2023-10-23T13:53:21Z",
-   "time_added": "2023-10-23T13:53:19Z"
-  },
-  {
-   "item_id": "245885035",
-   "given_url": "https://www.sjsu.edu/faculty/watkins/park.htm",
-   "given_title": "The Park Chung Hee Regime in South Korea",
-   "resolved_title": "The Park Chung Hee Regime in South Korea",
-   "resolved_url": "https://www.sjsu.edu/faculty/watkins/park.htm",
-   "time_updated": "2023-10-23T09:39:57Z",
-   "time_added": "2023-10-23T09:39:56Z"
-  },
-  {
    "item_id": "3954426479",
    "given_url": "https://twitter.com/TheEduardoRFS/status/1716184012723540077",
    "given_title": "Eduardo Rafael no X: \"Essa semana uma treta antiga com @danielhe4rt e @He4r",
@@ -29,6 +11,15 @@
    "resolved_url": "https://twitter.com/TheEduardoRFS/status/1716184012723540077",
    "time_updated": "2023-10-23T15:00:35Z",
    "time_added": "2023-10-23T15:00:35Z"
+  },
+  {
+   "item_id": "3954589002",
+   "given_url": "https://gist.github.com/DanielHe4rt/01b06651b1c8dd992af4a02268eb1967",
+   "given_title": "Me esqueçam, por gentileza. · GitHub",
+   "resolved_title": "Me esqueçam, por gentileza.",
+   "resolved_url": "https://gist.github.com/DanielHe4rt/01b06651b1c8dd992af4a02268eb1967",
+   "time_updated": "2023-10-23T21:38:01Z",
+   "time_added": "2023-10-23T21:37:59Z"
   },
   {
    "item_id": "3953954478",
@@ -40,6 +31,24 @@
    "time_added": "2023-10-23T09:01:22Z"
   },
   {
+   "item_id": "245885035",
+   "given_url": "https://www.sjsu.edu/faculty/watkins/park.htm",
+   "given_title": "The Park Chung Hee Regime in South Korea",
+   "resolved_title": "The Park Chung Hee Regime in South Korea",
+   "resolved_url": "https://www.sjsu.edu/faculty/watkins/park.htm",
+   "time_updated": "2023-10-23T09:39:57Z",
+   "time_added": "2023-10-23T09:39:56Z"
+  },
+  {
+   "item_id": "3954396787",
+   "given_url": "http://web.archive.org/web/20120120005956/https://leangains.com/2011/05/omega-3-fatty-acids-for-muscle-growth.html",
+   "given_title": "Omega-3 Fatty Acids for Muscle Growth: Promising Potential | Intermittent f",
+   "resolved_title": "Omega-3 Fatty Acids for Muscle Growth: Promising Potential",
+   "resolved_url": "http://web.archive.org/web/20120120005956/http://www.leangains.com/2011/05/omega-3-fatty-acids-for-muscle-growth.html",
+   "time_updated": "2023-10-23T13:53:21Z",
+   "time_added": "2023-10-23T13:53:19Z"
+  },
+  {
    "item_id": "1031577578",
    "given_url": "https://examine.com/supplements/fish-oil/",
    "given_title": "Fish Oil benefits, dosage, and side effects",
@@ -49,13 +58,13 @@
    "time_added": "2023-10-23T13:56:33Z"
   },
   {
-   "item_id": "3954589002",
-   "given_url": "https://gist.github.com/DanielHe4rt/01b06651b1c8dd992af4a02268eb1967",
-   "given_title": "Me esqueçam, por gentileza. · GitHub",
-   "resolved_title": "Me esqueçam, por gentileza.",
-   "resolved_url": "https://gist.github.com/DanielHe4rt/01b06651b1c8dd992af4a02268eb1967",
-   "time_updated": "2023-10-23T21:38:01Z",
-   "time_added": "2023-10-23T21:37:59Z"
+   "item_id": "3954751603",
+   "given_url": "https://www.jonashietala.se/blog/2023/10/24/the_killer_features_of_the_steam_deck/",
+   "given_title": "Jonas Hietala: The killer features of the Steam Deck",
+   "resolved_title": "The killer features of the Steam Deck",
+   "resolved_url": "https://www.jonashietala.se/blog/2023/10/24/the_killer_features_of_the_steam_deck/",
+   "time_updated": "2023-10-24T12:06:45Z",
+   "time_added": "2023-10-24T12:06:44Z"
   }
  ]
 }

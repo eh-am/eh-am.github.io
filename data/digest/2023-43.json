@@ -4,49 +4,13 @@
  "sortKey": "2023-43",
  "items": [
   {
-   "item_id": "3954751603",
-   "given_url": "https://www.jonashietala.se/blog/2023/10/24/the_killer_features_of_the_steam_deck/",
-   "given_title": "Jonas Hietala: The killer features of the Steam Deck",
-   "resolved_title": "The killer features of the Steam Deck",
-   "resolved_url": "https://www.jonashietala.se/blog/2023/10/24/the_killer_features_of_the_steam_deck/",
-   "time_updated": "2023-10-24T12:06:45Z",
-   "time_added": "2023-10-24T12:06:44Z"
-  },
-  {
-   "item_id": "3955130177",
-   "given_url": "https://m.youtube.com/watch?v=Bbzw5Ym8ies",
-   "given_title": "Natural Selection Is Kinda Overhyped - YouTube",
-   "resolved_title": "Natural Selection Is Kinda Overhyped",
-   "resolved_url": "http://www.youtube.com/watch?v=Bbzw5Ym8ies",
-   "time_updated": "2023-10-24T23:28:29Z",
-   "time_added": "2023-10-24T23:28:27Z"
-  },
-  {
-   "item_id": "1031577578",
-   "given_url": "https://examine.com/supplements/fish-oil/",
-   "given_title": "Fish Oil benefits, dosage, and side effects",
-   "resolved_title": "Our evidence-based analysis on fish oil features 865 unique references to scientific papers.",
-   "resolved_url": "https://examine.com/supplements/fish-oil/",
-   "time_updated": "2023-10-23T13:56:33Z",
-   "time_added": "2023-10-23T13:56:33Z"
-  },
-  {
-   "item_id": "245885035",
-   "given_url": "https://www.sjsu.edu/faculty/watkins/park.htm",
-   "given_title": "The Park Chung Hee Regime in South Korea",
-   "resolved_title": "The Park Chung Hee Regime in South Korea",
-   "resolved_url": "https://www.sjsu.edu/faculty/watkins/park.htm",
-   "time_updated": "2023-10-23T09:39:57Z",
-   "time_added": "2023-10-23T09:39:56Z"
-  },
-  {
-   "item_id": "3953954478",
-   "given_url": "https://noticias.uol.com.br/colunas/fernanda-magnotta/2023/10/22/duas-interpretacoes-do-porque-os-eua-sao-historicamente-leais-a-israel.htm",
-   "given_title": "Duas interpretações de por que os EUA são historicamente leais a Israel",
-   "resolved_title": "Duas interpretações de por que os EUA são historicamente leais a Israel",
-   "resolved_url": "https://noticias.uol.com.br/colunas/fernanda-magnotta/2023/10/22/duas-interpretacoes-do-porque-os-eua-sao-historicamente-leais-a-israel.htm",
-   "time_updated": "2023-10-23T09:01:23Z",
-   "time_added": "2023-10-23T09:01:22Z"
+   "item_id": "987367010",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Nossa_Senhora_de_Lourdes",
+   "given_title": "Nossa Senhora de Lourdes – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Nossa Senhora de Lourdes",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Nossa_Senhora_de_Lourdes",
+   "time_updated": "2023-10-24T16:14:33Z",
+   "time_added": "2023-10-24T16:14:32Z"
   },
   {
    "item_id": "3954589002",
@@ -58,42 +22,6 @@
    "time_added": "2023-10-23T21:37:59Z"
   },
   {
-   "item_id": "987367010",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Nossa_Senhora_de_Lourdes",
-   "given_title": "Nossa Senhora de Lourdes – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Nossa Senhora de Lourdes",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Nossa_Senhora_de_Lourdes",
-   "time_updated": "2023-10-24T16:14:33Z",
-   "time_added": "2023-10-24T16:14:32Z"
-  },
-  {
-   "item_id": "3955108712",
-   "given_url": "https://twitter.com/nearcyan/status/1716675184260968816",
-   "given_title": "near no X: \"funny how the # of comments making fun of zucc for \"wasting bil",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/nearcyan/status/1716675184260968816",
-   "time_updated": "2023-10-24T22:23:28Z",
-   "time_added": "2023-10-24T22:23:26Z"
-  },
-  {
-   "item_id": "3954396787",
-   "given_url": "http://web.archive.org/web/20120120005956/https://leangains.com/2011/05/omega-3-fatty-acids-for-muscle-growth.html",
-   "given_title": "Omega-3 Fatty Acids for Muscle Growth: Promising Potential | Intermittent f",
-   "resolved_title": "Omega-3 Fatty Acids for Muscle Growth: Promising Potential",
-   "resolved_url": "http://web.archive.org/web/20120120005956/http://www.leangains.com/2011/05/omega-3-fatty-acids-for-muscle-growth.html",
-   "time_updated": "2023-10-23T13:53:21Z",
-   "time_added": "2023-10-23T13:53:19Z"
-  },
-  {
-   "item_id": "3637997712",
-   "given_url": "https://en.m.wikipedia.org/wiki/Signs_of_the_coming_of_Judgement_Day",
-   "given_title": "Signs of the coming of Judgement Day - Wikipedia",
-   "resolved_title": "Signs of the coming of Judgement Day",
-   "resolved_url": "https://en.wikipedia.org/wiki/Signs_of_the_coming_of_Judgement_Day",
-   "time_updated": "2023-10-24T16:25:49Z",
-   "time_added": "2023-10-24T16:25:49Z"
-  },
-  {
    "item_id": "983940047",
    "given_url": "https://pt.m.wikipedia.org/wiki/Thule",
    "given_title": "Thule – Wikipédia, a enciclopédia livre",
@@ -101,6 +29,15 @@
    "resolved_url": "https://pt.wikipedia.org/wiki/Thule",
    "time_updated": "2023-10-25T00:05:44Z",
    "time_added": "2023-10-25T00:05:44Z"
+  },
+  {
+   "item_id": "245885035",
+   "given_url": "https://www.sjsu.edu/faculty/watkins/park.htm",
+   "given_title": "The Park Chung Hee Regime in South Korea",
+   "resolved_title": "The Park Chung Hee Regime in South Korea",
+   "resolved_url": "https://www.sjsu.edu/faculty/watkins/park.htm",
+   "time_updated": "2023-10-23T09:39:57Z",
+   "time_added": "2023-10-23T09:39:56Z"
   },
   {
    "item_id": "3954426479",
@@ -119,6 +56,78 @@
    "resolved_url": "http://pt.m.wikipedia.org/wiki/Deriva_gen%C3%A9tica",
    "time_updated": "2023-10-24T23:29:09Z",
    "time_added": "2023-10-24T23:29:09Z"
+  },
+  {
+   "item_id": "3953954478",
+   "given_url": "https://noticias.uol.com.br/colunas/fernanda-magnotta/2023/10/22/duas-interpretacoes-do-porque-os-eua-sao-historicamente-leais-a-israel.htm",
+   "given_title": "Duas interpretações de por que os EUA são historicamente leais a Israel",
+   "resolved_title": "Duas interpretações de por que os EUA são historicamente leais a Israel",
+   "resolved_url": "https://noticias.uol.com.br/colunas/fernanda-magnotta/2023/10/22/duas-interpretacoes-do-porque-os-eua-sao-historicamente-leais-a-israel.htm",
+   "time_updated": "2023-10-23T09:01:23Z",
+   "time_added": "2023-10-23T09:01:22Z"
+  },
+  {
+   "item_id": "3637997712",
+   "given_url": "https://en.m.wikipedia.org/wiki/Signs_of_the_coming_of_Judgement_Day",
+   "given_title": "Signs of the coming of Judgement Day - Wikipedia",
+   "resolved_title": "Signs of the coming of Judgement Day",
+   "resolved_url": "https://en.wikipedia.org/wiki/Signs_of_the_coming_of_Judgement_Day",
+   "time_updated": "2023-10-24T16:25:49Z",
+   "time_added": "2023-10-24T16:25:49Z"
+  },
+  {
+   "item_id": "3955108712",
+   "given_url": "https://twitter.com/nearcyan/status/1716675184260968816",
+   "given_title": "near no X: \"funny how the # of comments making fun of zucc for \"wasting bil",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/nearcyan/status/1716675184260968816",
+   "time_updated": "2023-10-24T22:23:28Z",
+   "time_added": "2023-10-24T22:23:26Z"
+  },
+  {
+   "item_id": "1031577578",
+   "given_url": "https://examine.com/supplements/fish-oil/",
+   "given_title": "Fish Oil benefits, dosage, and side effects",
+   "resolved_title": "Our evidence-based analysis on fish oil features 865 unique references to scientific papers.",
+   "resolved_url": "https://examine.com/supplements/fish-oil/",
+   "time_updated": "2023-10-23T13:56:33Z",
+   "time_added": "2023-10-23T13:56:33Z"
+  },
+  {
+   "item_id": "3954396787",
+   "given_url": "http://web.archive.org/web/20120120005956/https://leangains.com/2011/05/omega-3-fatty-acids-for-muscle-growth.html",
+   "given_title": "Omega-3 Fatty Acids for Muscle Growth: Promising Potential | Intermittent f",
+   "resolved_title": "Omega-3 Fatty Acids for Muscle Growth: Promising Potential",
+   "resolved_url": "http://web.archive.org/web/20120120005956/http://www.leangains.com/2011/05/omega-3-fatty-acids-for-muscle-growth.html",
+   "time_updated": "2023-10-23T13:53:21Z",
+   "time_added": "2023-10-23T13:53:19Z"
+  },
+  {
+   "item_id": "3955010056",
+   "given_url": "https://buttondown.email/hillelwayne/archive/i-wish-people-would-do-historical-arguments-better/",
+   "given_title": "I wish people would do historical arguments better • Buttondown",
+   "resolved_title": "I wish people would do historical arguments better",
+   "resolved_url": "https://buttondown.email/hillelwayne/archive/i-wish-people-would-do-historical-arguments-better/",
+   "time_updated": "2023-10-25T09:56:37Z",
+   "time_added": "2023-10-25T09:56:37Z"
+  },
+  {
+   "item_id": "3954751603",
+   "given_url": "https://www.jonashietala.se/blog/2023/10/24/the_killer_features_of_the_steam_deck/",
+   "given_title": "Jonas Hietala: The killer features of the Steam Deck",
+   "resolved_title": "The killer features of the Steam Deck",
+   "resolved_url": "https://www.jonashietala.se/blog/2023/10/24/the_killer_features_of_the_steam_deck/",
+   "time_updated": "2023-10-24T12:06:45Z",
+   "time_added": "2023-10-24T12:06:44Z"
+  },
+  {
+   "item_id": "3955130177",
+   "given_url": "https://m.youtube.com/watch?v=Bbzw5Ym8ies",
+   "given_title": "Natural Selection Is Kinda Overhyped - YouTube",
+   "resolved_title": "Natural Selection Is Kinda Overhyped",
+   "resolved_url": "http://www.youtube.com/watch?v=Bbzw5Ym8ies",
+   "time_updated": "2023-10-24T23:28:29Z",
+   "time_added": "2023-10-24T23:28:27Z"
   }
  ]
 }

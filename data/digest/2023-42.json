@@ -22,6 +22,15 @@
    "time_added": "2023-10-22T19:55:56Z"
   },
   {
+   "item_id": "3805619860",
+   "given_url": "https://m.youtube.com/watch?v=XPNBBJHjRk8",
+   "given_title": "Best Way to Lose Fat | The Science of the Fat Burning Zone - YouTube",
+   "resolved_title": "Best Way to Lose Fat | The Science of the Fat Burning Zone",
+   "resolved_url": "http://www.youtube.com/watch?v=XPNBBJHjRk8",
+   "time_updated": "2023-10-21T16:13:22Z",
+   "time_added": "2023-10-21T16:13:21Z"
+  },
+  {
    "item_id": "25722553",
    "given_url": "https://www.meforum.org/441/why-arabs-lose-wars",
    "given_title": "Why Arabs Lose Wars :: Middle East Quarterly",
@@ -47,24 +56,6 @@
    "resolved_url": "https://twitter.com/EPM106/status/1715848738755764242",
    "time_updated": "2023-10-22T19:28:58Z",
    "time_added": "2023-10-22T19:28:56Z"
-  },
-  {
-   "item_id": "3805619860",
-   "given_url": "https://m.youtube.com/watch?v=XPNBBJHjRk8",
-   "given_title": "Best Way to Lose Fat | The Science of the Fat Burning Zone - YouTube",
-   "resolved_title": "Best Way to Lose Fat | The Science of the Fat Burning Zone",
-   "resolved_url": "http://www.youtube.com/watch?v=XPNBBJHjRk8",
-   "time_updated": "2023-10-21T16:13:22Z",
-   "time_added": "2023-10-21T16:13:21Z"
-  },
-  {
-   "item_id": "3952721379",
-   "given_url": "https://twitter.com/AlsikkanTV/status/1715098841941213544",
-   "given_title": "Chris Alsikkan no X: \"can’t believe we’ve reached the culmination of Scorse",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/AlsikkanTV/status/1715098841941213544",
-   "time_updated": "2023-10-20T15:51:43Z",
-   "time_added": "2023-10-20T15:51:43Z"
   }
  ]
 }

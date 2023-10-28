@@ -4,13 +4,22 @@
  "sortKey": "2023-42",
  "items": [
   {
-   "item_id": "3912236800",
-   "given_url": "https://www.nature.com/articles/s41564-023-01426-7",
-   "given_title": "Human microbiome myths and misconceptions | Nature Microbiology",
-   "resolved_title": "Human microbiome myths and misconceptions",
-   "resolved_url": "https://www.nature.com/articles/s41564-023-01426-7",
-   "time_updated": "2023-10-22T19:40:59Z",
-   "time_added": "2023-10-22T19:40:58Z"
+   "item_id": "3805619860",
+   "given_url": "https://m.youtube.com/watch?v=XPNBBJHjRk8",
+   "given_title": "Best Way to Lose Fat | The Science of the Fat Burning Zone - YouTube",
+   "resolved_title": "Best Way to Lose Fat | The Science of the Fat Burning Zone",
+   "resolved_url": "http://www.youtube.com/watch?v=XPNBBJHjRk8",
+   "time_updated": "2023-10-21T16:13:22Z",
+   "time_added": "2023-10-21T16:13:21Z"
+  },
+  {
+   "item_id": "3567546557",
+   "given_url": "https://www.escoladaponte.pt/o-projeto/",
+   "given_title": "O PROJETO",
+   "resolved_title": "O PROJETO",
+   "resolved_url": "http://www.escoladaponte.pt/o-projeto/",
+   "time_updated": "2023-10-22T22:54:31Z",
+   "time_added": "2023-10-22T22:54:30Z"
   },
   {
    "item_id": "5202458",
@@ -22,31 +31,13 @@
    "time_added": "2023-10-22T19:55:56Z"
   },
   {
-   "item_id": "3805619860",
-   "given_url": "https://m.youtube.com/watch?v=XPNBBJHjRk8",
-   "given_title": "Best Way to Lose Fat | The Science of the Fat Burning Zone - YouTube",
-   "resolved_title": "Best Way to Lose Fat | The Science of the Fat Burning Zone",
-   "resolved_url": "http://www.youtube.com/watch?v=XPNBBJHjRk8",
-   "time_updated": "2023-10-21T16:13:22Z",
-   "time_added": "2023-10-21T16:13:21Z"
-  },
-  {
-   "item_id": "25722553",
-   "given_url": "https://www.meforum.org/441/why-arabs-lose-wars",
-   "given_title": "Why Arabs Lose Wars :: Middle East Quarterly",
-   "resolved_title": "Why Arabs Lose Wars",
-   "resolved_url": "https://www.meforum.org/441/why-arabs-lose-wars",
-   "time_updated": "2023-10-21T10:25:58Z",
-   "time_added": "2023-10-21T10:25:58Z"
-  },
-  {
-   "item_id": "3567546557",
-   "given_url": "https://www.escoladaponte.pt/o-projeto/",
-   "given_title": "O PROJETO",
-   "resolved_title": "O PROJETO",
-   "resolved_url": "http://www.escoladaponte.pt/o-projeto/",
-   "time_updated": "2023-10-22T22:54:31Z",
-   "time_added": "2023-10-22T22:54:30Z"
+   "item_id": "3912236800",
+   "given_url": "https://www.nature.com/articles/s41564-023-01426-7",
+   "given_title": "Human microbiome myths and misconceptions | Nature Microbiology",
+   "resolved_title": "Human microbiome myths and misconceptions",
+   "resolved_url": "https://www.nature.com/articles/s41564-023-01426-7",
+   "time_updated": "2023-10-22T19:40:59Z",
+   "time_added": "2023-10-22T19:40:58Z"
   },
   {
    "item_id": "3954040638",

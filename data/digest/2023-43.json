@@ -4,13 +4,58 @@
  "sortKey": "2023-43",
  "items": [
   {
-   "item_id": "2435281326",
-   "given_url": "https://en.m.wikipedia.org/wiki/Muhamed_(horse)",
-   "given_title": "Muhamed (horse) - Wikipedia",
-   "resolved_title": "Muhamed (horse)",
-   "resolved_url": "https://en.wikipedia.org/wiki/Muhamed_(horse)",
-   "time_updated": "2023-10-26T14:40:39Z",
-   "time_added": "2023-10-26T14:40:39Z"
+   "item_id": "558332804",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Hadith",
+   "given_title": "Hadith – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Hadith",
+   "resolved_url": "http://pt.m.wikipedia.org/wiki/Hadith",
+   "time_updated": "2023-10-28T09:00:24Z",
+   "time_added": "2023-10-28T09:00:23Z"
+  },
+  {
+   "item_id": "3954751603",
+   "given_url": "https://www.jonashietala.se/blog/2023/10/24/the_killer_features_of_the_steam_deck/",
+   "given_title": "Jonas Hietala: The killer features of the Steam Deck",
+   "resolved_title": "The killer features of the Steam Deck",
+   "resolved_url": "https://www.jonashietala.se/blog/2023/10/24/the_killer_features_of_the_steam_deck/",
+   "time_updated": "2023-10-24T12:06:45Z",
+   "time_added": "2023-10-24T12:06:44Z"
+  },
+  {
+   "item_id": "987367010",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Nossa_Senhora_de_Lourdes",
+   "given_title": "Nossa Senhora de Lourdes – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Nossa Senhora de Lourdes",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Nossa_Senhora_de_Lourdes",
+   "time_updated": "2023-10-24T16:14:33Z",
+   "time_added": "2023-10-24T16:14:32Z"
+  },
+  {
+   "item_id": "399140777",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Deriva_gen%C3%A9tica",
+   "given_title": "Deriva genética – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Deriva genética",
+   "resolved_url": "http://pt.m.wikipedia.org/wiki/Deriva_gen%C3%A9tica",
+   "time_updated": "2023-10-24T23:29:09Z",
+   "time_added": "2023-10-24T23:29:09Z"
+  },
+  {
+   "item_id": "3954447284",
+   "given_url": "https://defector.com/how-baseball-became-brazilian",
+   "given_title": "How Baseball Became Brazilian | Defector",
+   "resolved_title": "How Baseball Became Brazilian",
+   "resolved_url": "https://defector.com/how-baseball-became-brazilian",
+   "time_updated": "2023-10-25T21:50:36Z",
+   "time_added": "2023-10-25T21:50:35Z"
+  },
+  {
+   "item_id": "2972006058",
+   "given_url": "https://churchlifejournal.nd.edu/articles/a-catholic-history-of-the-conflict-between-religion-and-science/",
+   "given_title": "A Catholic History of the Fake Conflict Between Science and Religion | Chur",
+   "resolved_title": "A Catholic History of the Fake Conflict Between Science and Religion",
+   "resolved_url": "https://churchlifejournal.nd.edu/articles/a-catholic-history-of-the-conflict-between-religion-and-science/",
+   "time_updated": "2023-10-27T11:28:48Z",
+   "time_added": "2023-10-27T11:28:47Z"
   },
   {
    "item_id": "3949268070",
@@ -31,6 +76,15 @@
    "time_added": "2023-10-26T18:48:12Z"
   },
   {
+   "item_id": "1093989388",
+   "given_url": "https://en.m.wikipedia.org/wiki/The_Tales_of_Ise",
+   "given_title": "The Tales of Ise - Wikipedia",
+   "resolved_title": "The Tales of Ise",
+   "resolved_url": "https://en.wikipedia.org/wiki/The_Tales_of_Ise",
+   "time_updated": "2023-10-28T16:52:10Z",
+   "time_added": "2023-10-28T16:52:09Z"
+  },
+  {
    "item_id": "3953954478",
    "given_url": "https://noticias.uol.com.br/colunas/fernanda-magnotta/2023/10/22/duas-interpretacoes-do-porque-os-eua-sao-historicamente-leais-a-israel.htm",
    "given_title": "Duas interpretações de por que os EUA são historicamente leais a Israel",
@@ -40,13 +94,22 @@
    "time_added": "2023-10-23T09:01:22Z"
   },
   {
-   "item_id": "245885035",
-   "given_url": "https://www.sjsu.edu/faculty/watkins/park.htm",
-   "given_title": "The Park Chung Hee Regime in South Korea",
-   "resolved_title": "The Park Chung Hee Regime in South Korea",
-   "resolved_url": "https://www.sjsu.edu/faculty/watkins/park.htm",
-   "time_updated": "2023-10-23T09:39:57Z",
-   "time_added": "2023-10-23T09:39:56Z"
+   "item_id": "3955130177",
+   "given_url": "https://m.youtube.com/watch?v=Bbzw5Ym8ies",
+   "given_title": "Natural Selection Is Kinda Overhyped - YouTube",
+   "resolved_title": "Natural Selection Is Kinda Overhyped",
+   "resolved_url": "http://www.youtube.com/watch?v=Bbzw5Ym8ies",
+   "time_updated": "2023-10-24T23:28:29Z",
+   "time_added": "2023-10-24T23:28:27Z"
+  },
+  {
+   "item_id": "3955484021",
+   "given_url": "https://developingchild.harvard.edu/science/deep-dives/neglect/#:~:text=Science%20shows%20that%20early%20exposure,problems%2C%20and%20relate%20to%20others",
+   "given_title": "Neglect",
+   "resolved_title": "Neglect",
+   "resolved_url": "https://developingchild.harvard.edu/science/deep-dives/neglect/",
+   "time_updated": "2023-10-25T15:51:36Z",
+   "time_added": "2023-10-25T15:51:35Z"
   },
   {
    "item_id": "3954426479",
@@ -58,22 +121,31 @@
    "time_added": "2023-10-23T15:00:35Z"
   },
   {
-   "item_id": "987367010",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Nossa_Senhora_de_Lourdes",
-   "given_title": "Nossa Senhora de Lourdes – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Nossa Senhora de Lourdes",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Nossa_Senhora_de_Lourdes",
-   "time_updated": "2023-10-24T16:14:33Z",
-   "time_added": "2023-10-24T16:14:32Z"
+   "item_id": "3637997712",
+   "given_url": "https://en.m.wikipedia.org/wiki/Signs_of_the_coming_of_Judgement_Day",
+   "given_title": "Signs of the coming of Judgement Day - Wikipedia",
+   "resolved_title": "Signs of the coming of Judgement Day",
+   "resolved_url": "https://en.wikipedia.org/wiki/Signs_of_the_coming_of_Judgement_Day",
+   "time_updated": "2023-10-24T16:25:49Z",
+   "time_added": "2023-10-24T16:25:49Z"
   },
   {
-   "item_id": "2972006058",
-   "given_url": "https://churchlifejournal.nd.edu/articles/a-catholic-history-of-the-conflict-between-religion-and-science/",
-   "given_title": "A Catholic History of the Fake Conflict Between Science and Religion | Chur",
-   "resolved_title": "A Catholic History of the Fake Conflict Between Science and Religion",
-   "resolved_url": "https://churchlifejournal.nd.edu/articles/a-catholic-history-of-the-conflict-between-religion-and-science/",
-   "time_updated": "2023-10-27T11:28:48Z",
-   "time_added": "2023-10-27T11:28:47Z"
+   "item_id": "1031577578",
+   "given_url": "https://examine.com/supplements/fish-oil/",
+   "given_title": "Fish Oil benefits, dosage, and side effects",
+   "resolved_title": "Our evidence-based analysis on fish oil features 865 unique references to scientific papers.",
+   "resolved_url": "https://examine.com/supplements/fish-oil/",
+   "time_updated": "2023-10-23T13:56:33Z",
+   "time_added": "2023-10-23T13:56:33Z"
+  },
+  {
+   "item_id": "983940047",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Thule",
+   "given_title": "Thule – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Thule",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Thule",
+   "time_updated": "2023-10-25T00:05:44Z",
+   "time_added": "2023-10-25T00:05:44Z"
   },
   {
    "item_id": "3911457888",
@@ -85,6 +157,24 @@
    "time_added": "2023-10-27T14:20:29Z"
   },
   {
+   "item_id": "3953819506",
+   "given_url": "https://phys.org/news/2023-10-drought-brazil-amazon-reveals-ancient.html",
+   "given_title": "Drought in Brazil's Amazon reveals ancient engravings",
+   "resolved_title": "Drought in Brazil's Amazon reveals ancient engravings",
+   "resolved_url": "https://phys.org/news/2023-10-drought-brazil-amazon-reveals-ancient.html",
+   "time_updated": "2023-10-26T10:46:07Z",
+   "time_added": "2023-10-26T10:46:06Z"
+  },
+  {
+   "item_id": "108309273",
+   "given_url": "https://en.wikipedia.org/wiki/The_Adventures_of_Pete_%26_Pete",
+   "given_title": "The Adventures of Pete \u0026 Pete - Wikipedia",
+   "resolved_title": "The Adventures of Pete \u0026 Pete",
+   "resolved_url": "https://en.wikipedia.org/wiki/The_Adventures_of_Pete_%26_Pete",
+   "time_updated": "2023-10-27T10:17:10Z",
+   "time_added": "2023-10-27T10:17:10Z"
+  },
+  {
    "item_id": "3956530458",
    "given_url": "https://twitter.com/PELEJA/status/1717909277443055897",
    "given_title": "PELEJA no X: \"O time do Santos recebeu a visita do Mano Brown no CT para um",
@@ -94,31 +184,22 @@
    "time_added": "2023-10-27T15:44:25Z"
   },
   {
-   "item_id": "319295335",
-   "given_url": "https://en.m.wikipedia.org/wiki/Reindeer",
-   "given_title": "Reindeer - Wikipedia",
-   "resolved_title": "Reindeer",
-   "resolved_url": "https://en.wikipedia.org/wiki/Reindeer",
-   "time_updated": "2023-10-27T20:20:00Z",
-   "time_added": "2023-10-27T20:19:59Z"
+   "item_id": "245885035",
+   "given_url": "https://www.sjsu.edu/faculty/watkins/park.htm",
+   "given_title": "The Park Chung Hee Regime in South Korea",
+   "resolved_title": "The Park Chung Hee Regime in South Korea",
+   "resolved_url": "https://www.sjsu.edu/faculty/watkins/park.htm",
+   "time_updated": "2023-10-23T09:39:57Z",
+   "time_added": "2023-10-23T09:39:56Z"
   },
   {
-   "item_id": "1465843916",
-   "given_url": "https://en.m.wikipedia.org/wiki/Private_revelation",
-   "given_title": "Private revelation - Wikipedia",
-   "resolved_title": "Private revelation",
-   "resolved_url": "https://en.wikipedia.org/wiki/Private_revelation",
-   "time_updated": "2023-10-25T14:32:53Z",
-   "time_added": "2023-10-25T14:32:53Z"
-  },
-  {
-   "item_id": "3954283611",
-   "given_url": "https://www.nytimes.com/2023/10/23/books/review/thurston-moore-sonic-life.html",
-   "given_title": "Book Review: ‘Sonic Life: A Memoir,’ by Thurston Moore - The New York Times",
-   "resolved_title": "Thurston Moore Revisits His Sonic Youth",
-   "resolved_url": "https://www.nytimes.com/2023/10/23/books/review/thurston-moore-sonic-life.html",
-   "time_updated": "2023-10-27T10:16:19Z",
-   "time_added": "2023-10-27T10:16:18Z"
+   "item_id": "3954396787",
+   "given_url": "http://web.archive.org/web/20120120005956/https://leangains.com/2011/05/omega-3-fatty-acids-for-muscle-growth.html",
+   "given_title": "Omega-3 Fatty Acids for Muscle Growth: Promising Potential | Intermittent f",
+   "resolved_title": "Omega-3 Fatty Acids for Muscle Growth: Promising Potential",
+   "resolved_url": "http://web.archive.org/web/20120120005956/http://www.leangains.com/2011/05/omega-3-fatty-acids-for-muscle-growth.html",
+   "time_updated": "2023-10-23T13:53:21Z",
+   "time_added": "2023-10-23T13:53:19Z"
   },
   {
    "item_id": "3954589002",
@@ -130,40 +211,40 @@
    "time_added": "2023-10-23T21:37:59Z"
   },
   {
-   "item_id": "3954751603",
-   "given_url": "https://www.jonashietala.se/blog/2023/10/24/the_killer_features_of_the_steam_deck/",
-   "given_title": "Jonas Hietala: The killer features of the Steam Deck",
-   "resolved_title": "The killer features of the Steam Deck",
-   "resolved_url": "https://www.jonashietala.se/blog/2023/10/24/the_killer_features_of_the_steam_deck/",
-   "time_updated": "2023-10-24T12:06:45Z",
-   "time_added": "2023-10-24T12:06:44Z"
+   "item_id": "3955010056",
+   "given_url": "https://buttondown.email/hillelwayne/archive/i-wish-people-would-do-historical-arguments-better/",
+   "given_title": "I wish people would do historical arguments better • Buttondown",
+   "resolved_title": "I wish people would do historical arguments better",
+   "resolved_url": "https://buttondown.email/hillelwayne/archive/i-wish-people-would-do-historical-arguments-better/",
+   "time_updated": "2023-10-25T09:56:37Z",
+   "time_added": "2023-10-25T09:56:37Z"
   },
   {
-   "item_id": "2313701053",
-   "given_url": "https://en.wikipedia.org/wiki/Differential_equation#Notable_differential_equations",
-   "given_title": "Differential equation - Wikipedia",
-   "resolved_title": "Differential equation",
-   "resolved_url": "https://en.wikipedia.org/wiki/Differential_equation",
-   "time_updated": "2023-10-27T14:32:13Z",
-   "time_added": "2023-10-27T14:32:13Z"
+   "item_id": "1465843916",
+   "given_url": "https://en.m.wikipedia.org/wiki/Private_revelation",
+   "given_title": "Private revelation - Wikipedia",
+   "resolved_title": "Private revelation",
+   "resolved_url": "https://en.wikipedia.org/wiki/Private_revelation",
+   "time_updated": "2023-10-25T14:32:53Z",
+   "time_added": "2023-10-25T14:32:53Z"
   },
   {
-   "item_id": "558332804",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Hadith",
-   "given_title": "Hadith – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Hadith",
-   "resolved_url": "http://pt.m.wikipedia.org/wiki/Hadith",
-   "time_updated": "2023-10-28T09:00:24Z",
-   "time_added": "2023-10-28T09:00:23Z"
+   "item_id": "319295335",
+   "given_url": "https://en.m.wikipedia.org/wiki/Reindeer",
+   "given_title": "Reindeer - Wikipedia",
+   "resolved_title": "Reindeer",
+   "resolved_url": "https://en.wikipedia.org/wiki/Reindeer",
+   "time_updated": "2023-10-27T20:20:00Z",
+   "time_added": "2023-10-27T20:19:59Z"
   },
   {
-   "item_id": "3955484021",
-   "given_url": "https://developingchild.harvard.edu/science/deep-dives/neglect/#:~:text=Science%20shows%20that%20early%20exposure,problems%2C%20and%20relate%20to%20others",
-   "given_title": "Neglect",
-   "resolved_title": "Neglect",
-   "resolved_url": "https://developingchild.harvard.edu/science/deep-dives/neglect/",
-   "time_updated": "2023-10-25T15:51:36Z",
-   "time_added": "2023-10-25T15:51:35Z"
+   "item_id": "220864722",
+   "given_url": "https://en.m.wikipedia.org/wiki/Pombero",
+   "given_title": "Pombero - Wikipedia",
+   "resolved_title": "Pombero",
+   "resolved_url": "http://en.m.wikipedia.org/wiki/Pombero",
+   "time_updated": "2023-10-28T08:53:11Z",
+   "time_added": "2023-10-28T08:53:10Z"
   },
   {
    "item_id": "3956858586",
@@ -184,76 +265,13 @@
    "time_added": "2023-10-24T22:23:26Z"
   },
   {
-   "item_id": "983940047",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Thule",
-   "given_title": "Thule – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Thule",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Thule",
-   "time_updated": "2023-10-25T00:05:44Z",
-   "time_added": "2023-10-25T00:05:44Z"
-  },
-  {
-   "item_id": "3955010056",
-   "given_url": "https://buttondown.email/hillelwayne/archive/i-wish-people-would-do-historical-arguments-better/",
-   "given_title": "I wish people would do historical arguments better • Buttondown",
-   "resolved_title": "I wish people would do historical arguments better",
-   "resolved_url": "https://buttondown.email/hillelwayne/archive/i-wish-people-would-do-historical-arguments-better/",
-   "time_updated": "2023-10-25T09:56:37Z",
-   "time_added": "2023-10-25T09:56:37Z"
-  },
-  {
-   "item_id": "1031577578",
-   "given_url": "https://examine.com/supplements/fish-oil/",
-   "given_title": "Fish Oil benefits, dosage, and side effects",
-   "resolved_title": "Our evidence-based analysis on fish oil features 865 unique references to scientific papers.",
-   "resolved_url": "https://examine.com/supplements/fish-oil/",
-   "time_updated": "2023-10-23T13:56:33Z",
-   "time_added": "2023-10-23T13:56:33Z"
-  },
-  {
-   "item_id": "399140777",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Deriva_gen%C3%A9tica",
-   "given_title": "Deriva genética – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Deriva genética",
-   "resolved_url": "http://pt.m.wikipedia.org/wiki/Deriva_gen%C3%A9tica",
-   "time_updated": "2023-10-24T23:29:09Z",
-   "time_added": "2023-10-24T23:29:09Z"
-  },
-  {
-   "item_id": "220864722",
-   "given_url": "https://en.m.wikipedia.org/wiki/Pombero",
-   "given_title": "Pombero - Wikipedia",
-   "resolved_title": "Pombero",
-   "resolved_url": "http://en.m.wikipedia.org/wiki/Pombero",
-   "time_updated": "2023-10-28T08:53:11Z",
-   "time_added": "2023-10-28T08:53:10Z"
-  },
-  {
-   "item_id": "3956594702",
-   "given_url": "https://twitter.com/zerotoledo/status/1717905799266115848",
-   "given_title": "José Roberto de Toledo no X: \"Censura - 1 Ninguém ouviu, mas gravei ontem m",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/zerotoledo/status/1717905799266115848",
-   "time_updated": "2023-10-27T18:20:05Z",
-   "time_added": "2023-10-27T18:20:03Z"
-  },
-  {
-   "item_id": "3637997712",
-   "given_url": "https://en.m.wikipedia.org/wiki/Signs_of_the_coming_of_Judgement_Day",
-   "given_title": "Signs of the coming of Judgement Day - Wikipedia",
-   "resolved_title": "Signs of the coming of Judgement Day",
-   "resolved_url": "https://en.wikipedia.org/wiki/Signs_of_the_coming_of_Judgement_Day",
-   "time_updated": "2023-10-24T16:25:49Z",
-   "time_added": "2023-10-24T16:25:49Z"
-  },
-  {
-   "item_id": "3955130177",
-   "given_url": "https://m.youtube.com/watch?v=Bbzw5Ym8ies",
-   "given_title": "Natural Selection Is Kinda Overhyped - YouTube",
-   "resolved_title": "Natural Selection Is Kinda Overhyped",
-   "resolved_url": "http://www.youtube.com/watch?v=Bbzw5Ym8ies",
-   "time_updated": "2023-10-24T23:28:29Z",
-   "time_added": "2023-10-24T23:28:27Z"
+   "item_id": "2435281326",
+   "given_url": "https://en.m.wikipedia.org/wiki/Muhamed_(horse)",
+   "given_title": "Muhamed (horse) - Wikipedia",
+   "resolved_title": "Muhamed (horse)",
+   "resolved_url": "https://en.wikipedia.org/wiki/Muhamed_(horse)",
+   "time_updated": "2023-10-26T14:40:39Z",
+   "time_added": "2023-10-26T14:40:39Z"
   },
   {
    "item_id": "3956043677",
@@ -265,40 +283,31 @@
    "time_added": "2023-10-26T17:14:57Z"
   },
   {
-   "item_id": "3954447284",
-   "given_url": "https://defector.com/how-baseball-became-brazilian",
-   "given_title": "How Baseball Became Brazilian | Defector",
-   "resolved_title": "How Baseball Became Brazilian",
-   "resolved_url": "https://defector.com/how-baseball-became-brazilian",
-   "time_updated": "2023-10-25T21:50:36Z",
-   "time_added": "2023-10-25T21:50:35Z"
+   "item_id": "2313701053",
+   "given_url": "https://en.wikipedia.org/wiki/Differential_equation#Notable_differential_equations",
+   "given_title": "Differential equation - Wikipedia",
+   "resolved_title": "Differential equation",
+   "resolved_url": "https://en.wikipedia.org/wiki/Differential_equation",
+   "time_updated": "2023-10-27T14:32:13Z",
+   "time_added": "2023-10-27T14:32:13Z"
   },
   {
-   "item_id": "3953819506",
-   "given_url": "https://phys.org/news/2023-10-drought-brazil-amazon-reveals-ancient.html",
-   "given_title": "Drought in Brazil's Amazon reveals ancient engravings",
-   "resolved_title": "Drought in Brazil's Amazon reveals ancient engravings",
-   "resolved_url": "https://phys.org/news/2023-10-drought-brazil-amazon-reveals-ancient.html",
-   "time_updated": "2023-10-26T10:46:07Z",
-   "time_added": "2023-10-26T10:46:06Z"
+   "item_id": "3956594702",
+   "given_url": "https://twitter.com/zerotoledo/status/1717905799266115848",
+   "given_title": "José Roberto de Toledo no X: \"Censura - 1 Ninguém ouviu, mas gravei ontem m",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/zerotoledo/status/1717905799266115848",
+   "time_updated": "2023-10-27T18:20:05Z",
+   "time_added": "2023-10-27T18:20:03Z"
   },
   {
-   "item_id": "3954396787",
-   "given_url": "http://web.archive.org/web/20120120005956/https://leangains.com/2011/05/omega-3-fatty-acids-for-muscle-growth.html",
-   "given_title": "Omega-3 Fatty Acids for Muscle Growth: Promising Potential | Intermittent f",
-   "resolved_title": "Omega-3 Fatty Acids for Muscle Growth: Promising Potential",
-   "resolved_url": "http://web.archive.org/web/20120120005956/http://www.leangains.com/2011/05/omega-3-fatty-acids-for-muscle-growth.html",
-   "time_updated": "2023-10-23T13:53:21Z",
-   "time_added": "2023-10-23T13:53:19Z"
-  },
-  {
-   "item_id": "108309273",
-   "given_url": "https://en.wikipedia.org/wiki/The_Adventures_of_Pete_%26_Pete",
-   "given_title": "The Adventures of Pete \u0026 Pete - Wikipedia",
-   "resolved_title": "The Adventures of Pete \u0026 Pete",
-   "resolved_url": "https://en.wikipedia.org/wiki/The_Adventures_of_Pete_%26_Pete",
-   "time_updated": "2023-10-27T10:17:10Z",
-   "time_added": "2023-10-27T10:17:10Z"
+   "item_id": "3954283611",
+   "given_url": "https://www.nytimes.com/2023/10/23/books/review/thurston-moore-sonic-life.html",
+   "given_title": "Book Review: ‘Sonic Life: A Memoir,’ by Thurston Moore - The New York Times",
+   "resolved_title": "Thurston Moore Revisits His Sonic Youth",
+   "resolved_url": "https://www.nytimes.com/2023/10/23/books/review/thurston-moore-sonic-life.html",
+   "time_updated": "2023-10-27T10:16:19Z",
+   "time_added": "2023-10-27T10:16:18Z"
   }
  ]
 }

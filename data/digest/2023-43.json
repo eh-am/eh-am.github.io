@@ -4,24 +4,6 @@
  "sortKey": "2023-43",
  "items": [
   {
-   "item_id": "1378682945",
-   "given_url": "https://m.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
-   "given_title": "Essence of linear algebra - YouTube",
-   "resolved_title": "Essence of linear algebra",
-   "resolved_url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
-   "time_updated": "2023-10-29T22:51:47Z",
-   "time_added": "2023-10-29T22:51:46Z"
-  },
-  {
-   "item_id": "150453216",
-   "given_url": "https://en.m.wikipedia.org/wiki/Alea_iacta_est",
-   "given_title": "Alea iacta est - Wikipedia",
-   "resolved_title": "Alea iacta est",
-   "resolved_url": "https://en.wikipedia.org/wiki/Alea_iacta_est",
-   "time_updated": "2023-10-29T22:39:08Z",
-   "time_added": "2023-10-29T22:39:07Z"
-  },
-  {
    "item_id": "837744680",
    "given_url": "https://pt.m.wikipedia.org/wiki/Veni,_vidi,_vici",
    "given_title": "Veni, vidi, vici – Wikipédia, a enciclopédia livre",
@@ -29,33 +11,6 @@
    "resolved_url": "https://pt.wikipedia.org/wiki/Veni,_vidi,_vici",
    "time_updated": "2023-10-29T22:39:34Z",
    "time_added": "2023-10-29T22:39:33Z"
-  },
-  {
-   "item_id": "360666439",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Florence_Nightingale",
-   "given_title": "Florence Nightingale – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Florence Nightingale",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Florence_Nightingale",
-   "time_updated": "2023-10-29T13:48:05Z",
-   "time_added": "2023-10-29T13:48:04Z"
-  },
-  {
-   "item_id": "246145294",
-   "given_url": "https://en.m.wikipedia.org/wiki/Kendama",
-   "given_title": "Kendama - Wikipedia",
-   "resolved_title": "Kendama",
-   "resolved_url": "https://en.wikipedia.org/wiki/Kendama",
-   "time_updated": "2023-10-29T22:40:36Z",
-   "time_added": "2023-10-29T22:40:36Z"
-  },
-  {
-   "item_id": "3957418791",
-   "given_url": "https://twitter.com/MEASURED_HEAD/status/1718349979301941422",
-   "given_title": "??? no X: \"\"Being tied to a leash is more unbearable for a lion than it wou",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/MEASURED_HEAD/status/1718349979301941422",
-   "time_updated": "2023-10-29T16:10:38Z",
-   "time_added": "2023-10-29T16:10:36Z"
   },
   {
    "item_id": "3957531046",
@@ -67,13 +22,22 @@
    "time_added": "2023-10-29T21:50:53Z"
   },
   {
-   "item_id": "1575521219",
-   "given_url": "https://en.m.wikipedia.org/wiki/Beigoma",
-   "given_title": "Beigoma - Wikipedia",
-   "resolved_title": "Beigoma",
-   "resolved_url": "https://en.wikipedia.org/wiki/Beigoma",
-   "time_updated": "2023-10-29T22:40:17Z",
-   "time_added": "2023-10-29T22:40:17Z"
+   "item_id": "1378682945",
+   "given_url": "https://m.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
+   "given_title": "Essence of linear algebra - YouTube",
+   "resolved_title": "Essence of linear algebra",
+   "resolved_url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
+   "time_updated": "2023-10-29T22:51:47Z",
+   "time_added": "2023-10-29T22:51:46Z"
+  },
+  {
+   "item_id": "360666439",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Florence_Nightingale",
+   "given_title": "Florence Nightingale – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Florence Nightingale",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Florence_Nightingale",
+   "time_updated": "2023-10-29T13:48:05Z",
+   "time_added": "2023-10-29T13:48:04Z"
   },
   {
    "item_id": "2522992252",
@@ -92,6 +56,42 @@
    "resolved_url": "https://pt.wikipedia.org/wiki/Alea_jacta_est",
    "time_updated": "2023-10-29T20:11:17Z",
    "time_added": "2023-10-29T20:11:17Z"
+  },
+  {
+   "item_id": "3957418791",
+   "given_url": "https://twitter.com/MEASURED_HEAD/status/1718349979301941422",
+   "given_title": "??? no X: \"\"Being tied to a leash is more unbearable for a lion than it wou",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/MEASURED_HEAD/status/1718349979301941422",
+   "time_updated": "2023-10-29T16:10:38Z",
+   "time_added": "2023-10-29T16:10:36Z"
+  },
+  {
+   "item_id": "150453216",
+   "given_url": "https://en.m.wikipedia.org/wiki/Alea_iacta_est",
+   "given_title": "Alea iacta est - Wikipedia",
+   "resolved_title": "Alea iacta est",
+   "resolved_url": "https://en.wikipedia.org/wiki/Alea_iacta_est",
+   "time_updated": "2023-10-29T22:39:08Z",
+   "time_added": "2023-10-29T22:39:07Z"
+  },
+  {
+   "item_id": "1575521219",
+   "given_url": "https://en.m.wikipedia.org/wiki/Beigoma",
+   "given_title": "Beigoma - Wikipedia",
+   "resolved_title": "Beigoma",
+   "resolved_url": "https://en.wikipedia.org/wiki/Beigoma",
+   "time_updated": "2023-10-29T22:40:17Z",
+   "time_added": "2023-10-29T22:40:17Z"
+  },
+  {
+   "item_id": "246145294",
+   "given_url": "https://en.m.wikipedia.org/wiki/Kendama",
+   "given_title": "Kendama - Wikipedia",
+   "resolved_title": "Kendama",
+   "resolved_url": "https://en.wikipedia.org/wiki/Kendama",
+   "time_updated": "2023-10-29T22:40:36Z",
+   "time_added": "2023-10-29T22:40:36Z"
   }
  ]
 }

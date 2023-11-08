@@ -4,6 +4,24 @@
  "sortKey": "2023-45",
  "items": [
   {
+   "item_id": "3961810481",
+   "given_url": "https://youtube.com/watch?v=JjpHphaeM-8\u0026si=MDvvl934D64jD98U",
+   "given_title": "As novas descobertas sobre os misteriosos sambaquis, construídos há 8 mi...",
+   "resolved_title": "As novas descobertas sobre os misteriosos sambaquis, construídos há 8 mil anos no litoral do Brasil",
+   "resolved_url": "https://youtube.com/watch?v=JjpHphaeM-8\u0026si=MDvvl934D64jD98U",
+   "time_updated": "2023-11-07T12:08:12Z",
+   "time_added": "2023-11-07T12:08:11Z"
+  },
+  {
+   "item_id": "3961422151",
+   "given_url": "https://www.rpgsite.net/review/15071-like-a-dragon-gaiden-the-man-who-erased-his-name-review",
+   "given_title": "Like A Dragon Gaiden: The Man Who Erased His Name Review | RPG Site",
+   "resolved_title": "Like A Dragon Gaiden: The Man Who Erased His Name Review",
+   "resolved_url": "https://www.rpgsite.net/review/15071-like-a-dragon-gaiden-the-man-who-erased-his-name-review",
+   "time_updated": "2023-11-06T17:14:26Z",
+   "time_added": "2023-11-06T17:14:25Z"
+  },
+  {
    "item_id": "2137986432",
    "given_url": "https://prruk.org/noam-chomsky-the-five-filters-of-the-mass-media-machine/",
    "given_title": "Noam Chomsky: The five filters of the mass media",
@@ -20,24 +38,6 @@
    "resolved_url": "https://twitter.com/solidangles/status/1721339352314175906",
    "time_updated": "2023-11-06T20:50:52Z",
    "time_added": "2023-11-06T20:50:51Z"
-  },
-  {
-   "item_id": "3961422151",
-   "given_url": "https://www.rpgsite.net/review/15071-like-a-dragon-gaiden-the-man-who-erased-his-name-review",
-   "given_title": "Like A Dragon Gaiden: The Man Who Erased His Name Review | RPG Site",
-   "resolved_title": "Like A Dragon Gaiden: The Man Who Erased His Name Review",
-   "resolved_url": "https://www.rpgsite.net/review/15071-like-a-dragon-gaiden-the-man-who-erased-his-name-review",
-   "time_updated": "2023-11-06T17:14:26Z",
-   "time_added": "2023-11-06T17:14:25Z"
-  },
-  {
-   "item_id": "3961810481",
-   "given_url": "https://youtube.com/watch?v=JjpHphaeM-8\u0026si=MDvvl934D64jD98U",
-   "given_title": "As novas descobertas sobre os misteriosos sambaquis, construídos há 8 mi...",
-   "resolved_title": "As novas descobertas sobre os misteriosos sambaquis, construídos há 8 mil anos no litoral do Brasil",
-   "resolved_url": "https://youtube.com/watch?v=JjpHphaeM-8\u0026si=MDvvl934D64jD98U",
-   "time_updated": "2023-11-07T12:08:12Z",
-   "time_added": "2023-11-07T12:08:11Z"
   }
  ]
 }

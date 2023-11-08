@@ -4,13 +4,22 @@
  "sortKey": "2023-45",
  "items": [
   {
-   "item_id": "3961810481",
-   "given_url": "https://youtube.com/watch?v=JjpHphaeM-8\u0026si=MDvvl934D64jD98U",
-   "given_title": "As novas descobertas sobre os misteriosos sambaquis, construídos há 8 mi...",
-   "resolved_title": "As novas descobertas sobre os misteriosos sambaquis, construídos há 8 mil anos no litoral do Brasil",
-   "resolved_url": "https://youtube.com/watch?v=JjpHphaeM-8\u0026si=MDvvl934D64jD98U",
-   "time_updated": "2023-11-07T12:08:12Z",
-   "time_added": "2023-11-07T12:08:11Z"
+   "item_id": "3323987118",
+   "given_url": "https://hackaday.io/project/179539-hardware-boot-selection-switch",
+   "given_title": "Hardware boot selection switch | Hackaday.io",
+   "resolved_title": "Hardware boot selection switch",
+   "resolved_url": "https://hackaday.io/project/179539-hardware-boot-selection-switch",
+   "time_updated": "2023-11-08T11:38:24Z",
+   "time_added": "2023-11-08T11:38:24Z"
+  },
+  {
+   "item_id": "2137986432",
+   "given_url": "https://prruk.org/noam-chomsky-the-five-filters-of-the-mass-media-machine/",
+   "given_title": "Noam Chomsky: The five filters of the mass media",
+   "resolved_title": "Noam Chomsky: The five filters of the mass media",
+   "resolved_url": "https://prruk.org/noam-chomsky-the-five-filters-of-the-mass-media-machine/",
+   "time_updated": "2023-11-06T14:38:35Z",
+   "time_added": "2023-11-06T14:38:35Z"
   },
   {
    "item_id": "3961422151",
@@ -22,13 +31,13 @@
    "time_added": "2023-11-06T17:14:25Z"
   },
   {
-   "item_id": "2137986432",
-   "given_url": "https://prruk.org/noam-chomsky-the-five-filters-of-the-mass-media-machine/",
-   "given_title": "Noam Chomsky: The five filters of the mass media",
-   "resolved_title": "Noam Chomsky: The five filters of the mass media",
-   "resolved_url": "https://prruk.org/noam-chomsky-the-five-filters-of-the-mass-media-machine/",
-   "time_updated": "2023-11-06T14:38:35Z",
-   "time_added": "2023-11-06T14:38:35Z"
+   "item_id": "3961810481",
+   "given_url": "https://youtube.com/watch?v=JjpHphaeM-8\u0026si=MDvvl934D64jD98U",
+   "given_title": "As novas descobertas sobre os misteriosos sambaquis, construídos há 8 mi...",
+   "resolved_title": "As novas descobertas sobre os misteriosos sambaquis, construídos há 8 mil anos no litoral do Brasil",
+   "resolved_url": "https://youtube.com/watch?v=JjpHphaeM-8\u0026si=MDvvl934D64jD98U",
+   "time_updated": "2023-11-07T12:08:12Z",
+   "time_added": "2023-11-07T12:08:11Z"
   },
   {
    "item_id": "3961384588",

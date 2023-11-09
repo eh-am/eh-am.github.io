@@ -4,13 +4,31 @@
  "sortKey": "2023-45",
  "items": [
   {
-   "item_id": "3323987118",
-   "given_url": "https://hackaday.io/project/179539-hardware-boot-selection-switch",
-   "given_title": "Hardware boot selection switch | Hackaday.io",
-   "resolved_title": "Hardware boot selection switch",
-   "resolved_url": "https://hackaday.io/project/179539-hardware-boot-selection-switch",
-   "time_updated": "2023-11-08T11:38:24Z",
-   "time_added": "2023-11-08T11:38:24Z"
+   "item_id": "3961422151",
+   "given_url": "https://www.rpgsite.net/review/15071-like-a-dragon-gaiden-the-man-who-erased-his-name-review",
+   "given_title": "Like A Dragon Gaiden: The Man Who Erased His Name Review | RPG Site",
+   "resolved_title": "Like A Dragon Gaiden: The Man Who Erased His Name Review",
+   "resolved_url": "https://www.rpgsite.net/review/15071-like-a-dragon-gaiden-the-man-who-erased-his-name-review",
+   "time_updated": "2023-11-06T17:14:26Z",
+   "time_added": "2023-11-06T17:14:25Z"
+  },
+  {
+   "item_id": "3962602976",
+   "given_url": "https://www.slobodenpecat.mk/en/go-prashale-ajnshtajn-kako-e-da-se-bide-najpameten-chovek-na-svetot-a-toj-odgovoril-ne-znam-prashajte-go-nikola-tesla/",
+   "given_title": "Einstein was asked what it is like to be the smartest man in the world, and",
+   "resolved_title": "Einstein was asked what it was like to be the smartest man in the world, and he replied: I do not know, ask Nikola Tesla",
+   "resolved_url": "https://www.slobodenpecat.mk/en/go-prashale-ajnshtajn-kako-e-da-se-bide-najpameten-chovek-na-svetot-a-toj-odgovoril-ne-znam-prashajte-go-nikola-tesla/",
+   "time_updated": "2023-11-09T00:01:23Z",
+   "time_added": "2023-11-09T00:01:21Z"
+  },
+  {
+   "item_id": "3962231139",
+   "given_url": "https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/",
+   "given_title": "10 hard-to-swallow truths they won't tell you about software engineer job",
+   "resolved_title": "10 hard-to-swallow truths they won't tell you about software engineer job",
+   "resolved_url": "https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/",
+   "time_updated": "2023-11-08T18:01:12Z",
+   "time_added": "2023-11-08T18:01:10Z"
   },
   {
    "item_id": "2137986432",
@@ -22,13 +40,13 @@
    "time_added": "2023-11-06T14:38:35Z"
   },
   {
-   "item_id": "3961422151",
-   "given_url": "https://www.rpgsite.net/review/15071-like-a-dragon-gaiden-the-man-who-erased-his-name-review",
-   "given_title": "Like A Dragon Gaiden: The Man Who Erased His Name Review | RPG Site",
-   "resolved_title": "Like A Dragon Gaiden: The Man Who Erased His Name Review",
-   "resolved_url": "https://www.rpgsite.net/review/15071-like-a-dragon-gaiden-the-man-who-erased-his-name-review",
-   "time_updated": "2023-11-06T17:14:26Z",
-   "time_added": "2023-11-06T17:14:25Z"
+   "item_id": "3961384588",
+   "given_url": "https://twitter.com/solidangles/status/1721339352314175906",
+   "given_title": "Bill Shillito - now at @solidangles.bsky.social no X: \"I THINK I GOT IT! I'",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/solidangles/status/1721339352314175906",
+   "time_updated": "2023-11-06T20:50:52Z",
+   "time_added": "2023-11-06T20:50:51Z"
   },
   {
    "item_id": "3961810481",
@@ -40,13 +58,22 @@
    "time_added": "2023-11-07T12:08:11Z"
   },
   {
-   "item_id": "3961384588",
-   "given_url": "https://twitter.com/solidangles/status/1721339352314175906",
-   "given_title": "Bill Shillito - now at @solidangles.bsky.social no X: \"I THINK I GOT IT! I'",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/solidangles/status/1721339352314175906",
-   "time_updated": "2023-11-06T20:50:52Z",
-   "time_added": "2023-11-06T20:50:51Z"
+   "item_id": "3323987118",
+   "given_url": "https://hackaday.io/project/179539-hardware-boot-selection-switch",
+   "given_title": "Hardware boot selection switch | Hackaday.io",
+   "resolved_title": "Hardware boot selection switch",
+   "resolved_url": "https://hackaday.io/project/179539-hardware-boot-selection-switch",
+   "time_updated": "2023-11-08T11:38:24Z",
+   "time_added": "2023-11-08T11:38:24Z"
+  },
+  {
+   "item_id": "2838399352",
+   "given_url": "https://skeptics.stackexchange.com/questions/40815/did-einstein-reply-ask-tesla-when-asked-how-it-felt-to-be-the-smartest-man-ali",
+   "given_title": "quotes - Did Einstein reply \"Ask Tesla\" when asked how it felt to be the sm",
+   "resolved_title": "Did Einstein reply \"Ask Tesla\" when asked how it felt to be the smartest man alive?",
+   "resolved_url": "https://skeptics.stackexchange.com/questions/40815/did-einstein-reply-ask-tesla-when-asked-how-it-felt-to-be-the-smartest-man-ali",
+   "time_updated": "2023-11-09T00:04:30Z",
+   "time_added": "2023-11-09T00:04:29Z"
   }
  ]
 }

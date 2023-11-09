@@ -4,15 +4,6 @@
  "sortKey": "2023-44",
  "items": [
   {
-   "item_id": "3959410959",
-   "given_url": "https://en.wikipedia.org/wiki/International_Superstar_Soccer_Deluxe#scenario",
-   "given_title": "International Superstar Soccer Deluxe - Wikipedia",
-   "resolved_title": "International Superstar Soccer Deluxe",
-   "resolved_url": "https://en.wikipedia.org/wiki/International_Superstar_Soccer_Deluxe",
-   "time_updated": "2023-11-02T14:31:47Z",
-   "time_added": "2023-11-02T14:31:46Z"
-  },
-  {
    "item_id": "505636",
    "given_url": "https://quackwatch.org/",
    "given_title": "Home Page | Quackwatch",
@@ -20,60 +11,6 @@
    "resolved_url": "https://quackwatch.org/",
    "time_updated": "2023-11-02T17:25:44Z",
    "time_added": "2023-11-02T17:25:43Z"
-  },
-  {
-   "item_id": "3960317155",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Marinho_Peres",
-   "given_title": "Marinho Peres – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Marinho Peres",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Marinho_Peres",
-   "time_updated": "2023-11-04T10:08:07Z",
-   "time_added": "2023-11-04T10:08:06Z"
-  },
-  {
-   "item_id": "3960899099",
-   "given_url": "https://m.youtube.com/watch?si=pBRAoePA1jQe0Qml\u0026v=WB_KN-hf5co\u0026feature=youtu.be",
-   "given_title": "Bin Laden explica os motivos - YouTube",
-   "resolved_title": "Bin Laden explica os motivos",
-   "resolved_url": "https://www.youtube.com/watch?v=WB_KN-hf5co",
-   "time_updated": "2023-11-05T16:08:45Z",
-   "time_added": "2023-11-05T16:08:43Z"
-  },
-  {
-   "item_id": "3959081337",
-   "given_url": "https://sovietmen.wordpress.com/2023/11/01/the-gaijin-seat/",
-   "given_title": "The gaijin seat | SovietMen",
-   "resolved_title": "The gaijin seat",
-   "resolved_url": "https://sovietmen.wordpress.com/2023/11/01/the-gaijin-seat/",
-   "time_updated": "2023-11-02T10:00:06Z",
-   "time_added": "2023-11-02T10:00:05Z"
-  },
-  {
-   "item_id": "3959631254",
-   "given_url": "https://m.youtube.com/watch?v=tAEJb-p6SOE",
-   "given_title": "Porrajmos: The Romani and the Holocaust with Ian Hancock - Holocaust Living",
-   "resolved_title": "Porrajmos: The Romani and the Holocaust with Ian Hancock -  Holocaust Living History",
-   "resolved_url": "http://www.youtube.com/watch?v=tAEJb-p6SOE",
-   "time_updated": "2023-11-03T00:07:43Z",
-   "time_added": "2023-11-03T00:07:41Z"
-  },
-  {
-   "item_id": "3959986099",
-   "given_url": "https://www.youtube.com/shorts/NBNBTucw8rg",
-   "given_title": "(27) Rapaz, isso aí né eu não... Nossa, é eu mesmo, nem lembrava... Esse di",
-   "resolved_title": "Rapaz, isso aí né eu não... Nossa, é eu mesmo, nem lembrava... Esse dia fiquei louco heim... #Shorts",
-   "resolved_url": "https://www.youtube.com/shorts/NBNBTucw8rg",
-   "time_updated": "2023-11-03T16:58:25Z",
-   "time_added": "2023-11-03T16:58:25Z"
-  },
-  {
-   "item_id": "3671493672",
-   "given_url": "https://docs.google.com/spreadsheets/d/1fRqvAh_wW8Ho_8i966CCSBgPJ2R_SuDFIvvKsQCv05w/edit#gid=1150032654",
-   "given_title": "Emudeck Emulation Compatibility Database - Google Sheets",
-   "resolved_title": "Steam Deck Emulation Database",
-   "resolved_url": "https://docs.google.com/spreadsheets/d/1fRqvAh_wW8Ho_8i966CCSBgPJ2R_SuDFIvvKsQCv05w/edit?usp=embed_facebook\u0026usp=embed_facebook\u0026usp=embed_facebook\u0026usp=embed_facebook",
-   "time_updated": "2023-11-05T14:30:50Z",
-   "time_added": "2023-11-05T14:30:50Z"
   },
   {
    "item_id": "3959628909",
@@ -85,13 +22,22 @@
    "time_added": "2023-11-03T00:00:22Z"
   },
   {
-   "item_id": "3959945547",
-   "given_url": "https://piaui.folha.uol.com.br/despedida-do-foro-de-teresina/",
-   "given_title": "A despedida do Foro de Teresina",
-   "resolved_title": "A despedida do Foro de Teresina",
-   "resolved_url": "https://piaui.folha.uol.com.br/despedida-do-foro-de-teresina/",
-   "time_updated": "2023-11-03T15:20:37Z",
-   "time_added": "2023-11-03T15:20:35Z"
+   "item_id": "3671493672",
+   "given_url": "https://docs.google.com/spreadsheets/d/1fRqvAh_wW8Ho_8i966CCSBgPJ2R_SuDFIvvKsQCv05w/edit#gid=1150032654",
+   "given_title": "Emudeck Emulation Compatibility Database - Google Sheets",
+   "resolved_title": "Steam Deck Emulation Database",
+   "resolved_url": "https://docs.google.com/spreadsheets/d/1fRqvAh_wW8Ho_8i966CCSBgPJ2R_SuDFIvvKsQCv05w/edit?usp=embed_facebook\u0026usp=embed_facebook\u0026usp=embed_facebook\u0026usp=embed_facebook",
+   "time_updated": "2023-11-05T14:30:50Z",
+   "time_added": "2023-11-05T14:30:50Z"
+  },
+  {
+   "item_id": "3960899099",
+   "given_url": "https://m.youtube.com/watch?si=pBRAoePA1jQe0Qml\u0026v=WB_KN-hf5co\u0026feature=youtu.be",
+   "given_title": "Bin Laden explica os motivos - YouTube",
+   "resolved_title": "Bin Laden explica os motivos",
+   "resolved_url": "https://www.youtube.com/watch?v=WB_KN-hf5co",
+   "time_updated": "2023-11-05T16:08:45Z",
+   "time_added": "2023-11-05T16:08:43Z"
   },
   {
    "item_id": "3960053151",
@@ -101,6 +47,51 @@
    "resolved_url": "https://tab.uol.com.br/noticias/redacao/2023/11/01/os-castigos-e-maus-tratos-a-brasileiros-nas-escolas-de-portugal.htm",
    "time_updated": "2023-11-03T19:50:47Z",
    "time_added": "2023-11-03T19:50:44Z"
+  },
+  {
+   "item_id": "3959410959",
+   "given_url": "https://en.wikipedia.org/wiki/International_Superstar_Soccer_Deluxe#scenario",
+   "given_title": "International Superstar Soccer Deluxe - Wikipedia",
+   "resolved_title": "International Superstar Soccer Deluxe",
+   "resolved_url": "https://en.wikipedia.org/wiki/International_Superstar_Soccer_Deluxe",
+   "time_updated": "2023-11-02T14:31:47Z",
+   "time_added": "2023-11-02T14:31:46Z"
+  },
+  {
+   "item_id": "3959986099",
+   "given_url": "https://www.youtube.com/shorts/NBNBTucw8rg",
+   "given_title": "(27) Rapaz, isso aí né eu não... Nossa, é eu mesmo, nem lembrava... Esse di",
+   "resolved_title": "Rapaz, isso aí né eu não... Nossa, é eu mesmo, nem lembrava... Esse dia fiquei louco heim... #Shorts",
+   "resolved_url": "https://www.youtube.com/shorts/NBNBTucw8rg",
+   "time_updated": "2023-11-03T16:58:25Z",
+   "time_added": "2023-11-03T16:58:25Z"
+  },
+  {
+   "item_id": "3960317155",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Marinho_Peres",
+   "given_title": "Marinho Peres – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Marinho Peres",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Marinho_Peres",
+   "time_updated": "2023-11-04T10:08:07Z",
+   "time_added": "2023-11-04T10:08:06Z"
+  },
+  {
+   "item_id": "3959631254",
+   "given_url": "https://m.youtube.com/watch?v=tAEJb-p6SOE",
+   "given_title": "Porrajmos: The Romani and the Holocaust with Ian Hancock - Holocaust Living",
+   "resolved_title": "Porrajmos: The Romani and the Holocaust with Ian Hancock -  Holocaust Living History",
+   "resolved_url": "http://www.youtube.com/watch?v=tAEJb-p6SOE",
+   "time_updated": "2023-11-03T00:07:43Z",
+   "time_added": "2023-11-03T00:07:41Z"
+  },
+  {
+   "item_id": "3959945547",
+   "given_url": "https://piaui.folha.uol.com.br/despedida-do-foro-de-teresina/",
+   "given_title": "A despedida do Foro de Teresina",
+   "resolved_title": "A despedida do Foro de Teresina",
+   "resolved_url": "https://piaui.folha.uol.com.br/despedida-do-foro-de-teresina/",
+   "time_updated": "2023-11-03T15:20:37Z",
+   "time_added": "2023-11-03T15:20:35Z"
   }
  ]
 }

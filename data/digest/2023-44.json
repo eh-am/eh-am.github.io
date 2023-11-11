@@ -4,42 +4,6 @@
  "sortKey": "2023-44",
  "items": [
   {
-   "item_id": "3960317155",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Marinho_Peres",
-   "given_title": "Marinho Peres – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Marinho Peres",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Marinho_Peres",
-   "time_updated": "2023-11-04T10:08:07Z",
-   "time_added": "2023-11-04T10:08:06Z"
-  },
-  {
-   "item_id": "3959986099",
-   "given_url": "https://www.youtube.com/shorts/NBNBTucw8rg",
-   "given_title": "(27) Rapaz, isso aí né eu não... Nossa, é eu mesmo, nem lembrava... Esse di",
-   "resolved_title": "Rapaz, isso aí né eu não... Nossa, é eu mesmo, nem lembrava... Esse dia fiquei louco heim... #Shorts",
-   "resolved_url": "https://www.youtube.com/shorts/NBNBTucw8rg",
-   "time_updated": "2023-11-03T16:58:25Z",
-   "time_added": "2023-11-03T16:58:25Z"
-  },
-  {
-   "item_id": "3960053151",
-   "given_url": "https://tab.uol.com.br/noticias/redacao/2023/11/01/os-castigos-e-maus-tratos-a-brasileiros-nas-escolas-de-portugal.htm?utm_source=whatsapp\u0026utm_medium=compartilhar_conteudo\u0026utm_campaign=organica\u0026utm_content=geral",
-   "given_title": "Brasileiros decidem voltar após maus-tratos a filhos em escolas de Portugal",
-   "resolved_title": "Brasileiros decidem voltar após maus-tratos a filhos em escolas de Portugal",
-   "resolved_url": "https://tab.uol.com.br/noticias/redacao/2023/11/01/os-castigos-e-maus-tratos-a-brasileiros-nas-escolas-de-portugal.htm",
-   "time_updated": "2023-11-03T19:50:47Z",
-   "time_added": "2023-11-03T19:50:44Z"
-  },
-  {
-   "item_id": "3959945547",
-   "given_url": "https://piaui.folha.uol.com.br/despedida-do-foro-de-teresina/",
-   "given_title": "A despedida do Foro de Teresina",
-   "resolved_title": "A despedida do Foro de Teresina",
-   "resolved_url": "https://piaui.folha.uol.com.br/despedida-do-foro-de-teresina/",
-   "time_updated": "2023-11-03T15:20:37Z",
-   "time_added": "2023-11-03T15:20:35Z"
-  },
-  {
    "item_id": "3960899099",
    "given_url": "https://m.youtube.com/watch?si=pBRAoePA1jQe0Qml\u0026v=WB_KN-hf5co\u0026feature=youtu.be",
    "given_title": "Bin Laden explica os motivos - YouTube",
@@ -47,6 +11,15 @@
    "resolved_url": "https://www.youtube.com/watch?v=WB_KN-hf5co",
    "time_updated": "2023-11-05T16:08:45Z",
    "time_added": "2023-11-05T16:08:43Z"
+  },
+  {
+   "item_id": "3960317155",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Marinho_Peres",
+   "given_title": "Marinho Peres – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Marinho Peres",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Marinho_Peres",
+   "time_updated": "2023-11-04T10:08:07Z",
+   "time_added": "2023-11-04T10:08:06Z"
   },
   {
    "item_id": "3671493672",

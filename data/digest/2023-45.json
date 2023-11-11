@@ -4,13 +4,22 @@
  "sortKey": "2023-45",
  "items": [
   {
-   "item_id": "2137986432",
-   "given_url": "https://prruk.org/noam-chomsky-the-five-filters-of-the-mass-media-machine/",
-   "given_title": "Noam Chomsky: The five filters of the mass media",
-   "resolved_title": "Noam Chomsky: The five filters of the mass media",
-   "resolved_url": "https://prruk.org/noam-chomsky-the-five-filters-of-the-mass-media-machine/",
-   "time_updated": "2023-11-06T14:38:35Z",
-   "time_added": "2023-11-06T14:38:35Z"
+   "item_id": "2838399352",
+   "given_url": "https://skeptics.stackexchange.com/questions/40815/did-einstein-reply-ask-tesla-when-asked-how-it-felt-to-be-the-smartest-man-ali",
+   "given_title": "quotes - Did Einstein reply \"Ask Tesla\" when asked how it felt to be the sm",
+   "resolved_title": "Did Einstein reply \"Ask Tesla\" when asked how it felt to be the smartest man alive?",
+   "resolved_url": "https://skeptics.stackexchange.com/questions/40815/did-einstein-reply-ask-tesla-when-asked-how-it-felt-to-be-the-smartest-man-ali",
+   "time_updated": "2023-11-09T00:04:30Z",
+   "time_added": "2023-11-09T00:04:29Z"
+  },
+  {
+   "item_id": "3962554011",
+   "given_url": "https://aaronstuyvenberg.com/posts/why-you-should-not-use-lambda-layers",
+   "given_title": "You shouldn’t use Lambda layers | AJ Stuyvenberg",
+   "resolved_title": "You shouldn't use Lambda layers",
+   "resolved_url": "https://aaronstuyvenberg.com/posts/why-you-should-not-use-lambda-layers",
+   "time_updated": "2023-11-09T12:52:37Z",
+   "time_added": "2023-11-09T12:52:36Z"
   },
   {
    "item_id": "63004753",
@@ -22,13 +31,22 @@
    "time_added": "2023-11-10T11:17:51Z"
   },
   {
-   "item_id": "3963507522",
-   "given_url": "https://www.youtube.com/watch?v=pbRRfgbQ040",
-   "given_title": "(27) Pato Fu - Made in Japan - YouTube",
-   "resolved_title": "Pato Fu - Made in Japan",
-   "resolved_url": "https://www.youtube.com/watch?v=pbRRfgbQ040",
-   "time_updated": "2023-11-10T18:10:44Z",
-   "time_added": "2023-11-10T18:10:43Z"
+   "item_id": "3918921208",
+   "given_url": "https://kipp.ly/past-webdev/",
+   "given_title": "Ideas for Programmers Looking Beyond Web Development | kipply's blog",
+   "resolved_title": "kipply's blog",
+   "resolved_url": "https://kipp.ly/past-webdev/",
+   "time_updated": "2023-11-10T15:51:30Z",
+   "time_added": "2023-11-10T15:51:10Z"
+  },
+  {
+   "item_id": "3961422151",
+   "given_url": "https://www.rpgsite.net/review/15071-like-a-dragon-gaiden-the-man-who-erased-his-name-review",
+   "given_title": "Like A Dragon Gaiden: The Man Who Erased His Name Review | RPG Site",
+   "resolved_title": "Like A Dragon Gaiden: The Man Who Erased His Name Review",
+   "resolved_url": "https://www.rpgsite.net/review/15071-like-a-dragon-gaiden-the-man-who-erased-his-name-review",
+   "time_updated": "2023-11-06T17:14:26Z",
+   "time_added": "2023-11-06T17:14:25Z"
   },
   {
    "item_id": "3962231139",
@@ -38,6 +56,42 @@
    "resolved_url": "https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/",
    "time_updated": "2023-11-08T18:01:12Z",
    "time_added": "2023-11-08T18:01:10Z"
+  },
+  {
+   "item_id": "3963002169",
+   "given_url": "https://m.youtube.com/watch?v=qAiZm4zNqdI\u0026t=1s",
+   "given_title": "Versusville (A Lost Media Search) - KvS Retrospective, VI - YouTube",
+   "resolved_title": "Versusville (A Lost Media Search) - KvS Retrospective, VI",
+   "resolved_url": "http://www.youtube.com/watch?v=qAiZm4zNqdI",
+   "time_updated": "2023-11-09T18:37:10Z",
+   "time_added": "2023-11-09T18:37:08Z"
+  },
+  {
+   "item_id": "3963810190",
+   "given_url": "https://miltonparron.band.uol.com.br/simonal-o-insuperavel-rei-da-pilantragem/amp/",
+   "given_title": "SIMONAL, O INSUPERÁVEL REI DA PILANTRAGEM - Blog do Milton Parron",
+   "resolved_title": "SIMONAL, O INSUPERÁVEL REI DA PILANTRAGEM",
+   "resolved_url": "https://miltonparron.band.uol.com.br/simonal-o-insuperavel-rei-da-pilantragem/",
+   "time_updated": "2023-11-11T11:08:50Z",
+   "time_added": "2023-11-11T11:08:44Z"
+  },
+  {
+   "item_id": "3961384588",
+   "given_url": "https://twitter.com/solidangles/status/1721339352314175906",
+   "given_title": "Bill Shillito - now at @solidangles.bsky.social no X: \"I THINK I GOT IT! I'",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/solidangles/status/1721339352314175906",
+   "time_updated": "2023-11-06T20:50:52Z",
+   "time_added": "2023-11-06T20:50:51Z"
+  },
+  {
+   "item_id": "3323987118",
+   "given_url": "https://hackaday.io/project/179539-hardware-boot-selection-switch",
+   "given_title": "Hardware boot selection switch | Hackaday.io",
+   "resolved_title": "Hardware boot selection switch",
+   "resolved_url": "https://hackaday.io/project/179539-hardware-boot-selection-switch",
+   "time_updated": "2023-11-08T11:38:24Z",
+   "time_added": "2023-11-08T11:38:24Z"
   },
   {
    "item_id": "3962602976",
@@ -58,40 +112,22 @@
    "time_added": "2023-11-09T16:52:42Z"
   },
   {
-   "item_id": "3918921208",
-   "given_url": "https://kipp.ly/past-webdev/",
-   "given_title": "Ideas for Programmers Looking Beyond Web Development | kipply's blog",
-   "resolved_title": "kipply's blog",
-   "resolved_url": "https://kipp.ly/past-webdev/",
-   "time_updated": "2023-11-10T15:51:30Z",
-   "time_added": "2023-11-10T15:51:10Z"
+   "item_id": "3963507522",
+   "given_url": "https://www.youtube.com/watch?v=pbRRfgbQ040",
+   "given_title": "(27) Pato Fu - Made in Japan - YouTube",
+   "resolved_title": "Pato Fu - Made in Japan",
+   "resolved_url": "https://www.youtube.com/watch?v=pbRRfgbQ040",
+   "time_updated": "2023-11-10T18:10:44Z",
+   "time_added": "2023-11-10T18:10:43Z"
   },
   {
-   "item_id": "3963002169",
-   "given_url": "https://m.youtube.com/watch?v=qAiZm4zNqdI\u0026t=1s",
-   "given_title": "Versusville (A Lost Media Search) - KvS Retrospective, VI - YouTube",
-   "resolved_title": "Versusville (A Lost Media Search) - KvS Retrospective, VI",
-   "resolved_url": "http://www.youtube.com/watch?v=qAiZm4zNqdI",
-   "time_updated": "2023-11-09T18:37:10Z",
-   "time_added": "2023-11-09T18:37:08Z"
-  },
-  {
-   "item_id": "3961422151",
-   "given_url": "https://www.rpgsite.net/review/15071-like-a-dragon-gaiden-the-man-who-erased-his-name-review",
-   "given_title": "Like A Dragon Gaiden: The Man Who Erased His Name Review | RPG Site",
-   "resolved_title": "Like A Dragon Gaiden: The Man Who Erased His Name Review",
-   "resolved_url": "https://www.rpgsite.net/review/15071-like-a-dragon-gaiden-the-man-who-erased-his-name-review",
-   "time_updated": "2023-11-06T17:14:26Z",
-   "time_added": "2023-11-06T17:14:25Z"
-  },
-  {
-   "item_id": "3961384588",
-   "given_url": "https://twitter.com/solidangles/status/1721339352314175906",
-   "given_title": "Bill Shillito - now at @solidangles.bsky.social no X: \"I THINK I GOT IT! I'",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/solidangles/status/1721339352314175906",
-   "time_updated": "2023-11-06T20:50:52Z",
-   "time_added": "2023-11-06T20:50:51Z"
+   "item_id": "2137986432",
+   "given_url": "https://prruk.org/noam-chomsky-the-five-filters-of-the-mass-media-machine/",
+   "given_title": "Noam Chomsky: The five filters of the mass media",
+   "resolved_title": "Noam Chomsky: The five filters of the mass media",
+   "resolved_url": "https://prruk.org/noam-chomsky-the-five-filters-of-the-mass-media-machine/",
+   "time_updated": "2023-11-06T14:38:35Z",
+   "time_added": "2023-11-06T14:38:35Z"
   },
   {
    "item_id": "3961810481",
@@ -101,33 +137,6 @@
    "resolved_url": "https://youtube.com/watch?v=JjpHphaeM-8\u0026si=MDvvl934D64jD98U",
    "time_updated": "2023-11-07T12:08:12Z",
    "time_added": "2023-11-07T12:08:11Z"
-  },
-  {
-   "item_id": "3962554011",
-   "given_url": "https://aaronstuyvenberg.com/posts/why-you-should-not-use-lambda-layers",
-   "given_title": "You shouldn’t use Lambda layers | AJ Stuyvenberg",
-   "resolved_title": "You shouldn't use Lambda layers",
-   "resolved_url": "https://aaronstuyvenberg.com/posts/why-you-should-not-use-lambda-layers",
-   "time_updated": "2023-11-09T12:52:37Z",
-   "time_added": "2023-11-09T12:52:36Z"
-  },
-  {
-   "item_id": "3323987118",
-   "given_url": "https://hackaday.io/project/179539-hardware-boot-selection-switch",
-   "given_title": "Hardware boot selection switch | Hackaday.io",
-   "resolved_title": "Hardware boot selection switch",
-   "resolved_url": "https://hackaday.io/project/179539-hardware-boot-selection-switch",
-   "time_updated": "2023-11-08T11:38:24Z",
-   "time_added": "2023-11-08T11:38:24Z"
-  },
-  {
-   "item_id": "2838399352",
-   "given_url": "https://skeptics.stackexchange.com/questions/40815/did-einstein-reply-ask-tesla-when-asked-how-it-felt-to-be-the-smartest-man-ali",
-   "given_title": "quotes - Did Einstein reply \"Ask Tesla\" when asked how it felt to be the sm",
-   "resolved_title": "Did Einstein reply \"Ask Tesla\" when asked how it felt to be the smartest man alive?",
-   "resolved_url": "https://skeptics.stackexchange.com/questions/40815/did-einstein-reply-ask-tesla-when-asked-how-it-felt-to-be-the-smartest-man-ali",
-   "time_updated": "2023-11-09T00:04:30Z",
-   "time_added": "2023-11-09T00:04:29Z"
   },
   {
    "item_id": "3828721039",

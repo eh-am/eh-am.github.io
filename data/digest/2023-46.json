@@ -4,6 +4,33 @@
  "sortKey": "2023-46",
  "items": [
   {
+   "item_id": "3964406211",
+   "given_url": "https://www.macchaffee.com/blog/2023/wafs/",
+   "given_title": "Mac's Tech Blog",
+   "resolved_title": "Stop deploying web application firewalls",
+   "resolved_url": "https://www.macchaffee.com/blog/2023/wafs/",
+   "time_updated": "2023-11-14T15:38:52Z",
+   "time_added": "2023-11-14T15:38:51Z"
+  },
+  {
+   "item_id": "59539127",
+   "given_url": "https://en.m.wikipedia.org/wiki/Kubotan",
+   "given_title": "Kubotan - Wikipedia",
+   "resolved_title": "Kubotan",
+   "resolved_url": "https://en.wikipedia.org/wiki/Kubotan",
+   "time_updated": "2023-11-14T22:56:58Z",
+   "time_added": "2023-11-14T22:56:57Z"
+  },
+  {
+   "item_id": "3965523727",
+   "given_url": "https://m.youtube.com/watch?v=SVvockdzspM",
+   "given_title": "Yakuza 0-6: FULL Kiryu Saga Story Review - YouTube",
+   "resolved_title": "Yakuza 0-6: FULL Kiryu Saga Story Review",
+   "resolved_url": "http://www.youtube.com/watch?v=SVvockdzspM",
+   "time_updated": "2023-11-15T00:19:53Z",
+   "time_added": "2023-11-15T00:19:51Z"
+  },
+  {
    "item_id": "679948126",
    "given_url": "https://en.m.wikipedia.org/wiki/Glossary_of_jive_talk",
    "given_title": "Glossary of jive talk - Wikipedia",
@@ -13,6 +40,33 @@
    "time_added": "2023-11-13T18:05:43Z"
   },
   {
+   "item_id": "3965246304",
+   "given_url": "https://www.youtube.com/watch?v=ACu5E9SXCr4",
+   "given_title": "(57) The Garbage \u0026 the Flowers - Prince of Thieves - YouTube",
+   "resolved_title": "The Garbage \u0026 the Flowers - Prince of Thieves",
+   "resolved_url": "https://www.youtube.com/watch?v=ACu5E9SXCr4",
+   "time_updated": "2023-11-14T12:58:03Z",
+   "time_added": "2023-11-14T12:58:03Z"
+  },
+  {
+   "item_id": "3965277691",
+   "given_url": "https://screamyell.com.br/site/2023/11/07/ao-vivo-sem-branco-mello-nos-vocais-titas-mostra-a-forca-da-tour-encontro-para-um-publico-fiel-em-lisboa/",
+   "given_title": "Ao vivo: Sem Branco Mello nos vocais, Titãs homenageia Xutos \u0026 Pontapés em ",
+   "resolved_title": "Ao vivo: Sem Branco Mello nos vocais, Titãs homenageia Xutos \u0026 Pontapés em grande show em Lisboa",
+   "resolved_url": "https://screamyell.com.br/site/2023/11/07/ao-vivo-sem-branco-mello-nos-vocais-titas-mostra-a-forca-da-tour-encontro-para-um-publico-fiel-em-lisboa/",
+   "time_updated": "2023-11-14T14:05:50Z",
+   "time_added": "2023-11-14T14:05:47Z"
+  },
+  {
+   "item_id": "3965234712",
+   "given_url": "https://www.youtube.com/watch?v=xeLwCMSd5SM",
+   "given_title": "The Garbage \u0026 the Flowers - \"Rosicrucian Lovers\" - YouTube",
+   "resolved_title": "The Garbage \u0026 the Flowers - \"Rosicrucian Lovers\"",
+   "resolved_url": "https://www.youtube.com/watch?v=xeLwCMSd5SM",
+   "time_updated": "2023-11-14T12:28:51Z",
+   "time_added": "2023-11-14T12:28:50Z"
+  },
+  {
    "item_id": "3071606237",
    "given_url": "https://mixedname.com/",
    "given_title": "Bilingual baby name finder",
@@ -20,6 +74,15 @@
    "resolved_url": "https://mixedname.com/",
    "time_updated": "2023-11-13T00:30:54Z",
    "time_added": "2023-11-13T00:30:54Z"
+  },
+  {
+   "item_id": "3965333421",
+   "given_url": "https://twitter.com/PlanetaTamara/status/1724195170223010067",
+   "given_title": "common white girl no X: \"Pensando en el pueblo portugués en el que era trad",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/PlanetaTamara/status/1724195170223010067",
+   "time_updated": "2023-11-14T16:17:29Z",
+   "time_added": "2023-11-14T16:17:28Z"
   }
  ]
 }

@@ -4,67 +4,13 @@
  "sortKey": "2023-45",
  "items": [
   {
-   "item_id": "2838399352",
-   "given_url": "https://skeptics.stackexchange.com/questions/40815/did-einstein-reply-ask-tesla-when-asked-how-it-felt-to-be-the-smartest-man-ali",
-   "given_title": "quotes - Did Einstein reply \"Ask Tesla\" when asked how it felt to be the sm",
-   "resolved_title": "Did Einstein reply \"Ask Tesla\" when asked how it felt to be the smartest man alive?",
-   "resolved_url": "https://skeptics.stackexchange.com/questions/40815/did-einstein-reply-ask-tesla-when-asked-how-it-felt-to-be-the-smartest-man-ali",
-   "time_updated": "2023-11-09T00:04:30Z",
-   "time_added": "2023-11-09T00:04:29Z"
-  },
-  {
-   "item_id": "3962231139",
-   "given_url": "https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/",
-   "given_title": "10 hard-to-swallow truths they won't tell you about software engineer job",
-   "resolved_title": "10 hard-to-swallow truths they won't tell you about software engineer job",
-   "resolved_url": "https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/",
-   "time_updated": "2023-11-08T18:01:12Z",
-   "time_added": "2023-11-08T18:01:10Z"
-  },
-  {
-   "item_id": "3962602976",
-   "given_url": "https://www.slobodenpecat.mk/en/go-prashale-ajnshtajn-kako-e-da-se-bide-najpameten-chovek-na-svetot-a-toj-odgovoril-ne-znam-prashajte-go-nikola-tesla/",
-   "given_title": "Einstein was asked what it is like to be the smartest man in the world, and",
-   "resolved_title": "Einstein was asked what it was like to be the smartest man in the world, and he replied: I do not know, ask Nikola Tesla",
-   "resolved_url": "https://www.slobodenpecat.mk/en/go-prashale-ajnshtajn-kako-e-da-se-bide-najpameten-chovek-na-svetot-a-toj-odgovoril-ne-znam-prashajte-go-nikola-tesla/",
-   "time_updated": "2023-11-09T00:01:23Z",
-   "time_added": "2023-11-09T00:01:21Z"
-  },
-  {
-   "item_id": "3962554011",
-   "given_url": "https://aaronstuyvenberg.com/posts/why-you-should-not-use-lambda-layers",
-   "given_title": "You shouldn’t use Lambda layers | AJ Stuyvenberg",
-   "resolved_title": "You shouldn't use Lambda layers",
-   "resolved_url": "https://aaronstuyvenberg.com/posts/why-you-should-not-use-lambda-layers",
-   "time_updated": "2023-11-09T12:52:37Z",
-   "time_added": "2023-11-09T12:52:36Z"
-  },
-  {
-   "item_id": "3963507522",
-   "given_url": "https://www.youtube.com/watch?v=pbRRfgbQ040",
-   "given_title": "(27) Pato Fu - Made in Japan - YouTube",
-   "resolved_title": "Pato Fu - Made in Japan",
-   "resolved_url": "https://www.youtube.com/watch?v=pbRRfgbQ040",
-   "time_updated": "2023-11-10T18:10:44Z",
-   "time_added": "2023-11-10T18:10:43Z"
-  },
-  {
-   "item_id": "3753988916",
-   "given_url": "https://www.trueachievements.com/game/Yakuza-Like-a-Dragon/walkthrough/15",
-   "given_title": "Guide for Yakuza: Like a Dragon - Sotenbori Sprint (\u0026 Personality/Stat Farm",
-   "resolved_title": "15. Yakuza: Like a Dragon Sotenbori Sprint (\u0026 Personality/Stat Farming)",
-   "resolved_url": "https://www.trueachievements.com/game/Yakuza-Like-a-Dragon/walkthrough/15",
-   "time_updated": "2023-11-11T19:10:21Z",
-   "time_added": "2023-11-11T19:10:21Z"
-  },
-  {
-   "item_id": "3964214362",
-   "given_url": "https://twitter.com/inflammateomnia/status/1723477461713760515",
-   "given_title": "JP no X: \"27: women interviewed 25: avg age 11: interviews that were themse",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/inflammateomnia/status/1723477461713760515",
-   "time_updated": "2023-11-12T10:47:00Z",
-   "time_added": "2023-11-12T10:46:58Z"
+   "item_id": "3828721039",
+   "given_url": "https://beej.us/guide/bgnet0/html/split/",
+   "given_title": "Beej's Guide to Network Concepts",
+   "resolved_title": "Beej's Guide to Network Concepts",
+   "resolved_url": "https://beej.us/guide/bgnet0/html/split/",
+   "time_updated": "2023-11-09T05:59:31Z",
+   "time_added": "2023-11-09T05:59:30Z"
   },
   {
    "item_id": "57813473",
@@ -76,58 +22,22 @@
    "time_added": "2023-11-12T21:21:17Z"
   },
   {
-   "item_id": "3828721039",
-   "given_url": "https://beej.us/guide/bgnet0/html/split/",
-   "given_title": "Beej's Guide to Network Concepts",
-   "resolved_title": "Beej's Guide to Network Concepts",
-   "resolved_url": "https://beej.us/guide/bgnet0/html/split/",
-   "time_updated": "2023-11-09T05:59:31Z",
-   "time_added": "2023-11-09T05:59:30Z"
+   "item_id": "3753988916",
+   "given_url": "https://www.trueachievements.com/game/Yakuza-Like-a-Dragon/walkthrough/15",
+   "given_title": "Guide for Yakuza: Like a Dragon - Sotenbori Sprint (\u0026 Personality/Stat Farm",
+   "resolved_title": "15. Yakuza: Like a Dragon Sotenbori Sprint (\u0026 Personality/Stat Farming)",
+   "resolved_url": "https://www.trueachievements.com/game/Yakuza-Like-a-Dragon/walkthrough/15",
+   "time_updated": "2023-11-11T19:10:21Z",
+   "time_added": "2023-11-11T19:10:21Z"
   },
   {
-   "item_id": "3963002169",
-   "given_url": "https://m.youtube.com/watch?v=qAiZm4zNqdI\u0026t=1s",
-   "given_title": "Versusville (A Lost Media Search) - KvS Retrospective, VI - YouTube",
-   "resolved_title": "Versusville (A Lost Media Search) - KvS Retrospective, VI",
-   "resolved_url": "http://www.youtube.com/watch?v=qAiZm4zNqdI",
-   "time_updated": "2023-11-09T18:37:10Z",
-   "time_added": "2023-11-09T18:37:08Z"
-  },
-  {
-   "item_id": "2803073",
-   "given_url": "https://en.wikipedia.org/wiki/Dr._Katz,_Professional_Therapist",
-   "given_title": "Dr. Katz, Professional Therapist - Wikipedia",
-   "resolved_title": "Dr. Katz, Professional Therapist",
-   "resolved_url": "https://en.wikipedia.org/wiki/Dr._Katz,_Professional_Therapist",
-   "time_updated": "2023-11-11T12:42:15Z",
-   "time_added": "2023-11-11T12:42:15Z"
-  },
-  {
-   "item_id": "3918921208",
-   "given_url": "https://kipp.ly/past-webdev/",
-   "given_title": "Ideas for Programmers Looking Beyond Web Development | kipply's blog",
-   "resolved_title": "kipply's blog",
-   "resolved_url": "https://kipp.ly/past-webdev/",
-   "time_updated": "2023-11-10T15:51:30Z",
-   "time_added": "2023-11-10T15:51:10Z"
-  },
-  {
-   "item_id": "970552197",
-   "given_url": "http://web.archive.org/web/20110903101937/http://www.mrxswebpage.com/index.htm",
-   "given_title": "xxxxx Mr. X xxxxx",
-   "resolved_title": "xxxxx Mr. X xxxxx",
-   "resolved_url": "http://web.archive.org/web/20110903101937/http://www.mrxswebpage.com/index.htm",
-   "time_updated": "2023-11-12T21:14:27Z",
-   "time_added": "2023-11-12T21:14:26Z"
-  },
-  {
-   "item_id": "3962538922",
-   "given_url": "https://twitter.com/ryanflorence/status/1722358755499913582",
-   "given_title": "Ryan Florence no X: \"Thanks to `flushSync`, you can finally manage focus in",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/ryanflorence/status/1722358755499913582",
-   "time_updated": "2023-11-09T16:52:42Z",
-   "time_added": "2023-11-09T16:52:42Z"
+   "item_id": "3963507522",
+   "given_url": "https://www.youtube.com/watch?v=pbRRfgbQ040",
+   "given_title": "(27) Pato Fu - Made in Japan - YouTube",
+   "resolved_title": "Pato Fu - Made in Japan",
+   "resolved_url": "https://www.youtube.com/watch?v=pbRRfgbQ040",
+   "time_updated": "2023-11-10T18:10:44Z",
+   "time_added": "2023-11-10T18:10:43Z"
   },
   {
    "item_id": "63004753",
@@ -148,6 +58,24 @@
    "time_added": "2023-11-11T11:08:44Z"
   },
   {
+   "item_id": "3964214362",
+   "given_url": "https://twitter.com/inflammateomnia/status/1723477461713760515",
+   "given_title": "JP no X: \"27: women interviewed 25: avg age 11: interviews that were themse",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/inflammateomnia/status/1723477461713760515",
+   "time_updated": "2023-11-12T10:47:00Z",
+   "time_added": "2023-11-12T10:46:58Z"
+  },
+  {
+   "item_id": "3918921208",
+   "given_url": "https://kipp.ly/past-webdev/",
+   "given_title": "Ideas for Programmers Looking Beyond Web Development | kipply's blog",
+   "resolved_title": "kipply's blog",
+   "resolved_url": "https://kipp.ly/past-webdev/",
+   "time_updated": "2023-11-10T15:51:30Z",
+   "time_added": "2023-11-10T15:51:10Z"
+  },
+  {
    "item_id": "3963467824",
    "given_url": "https://bricolage.io/announcing-trpc-crdt/",
    "given_title": "Bricolage | Announcing trpc-crdt",
@@ -155,6 +83,51 @@
    "resolved_url": "https://bricolage.io/announcing-trpc-crdt/",
    "time_updated": "2023-11-11T23:56:17Z",
    "time_added": "2023-11-11T23:56:17Z"
+  },
+  {
+   "item_id": "2803073",
+   "given_url": "https://en.wikipedia.org/wiki/Dr._Katz,_Professional_Therapist",
+   "given_title": "Dr. Katz, Professional Therapist - Wikipedia",
+   "resolved_title": "Dr. Katz, Professional Therapist",
+   "resolved_url": "https://en.wikipedia.org/wiki/Dr._Katz,_Professional_Therapist",
+   "time_updated": "2023-11-11T12:42:15Z",
+   "time_added": "2023-11-11T12:42:15Z"
+  },
+  {
+   "item_id": "970552197",
+   "given_url": "http://web.archive.org/web/20110903101937/http://www.mrxswebpage.com/index.htm",
+   "given_title": "xxxxx Mr. X xxxxx",
+   "resolved_title": "xxxxx Mr. X xxxxx",
+   "resolved_url": "http://web.archive.org/web/20110903101937/http://www.mrxswebpage.com/index.htm",
+   "time_updated": "2023-11-12T21:14:27Z",
+   "time_added": "2023-11-12T21:14:26Z"
+  },
+  {
+   "item_id": "3962554011",
+   "given_url": "https://aaronstuyvenberg.com/posts/why-you-should-not-use-lambda-layers",
+   "given_title": "You shouldn’t use Lambda layers | AJ Stuyvenberg",
+   "resolved_title": "You shouldn't use Lambda layers",
+   "resolved_url": "https://aaronstuyvenberg.com/posts/why-you-should-not-use-lambda-layers",
+   "time_updated": "2023-11-09T12:52:37Z",
+   "time_added": "2023-11-09T12:52:36Z"
+  },
+  {
+   "item_id": "3962538922",
+   "given_url": "https://twitter.com/ryanflorence/status/1722358755499913582",
+   "given_title": "Ryan Florence no X: \"Thanks to `flushSync`, you can finally manage focus in",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/ryanflorence/status/1722358755499913582",
+   "time_updated": "2023-11-09T16:52:42Z",
+   "time_added": "2023-11-09T16:52:42Z"
+  },
+  {
+   "item_id": "3963002169",
+   "given_url": "https://m.youtube.com/watch?v=qAiZm4zNqdI\u0026t=1s",
+   "given_title": "Versusville (A Lost Media Search) - KvS Retrospective, VI - YouTube",
+   "resolved_title": "Versusville (A Lost Media Search) - KvS Retrospective, VI",
+   "resolved_url": "http://www.youtube.com/watch?v=qAiZm4zNqdI",
+   "time_updated": "2023-11-09T18:37:10Z",
+   "time_added": "2023-11-09T18:37:08Z"
   }
  ]
 }

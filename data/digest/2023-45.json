@@ -13,13 +13,13 @@
    "time_added": "2023-11-11T12:42:15Z"
   },
   {
-   "item_id": "970552197",
-   "given_url": "http://web.archive.org/web/20110903101937/http://www.mrxswebpage.com/index.htm",
-   "given_title": "xxxxx Mr. X xxxxx",
-   "resolved_title": "xxxxx Mr. X xxxxx",
-   "resolved_url": "http://web.archive.org/web/20110903101937/http://www.mrxswebpage.com/index.htm",
-   "time_updated": "2023-11-12T21:14:27Z",
-   "time_added": "2023-11-12T21:14:26Z"
+   "item_id": "3963467824",
+   "given_url": "https://bricolage.io/announcing-trpc-crdt/",
+   "given_title": "Bricolage | Announcing trpc-crdt",
+   "resolved_title": "Announcing trpc-crdt",
+   "resolved_url": "https://bricolage.io/announcing-trpc-crdt/",
+   "time_updated": "2023-11-11T23:56:17Z",
+   "time_added": "2023-11-11T23:56:17Z"
   },
   {
    "item_id": "57813473",
@@ -31,15 +31,6 @@
    "time_added": "2023-11-12T21:21:17Z"
   },
   {
-   "item_id": "3753988916",
-   "given_url": "https://www.trueachievements.com/game/Yakuza-Like-a-Dragon/walkthrough/15",
-   "given_title": "Guide for Yakuza: Like a Dragon - Sotenbori Sprint (\u0026 Personality/Stat Farm",
-   "resolved_title": "15. Yakuza: Like a Dragon Sotenbori Sprint (\u0026 Personality/Stat Farming)",
-   "resolved_url": "https://www.trueachievements.com/game/Yakuza-Like-a-Dragon/walkthrough/15",
-   "time_updated": "2023-11-11T19:10:21Z",
-   "time_added": "2023-11-11T19:10:21Z"
-  },
-  {
    "item_id": "3964214362",
    "given_url": "https://twitter.com/inflammateomnia/status/1723477461713760515",
    "given_title": "JP no X: \"27: women interviewed 25: avg age 11: interviews that were themse",
@@ -49,22 +40,22 @@
    "time_added": "2023-11-12T10:46:58Z"
   },
   {
-   "item_id": "3963467824",
-   "given_url": "https://bricolage.io/announcing-trpc-crdt/",
-   "given_title": "Bricolage | Announcing trpc-crdt",
-   "resolved_title": "Announcing trpc-crdt",
-   "resolved_url": "https://bricolage.io/announcing-trpc-crdt/",
-   "time_updated": "2023-11-11T23:56:17Z",
-   "time_added": "2023-11-11T23:56:17Z"
+   "item_id": "3753988916",
+   "given_url": "https://www.trueachievements.com/game/Yakuza-Like-a-Dragon/walkthrough/15",
+   "given_title": "Guide for Yakuza: Like a Dragon - Sotenbori Sprint (\u0026 Personality/Stat Farm",
+   "resolved_title": "15. Yakuza: Like a Dragon Sotenbori Sprint (\u0026 Personality/Stat Farming)",
+   "resolved_url": "https://www.trueachievements.com/game/Yakuza-Like-a-Dragon/walkthrough/15",
+   "time_updated": "2023-11-11T19:10:21Z",
+   "time_added": "2023-11-11T19:10:21Z"
   },
   {
-   "item_id": "3963810190",
-   "given_url": "https://miltonparron.band.uol.com.br/simonal-o-insuperavel-rei-da-pilantragem/amp/",
-   "given_title": "SIMONAL, O INSUPERÁVEL REI DA PILANTRAGEM - Blog do Milton Parron",
-   "resolved_title": "SIMONAL, O INSUPERÁVEL REI DA PILANTRAGEM",
-   "resolved_url": "https://miltonparron.band.uol.com.br/simonal-o-insuperavel-rei-da-pilantragem/",
-   "time_updated": "2023-11-11T11:08:50Z",
-   "time_added": "2023-11-11T11:08:44Z"
+   "item_id": "970552197",
+   "given_url": "http://web.archive.org/web/20110903101937/http://www.mrxswebpage.com/index.htm",
+   "given_title": "xxxxx Mr. X xxxxx",
+   "resolved_title": "xxxxx Mr. X xxxxx",
+   "resolved_url": "http://web.archive.org/web/20110903101937/http://www.mrxswebpage.com/index.htm",
+   "time_updated": "2023-11-12T21:14:27Z",
+   "time_added": "2023-11-12T21:14:26Z"
   }
  ]
 }

@@ -4,15 +4,6 @@
  "sortKey": "2023-47",
  "items": [
   {
-   "item_id": "3968406759",
-   "given_url": "https://twitter.com/eigenrobot/status/1726511890765844939",
-   "given_title": "eigenrobot no X: \"@Stenogabue @daniel_s_larson openai is way out ahead in a",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/eigenrobot/status/1726511890765844939",
-   "time_updated": "2023-11-20T22:17:56Z",
-   "time_added": "2023-11-20T22:17:55Z"
-  },
-  {
    "item_id": "3968446505",
    "given_url": "https://www.reddit.com/r/AcademicBiblical/comments/p3dx9h/was_paul_a_trinitarian/",
    "given_title": "Was Paul a trinitarian ? : r/AcademicBiblical",
@@ -29,6 +20,15 @@
    "resolved_url": "https://news.ycombinator.com/item?id=38353330",
    "time_updated": "2023-11-20T20:06:05Z",
    "time_added": "2023-11-20T20:06:03Z"
+  },
+  {
+   "item_id": "3968406759",
+   "given_url": "https://twitter.com/eigenrobot/status/1726511890765844939",
+   "given_title": "eigenrobot no X: \"@Stenogabue @daniel_s_larson openai is way out ahead in a",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/eigenrobot/status/1726511890765844939",
+   "time_updated": "2023-11-20T22:17:56Z",
+   "time_added": "2023-11-20T22:17:55Z"
   }
  ]
 }

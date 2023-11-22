@@ -13,6 +13,15 @@
    "time_added": "2023-11-20T22:17:55Z"
   },
   {
+   "item_id": "3968817750",
+   "given_url": "https://twitter.com/dwarkesh_sp/status/1727004083113128327",
+   "given_title": "Dwarkesh Patel no X: \"I still haven't heard a good answer to this question,",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/dwarkesh_sp/status/1727004083113128327",
+   "time_updated": "2023-11-21T18:25:41Z",
+   "time_added": "2023-11-21T18:25:40Z"
+  },
+  {
    "item_id": "3968357579",
    "given_url": "https://news.ycombinator.com/item?id=38353330",
    "given_title": "As I posted elsewhere, I think this is a conflict between Dustin Moskovitz ",
@@ -22,13 +31,22 @@
    "time_added": "2023-11-20T20:06:03Z"
   },
   {
-   "item_id": "3968817750",
-   "given_url": "https://twitter.com/dwarkesh_sp/status/1727004083113128327",
-   "given_title": "Dwarkesh Patel no X: \"I still haven't heard a good answer to this question,",
+   "item_id": "3968907642",
+   "given_url": "https://twitter.com/theorizur/status/1726922924677120099",
+   "given_title": "r ⏹️ no X: \"My (completely speculative, I'm working with breadcrumbs here) ",
    "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/dwarkesh_sp/status/1727004083113128327",
-   "time_updated": "2023-11-21T18:25:41Z",
-   "time_added": "2023-11-21T18:25:40Z"
+   "resolved_url": "https://twitter.com/theorizur/status/1726922924677120099",
+   "time_updated": "2023-11-21T22:20:21Z",
+   "time_added": "2023-11-21T22:20:20Z"
+  },
+  {
+   "item_id": "3968446505",
+   "given_url": "https://www.reddit.com/r/AcademicBiblical/comments/p3dx9h/was_paul_a_trinitarian/",
+   "given_title": "Was Paul a trinitarian ? : r/AcademicBiblical",
+   "resolved_title": "Was Paul a trinitarian ?",
+   "resolved_url": "https://www.reddit.com/r/AcademicBiblical/comments/p3dx9h/was_paul_a_trinitarian/",
+   "time_updated": "2023-11-21T00:13:46Z",
+   "time_added": "2023-11-21T00:13:44Z"
   },
   {
    "item_id": "3968537126",
@@ -49,22 +67,13 @@
    "time_added": "2023-11-21T15:09:20Z"
   },
   {
-   "item_id": "3968446505",
-   "given_url": "https://www.reddit.com/r/AcademicBiblical/comments/p3dx9h/was_paul_a_trinitarian/",
-   "given_title": "Was Paul a trinitarian ? : r/AcademicBiblical",
-   "resolved_title": "Was Paul a trinitarian ?",
-   "resolved_url": "https://www.reddit.com/r/AcademicBiblical/comments/p3dx9h/was_paul_a_trinitarian/",
-   "time_updated": "2023-11-21T00:13:46Z",
-   "time_added": "2023-11-21T00:13:44Z"
-  },
-  {
-   "item_id": "3968907642",
-   "given_url": "https://twitter.com/theorizur/status/1726922924677120099",
-   "given_title": "r ⏹️ no X: \"My (completely speculative, I'm working with breadcrumbs here) ",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/theorizur/status/1726922924677120099",
-   "time_updated": "2023-11-21T22:20:21Z",
-   "time_added": "2023-11-21T22:20:20Z"
+   "item_id": "3957988383",
+   "given_url": "https://thecodingtrain.com/tracks",
+   "given_title": "Tracks / The Coding Train",
+   "resolved_title": "Support The Coding Train",
+   "resolved_url": "https://thecodingtrain.com/",
+   "time_updated": "2023-11-22T11:23:25Z",
+   "time_added": "2023-11-22T11:23:25Z"
   }
  ]
 }

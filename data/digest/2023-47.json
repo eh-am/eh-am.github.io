@@ -4,13 +4,13 @@
  "sortKey": "2023-47",
  "items": [
   {
-   "item_id": "3968446505",
-   "given_url": "https://www.reddit.com/r/AcademicBiblical/comments/p3dx9h/was_paul_a_trinitarian/",
-   "given_title": "Was Paul a trinitarian ? : r/AcademicBiblical",
-   "resolved_title": "Was Paul a trinitarian ?",
-   "resolved_url": "https://www.reddit.com/r/AcademicBiblical/comments/p3dx9h/was_paul_a_trinitarian/",
-   "time_updated": "2023-11-21T00:13:46Z",
-   "time_added": "2023-11-21T00:13:44Z"
+   "item_id": "3968406759",
+   "given_url": "https://twitter.com/eigenrobot/status/1726511890765844939",
+   "given_title": "eigenrobot no X: \"@Stenogabue @daniel_s_larson openai is way out ahead in a",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/eigenrobot/status/1726511890765844939",
+   "time_updated": "2023-11-20T22:17:56Z",
+   "time_added": "2023-11-20T22:17:55Z"
   },
   {
    "item_id": "3968357579",
@@ -22,13 +22,49 @@
    "time_added": "2023-11-20T20:06:03Z"
   },
   {
-   "item_id": "3968406759",
-   "given_url": "https://twitter.com/eigenrobot/status/1726511890765844939",
-   "given_title": "eigenrobot no X: \"@Stenogabue @daniel_s_larson openai is way out ahead in a",
+   "item_id": "3968817750",
+   "given_url": "https://twitter.com/dwarkesh_sp/status/1727004083113128327",
+   "given_title": "Dwarkesh Patel no X: \"I still haven't heard a good answer to this question,",
    "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/eigenrobot/status/1726511890765844939",
-   "time_updated": "2023-11-20T22:17:56Z",
-   "time_added": "2023-11-20T22:17:55Z"
+   "resolved_url": "https://twitter.com/dwarkesh_sp/status/1727004083113128327",
+   "time_updated": "2023-11-21T18:25:41Z",
+   "time_added": "2023-11-21T18:25:40Z"
+  },
+  {
+   "item_id": "3968537126",
+   "given_url": "https://twitter.com/geoffreyirving/status/1726754270224023971",
+   "given_title": "Geoffrey Irving no X: \"I have no details of OpenAI's Board’s reasons for fi",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/geoffreyirving/status/1726754270224023971",
+   "time_updated": "2023-11-21T14:13:00Z",
+   "time_added": "2023-11-21T14:12:59Z"
+  },
+  {
+   "item_id": "2801605079",
+   "given_url": "https://cognitivemedium.com/f-ma",
+   "given_title": "Why does F = ma?",
+   "resolved_title": "Why does F = ma?",
+   "resolved_url": "http://cognitivemedium.com/f-ma",
+   "time_updated": "2023-11-21T15:09:20Z",
+   "time_added": "2023-11-21T15:09:20Z"
+  },
+  {
+   "item_id": "3968446505",
+   "given_url": "https://www.reddit.com/r/AcademicBiblical/comments/p3dx9h/was_paul_a_trinitarian/",
+   "given_title": "Was Paul a trinitarian ? : r/AcademicBiblical",
+   "resolved_title": "Was Paul a trinitarian ?",
+   "resolved_url": "https://www.reddit.com/r/AcademicBiblical/comments/p3dx9h/was_paul_a_trinitarian/",
+   "time_updated": "2023-11-21T00:13:46Z",
+   "time_added": "2023-11-21T00:13:44Z"
+  },
+  {
+   "item_id": "3968907642",
+   "given_url": "https://twitter.com/theorizur/status/1726922924677120099",
+   "given_title": "r ⏹️ no X: \"My (completely speculative, I'm working with breadcrumbs here) ",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/theorizur/status/1726922924677120099",
+   "time_updated": "2023-11-21T22:20:21Z",
+   "time_added": "2023-11-21T22:20:20Z"
   }
  ]
 }

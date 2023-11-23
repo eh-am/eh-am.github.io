@@ -4,13 +4,13 @@
  "sortKey": "2023-47",
  "items": [
   {
-   "item_id": "3968406759",
-   "given_url": "https://twitter.com/eigenrobot/status/1726511890765844939",
-   "given_title": "eigenrobot no X: \"@Stenogabue @daniel_s_larson openai is way out ahead in a",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/eigenrobot/status/1726511890765844939",
-   "time_updated": "2023-11-20T22:17:56Z",
-   "time_added": "2023-11-20T22:17:55Z"
+   "item_id": "3968446505",
+   "given_url": "https://www.reddit.com/r/AcademicBiblical/comments/p3dx9h/was_paul_a_trinitarian/",
+   "given_title": "Was Paul a trinitarian ? : r/AcademicBiblical",
+   "resolved_title": "Was Paul a trinitarian ?",
+   "resolved_url": "https://www.reddit.com/r/AcademicBiblical/comments/p3dx9h/was_paul_a_trinitarian/",
+   "time_updated": "2023-11-21T00:13:46Z",
+   "time_added": "2023-11-21T00:13:44Z"
   },
   {
    "item_id": "3968817750",
@@ -22,6 +22,33 @@
    "time_added": "2023-11-21T18:25:40Z"
   },
   {
+   "item_id": "3932943143",
+   "given_url": "https://en.m.wikipedia.org/wiki/Stochastic_parrot",
+   "given_title": "Stochastic parrot - Wikipedia",
+   "resolved_title": "Stochastic parrot",
+   "resolved_url": "https://en.wikipedia.org/wiki/Stochastic_parrot",
+   "time_updated": "2023-11-22T18:43:03Z",
+   "time_added": "2023-11-22T18:43:02Z"
+  },
+  {
+   "item_id": "3882785948",
+   "given_url": "https://en.wikipedia.org/wiki/Multi-user_dungeon",
+   "given_title": "Multi-user dungeon - Wikipedia",
+   "resolved_title": "Multi-user dungeon",
+   "resolved_url": "https://en.wikipedia.org/wiki/Multi-user_dungeon",
+   "time_updated": "2023-11-22T21:09:52Z",
+   "time_added": "2023-11-22T21:09:52Z"
+  },
+  {
+   "item_id": "3894608430",
+   "given_url": "https://www.youtube.com/watch?v=jKdkWTbUkIQ",
+   "given_title": "(15) Super Mario RPG Secrets - YouTube",
+   "resolved_title": "Super Mario RPG Secrets",
+   "resolved_url": "http://www.youtube.com/watch?v=jKdkWTbUkIQ",
+   "time_updated": "2023-11-22T21:14:33Z",
+   "time_added": "2023-11-22T21:14:33Z"
+  },
+  {
    "item_id": "3968357579",
    "given_url": "https://news.ycombinator.com/item?id=38353330",
    "given_title": "As I posted elsewhere, I think this is a conflict between Dustin Moskovitz ",
@@ -29,24 +56,6 @@
    "resolved_url": "https://news.ycombinator.com/item?id=38353330",
    "time_updated": "2023-11-20T20:06:05Z",
    "time_added": "2023-11-20T20:06:03Z"
-  },
-  {
-   "item_id": "3968907642",
-   "given_url": "https://twitter.com/theorizur/status/1726922924677120099",
-   "given_title": "r ⏹️ no X: \"My (completely speculative, I'm working with breadcrumbs here) ",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/theorizur/status/1726922924677120099",
-   "time_updated": "2023-11-21T22:20:21Z",
-   "time_added": "2023-11-21T22:20:20Z"
-  },
-  {
-   "item_id": "3968446505",
-   "given_url": "https://www.reddit.com/r/AcademicBiblical/comments/p3dx9h/was_paul_a_trinitarian/",
-   "given_title": "Was Paul a trinitarian ? : r/AcademicBiblical",
-   "resolved_title": "Was Paul a trinitarian ?",
-   "resolved_url": "https://www.reddit.com/r/AcademicBiblical/comments/p3dx9h/was_paul_a_trinitarian/",
-   "time_updated": "2023-11-21T00:13:46Z",
-   "time_added": "2023-11-21T00:13:44Z"
   },
   {
    "item_id": "3968537126",
@@ -58,6 +67,15 @@
    "time_added": "2023-11-21T14:12:59Z"
   },
   {
+   "item_id": "3957988383",
+   "given_url": "https://thecodingtrain.com/tracks",
+   "given_title": "Tracks / The Coding Train",
+   "resolved_title": "Support The Coding Train",
+   "resolved_url": "https://thecodingtrain.com/",
+   "time_updated": "2023-11-22T11:23:25Z",
+   "time_added": "2023-11-22T11:23:25Z"
+  },
+  {
    "item_id": "2801605079",
    "given_url": "https://cognitivemedium.com/f-ma",
    "given_title": "Why does F = ma?",
@@ -67,13 +85,40 @@
    "time_added": "2023-11-21T15:09:20Z"
   },
   {
-   "item_id": "3957988383",
-   "given_url": "https://thecodingtrain.com/tracks",
-   "given_title": "Tracks / The Coding Train",
-   "resolved_title": "Support The Coding Train",
-   "resolved_url": "https://thecodingtrain.com/",
-   "time_updated": "2023-11-22T11:23:25Z",
-   "time_added": "2023-11-22T11:23:25Z"
+   "item_id": "3968907642",
+   "given_url": "https://twitter.com/theorizur/status/1726922924677120099",
+   "given_title": "r ⏹️ no X: \"My (completely speculative, I'm working with breadcrumbs here) ",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/theorizur/status/1726922924677120099",
+   "time_updated": "2023-11-21T22:20:21Z",
+   "time_added": "2023-11-21T22:20:20Z"
+  },
+  {
+   "item_id": "3968778227",
+   "given_url": "https://news.ycombinator.com/item?id=38363602",
+   "given_title": "Super Mario RPG is an endearing, perplexing relic | Hacker News",
+   "resolved_title": "Super Mario RPG is an endearing, perplexing relic",
+   "resolved_url": "https://news.ycombinator.com/item?id=38363602",
+   "time_updated": "2023-11-22T21:10:02Z",
+   "time_added": "2023-11-22T21:10:01Z"
+  },
+  {
+   "item_id": "3969415956",
+   "given_url": "https://www.youtube.com/watch?v=Gt_Mnvo9zyQ",
+   "given_title": "Tomato Adventure Is The Best GBA RPG You’ve Never Played - YouTube",
+   "resolved_title": "Tomato Adventure Is The Best GBA RPG You’ve Never Played",
+   "resolved_url": "https://www.youtube.com/watch?v=Gt_Mnvo9zyQ",
+   "time_updated": "2023-11-22T21:03:52Z",
+   "time_added": "2023-11-22T21:03:51Z"
+  },
+  {
+   "item_id": "3968406759",
+   "given_url": "https://twitter.com/eigenrobot/status/1726511890765844939",
+   "given_title": "eigenrobot no X: \"@Stenogabue @daniel_s_larson openai is way out ahead in a",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/eigenrobot/status/1726511890765844939",
+   "time_updated": "2023-11-20T22:17:56Z",
+   "time_added": "2023-11-20T22:17:55Z"
   }
  ]
 }

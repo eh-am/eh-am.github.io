@@ -4,13 +4,22 @@
  "sortKey": "2023-47",
  "items": [
   {
-   "item_id": "3968778227",
-   "given_url": "https://news.ycombinator.com/item?id=38363602",
-   "given_title": "Super Mario RPG is an endearing, perplexing relic | Hacker News",
-   "resolved_title": "Super Mario RPG is an endearing, perplexing relic",
-   "resolved_url": "https://news.ycombinator.com/item?id=38363602",
-   "time_updated": "2023-11-22T21:10:02Z",
-   "time_added": "2023-11-22T21:10:01Z"
+   "item_id": "3968406759",
+   "given_url": "https://twitter.com/eigenrobot/status/1726511890765844939",
+   "given_title": "eigenrobot no X: \"@Stenogabue @daniel_s_larson openai is way out ahead in a",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/eigenrobot/status/1726511890765844939",
+   "time_updated": "2023-11-20T22:17:56Z",
+   "time_added": "2023-11-20T22:17:55Z"
+  },
+  {
+   "item_id": "3968446505",
+   "given_url": "https://www.reddit.com/r/AcademicBiblical/comments/p3dx9h/was_paul_a_trinitarian/",
+   "given_title": "Was Paul a trinitarian ? : r/AcademicBiblical",
+   "resolved_title": "Was Paul a trinitarian ?",
+   "resolved_url": "https://www.reddit.com/r/AcademicBiblical/comments/p3dx9h/was_paul_a_trinitarian/",
+   "time_updated": "2023-11-21T00:13:46Z",
+   "time_added": "2023-11-21T00:13:44Z"
   },
   {
    "item_id": "2801605079",
@@ -31,15 +40,6 @@
    "time_added": "2023-11-21T22:20:20Z"
   },
   {
-   "item_id": "3932943143",
-   "given_url": "https://en.m.wikipedia.org/wiki/Stochastic_parrot",
-   "given_title": "Stochastic parrot - Wikipedia",
-   "resolved_title": "Stochastic parrot",
-   "resolved_url": "https://en.wikipedia.org/wiki/Stochastic_parrot",
-   "time_updated": "2023-11-22T18:43:03Z",
-   "time_added": "2023-11-22T18:43:02Z"
-  },
-  {
    "item_id": "3882785948",
    "given_url": "https://en.wikipedia.org/wiki/Multi-user_dungeon",
    "given_title": "Multi-user dungeon - Wikipedia",
@@ -47,15 +47,6 @@
    "resolved_url": "https://en.wikipedia.org/wiki/Multi-user_dungeon",
    "time_updated": "2023-11-22T21:09:52Z",
    "time_added": "2023-11-22T21:09:52Z"
-  },
-  {
-   "item_id": "3968357579",
-   "given_url": "https://news.ycombinator.com/item?id=38353330",
-   "given_title": "As I posted elsewhere, I think this is a conflict between Dustin Moskovitz ",
-   "resolved_title": "As I posted elsewhere, I think this is a conflict between Dustin Moskovitz and S... : Hacker News",
-   "resolved_url": "https://news.ycombinator.com/item?id=38353330",
-   "time_updated": "2023-11-20T20:06:05Z",
-   "time_added": "2023-11-20T20:06:03Z"
   },
   {
    "item_id": "3968537126",
@@ -76,13 +67,22 @@
    "time_added": "2023-11-21T18:25:40Z"
   },
   {
-   "item_id": "3957988383",
-   "given_url": "https://thecodingtrain.com/tracks",
-   "given_title": "Tracks / The Coding Train",
-   "resolved_title": "Support The Coding Train",
-   "resolved_url": "https://thecodingtrain.com/",
-   "time_updated": "2023-11-22T11:23:25Z",
-   "time_added": "2023-11-22T11:23:25Z"
+   "item_id": "3969508652",
+   "given_url": "https://m.youtube.com/watch?v=6gjsAA_5Agk",
+   "given_title": "Can you beat Pokemon FireRed while blind and deaf? - YouTube",
+   "resolved_title": "Can you beat Pokemon FireRed while blind and deaf?",
+   "resolved_url": "http://www.youtube.com/watch?v=6gjsAA_5Agk",
+   "time_updated": "2023-11-23T01:54:00Z",
+   "time_added": "2023-11-23T01:53:59Z"
+  },
+  {
+   "item_id": "3968778227",
+   "given_url": "https://news.ycombinator.com/item?id=38363602",
+   "given_title": "Super Mario RPG is an endearing, perplexing relic | Hacker News",
+   "resolved_title": "Super Mario RPG is an endearing, perplexing relic",
+   "resolved_url": "https://news.ycombinator.com/item?id=38363602",
+   "time_updated": "2023-11-22T21:10:02Z",
+   "time_added": "2023-11-22T21:10:01Z"
   },
   {
    "item_id": "3894608430",
@@ -94,31 +94,58 @@
    "time_added": "2023-11-22T21:14:33Z"
   },
   {
-   "item_id": "3969508652",
-   "given_url": "https://m.youtube.com/watch?v=6gjsAA_5Agk",
-   "given_title": "Can you beat Pokemon FireRed while blind and deaf? - YouTube",
-   "resolved_title": "Can you beat Pokemon FireRed while blind and deaf?",
-   "resolved_url": "http://www.youtube.com/watch?v=6gjsAA_5Agk",
-   "time_updated": "2023-11-23T01:54:00Z",
-   "time_added": "2023-11-23T01:53:59Z"
+   "item_id": "663926408",
+   "given_url": "https://www.youtube.com/watch?v=SpbZ1ODB5MA",
+   "given_title": "(29) Trio Nordestino - Procurando Tu - YouTube",
+   "resolved_title": "Trio Nordestino - Procurando Tu",
+   "resolved_url": "https://www.youtube.com/watch?v=SpbZ1ODB5MA",
+   "time_updated": "2023-11-24T11:25:06Z",
+   "time_added": "2023-11-24T11:25:06Z"
   },
   {
-   "item_id": "3968446505",
-   "given_url": "https://www.reddit.com/r/AcademicBiblical/comments/p3dx9h/was_paul_a_trinitarian/",
-   "given_title": "Was Paul a trinitarian ? : r/AcademicBiblical",
-   "resolved_title": "Was Paul a trinitarian ?",
-   "resolved_url": "https://www.reddit.com/r/AcademicBiblical/comments/p3dx9h/was_paul_a_trinitarian/",
-   "time_updated": "2023-11-21T00:13:46Z",
-   "time_added": "2023-11-21T00:13:44Z"
+   "item_id": "8958762",
+   "given_url": "https://en.wikipedia.org/wiki/L%C3%A9vy_flight",
+   "given_title": "Lévy flight - Wikipedia",
+   "resolved_title": "Lévy flight",
+   "resolved_url": "https://en.wikipedia.org/wiki/L%C3%A9vy_flight",
+   "time_updated": "2023-11-24T11:32:06Z",
+   "time_added": "2023-11-24T11:32:06Z"
   },
   {
-   "item_id": "3968406759",
-   "given_url": "https://twitter.com/eigenrobot/status/1726511890765844939",
-   "given_title": "eigenrobot no X: \"@Stenogabue @daniel_s_larson openai is way out ahead in a",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/eigenrobot/status/1726511890765844939",
-   "time_updated": "2023-11-20T22:17:56Z",
-   "time_added": "2023-11-20T22:17:55Z"
+   "item_id": "3968357579",
+   "given_url": "https://news.ycombinator.com/item?id=38353330",
+   "given_title": "As I posted elsewhere, I think this is a conflict between Dustin Moskovitz ",
+   "resolved_title": "As I posted elsewhere, I think this is a conflict between Dustin Moskovitz and S... : Hacker News",
+   "resolved_url": "https://news.ycombinator.com/item?id=38353330",
+   "time_updated": "2023-11-20T20:06:05Z",
+   "time_added": "2023-11-20T20:06:03Z"
+  },
+  {
+   "item_id": "3957988383",
+   "given_url": "https://thecodingtrain.com/tracks",
+   "given_title": "Tracks / The Coding Train",
+   "resolved_title": "Support The Coding Train",
+   "resolved_url": "https://thecodingtrain.com/",
+   "time_updated": "2023-11-22T11:23:25Z",
+   "time_added": "2023-11-22T11:23:25Z"
+  },
+  {
+   "item_id": "3932943143",
+   "given_url": "https://en.m.wikipedia.org/wiki/Stochastic_parrot",
+   "given_title": "Stochastic parrot - Wikipedia",
+   "resolved_title": "Stochastic parrot",
+   "resolved_url": "https://en.wikipedia.org/wiki/Stochastic_parrot",
+   "time_updated": "2023-11-22T18:43:03Z",
+   "time_added": "2023-11-22T18:43:02Z"
+  },
+  {
+   "item_id": "3967618756",
+   "given_url": "https://medium.com/blob-streaming/programming-as-a-career-isnt-right-for-me-f9f0846fef82",
+   "given_title": "Programming As a Career Isn’t Right for Me | by Mohamed Aboelez | Blob-Stre",
+   "resolved_title": "Programming As a Career Isn’t Right for Me",
+   "resolved_url": "https://medium.com/blob-streaming/programming-as-a-career-isnt-right-for-me-f9f0846fef82",
+   "time_updated": "2023-11-24T10:44:01Z",
+   "time_added": "2023-11-24T10:44:01Z"
   },
   {
    "item_id": "3969415956",
@@ -128,6 +155,15 @@
    "resolved_url": "https://www.youtube.com/watch?v=Gt_Mnvo9zyQ",
    "time_updated": "2023-11-22T21:03:52Z",
    "time_added": "2023-11-22T21:03:51Z"
+  },
+  {
+   "item_id": "3208195670",
+   "given_url": "https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/",
+   "given_title": "Things you're allowed to do",
+   "resolved_title": "Things you're allowed to do",
+   "resolved_url": "https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/",
+   "time_updated": "2023-11-24T10:08:18Z",
+   "time_added": "2023-11-24T10:08:17Z"
   }
  ]
 }

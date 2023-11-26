@@ -4,15 +4,6 @@
  "sortKey": "2023-46",
  "items": [
   {
-   "item_id": "2532102659",
-   "given_url": "https://dewitters.com/dewitters-gameloop/",
-   "given_title": "deWiTTERS Game Loop – deWiTTERS",
-   "resolved_title": "",
-   "resolved_url": "https://dewitters.com/dewitters-gameloop/",
-   "time_updated": "2023-11-18T21:47:28Z",
-   "time_added": "2023-11-18T21:47:28Z"
-  },
-  {
    "item_id": "131380",
    "given_url": "https://twitter.com/home",
    "given_title": "Página Inicial / X",
@@ -20,15 +11,6 @@
    "resolved_url": "https://twitter.com/home",
    "time_updated": "2023-11-19T18:18:27Z",
    "time_added": "2023-11-19T18:18:27Z"
-  },
-  {
-   "item_id": "3967052239",
-   "given_url": "https://m.youtube.com/watch?v=TbZ3HzvFEto",
-   "given_title": "Half-Life: 25th Anniversary Documentary - YouTube",
-   "resolved_title": "Half-Life: 25th Anniversary Documentary",
-   "resolved_url": "http://www.youtube.com/watch?v=TbZ3HzvFEto",
-   "time_updated": "2023-11-18T16:43:37Z",
-   "time_added": "2023-11-18T16:43:36Z"
   }
  ]
 }

@@ -4,87 +4,6 @@
  "sortKey": "2023-47",
  "items": [
   {
-   "item_id": "3969508652",
-   "given_url": "https://m.youtube.com/watch?v=6gjsAA_5Agk",
-   "given_title": "Can you beat Pokemon FireRed while blind and deaf? - YouTube",
-   "resolved_title": "Can you beat Pokemon FireRed while blind and deaf?",
-   "resolved_url": "http://www.youtube.com/watch?v=6gjsAA_5Agk",
-   "time_updated": "2023-11-23T01:54:00Z",
-   "time_added": "2023-11-23T01:53:59Z"
-  },
-  {
-   "item_id": "3882785948",
-   "given_url": "https://en.wikipedia.org/wiki/Multi-user_dungeon",
-   "given_title": "Multi-user dungeon - Wikipedia",
-   "resolved_title": "Multi-user dungeon",
-   "resolved_url": "https://en.wikipedia.org/wiki/Multi-user_dungeon",
-   "time_updated": "2023-11-22T21:09:52Z",
-   "time_added": "2023-11-22T21:09:52Z"
-  },
-  {
-   "item_id": "3968778227",
-   "given_url": "https://news.ycombinator.com/item?id=38363602",
-   "given_title": "Super Mario RPG is an endearing, perplexing relic | Hacker News",
-   "resolved_title": "Super Mario RPG is an endearing, perplexing relic",
-   "resolved_url": "https://news.ycombinator.com/item?id=38363602",
-   "time_updated": "2023-11-22T21:10:02Z",
-   "time_added": "2023-11-22T21:10:01Z"
-  },
-  {
-   "item_id": "3968907642",
-   "given_url": "https://twitter.com/theorizur/status/1726922924677120099",
-   "given_title": "r ⏹️ no X: \"My (completely speculative, I'm working with breadcrumbs here) ",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/theorizur/status/1726922924677120099",
-   "time_updated": "2023-11-21T22:20:21Z",
-   "time_added": "2023-11-21T22:20:20Z"
-  },
-  {
-   "item_id": "2650745449",
-   "given_url": "https://www.bbc.com/portuguese/vert-tra-48141808",
-   "given_title": "A briga de gênero por trás da tradicional ‘coxinha’ da Sicília - BBC News B",
-   "resolved_title": "A briga de gênero por trás da tradicional ‘coxinha’ da Sicília",
-   "resolved_url": "https://www.bbc.com/portuguese/vert-tra-48141808",
-   "time_updated": "2023-11-24T15:22:52Z",
-   "time_added": "2023-11-24T15:22:52Z"
-  },
-  {
-   "item_id": "3970345285",
-   "given_url": "https://en.m.wiktionary.org/wiki/Tojo",
-   "given_title": "Tojo - Wiktionary, the free dictionary",
-   "resolved_title": "Tojo",
-   "resolved_url": "https://en.wiktionary.org/wiki/Tojo",
-   "time_updated": "2023-11-24T21:00:34Z",
-   "time_added": "2023-11-24T21:00:34Z"
-  },
-  {
-   "item_id": "1170725539",
-   "given_url": "https://en.wikipedia.org/wiki/The_Theoretical_Minimum",
-   "given_title": "The Theoretical Minimum - Wikipedia",
-   "resolved_title": "The Theoretical Minimum",
-   "resolved_url": "https://en.wikipedia.org/wiki/The_Theoretical_Minimum",
-   "time_updated": "2023-11-24T22:35:21Z",
-   "time_added": "2023-11-24T22:35:21Z"
-  },
-  {
-   "item_id": "1742023175",
-   "given_url": "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
-   "given_title": "Reality has a surprising amount of detail",
-   "resolved_title": "Reality has a surprising amount of detail",
-   "resolved_url": "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
-   "time_updated": "2023-11-25T01:22:52Z",
-   "time_added": "2023-11-25T01:22:51Z"
-  },
-  {
-   "item_id": "34519124",
-   "given_url": "https://kenney.nl/",
-   "given_title": "Home · Kenney",
-   "resolved_title": "Kenney • Home",
-   "resolved_url": "https://kenney.nl",
-   "time_updated": "2023-11-26T00:49:19Z",
-   "time_added": "2023-11-26T00:49:19Z"
-  },
-  {
    "item_id": "2801605079",
    "given_url": "https://cognitivemedium.com/f-ma",
    "given_title": "Why does F = ma?",
@@ -92,87 +11,6 @@
    "resolved_url": "http://cognitivemedium.com/f-ma",
    "time_updated": "2023-11-21T15:09:20Z",
    "time_added": "2023-11-21T15:09:20Z"
-  },
-  {
-   "item_id": "127881584",
-   "given_url": "https://en.m.wikipedia.org/wiki/Veerappan",
-   "given_title": "Veerappan - Wikipedia",
-   "resolved_title": "Veerappan",
-   "resolved_url": "https://en.wikipedia.org/wiki/Veerappan",
-   "time_updated": "2023-11-26T10:23:34Z",
-   "time_added": "2023-11-26T10:23:34Z"
-  },
-  {
-   "item_id": "2309891623",
-   "given_url": "https://www.nexojornal.com.br/explicado/2018/09/02/A-hist%C3%B3ria-do-canga%C3%A7o-mito-est%C3%A9tica-e-banditismo-no-sert%C3%A3o",
-   "given_title": "A história do cangaço: mito, estética e banditismo no sertão | Nexo Jornal",
-   "resolved_title": "A história do cangaço: mito, estética e banditismo no sertão",
-   "resolved_url": "https://www.nexojornal.com.br/explicado/2018/09/02/A-hist%C3%B3ria-do-canga%C3%A7o-mito-est%C3%A9tica-e-banditismo-no-sert%C3%A3o",
-   "time_updated": "2023-11-26T11:12:37Z",
-   "time_added": "2023-11-26T11:12:37Z"
-  },
-  {
-   "item_id": "3971034690",
-   "given_url": "https://www.medicina.ulisboa.pt/en/node/7591",
-   "given_title": "Visita guiada ao Teatro Anatómico | Faculdade de Medicina da Universidade d",
-   "resolved_title": "",
-   "resolved_url": "",
-   "time_updated": "2023-11-26T11:20:07Z",
-   "time_added": "2023-11-26T11:20:06Z"
-  },
-  {
-   "item_id": "663926408",
-   "given_url": "https://www.youtube.com/watch?v=SpbZ1ODB5MA",
-   "given_title": "(29) Trio Nordestino - Procurando Tu - YouTube",
-   "resolved_title": "Trio Nordestino - Procurando Tu",
-   "resolved_url": "https://www.youtube.com/watch?v=SpbZ1ODB5MA",
-   "time_updated": "2023-11-24T11:25:06Z",
-   "time_added": "2023-11-24T11:25:06Z"
-  },
-  {
-   "item_id": "2272994376",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Lampi%C3%A3o_(cangaceiro)",
-   "given_title": "Lampião (cangaceiro) – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Lampião (cangaceiro)",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Lampi%C3%A3o_(cangaceiro)",
-   "time_updated": "2023-11-26T10:43:49Z",
-   "time_added": "2023-11-26T10:43:48Z"
-  },
-  {
-   "item_id": "3968817750",
-   "given_url": "https://twitter.com/dwarkesh_sp/status/1727004083113128327",
-   "given_title": "Dwarkesh Patel no X: \"I still haven't heard a good answer to this question,",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/dwarkesh_sp/status/1727004083113128327",
-   "time_updated": "2023-11-21T18:25:41Z",
-   "time_added": "2023-11-21T18:25:40Z"
-  },
-  {
-   "item_id": "3970347533",
-   "given_url": "https://dictionary.cambridge.org/pt/dicionario/ingles/peahen",
-   "given_title": "PEAHEN | Significado, definição em Dicionário Cambridge inglês",
-   "resolved_title": "peahen",
-   "resolved_url": "https://dictionary.cambridge.org/pt/dicionario/ingles/peahen",
-   "time_updated": "2023-11-24T19:39:24Z",
-   "time_added": "2023-11-24T19:39:23Z"
-  },
-  {
-   "item_id": "3957988383",
-   "given_url": "https://thecodingtrain.com/tracks",
-   "given_title": "Tracks / The Coding Train",
-   "resolved_title": "Support The Coding Train",
-   "resolved_url": "https://thecodingtrain.com/",
-   "time_updated": "2023-11-22T11:23:25Z",
-   "time_added": "2023-11-22T11:23:25Z"
-  },
-  {
-   "item_id": "3655799906",
-   "given_url": "https://github.com/pocketbase/pocketbase",
-   "given_title": "GitHub - pocketbase/pocketbase: Open Source realtime backend in 1 file",
-   "resolved_title": "pocketbase/pocketbase",
-   "resolved_url": "https://github.com/pocketbase/pocketbase",
-   "time_updated": "2023-11-26T10:19:29Z",
-   "time_added": "2023-11-26T10:19:28Z"
   },
   {
    "item_id": "3969415956",
@@ -184,49 +22,31 @@
    "time_added": "2023-11-22T21:03:51Z"
   },
   {
-   "item_id": "399093887",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Diogo_Alves",
-   "given_title": "Diogo Alves – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Diogo Alves",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Diogo_Alves",
-   "time_updated": "2023-11-26T11:18:31Z",
-   "time_added": "2023-11-26T11:18:30Z"
+   "item_id": "3970347533",
+   "given_url": "https://dictionary.cambridge.org/pt/dicionario/ingles/peahen",
+   "given_title": "PEAHEN | Significado, definição em Dicionário Cambridge inglês",
+   "resolved_title": "peahen",
+   "resolved_url": "https://dictionary.cambridge.org/pt/dicionario/ingles/peahen",
+   "time_updated": "2023-11-24T19:39:24Z",
+   "time_added": "2023-11-24T19:39:23Z"
   },
   {
-   "item_id": "3968537126",
-   "given_url": "https://twitter.com/geoffreyirving/status/1726754270224023971",
-   "given_title": "Geoffrey Irving no X: \"I have no details of OpenAI's Board’s reasons for fi",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/geoffreyirving/status/1726754270224023971",
-   "time_updated": "2023-11-21T14:13:00Z",
-   "time_added": "2023-11-21T14:12:59Z"
+   "item_id": "34519124",
+   "given_url": "https://kenney.nl/",
+   "given_title": "Home · Kenney",
+   "resolved_title": "Kenney • Home",
+   "resolved_url": "https://kenney.nl",
+   "time_updated": "2023-11-26T00:49:19Z",
+   "time_added": "2023-11-26T00:49:19Z"
   },
   {
-   "item_id": "3932943143",
-   "given_url": "https://en.m.wikipedia.org/wiki/Stochastic_parrot",
-   "given_title": "Stochastic parrot - Wikipedia",
-   "resolved_title": "Stochastic parrot",
-   "resolved_url": "https://en.wikipedia.org/wiki/Stochastic_parrot",
-   "time_updated": "2023-11-22T18:43:03Z",
-   "time_added": "2023-11-22T18:43:02Z"
-  },
-  {
-   "item_id": "3967618756",
-   "given_url": "https://medium.com/blob-streaming/programming-as-a-career-isnt-right-for-me-f9f0846fef82",
-   "given_title": "Programming As a Career Isn’t Right for Me | by Mohamed Aboelez | Blob-Stre",
-   "resolved_title": "Programming As a Career Isn’t Right for Me",
-   "resolved_url": "https://medium.com/blob-streaming/programming-as-a-career-isnt-right-for-me-f9f0846fef82",
-   "time_updated": "2023-11-24T10:44:01Z",
-   "time_added": "2023-11-24T10:44:01Z"
-  },
-  {
-   "item_id": "511091541",
-   "given_url": "https://en.m.wikipedia.org/wiki/Fat-tailed_sheep",
-   "given_title": "Fat-tailed sheep - Wikipedia",
-   "resolved_title": "Fat-tailed sheep",
-   "resolved_url": "https://en.wikipedia.org/wiki/Fat-tailed_sheep",
-   "time_updated": "2023-11-25T01:14:05Z",
-   "time_added": "2023-11-25T01:14:05Z"
+   "item_id": "2272994376",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Lampi%C3%A3o_(cangaceiro)",
+   "given_title": "Lampião (cangaceiro) – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Lampião (cangaceiro)",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Lampi%C3%A3o_(cangaceiro)",
+   "time_updated": "2023-11-26T10:43:49Z",
+   "time_added": "2023-11-26T10:43:48Z"
   },
   {
    "item_id": "204976492",
@@ -247,13 +67,49 @@
    "time_added": "2023-11-26T01:17:30Z"
   },
   {
-   "item_id": "3894608430",
-   "given_url": "https://www.youtube.com/watch?v=jKdkWTbUkIQ",
-   "given_title": "(15) Super Mario RPG Secrets - YouTube",
-   "resolved_title": "Super Mario RPG Secrets",
-   "resolved_url": "http://www.youtube.com/watch?v=jKdkWTbUkIQ",
-   "time_updated": "2023-11-22T21:14:33Z",
-   "time_added": "2023-11-22T21:14:33Z"
+   "item_id": "3968537126",
+   "given_url": "https://twitter.com/geoffreyirving/status/1726754270224023971",
+   "given_title": "Geoffrey Irving no X: \"I have no details of OpenAI's Board’s reasons for fi",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/geoffreyirving/status/1726754270224023971",
+   "time_updated": "2023-11-21T14:13:00Z",
+   "time_added": "2023-11-21T14:12:59Z"
+  },
+  {
+   "item_id": "3932943143",
+   "given_url": "https://en.m.wikipedia.org/wiki/Stochastic_parrot",
+   "given_title": "Stochastic parrot - Wikipedia",
+   "resolved_title": "Stochastic parrot",
+   "resolved_url": "https://en.wikipedia.org/wiki/Stochastic_parrot",
+   "time_updated": "2023-11-22T18:43:03Z",
+   "time_added": "2023-11-22T18:43:02Z"
+  },
+  {
+   "item_id": "3882785948",
+   "given_url": "https://en.wikipedia.org/wiki/Multi-user_dungeon",
+   "given_title": "Multi-user dungeon - Wikipedia",
+   "resolved_title": "Multi-user dungeon",
+   "resolved_url": "https://en.wikipedia.org/wiki/Multi-user_dungeon",
+   "time_updated": "2023-11-22T21:09:52Z",
+   "time_added": "2023-11-22T21:09:52Z"
+  },
+  {
+   "item_id": "3968778227",
+   "given_url": "https://news.ycombinator.com/item?id=38363602",
+   "given_title": "Super Mario RPG is an endearing, perplexing relic | Hacker News",
+   "resolved_title": "Super Mario RPG is an endearing, perplexing relic",
+   "resolved_url": "https://news.ycombinator.com/item?id=38363602",
+   "time_updated": "2023-11-22T21:10:02Z",
+   "time_added": "2023-11-22T21:10:01Z"
+  },
+  {
+   "item_id": "2650745449",
+   "given_url": "https://www.bbc.com/portuguese/vert-tra-48141808",
+   "given_title": "A briga de gênero por trás da tradicional ‘coxinha’ da Sicília - BBC News B",
+   "resolved_title": "A briga de gênero por trás da tradicional ‘coxinha’ da Sicília",
+   "resolved_url": "https://www.bbc.com/portuguese/vert-tra-48141808",
+   "time_updated": "2023-11-24T15:22:52Z",
+   "time_added": "2023-11-24T15:22:52Z"
   },
   {
    "item_id": "3208195670",
@@ -265,13 +121,112 @@
    "time_added": "2023-11-24T10:08:17Z"
   },
   {
-   "item_id": "3968446505",
-   "given_url": "https://www.reddit.com/r/AcademicBiblical/comments/p3dx9h/was_paul_a_trinitarian/",
-   "given_title": "Was Paul a trinitarian ? : r/AcademicBiblical",
-   "resolved_title": "Was Paul a trinitarian ?",
-   "resolved_url": "https://www.reddit.com/r/AcademicBiblical/comments/p3dx9h/was_paul_a_trinitarian/",
-   "time_updated": "2023-11-21T00:13:46Z",
-   "time_added": "2023-11-21T00:13:44Z"
+   "item_id": "3967618756",
+   "given_url": "https://medium.com/blob-streaming/programming-as-a-career-isnt-right-for-me-f9f0846fef82",
+   "given_title": "Programming As a Career Isn’t Right for Me | by Mohamed Aboelez | Blob-Stre",
+   "resolved_title": "Programming As a Career Isn’t Right for Me",
+   "resolved_url": "https://medium.com/blob-streaming/programming-as-a-career-isnt-right-for-me-f9f0846fef82",
+   "time_updated": "2023-11-24T10:44:01Z",
+   "time_added": "2023-11-24T10:44:01Z"
+  },
+  {
+   "item_id": "663926408",
+   "given_url": "https://www.youtube.com/watch?v=SpbZ1ODB5MA",
+   "given_title": "(29) Trio Nordestino - Procurando Tu - YouTube",
+   "resolved_title": "Trio Nordestino - Procurando Tu",
+   "resolved_url": "https://www.youtube.com/watch?v=SpbZ1ODB5MA",
+   "time_updated": "2023-11-24T11:25:06Z",
+   "time_added": "2023-11-24T11:25:06Z"
+  },
+  {
+   "item_id": "3970345285",
+   "given_url": "https://en.m.wiktionary.org/wiki/Tojo",
+   "given_title": "Tojo - Wiktionary, the free dictionary",
+   "resolved_title": "Tojo",
+   "resolved_url": "https://en.wiktionary.org/wiki/Tojo",
+   "time_updated": "2023-11-24T21:00:34Z",
+   "time_added": "2023-11-24T21:00:34Z"
+  },
+  {
+   "item_id": "2309891623",
+   "given_url": "https://www.nexojornal.com.br/explicado/2018/09/02/A-hist%C3%B3ria-do-canga%C3%A7o-mito-est%C3%A9tica-e-banditismo-no-sert%C3%A3o",
+   "given_title": "A história do cangaço: mito, estética e banditismo no sertão | Nexo Jornal",
+   "resolved_title": "A história do cangaço: mito, estética e banditismo no sertão",
+   "resolved_url": "https://www.nexojornal.com.br/explicado/2018/09/02/A-hist%C3%B3ria-do-canga%C3%A7o-mito-est%C3%A9tica-e-banditismo-no-sert%C3%A3o",
+   "time_updated": "2023-11-26T11:12:37Z",
+   "time_added": "2023-11-26T11:12:37Z"
+  },
+  {
+   "item_id": "399093887",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Diogo_Alves",
+   "given_title": "Diogo Alves – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Diogo Alves",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Diogo_Alves",
+   "time_updated": "2023-11-26T11:18:31Z",
+   "time_added": "2023-11-26T11:18:30Z"
+  },
+  {
+   "item_id": "3894608430",
+   "given_url": "https://www.youtube.com/watch?v=jKdkWTbUkIQ",
+   "given_title": "(15) Super Mario RPG Secrets - YouTube",
+   "resolved_title": "Super Mario RPG Secrets",
+   "resolved_url": "http://www.youtube.com/watch?v=jKdkWTbUkIQ",
+   "time_updated": "2023-11-22T21:14:33Z",
+   "time_added": "2023-11-22T21:14:33Z"
+  },
+  {
+   "item_id": "1170725539",
+   "given_url": "https://en.wikipedia.org/wiki/The_Theoretical_Minimum",
+   "given_title": "The Theoretical Minimum - Wikipedia",
+   "resolved_title": "The Theoretical Minimum",
+   "resolved_url": "https://en.wikipedia.org/wiki/The_Theoretical_Minimum",
+   "time_updated": "2023-11-24T22:35:21Z",
+   "time_added": "2023-11-24T22:35:21Z"
+  },
+  {
+   "item_id": "3968817750",
+   "given_url": "https://twitter.com/dwarkesh_sp/status/1727004083113128327",
+   "given_title": "Dwarkesh Patel no X: \"I still haven't heard a good answer to this question,",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/dwarkesh_sp/status/1727004083113128327",
+   "time_updated": "2023-11-21T18:25:41Z",
+   "time_added": "2023-11-21T18:25:40Z"
+  },
+  {
+   "item_id": "3957988383",
+   "given_url": "https://thecodingtrain.com/tracks",
+   "given_title": "Tracks / The Coding Train",
+   "resolved_title": "Support The Coding Train",
+   "resolved_url": "https://thecodingtrain.com/",
+   "time_updated": "2023-11-22T11:23:25Z",
+   "time_added": "2023-11-22T11:23:25Z"
+  },
+  {
+   "item_id": "3971034690",
+   "given_url": "https://www.medicina.ulisboa.pt/en/node/7591",
+   "given_title": "Visita guiada ao Teatro Anatómico | Faculdade de Medicina da Universidade d",
+   "resolved_title": "",
+   "resolved_url": "",
+   "time_updated": "2023-11-26T11:20:07Z",
+   "time_added": "2023-11-26T11:20:06Z"
+  },
+  {
+   "item_id": "3968907642",
+   "given_url": "https://twitter.com/theorizur/status/1726922924677120099",
+   "given_title": "r ⏹️ no X: \"My (completely speculative, I'm working with breadcrumbs here) ",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/theorizur/status/1726922924677120099",
+   "time_updated": "2023-11-21T22:20:21Z",
+   "time_added": "2023-11-21T22:20:20Z"
+  },
+  {
+   "item_id": "3969508652",
+   "given_url": "https://m.youtube.com/watch?v=6gjsAA_5Agk",
+   "given_title": "Can you beat Pokemon FireRed while blind and deaf? - YouTube",
+   "resolved_title": "Can you beat Pokemon FireRed while blind and deaf?",
+   "resolved_url": "http://www.youtube.com/watch?v=6gjsAA_5Agk",
+   "time_updated": "2023-11-23T01:54:00Z",
+   "time_added": "2023-11-23T01:53:59Z"
   },
   {
    "item_id": "8958762",
@@ -283,22 +238,40 @@
    "time_added": "2023-11-24T11:32:06Z"
   },
   {
-   "item_id": "3968357579",
-   "given_url": "https://news.ycombinator.com/item?id=38353330",
-   "given_title": "As I posted elsewhere, I think this is a conflict between Dustin Moskovitz ",
-   "resolved_title": "As I posted elsewhere, I think this is a conflict between Dustin Moskovitz and S... : Hacker News",
-   "resolved_url": "https://news.ycombinator.com/item?id=38353330",
-   "time_updated": "2023-11-20T20:06:05Z",
-   "time_added": "2023-11-20T20:06:03Z"
+   "item_id": "3655799906",
+   "given_url": "https://github.com/pocketbase/pocketbase",
+   "given_title": "GitHub - pocketbase/pocketbase: Open Source realtime backend in 1 file",
+   "resolved_title": "pocketbase/pocketbase",
+   "resolved_url": "https://github.com/pocketbase/pocketbase",
+   "time_updated": "2023-11-26T10:19:29Z",
+   "time_added": "2023-11-26T10:19:28Z"
   },
   {
-   "item_id": "3968406759",
-   "given_url": "https://twitter.com/eigenrobot/status/1726511890765844939",
-   "given_title": "eigenrobot no X: \"@Stenogabue @daniel_s_larson openai is way out ahead in a",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/eigenrobot/status/1726511890765844939",
-   "time_updated": "2023-11-20T22:17:56Z",
-   "time_added": "2023-11-20T22:17:55Z"
+   "item_id": "511091541",
+   "given_url": "https://en.m.wikipedia.org/wiki/Fat-tailed_sheep",
+   "given_title": "Fat-tailed sheep - Wikipedia",
+   "resolved_title": "Fat-tailed sheep",
+   "resolved_url": "https://en.wikipedia.org/wiki/Fat-tailed_sheep",
+   "time_updated": "2023-11-25T01:14:05Z",
+   "time_added": "2023-11-25T01:14:05Z"
+  },
+  {
+   "item_id": "1742023175",
+   "given_url": "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+   "given_title": "Reality has a surprising amount of detail",
+   "resolved_title": "Reality has a surprising amount of detail",
+   "resolved_url": "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+   "time_updated": "2023-11-25T01:22:52Z",
+   "time_added": "2023-11-25T01:22:51Z"
+  },
+  {
+   "item_id": "127881584",
+   "given_url": "https://en.m.wikipedia.org/wiki/Veerappan",
+   "given_title": "Veerappan - Wikipedia",
+   "resolved_title": "Veerappan",
+   "resolved_url": "https://en.wikipedia.org/wiki/Veerappan",
+   "time_updated": "2023-11-26T10:23:34Z",
+   "time_added": "2023-11-26T10:23:34Z"
   }
  ]
 }

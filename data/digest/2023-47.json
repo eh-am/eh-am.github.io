@@ -13,87 +13,6 @@
    "time_added": "2023-11-25T01:14:05Z"
   },
   {
-   "item_id": "34519124",
-   "given_url": "https://kenney.nl/",
-   "given_title": "Home · Kenney",
-   "resolved_title": "Kenney • Home",
-   "resolved_url": "https://kenney.nl",
-   "time_updated": "2023-11-26T00:49:19Z",
-   "time_added": "2023-11-26T00:49:19Z"
-  },
-  {
-   "item_id": "399093887",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Diogo_Alves",
-   "given_title": "Diogo Alves – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Diogo Alves",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Diogo_Alves",
-   "time_updated": "2023-11-26T11:18:31Z",
-   "time_added": "2023-11-26T11:18:30Z"
-  },
-  {
-   "item_id": "663926408",
-   "given_url": "https://www.youtube.com/watch?v=SpbZ1ODB5MA",
-   "given_title": "(29) Trio Nordestino - Procurando Tu - YouTube",
-   "resolved_title": "Trio Nordestino - Procurando Tu",
-   "resolved_url": "https://www.youtube.com/watch?v=SpbZ1ODB5MA",
-   "time_updated": "2023-11-24T11:25:06Z",
-   "time_added": "2023-11-24T11:25:06Z"
-  },
-  {
-   "item_id": "3970345285",
-   "given_url": "https://en.m.wiktionary.org/wiki/Tojo",
-   "given_title": "Tojo - Wiktionary, the free dictionary",
-   "resolved_title": "Tojo",
-   "resolved_url": "https://en.wiktionary.org/wiki/Tojo",
-   "time_updated": "2023-11-24T21:00:34Z",
-   "time_added": "2023-11-24T21:00:34Z"
-  },
-  {
-   "item_id": "3655799906",
-   "given_url": "https://github.com/pocketbase/pocketbase",
-   "given_title": "GitHub - pocketbase/pocketbase: Open Source realtime backend in 1 file",
-   "resolved_title": "pocketbase/pocketbase",
-   "resolved_url": "https://github.com/pocketbase/pocketbase",
-   "time_updated": "2023-11-26T10:19:29Z",
-   "time_added": "2023-11-26T10:19:28Z"
-  },
-  {
-   "item_id": "3971034690",
-   "given_url": "https://www.medicina.ulisboa.pt/en/node/7591",
-   "given_title": "Visita guiada ao Teatro Anatómico | Faculdade de Medicina da Universidade d",
-   "resolved_title": "",
-   "resolved_url": "",
-   "time_updated": "2023-11-26T11:20:07Z",
-   "time_added": "2023-11-26T11:20:06Z"
-  },
-  {
-   "item_id": "3967618756",
-   "given_url": "https://medium.com/blob-streaming/programming-as-a-career-isnt-right-for-me-f9f0846fef82",
-   "given_title": "Programming As a Career Isn’t Right for Me | by Mohamed Aboelez | Blob-Stre",
-   "resolved_title": "Programming As a Career Isn’t Right for Me",
-   "resolved_url": "https://medium.com/blob-streaming/programming-as-a-career-isnt-right-for-me-f9f0846fef82",
-   "time_updated": "2023-11-24T10:44:01Z",
-   "time_added": "2023-11-24T10:44:01Z"
-  },
-  {
-   "item_id": "3970347533",
-   "given_url": "https://dictionary.cambridge.org/pt/dicionario/ingles/peahen",
-   "given_title": "PEAHEN | Significado, definição em Dicionário Cambridge inglês",
-   "resolved_title": "peahen",
-   "resolved_url": "https://dictionary.cambridge.org/pt/dicionario/ingles/peahen",
-   "time_updated": "2023-11-24T19:39:24Z",
-   "time_added": "2023-11-24T19:39:23Z"
-  },
-  {
-   "item_id": "8958762",
-   "given_url": "https://en.wikipedia.org/wiki/L%C3%A9vy_flight",
-   "given_title": "Lévy flight - Wikipedia",
-   "resolved_title": "Lévy flight",
-   "resolved_url": "https://en.wikipedia.org/wiki/L%C3%A9vy_flight",
-   "time_updated": "2023-11-24T11:32:06Z",
-   "time_added": "2023-11-24T11:32:06Z"
-  },
-  {
    "item_id": "3969813008",
    "given_url": "https://garymarcus.substack.com/p/about-that-openai-breakthrough",
    "given_title": "About that OpenAI “breakthrough” - by Gary Marcus",
@@ -130,6 +49,24 @@
    "time_added": "2023-11-24T15:22:52Z"
   },
   {
+   "item_id": "1742023175",
+   "given_url": "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+   "given_title": "Reality has a surprising amount of detail",
+   "resolved_title": "Reality has a surprising amount of detail",
+   "resolved_url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+   "time_updated": "2023-11-25T01:22:52Z",
+   "time_added": "2023-11-25T01:22:51Z"
+  },
+  {
+   "item_id": "3967618756",
+   "given_url": "https://medium.com/blob-streaming/programming-as-a-career-isnt-right-for-me-f9f0846fef82",
+   "given_title": "Programming As a Career Isn’t Right for Me | by Mohamed Aboelez | Blob-Stre",
+   "resolved_title": "Programming As a Career Isn’t Right for Me",
+   "resolved_url": "https://medium.com/blob-streaming/programming-as-a-career-isnt-right-for-me-f9f0846fef82",
+   "time_updated": "2023-11-24T10:44:01Z",
+   "time_added": "2023-11-24T10:44:01Z"
+  },
+  {
    "item_id": "1170725539",
    "given_url": "https://en.wikipedia.org/wiki/The_Theoretical_Minimum",
    "given_title": "The Theoretical Minimum - Wikipedia",
@@ -139,13 +76,22 @@
    "time_added": "2023-11-24T22:35:21Z"
   },
   {
-   "item_id": "1742023175",
-   "given_url": "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
-   "given_title": "Reality has a surprising amount of detail",
-   "resolved_title": "Reality has a surprising amount of detail",
-   "resolved_url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
-   "time_updated": "2023-11-25T01:22:52Z",
-   "time_added": "2023-11-25T01:22:51Z"
+   "item_id": "3971034690",
+   "given_url": "https://www.medicina.ulisboa.pt/en/node/7591",
+   "given_title": "Visita guiada ao Teatro Anatómico | Faculdade de Medicina da Universidade d",
+   "resolved_title": "",
+   "resolved_url": "",
+   "time_updated": "2023-11-26T11:20:07Z",
+   "time_added": "2023-11-26T11:20:06Z"
+  },
+  {
+   "item_id": "3970347533",
+   "given_url": "https://dictionary.cambridge.org/pt/dicionario/ingles/peahen",
+   "given_title": "PEAHEN | Significado, definição em Dicionário Cambridge inglês",
+   "resolved_title": "peahen",
+   "resolved_url": "https://dictionary.cambridge.org/pt/dicionario/ingles/peahen",
+   "time_updated": "2023-11-24T19:39:24Z",
+   "time_added": "2023-11-24T19:39:23Z"
   },
   {
    "item_id": "204976492",
@@ -157,13 +103,40 @@
    "time_added": "2023-11-25T20:18:38Z"
   },
   {
-   "item_id": "2309891623",
-   "given_url": "https://www.nexojornal.com.br/explicado/2018/09/02/A-hist%C3%B3ria-do-canga%C3%A7o-mito-est%C3%A9tica-e-banditismo-no-sert%C3%A3o",
-   "given_title": "A história do cangaço: mito, estética e banditismo no sertão | Nexo Jornal",
-   "resolved_title": "A história do cangaço: mito, estética e banditismo no sertão",
-   "resolved_url": "https://www.nexojornal.com.br/explicado/2018/09/02/A-hist%C3%B3ria-do-canga%C3%A7o-mito-est%C3%A9tica-e-banditismo-no-sert%C3%A3o",
-   "time_updated": "2023-11-26T11:12:37Z",
-   "time_added": "2023-11-26T11:12:37Z"
+   "item_id": "663926408",
+   "given_url": "https://www.youtube.com/watch?v=SpbZ1ODB5MA",
+   "given_title": "(29) Trio Nordestino - Procurando Tu - YouTube",
+   "resolved_title": "Trio Nordestino - Procurando Tu",
+   "resolved_url": "https://www.youtube.com/watch?v=SpbZ1ODB5MA",
+   "time_updated": "2023-11-24T11:25:06Z",
+   "time_added": "2023-11-24T11:25:06Z"
+  },
+  {
+   "item_id": "34519124",
+   "given_url": "https://kenney.nl/",
+   "given_title": "Home · Kenney",
+   "resolved_title": "Kenney • Home",
+   "resolved_url": "https://kenney.nl",
+   "time_updated": "2023-11-26T00:49:19Z",
+   "time_added": "2023-11-26T00:49:19Z"
+  },
+  {
+   "item_id": "399093887",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Diogo_Alves",
+   "given_title": "Diogo Alves – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Diogo Alves",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Diogo_Alves",
+   "time_updated": "2023-11-26T11:18:31Z",
+   "time_added": "2023-11-26T11:18:30Z"
+  },
+  {
+   "item_id": "3970345285",
+   "given_url": "https://en.m.wiktionary.org/wiki/Tojo",
+   "given_title": "Tojo - Wiktionary, the free dictionary",
+   "resolved_title": "Tojo",
+   "resolved_url": "https://en.wiktionary.org/wiki/Tojo",
+   "time_updated": "2023-11-24T21:00:34Z",
+   "time_added": "2023-11-24T21:00:34Z"
   },
   {
    "item_id": "3208195670",
@@ -175,13 +148,31 @@
    "time_added": "2023-11-24T10:08:17Z"
   },
   {
-   "item_id": "3969508652",
-   "given_url": "https://m.youtube.com/watch?v=6gjsAA_5Agk",
-   "given_title": "Can you beat Pokemon FireRed while blind and deaf? - YouTube",
-   "resolved_title": "Can you beat Pokemon FireRed while blind and deaf?",
-   "resolved_url": "http://www.youtube.com/watch?v=6gjsAA_5Agk",
-   "time_updated": "2023-11-23T01:54:00Z",
-   "time_added": "2023-11-23T01:53:59Z"
+   "item_id": "8958762",
+   "given_url": "https://en.wikipedia.org/wiki/L%C3%A9vy_flight",
+   "given_title": "Lévy flight - Wikipedia",
+   "resolved_title": "Lévy flight",
+   "resolved_url": "https://en.wikipedia.org/wiki/L%C3%A9vy_flight",
+   "time_updated": "2023-11-24T11:32:06Z",
+   "time_added": "2023-11-24T11:32:06Z"
+  },
+  {
+   "item_id": "3655799906",
+   "given_url": "https://github.com/pocketbase/pocketbase",
+   "given_title": "GitHub - pocketbase/pocketbase: Open Source realtime backend in 1 file",
+   "resolved_title": "pocketbase/pocketbase",
+   "resolved_url": "https://github.com/pocketbase/pocketbase",
+   "time_updated": "2023-11-26T10:19:29Z",
+   "time_added": "2023-11-26T10:19:28Z"
+  },
+  {
+   "item_id": "2309891623",
+   "given_url": "https://www.nexojornal.com.br/explicado/2018/09/02/A-hist%C3%B3ria-do-canga%C3%A7o-mito-est%C3%A9tica-e-banditismo-no-sert%C3%A3o",
+   "given_title": "A história do cangaço: mito, estética e banditismo no sertão | Nexo Jornal",
+   "resolved_title": "A história do cangaço: mito, estética e banditismo no sertão",
+   "resolved_url": "https://www.nexojornal.com.br/explicado/2018/09/02/A-hist%C3%B3ria-do-canga%C3%A7o-mito-est%C3%A9tica-e-banditismo-no-sert%C3%A3o",
+   "time_updated": "2023-11-26T11:12:37Z",
+   "time_added": "2023-11-26T11:12:37Z"
   }
  ]
 }

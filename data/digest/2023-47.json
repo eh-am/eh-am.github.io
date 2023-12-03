@@ -4,15 +4,6 @@
  "sortKey": "2023-47",
  "items": [
   {
-   "item_id": "34519124",
-   "given_url": "https://kenney.nl/",
-   "given_title": "Home · Kenney",
-   "resolved_title": "Kenney • Home",
-   "resolved_url": "https://kenney.nl",
-   "time_updated": "2023-11-26T00:49:19Z",
-   "time_added": "2023-11-26T00:49:19Z"
-  },
-  {
    "item_id": "3655799906",
    "given_url": "https://github.com/pocketbase/pocketbase",
    "given_title": "GitHub - pocketbase/pocketbase: Open Source realtime backend in 1 file",
@@ -22,13 +13,13 @@
    "time_added": "2023-11-26T10:19:28Z"
   },
   {
-   "item_id": "3969813008",
-   "given_url": "https://garymarcus.substack.com/p/about-that-openai-breakthrough",
-   "given_title": "About that OpenAI “breakthrough” - by Gary Marcus",
-   "resolved_title": "About that OpenAI “breakthrough”",
-   "resolved_url": "https://garymarcus.substack.com/p/about-that-openai-breakthrough",
-   "time_updated": "2023-11-26T01:17:30Z",
-   "time_added": "2023-11-26T01:17:30Z"
+   "item_id": "3971034690",
+   "given_url": "https://www.medicina.ulisboa.pt/en/node/7591",
+   "given_title": "Visita guiada ao Teatro Anatómico | Faculdade de Medicina da Universidade d",
+   "resolved_title": "",
+   "resolved_url": "",
+   "time_updated": "2023-11-26T11:20:07Z",
+   "time_added": "2023-11-26T11:20:06Z"
   },
   {
    "item_id": "127881584",
@@ -38,6 +29,24 @@
    "resolved_url": "https://en.wikipedia.org/wiki/Veerappan",
    "time_updated": "2023-11-26T10:23:34Z",
    "time_added": "2023-11-26T10:23:34Z"
+  },
+  {
+   "item_id": "2272994376",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Lampi%C3%A3o_(cangaceiro)",
+   "given_title": "Lampião (cangaceiro) – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Lampião (cangaceiro)",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Lampi%C3%A3o_(cangaceiro)",
+   "time_updated": "2023-11-26T10:43:49Z",
+   "time_added": "2023-11-26T10:43:48Z"
+  },
+  {
+   "item_id": "3969813008",
+   "given_url": "https://garymarcus.substack.com/p/about-that-openai-breakthrough",
+   "given_title": "About that OpenAI “breakthrough” - by Gary Marcus",
+   "resolved_title": "About that OpenAI “breakthrough”",
+   "resolved_url": "https://garymarcus.substack.com/p/about-that-openai-breakthrough",
+   "time_updated": "2023-11-26T01:17:30Z",
+   "time_added": "2023-11-26T01:17:30Z"
   },
   {
    "item_id": "2309891623",
@@ -56,33 +65,6 @@
    "resolved_url": "https://pt.wikipedia.org/wiki/Diogo_Alves",
    "time_updated": "2023-11-26T11:18:31Z",
    "time_added": "2023-11-26T11:18:30Z"
-  },
-  {
-   "item_id": "204976492",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Lectio_Divina",
-   "given_title": "Lectio Divina – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Lectio Divina",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Lectio_Divina",
-   "time_updated": "2023-11-25T20:18:39Z",
-   "time_added": "2023-11-25T20:18:38Z"
-  },
-  {
-   "item_id": "3971034690",
-   "given_url": "https://www.medicina.ulisboa.pt/en/node/7591",
-   "given_title": "Visita guiada ao Teatro Anatómico | Faculdade de Medicina da Universidade d",
-   "resolved_title": "",
-   "resolved_url": "",
-   "time_updated": "2023-11-26T11:20:07Z",
-   "time_added": "2023-11-26T11:20:06Z"
-  },
-  {
-   "item_id": "2272994376",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Lampi%C3%A3o_(cangaceiro)",
-   "given_title": "Lampião (cangaceiro) – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Lampião (cangaceiro)",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Lampi%C3%A3o_(cangaceiro)",
-   "time_updated": "2023-11-26T10:43:49Z",
-   "time_added": "2023-11-26T10:43:48Z"
   }
  ]
 }

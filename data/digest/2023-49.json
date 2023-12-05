@@ -4,6 +4,24 @@
  "sortKey": "2023-49",
  "items": [
   {
+   "item_id": "2596041085",
+   "given_url": "https://www.youtube.com/watch?v=WHvglCTNimk",
+   "given_title": "(20) Mudhoney When Tomorrow Hits - YouTube",
+   "resolved_title": "Mudhoney When Tomorrow Hits",
+   "resolved_url": "https://www.youtube.com/watch?v=WHvglCTNimk",
+   "time_updated": "2023-12-05T11:43:24Z",
+   "time_added": "2023-12-05T11:43:24Z"
+  },
+  {
+   "item_id": "3648028927",
+   "given_url": "https://g1.globo.com/ce/ceara/noticia/2022/06/26/ha-80-anos-diretor-orson-welles-gravou-filme-no-brasil-que-nunca-foi-lancado-entenda.ghtml",
+   "given_title": "Há 80 anos, diretor Orson Welles gravou filme no Brasil que nunca foi lança",
+   "resolved_title": "Há 80 anos, diretor Orson Welles gravou filme no Brasil que nunca foi lançado; entenda",
+   "resolved_url": "https://g1.globo.com/ce/ceara/noticia/2022/06/26/ha-80-anos-diretor-orson-welles-gravou-filme-no-brasil-que-nunca-foi-lancado-entenda.ghtml",
+   "time_updated": "2023-12-05T01:04:21Z",
+   "time_added": "2023-12-05T01:04:21Z"
+  },
+  {
    "item_id": "3865938469",
    "given_url": "https://www.rtings.com/tv/reviews/samsung/cu7000-cu7000d/settings",
    "given_title": "Samsung CU7000/CU7000D Calibration Settings - RTINGS.com",
@@ -11,6 +29,24 @@
    "resolved_url": "https://www.rtings.com/tv/reviews/samsung/cu7000-cu7000d/settings",
    "time_updated": "2023-12-04T19:51:05Z",
    "time_added": "2023-12-04T19:51:05Z"
+  },
+  {
+   "item_id": "3187161330",
+   "given_url": "https://en.m.wikipedia.org/wiki/Jouhatsu",
+   "given_title": "Jouhatsu - Wikipedia",
+   "resolved_title": "Jouhatsu",
+   "resolved_url": "https://en.wikipedia.org/wiki/Jouhatsu",
+   "time_updated": "2023-12-05T10:46:28Z",
+   "time_added": "2023-12-05T10:46:28Z"
+  },
+  {
+   "item_id": "3975469808",
+   "given_url": "https://www.youtube.com/watch?v=z6r_Aj6fIGc",
+   "given_title": "(20) SPECTRUM MEETS CAPTAIN MEMPHIS - WHEN TOMORROW HITS [MUDHONEY COVER].w",
+   "resolved_title": "SPECTRUM MEETS CAPTAIN MEMPHIS - WHEN TOMORROW HITS [MUDHONEY COVER].wmv",
+   "resolved_url": "https://www.youtube.com/watch?v=z6r_Aj6fIGc",
+   "time_updated": "2023-12-05T11:43:48Z",
+   "time_added": "2023-12-05T11:43:48Z"
   }
  ]
 }

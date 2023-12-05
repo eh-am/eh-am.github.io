@@ -4,24 +4,6 @@
  "sortKey": "2023-48",
  "items": [
   {
-   "item_id": "3547644514",
-   "given_url": "https://m.youtube.com/watch?v=fJITsWCua1M",
-   "given_title": "Martin Luther and the 95 Theses - YouTube",
-   "resolved_title": "Martin Luther and the 95 Theses",
-   "resolved_url": "http://www.youtube.com/watch?v=fJITsWCua1M",
-   "time_updated": "2023-11-29T17:32:54Z",
-   "time_added": "2023-11-29T17:32:54Z"
-  },
-  {
-   "item_id": "3973075442",
-   "given_url": "https://natureofcodeunity.com/",
-   "given_title": "The Nature of Code Unity Remix - Home",
-   "resolved_title": "The Nature of Code Unity Remix",
-   "resolved_url": "https://natureofcodeunity.com/",
-   "time_updated": "2023-11-30T11:23:36Z",
-   "time_added": "2023-11-30T11:23:35Z"
-  },
-  {
    "item_id": "3561382928",
    "given_url": "https://en.wikipedia.org/wiki/I_Am_a_Cat#Cultural_impact",
    "given_title": "I Am a Cat - Wikipedia",
@@ -29,33 +11,6 @@
    "resolved_url": "https://en.wikipedia.org/wiki/I_Am_a_Cat",
    "time_updated": "2023-12-01T00:01:06Z",
    "time_added": "2023-12-01T00:01:06Z"
-  },
-  {
-   "item_id": "3725875524",
-   "given_url": "https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/#Tools2",
-   "given_title": "Steam Deck Emulation Starter Guide – Retro Game Corps",
-   "resolved_title": "Steam Deck Emulation Starter Guide",
-   "resolved_url": "https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/",
-   "time_updated": "2023-12-02T18:35:45Z",
-   "time_added": "2023-12-02T18:35:45Z"
-  },
-  {
-   "item_id": "3974652935",
-   "given_url": "https://rateyourmusic.com/list/GalacticHole/learning-japanese-with-ps1-games-and-more/",
-   "given_title": "Learning Japanese with PS1 Games (and more!) - Rate Your Music",
-   "resolved_title": "",
-   "resolved_url": "https://rateyourmusic.com/list/GalacticHole/learning-japanese-with-ps1-games-and-more/",
-   "time_updated": "2023-12-03T19:48:21Z",
-   "time_added": "2023-12-03T19:48:21Z"
-  },
-  {
-   "item_id": "3683151807",
-   "given_url": "https://docs.google.com/document/d/1ao6nSg4BJYxW3mhUVa6pZaVbNgq0WjXu9oYvMYCgk_M/edit#",
-   "given_title": "Aulas Eduardo - Sho - Google Docs",
-   "resolved_title": "",
-   "resolved_url": "https://accounts.google.com/v3/signin/identifier",
-   "time_updated": "2023-11-28T17:07:41Z",
-   "time_added": "2023-11-28T17:07:41Z"
   },
   {
    "item_id": "2096725457",
@@ -67,6 +22,15 @@
    "time_added": "2023-12-02T00:06:06Z"
   },
   {
+   "item_id": "3725875524",
+   "given_url": "https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/#Tools2",
+   "given_title": "Steam Deck Emulation Starter Guide – Retro Game Corps",
+   "resolved_title": "Steam Deck Emulation Starter Guide",
+   "resolved_url": "https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/",
+   "time_updated": "2023-12-02T18:35:45Z",
+   "time_added": "2023-12-02T18:35:45Z"
+  },
+  {
    "item_id": "3974063311",
    "given_url": "https://www.htmhell.dev/adventcalendar/2023/2/",
    "given_title": "You don't need JavaScript for that - HTMHell",
@@ -76,40 +40,13 @@
    "time_added": "2023-12-02T18:45:59Z"
   },
   {
-   "item_id": "1092031134",
-   "given_url": "https://japanese.stackexchange.com/questions/9790/what-are-the-differences-between-%E7%9B%AE%E7%9A%84-and-%E7%9B%AE%E6%A8%99",
-   "given_title": "word choice - What are the differences between「目的」and 「目標」? - Japanese Lang",
-   "resolved_title": "word choice : What are the differences between「目的」and 「目標」?",
-   "resolved_url": "http://japanese.stackexchange.com/questions/9790/what-are-the-differences-between-%E7%9B%AE%E7%9A%84-and-%E7%9B%AE%E6%A8%99",
-   "time_updated": "2023-12-03T18:58:11Z",
-   "time_added": "2023-12-03T18:58:09Z"
-  },
-  {
-   "item_id": "3512694436",
-   "given_url": "https://fabiensanglard.net/sf2_health_bar/index.html",
-   "given_title": "Street Fighter II, subtile accurate animation",
-   "resolved_title": "Street Fighter II, subtile accurate animation",
-   "resolved_url": "https://fabiensanglard.net/sf2_health_bar/",
-   "time_updated": "2023-11-27T16:29:53Z",
-   "time_added": "2023-11-27T16:29:52Z"
-  },
-  {
-   "item_id": "3971610854",
-   "given_url": "https://www.youtube.com/watch?v=Vtql-XIDO24",
-   "given_title": "(52) Acceleration on a Circle: Why we get a Perpendicular Component - YouTu",
-   "resolved_title": "Acceleration on a Circle: Why we get a Perpendicular Component",
-   "resolved_url": "https://www.youtube.com/watch?v=Vtql-XIDO24",
-   "time_updated": "2023-11-27T15:28:28Z",
-   "time_added": "2023-11-27T15:28:27Z"
-  },
-  {
-   "item_id": "3971624078",
-   "given_url": "https://www.youtube.com/watch?v=cKgknCnuQ3A",
-   "given_title": "(52) Velocity and Acceleration for Circular Motion - YouTube",
-   "resolved_title": "Velocity and Acceleration for Circular Motion",
-   "resolved_url": "https://www.youtube.com/watch?v=cKgknCnuQ3A",
-   "time_updated": "2023-11-27T15:59:03Z",
-   "time_added": "2023-11-27T15:59:02Z"
+   "item_id": "1144731731",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Jo%C3%A3o_Ramalho",
+   "given_title": "João Ramalho – Wikipédia, a enciclopédia livre",
+   "resolved_title": "João Ramalho",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Jo%C3%A3o_Ramalho",
+   "time_updated": "2023-11-28T09:26:43Z",
+   "time_added": "2023-11-28T09:26:41Z"
   },
   {
    "item_id": "3972073272",
@@ -121,13 +58,13 @@
    "time_added": "2023-11-28T13:18:35Z"
   },
   {
-   "item_id": "3970310699",
-   "given_url": "https://g1.globo.com/go/goias/noticia/2023/11/24/menino-que-comeu-lagartixa-frita-recebe-alta-apos-apresentar-melhora-diz-mae.ghtml",
-   "given_title": "Menino que comeu lagartixa frita recebe alta de hospital após apresentar me",
-   "resolved_title": "Menino que comeu lagartixa frita recebe alta de hospital após apresentar melhora, diz mãe",
-   "resolved_url": "https://g1.globo.com/go/goias/noticia/2023/11/24/menino-que-comeu-lagartixa-frita-recebe-alta-apos-apresentar-melhora-diz-mae.ghtml",
-   "time_updated": "2023-11-29T01:00:14Z",
-   "time_added": "2023-11-29T01:00:13Z"
+   "item_id": "3972511534",
+   "given_url": "https://www.sil.org/blog/language-and-poverty",
+   "given_title": "Language and Poverty | SIL International",
+   "resolved_title": "Language and Poverty",
+   "resolved_url": "https://www.sil.org/blog/language-and-poverty",
+   "time_updated": "2023-11-29T13:06:33Z",
+   "time_added": "2023-11-29T13:06:32Z"
   },
   {
    "item_id": "1159553717",
@@ -137,6 +74,69 @@
    "resolved_url": "https://www.oipolloi.com/blogs/the-blog/81211203-interview-david-patrick-kelly/",
    "time_updated": "2023-11-30T23:22:07Z",
    "time_added": "2023-11-30T23:22:07Z"
+  },
+  {
+   "item_id": "1427791537",
+   "given_url": "https://hackernewsbooks.com/top-books-on-hacker-news",
+   "given_title": "Top Hacker News Books of All Time",
+   "resolved_title": "Top Hacker News Books of All Time",
+   "resolved_url": "https://hackernewsbooks.com/top-books-on-hacker-news",
+   "time_updated": "2023-12-03T13:14:44Z",
+   "time_added": "2023-12-03T13:14:42Z"
+  },
+  {
+   "item_id": "3683151807",
+   "given_url": "https://docs.google.com/document/d/1ao6nSg4BJYxW3mhUVa6pZaVbNgq0WjXu9oYvMYCgk_M/edit#",
+   "given_title": "Aulas Eduardo - Sho - Google Docs",
+   "resolved_title": "",
+   "resolved_url": "https://accounts.google.com/v3/signin/identifier",
+   "time_updated": "2023-11-28T17:07:41Z",
+   "time_added": "2023-11-28T17:07:41Z"
+  },
+  {
+   "item_id": "3547644514",
+   "given_url": "https://m.youtube.com/watch?v=fJITsWCua1M",
+   "given_title": "Martin Luther and the 95 Theses - YouTube",
+   "resolved_title": "Martin Luther and the 95 Theses",
+   "resolved_url": "http://www.youtube.com/watch?v=fJITsWCua1M",
+   "time_updated": "2023-11-29T17:32:54Z",
+   "time_added": "2023-11-29T17:32:54Z"
+  },
+  {
+   "item_id": "1092031134",
+   "given_url": "https://japanese.stackexchange.com/questions/9790/what-are-the-differences-between-%E7%9B%AE%E7%9A%84-and-%E7%9B%AE%E6%A8%99",
+   "given_title": "word choice - What are the differences between「目的」and 「目標」? - Japanese Lang",
+   "resolved_title": "word choice : What are the differences between「目的」and 「目標」?",
+   "resolved_url": "http://japanese.stackexchange.com/questions/9790/what-are-the-differences-between-%E7%9B%AE%E7%9A%84-and-%E7%9B%AE%E6%A8%99",
+   "time_updated": "2023-12-03T18:58:11Z",
+   "time_added": "2023-12-03T18:58:09Z"
+  },
+  {
+   "item_id": "3974652935",
+   "given_url": "https://rateyourmusic.com/list/GalacticHole/learning-japanese-with-ps1-games-and-more/",
+   "given_title": "Learning Japanese with PS1 Games (and more!) - Rate Your Music",
+   "resolved_title": "",
+   "resolved_url": "https://rateyourmusic.com/list/GalacticHole/learning-japanese-with-ps1-games-and-more/",
+   "time_updated": "2023-12-03T19:48:21Z",
+   "time_added": "2023-12-03T19:48:21Z"
+  },
+  {
+   "item_id": "3970310699",
+   "given_url": "https://g1.globo.com/go/goias/noticia/2023/11/24/menino-que-comeu-lagartixa-frita-recebe-alta-apos-apresentar-melhora-diz-mae.ghtml",
+   "given_title": "Menino que comeu lagartixa frita recebe alta de hospital após apresentar me",
+   "resolved_title": "Menino que comeu lagartixa frita recebe alta de hospital após apresentar melhora, diz mãe",
+   "resolved_url": "https://g1.globo.com/go/goias/noticia/2023/11/24/menino-que-comeu-lagartixa-frita-recebe-alta-apos-apresentar-melhora-diz-mae.ghtml",
+   "time_updated": "2023-11-29T01:00:14Z",
+   "time_added": "2023-11-29T01:00:13Z"
+  },
+  {
+   "item_id": "3973075442",
+   "given_url": "https://natureofcodeunity.com/",
+   "given_title": "The Nature of Code Unity Remix - Home",
+   "resolved_title": "The Nature of Code Unity Remix",
+   "resolved_url": "https://natureofcodeunity.com/",
+   "time_updated": "2023-11-30T11:23:36Z",
+   "time_added": "2023-11-30T11:23:35Z"
   },
   {
    "item_id": "3973870935",
@@ -155,51 +155,6 @@
    "resolved_url": "https://sqlsync.dev/posts/stop-building-databases/",
    "time_updated": "2023-12-02T00:54:02Z",
    "time_added": "2023-12-02T00:54:01Z"
-  },
-  {
-   "item_id": "3971584742",
-   "given_url": "https://www.youtube.com/watch?v=LIFSZfJ6s9A",
-   "given_title": "(52) Super Mario RPG - 100 Super Jumps - YouTube",
-   "resolved_title": "Super Mario RPG - 100 Super Jumps",
-   "resolved_url": "https://www.youtube.com/watch?v=LIFSZfJ6s9A",
-   "time_updated": "2023-11-27T14:28:47Z",
-   "time_added": "2023-11-27T14:28:46Z"
-  },
-  {
-   "item_id": "1427791537",
-   "given_url": "https://hackernewsbooks.com/top-books-on-hacker-news",
-   "given_title": "Top Hacker News Books of All Time",
-   "resolved_title": "Top Hacker News Books of All Time",
-   "resolved_url": "https://hackernewsbooks.com/top-books-on-hacker-news",
-   "time_updated": "2023-12-03T13:14:44Z",
-   "time_added": "2023-12-03T13:14:42Z"
-  },
-  {
-   "item_id": "1144731731",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Jo%C3%A3o_Ramalho",
-   "given_title": "João Ramalho – Wikipédia, a enciclopédia livre",
-   "resolved_title": "João Ramalho",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Jo%C3%A3o_Ramalho",
-   "time_updated": "2023-11-28T09:26:43Z",
-   "time_added": "2023-11-28T09:26:41Z"
-  },
-  {
-   "item_id": "3972511534",
-   "given_url": "https://www.sil.org/blog/language-and-poverty",
-   "given_title": "Language and Poverty | SIL International",
-   "resolved_title": "Language and Poverty",
-   "resolved_url": "https://www.sil.org/blog/language-and-poverty",
-   "time_updated": "2023-11-29T13:06:33Z",
-   "time_added": "2023-11-29T13:06:32Z"
-  },
-  {
-   "item_id": "3822865084",
-   "given_url": "https://xeiaso.net/blog/a-weapon-to-surpass-metal-gear/",
-   "given_title": "A weapon to surpass Metal Gear - Xe Iaso",
-   "resolved_title": "A weapon to surpass Metal Gear",
-   "resolved_url": "https://xeiaso.net/blog/a-weapon-to-surpass-metal-gear",
-   "time_updated": "2023-11-27T19:20:39Z",
-   "time_added": "2023-11-27T19:20:39Z"
   }
  ]
 }

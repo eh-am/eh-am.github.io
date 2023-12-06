@@ -4,42 +4,6 @@
  "sortKey": "2023-48",
  "items": [
   {
-   "item_id": "1159553717",
-   "given_url": "https://www.oipolloi.com/blogs/the-blog/81211203-interview-david-patrick-kelly/",
-   "given_title": "Interview: David Patrick Kelly | Oi Polloi",
-   "resolved_title": "Interview: David Patrick Kelly",
-   "resolved_url": "https://www.oipolloi.com/blogs/the-blog/81211203-interview-david-patrick-kelly/",
-   "time_updated": "2023-11-30T23:22:07Z",
-   "time_added": "2023-11-30T23:22:07Z"
-  },
-  {
-   "item_id": "3725875524",
-   "given_url": "https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/#Tools2",
-   "given_title": "Steam Deck Emulation Starter Guide – Retro Game Corps",
-   "resolved_title": "Steam Deck Emulation Starter Guide",
-   "resolved_url": "https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/",
-   "time_updated": "2023-12-02T18:35:45Z",
-   "time_added": "2023-12-02T18:35:45Z"
-  },
-  {
-   "item_id": "3972511534",
-   "given_url": "https://www.sil.org/blog/language-and-poverty",
-   "given_title": "Language and Poverty | SIL International",
-   "resolved_title": "Language and Poverty",
-   "resolved_url": "https://www.sil.org/blog/language-and-poverty",
-   "time_updated": "2023-11-29T13:06:33Z",
-   "time_added": "2023-11-29T13:06:32Z"
-  },
-  {
-   "item_id": "3973075442",
-   "given_url": "https://natureofcodeunity.com/",
-   "given_title": "The Nature of Code Unity Remix - Home",
-   "resolved_title": "The Nature of Code Unity Remix",
-   "resolved_url": "https://natureofcodeunity.com/",
-   "time_updated": "2023-11-30T11:23:36Z",
-   "time_added": "2023-11-30T11:23:35Z"
-  },
-  {
    "item_id": "3974063311",
    "given_url": "https://www.htmhell.dev/adventcalendar/2023/2/",
    "given_title": "You don't need JavaScript for that - HTMHell",
@@ -47,33 +11,6 @@
    "resolved_url": "https://htmhell.dev/adventcalendar/2023/2/",
    "time_updated": "2023-12-02T18:45:59Z",
    "time_added": "2023-12-02T18:45:59Z"
-  },
-  {
-   "item_id": "3972073272",
-   "given_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2023/11/28/tite-e-felipao-romperam-amizade-e-nao-se-falam-ha-13-anos-o-que-aconteceu.htm",
-   "given_title": "Tite e Felipão romperam amizade e não se falam há 13 anos. Por que?",
-   "resolved_title": "Tite e Felipão não se falam há 13 anos e romperam amizade. O que aconteceu?",
-   "resolved_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2023/11/28/tite-e-felipao-romperam-amizade-e-nao-se-falam-ha-13-anos-o-que-aconteceu.htm",
-   "time_updated": "2023-11-28T13:18:36Z",
-   "time_added": "2023-11-28T13:18:35Z"
-  },
-  {
-   "item_id": "3970310699",
-   "given_url": "https://g1.globo.com/go/goias/noticia/2023/11/24/menino-que-comeu-lagartixa-frita-recebe-alta-apos-apresentar-melhora-diz-mae.ghtml",
-   "given_title": "Menino que comeu lagartixa frita recebe alta de hospital após apresentar me",
-   "resolved_title": "Menino que comeu lagartixa frita recebe alta de hospital após apresentar melhora, diz mãe",
-   "resolved_url": "https://g1.globo.com/go/goias/noticia/2023/11/24/menino-que-comeu-lagartixa-frita-recebe-alta-apos-apresentar-melhora-diz-mae.ghtml",
-   "time_updated": "2023-11-29T01:00:14Z",
-   "time_added": "2023-11-29T01:00:13Z"
-  },
-  {
-   "item_id": "3973252701",
-   "given_url": "https://sqlsync.dev/posts/stop-building-databases/",
-   "given_title": "SQLSync - Stop building databases",
-   "resolved_title": "Stop building databases",
-   "resolved_url": "https://sqlsync.dev/posts/stop-building-databases/",
-   "time_updated": "2023-12-02T00:54:02Z",
-   "time_added": "2023-12-02T00:54:01Z"
   },
   {
    "item_id": "1427791537",
@@ -85,6 +22,33 @@
    "time_added": "2023-12-03T13:14:42Z"
   },
   {
+   "item_id": "3972511534",
+   "given_url": "https://www.sil.org/blog/language-and-poverty",
+   "given_title": "Language and Poverty | SIL International",
+   "resolved_title": "Language and Poverty",
+   "resolved_url": "https://www.sil.org/blog/language-and-poverty",
+   "time_updated": "2023-11-29T13:06:33Z",
+   "time_added": "2023-11-29T13:06:32Z"
+  },
+  {
+   "item_id": "3547644514",
+   "given_url": "https://m.youtube.com/watch?v=fJITsWCua1M",
+   "given_title": "Martin Luther and the 95 Theses - YouTube",
+   "resolved_title": "Martin Luther and the 95 Theses",
+   "resolved_url": "http://www.youtube.com/watch?v=fJITsWCua1M",
+   "time_updated": "2023-11-29T17:32:54Z",
+   "time_added": "2023-11-29T17:32:54Z"
+  },
+  {
+   "item_id": "3973075442",
+   "given_url": "https://natureofcodeunity.com/",
+   "given_title": "The Nature of Code Unity Remix - Home",
+   "resolved_title": "The Nature of Code Unity Remix",
+   "resolved_url": "https://natureofcodeunity.com/",
+   "time_updated": "2023-11-30T11:23:36Z",
+   "time_added": "2023-11-30T11:23:35Z"
+  },
+  {
    "item_id": "3561382928",
    "given_url": "https://en.wikipedia.org/wiki/I_Am_a_Cat#Cultural_impact",
    "given_title": "I Am a Cat - Wikipedia",
@@ -92,6 +56,15 @@
    "resolved_url": "https://en.wikipedia.org/wiki/I_Am_a_Cat",
    "time_updated": "2023-12-01T00:01:06Z",
    "time_added": "2023-12-01T00:01:06Z"
+  },
+  {
+   "item_id": "3973870935",
+   "given_url": "https://askubuntu.com/questions/1380493/access-server-on-local-area-network-with-hostname-instead-of-ip-address/1380662#1380662",
+   "given_title": "networking - Access server on local area network with hostname instead of I",
+   "resolved_title": "Access server on local area network with hostname instead of IP address",
+   "resolved_url": "https://askubuntu.com/questions/1380493/access-server-on-local-area-network-with-hostname-instead-of-ip-address",
+   "time_updated": "2023-12-02T00:04:37Z",
+   "time_added": "2023-12-02T00:04:35Z"
   },
   {
    "item_id": "2096725457",
@@ -103,13 +76,13 @@
    "time_added": "2023-12-02T00:06:06Z"
   },
   {
-   "item_id": "3973870935",
-   "given_url": "https://askubuntu.com/questions/1380493/access-server-on-local-area-network-with-hostname-instead-of-ip-address/1380662#1380662",
-   "given_title": "networking - Access server on local area network with hostname instead of I",
-   "resolved_title": "Access server on local area network with hostname instead of IP address",
-   "resolved_url": "https://askubuntu.com/questions/1380493/access-server-on-local-area-network-with-hostname-instead-of-ip-address",
-   "time_updated": "2023-12-02T00:04:37Z",
-   "time_added": "2023-12-02T00:04:35Z"
+   "item_id": "3725875524",
+   "given_url": "https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/#Tools2",
+   "given_title": "Steam Deck Emulation Starter Guide – Retro Game Corps",
+   "resolved_title": "Steam Deck Emulation Starter Guide",
+   "resolved_url": "https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/",
+   "time_updated": "2023-12-02T18:35:45Z",
+   "time_added": "2023-12-02T18:35:45Z"
   },
   {
    "item_id": "1092031134",
@@ -130,22 +103,22 @@
    "time_added": "2023-12-03T19:48:21Z"
   },
   {
-   "item_id": "3683151807",
-   "given_url": "https://docs.google.com/document/d/1ao6nSg4BJYxW3mhUVa6pZaVbNgq0WjXu9oYvMYCgk_M/edit#",
-   "given_title": "Aulas Eduardo - Sho - Google Docs",
-   "resolved_title": "",
-   "resolved_url": "https://accounts.google.com/v3/signin/identifier",
-   "time_updated": "2023-11-28T17:07:41Z",
-   "time_added": "2023-11-28T17:07:41Z"
+   "item_id": "1159553717",
+   "given_url": "https://www.oipolloi.com/blogs/the-blog/81211203-interview-david-patrick-kelly/",
+   "given_title": "Interview: David Patrick Kelly | Oi Polloi",
+   "resolved_title": "Interview: David Patrick Kelly",
+   "resolved_url": "https://www.oipolloi.com/blogs/the-blog/81211203-interview-david-patrick-kelly/",
+   "time_updated": "2023-11-30T23:22:07Z",
+   "time_added": "2023-11-30T23:22:07Z"
   },
   {
-   "item_id": "3547644514",
-   "given_url": "https://m.youtube.com/watch?v=fJITsWCua1M",
-   "given_title": "Martin Luther and the 95 Theses - YouTube",
-   "resolved_title": "Martin Luther and the 95 Theses",
-   "resolved_url": "http://www.youtube.com/watch?v=fJITsWCua1M",
-   "time_updated": "2023-11-29T17:32:54Z",
-   "time_added": "2023-11-29T17:32:54Z"
+   "item_id": "3973252701",
+   "given_url": "https://sqlsync.dev/posts/stop-building-databases/",
+   "given_title": "SQLSync - Stop building databases",
+   "resolved_title": "Stop building databases",
+   "resolved_url": "https://sqlsync.dev/posts/stop-building-databases/",
+   "time_updated": "2023-12-02T00:54:02Z",
+   "time_added": "2023-12-02T00:54:01Z"
   }
  ]
 }

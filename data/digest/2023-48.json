@@ -4,24 +4,6 @@
  "sortKey": "2023-48",
  "items": [
   {
-   "item_id": "3974063311",
-   "given_url": "https://www.htmhell.dev/adventcalendar/2023/2/",
-   "given_title": "You don't need JavaScript for that - HTMHell",
-   "resolved_title": "You don't need JavaScript for that",
-   "resolved_url": "https://htmhell.dev/adventcalendar/2023/2/",
-   "time_updated": "2023-12-02T18:45:59Z",
-   "time_added": "2023-12-02T18:45:59Z"
-  },
-  {
-   "item_id": "3725875524",
-   "given_url": "https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/#Tools2",
-   "given_title": "Steam Deck Emulation Starter Guide – Retro Game Corps",
-   "resolved_title": "Steam Deck Emulation Starter Guide",
-   "resolved_url": "https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/",
-   "time_updated": "2023-12-02T18:35:45Z",
-   "time_added": "2023-12-02T18:35:45Z"
-  },
-  {
    "item_id": "1092031134",
    "given_url": "https://japanese.stackexchange.com/questions/9790/what-are-the-differences-between-%E7%9B%AE%E7%9A%84-and-%E7%9B%AE%E6%A8%99",
    "given_title": "word choice - What are the differences between「目的」and 「目標」? - Japanese Lang",
@@ -58,31 +40,13 @@
    "time_added": "2023-12-02T00:54:01Z"
   },
   {
-   "item_id": "1427791537",
-   "given_url": "https://hackernewsbooks.com/top-books-on-hacker-news",
-   "given_title": "Top Hacker News Books of All Time",
-   "resolved_title": "Top Hacker News Books of All Time",
-   "resolved_url": "https://hackernewsbooks.com/top-books-on-hacker-news",
-   "time_updated": "2023-12-03T13:14:44Z",
-   "time_added": "2023-12-03T13:14:42Z"
-  },
-  {
-   "item_id": "1159553717",
-   "given_url": "https://www.oipolloi.com/blogs/the-blog/81211203-interview-david-patrick-kelly/",
-   "given_title": "Interview: David Patrick Kelly | Oi Polloi",
-   "resolved_title": "Interview: David Patrick Kelly",
-   "resolved_url": "https://www.oipolloi.com/blogs/the-blog/81211203-interview-david-patrick-kelly/",
-   "time_updated": "2023-11-30T23:22:07Z",
-   "time_added": "2023-11-30T23:22:07Z"
-  },
-  {
-   "item_id": "3561382928",
-   "given_url": "https://en.wikipedia.org/wiki/I_Am_a_Cat#Cultural_impact",
-   "given_title": "I Am a Cat - Wikipedia",
-   "resolved_title": "I Am a Cat",
-   "resolved_url": "https://en.wikipedia.org/wiki/I_Am_a_Cat",
-   "time_updated": "2023-12-01T00:01:06Z",
-   "time_added": "2023-12-01T00:01:06Z"
+   "item_id": "3974063311",
+   "given_url": "https://www.htmhell.dev/adventcalendar/2023/2/",
+   "given_title": "You don't need JavaScript for that - HTMHell",
+   "resolved_title": "You don't need JavaScript for that",
+   "resolved_url": "https://htmhell.dev/adventcalendar/2023/2/",
+   "time_updated": "2023-12-02T18:45:59Z",
+   "time_added": "2023-12-02T18:45:59Z"
   },
   {
    "item_id": "3973870935",
@@ -92,6 +56,24 @@
    "resolved_url": "https://askubuntu.com/questions/1380493/access-server-on-local-area-network-with-hostname-instead-of-ip-address",
    "time_updated": "2023-12-02T00:04:37Z",
    "time_added": "2023-12-02T00:04:35Z"
+  },
+  {
+   "item_id": "3725875524",
+   "given_url": "https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/#Tools2",
+   "given_title": "Steam Deck Emulation Starter Guide – Retro Game Corps",
+   "resolved_title": "Steam Deck Emulation Starter Guide",
+   "resolved_url": "https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/",
+   "time_updated": "2023-12-02T18:35:45Z",
+   "time_added": "2023-12-02T18:35:45Z"
+  },
+  {
+   "item_id": "1427791537",
+   "given_url": "https://hackernewsbooks.com/top-books-on-hacker-news",
+   "given_title": "Top Hacker News Books of All Time",
+   "resolved_title": "Top Hacker News Books of All Time",
+   "resolved_url": "https://hackernewsbooks.com/top-books-on-hacker-news",
+   "time_updated": "2023-12-03T13:14:44Z",
+   "time_added": "2023-12-03T13:14:42Z"
   }
  ]
 }

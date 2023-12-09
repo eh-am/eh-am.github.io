@@ -4,24 +4,6 @@
  "sortKey": "2023-48",
  "items": [
   {
-   "item_id": "3974063311",
-   "given_url": "https://www.htmhell.dev/adventcalendar/2023/2/",
-   "given_title": "You don't need JavaScript for that - HTMHell",
-   "resolved_title": "You don't need JavaScript for that",
-   "resolved_url": "https://htmhell.dev/adventcalendar/2023/2/",
-   "time_updated": "2023-12-02T18:45:59Z",
-   "time_added": "2023-12-02T18:45:59Z"
-  },
-  {
-   "item_id": "3974652935",
-   "given_url": "https://rateyourmusic.com/list/GalacticHole/learning-japanese-with-ps1-games-and-more/",
-   "given_title": "Learning Japanese with PS1 Games (and more!) - Rate Your Music",
-   "resolved_title": "",
-   "resolved_url": "https://rateyourmusic.com/list/GalacticHole/learning-japanese-with-ps1-games-and-more/",
-   "time_updated": "2023-12-03T19:48:21Z",
-   "time_added": "2023-12-03T19:48:21Z"
-  },
-  {
    "item_id": "3725875524",
    "given_url": "https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/#Tools2",
    "given_title": "Steam Deck Emulation Starter Guide – Retro Game Corps",
@@ -29,24 +11,6 @@
    "resolved_url": "https://retrogamecorps.com/2022/10/16/steam-deck-emulation-starter-guide/",
    "time_updated": "2023-12-02T18:35:45Z",
    "time_added": "2023-12-02T18:35:45Z"
-  },
-  {
-   "item_id": "3973870935",
-   "given_url": "https://askubuntu.com/questions/1380493/access-server-on-local-area-network-with-hostname-instead-of-ip-address/1380662#1380662",
-   "given_title": "networking - Access server on local area network with hostname instead of I",
-   "resolved_title": "Access server on local area network with hostname instead of IP address",
-   "resolved_url": "https://askubuntu.com/questions/1380493/access-server-on-local-area-network-with-hostname-instead-of-ip-address",
-   "time_updated": "2023-12-02T00:04:37Z",
-   "time_added": "2023-12-02T00:04:35Z"
-  },
-  {
-   "item_id": "2096725457",
-   "given_url": "https://mangadex.org/",
-   "given_title": "MangaDex - High quality images, no ads.",
-   "resolved_title": "MangaDex",
-   "resolved_url": "https://mangadex.org",
-   "time_updated": "2023-12-02T00:06:06Z",
-   "time_added": "2023-12-02T00:06:06Z"
   },
   {
    "item_id": "1092031134",
@@ -67,13 +31,22 @@
    "time_added": "2023-12-03T13:14:42Z"
   },
   {
-   "item_id": "3973252701",
-   "given_url": "https://sqlsync.dev/posts/stop-building-databases/",
-   "given_title": "SQLSync - Stop building databases",
-   "resolved_title": "Stop building databases",
-   "resolved_url": "https://sqlsync.dev/posts/stop-building-databases/",
-   "time_updated": "2023-12-02T00:54:02Z",
-   "time_added": "2023-12-02T00:54:01Z"
+   "item_id": "3974652935",
+   "given_url": "https://rateyourmusic.com/list/GalacticHole/learning-japanese-with-ps1-games-and-more/",
+   "given_title": "Learning Japanese with PS1 Games (and more!) - Rate Your Music",
+   "resolved_title": "",
+   "resolved_url": "https://rateyourmusic.com/list/GalacticHole/learning-japanese-with-ps1-games-and-more/",
+   "time_updated": "2023-12-03T19:48:21Z",
+   "time_added": "2023-12-03T19:48:21Z"
+  },
+  {
+   "item_id": "3974063311",
+   "given_url": "https://www.htmhell.dev/adventcalendar/2023/2/",
+   "given_title": "You don't need JavaScript for that - HTMHell",
+   "resolved_title": "You don't need JavaScript for that",
+   "resolved_url": "https://htmhell.dev/adventcalendar/2023/2/",
+   "time_updated": "2023-12-02T18:45:59Z",
+   "time_added": "2023-12-02T18:45:59Z"
   }
  ]
 }

@@ -4,6 +4,24 @@
  "sortKey": "2023-50",
  "items": [
   {
+   "item_id": "2318725840",
+   "given_url": "https://www.gogglebob.com/",
+   "given_title": "Gogglebob.com – The Goggle Bob Blog",
+   "resolved_title": "Gogglebob.com",
+   "resolved_url": "https://www.gogglebob.com/",
+   "time_updated": "2023-12-11T00:51:40Z",
+   "time_added": "2023-12-11T00:51:40Z"
+  },
+  {
+   "item_id": "3978899085",
+   "given_url": "https://github.com/puyogg/puyo-chain-detector",
+   "given_title": "puyogg/puyo-chain-detector: A real-time overlay for showing trigger points ",
+   "resolved_title": "puyogg/puyo-chain-detector",
+   "resolved_url": "https://github.com/puyogg/puyo-chain-detector",
+   "time_updated": "2023-12-12T01:35:29Z",
+   "time_added": "2023-12-12T01:35:28Z"
+  },
+  {
    "item_id": "3978747385",
    "given_url": "https://news.ycombinator.com/item?id=32151384",
    "given_title": "Can someone ELI5 this? | Hacker News",
@@ -13,13 +31,13 @@
    "time_added": "2023-12-11T18:15:16Z"
   },
   {
-   "item_id": "3978873396",
-   "given_url": "https://m.youtube.com/watch?v=VbHFuO8RJMQ",
-   "given_title": "Every Mega Man Game's Lore Explained in Obsessive Detail - YouTube",
-   "resolved_title": "Every Mega Man Game's Lore Explained in Obsessive Detail",
-   "resolved_url": "http://www.youtube.com/watch?v=VbHFuO8RJMQ",
-   "time_updated": "2023-12-12T00:03:49Z",
-   "time_added": "2023-12-12T00:03:47Z"
+   "item_id": "159942553",
+   "given_url": "https://en.m.wikipedia.org/wiki/Costochondritis",
+   "given_title": "Costochondritis - Wikipedia",
+   "resolved_title": "Costochondritis",
+   "resolved_url": "https://en.wikipedia.org/wiki/Costochondritis",
+   "time_updated": "2023-12-11T00:36:46Z",
+   "time_added": "2023-12-11T00:36:45Z"
   },
   {
    "item_id": "3977043734",
@@ -29,15 +47,6 @@
    "resolved_url": "https://www.htmhell.dev/adventcalendar/2023/8/",
    "time_updated": "2023-12-11T22:26:22Z",
    "time_added": "2023-12-11T22:26:20Z"
-  },
-  {
-   "item_id": "3978349499",
-   "given_url": "https://www.gogglebob.com/2021/03/08/fgc-571-shock-troopers/",
-   "given_title": "FGC #571 Shock Troopers – Gogglebob.com",
-   "resolved_title": "FGC #571 Shock Troopers",
-   "resolved_url": "https://www.gogglebob.com/2021/03/08/fgc-571-shock-troopers/",
-   "time_updated": "2023-12-11T00:49:23Z",
-   "time_added": "2023-12-11T00:49:21Z"
   },
   {
    "item_id": "2530170935",
@@ -58,6 +67,15 @@
    "time_added": "2023-12-11T18:10:56Z"
   },
   {
+   "item_id": "825185406",
+   "given_url": "https://en.m.wikipedia.org/wiki/Golden_Rose",
+   "given_title": "Golden Rose - Wikipedia",
+   "resolved_title": "Golden Rose",
+   "resolved_url": "https://en.wikipedia.org/wiki/Golden_Rose",
+   "time_updated": "2023-12-12T10:00:27Z",
+   "time_added": "2023-12-12T10:00:26Z"
+  },
+  {
    "item_id": "3978883996",
    "given_url": "https://disney.fandom.com/wiki/The_%22New%22_Eeyore",
    "given_title": "The \"New\" Eeyore | Disney Wiki | Fandom",
@@ -67,22 +85,40 @@
    "time_added": "2023-12-12T00:38:33Z"
   },
   {
-   "item_id": "159942553",
-   "given_url": "https://en.m.wikipedia.org/wiki/Costochondritis",
-   "given_title": "Costochondritis - Wikipedia",
-   "resolved_title": "Costochondritis",
-   "resolved_url": "https://en.wikipedia.org/wiki/Costochondritis",
-   "time_updated": "2023-12-11T00:36:46Z",
-   "time_added": "2023-12-11T00:36:45Z"
+   "item_id": "2270213870",
+   "given_url": "https://puyo-camp.jp/posts/57700",
+   "given_title": "An Introduction to Competitive Puyo | ぷよぷよのコミュニティ|ぷよぷよキャンプ|",
+   "resolved_title": "An Introduction to Competitive Puyo",
+   "resolved_url": "https://puyo-camp.jp/posts/57700",
+   "time_updated": "2023-12-12T01:19:04Z",
+   "time_added": "2023-12-12T01:19:03Z"
   },
   {
-   "item_id": "2318725840",
-   "given_url": "https://www.gogglebob.com/",
-   "given_title": "Gogglebob.com – The Goggle Bob Blog",
-   "resolved_title": "Gogglebob.com",
-   "resolved_url": "https://www.gogglebob.com/",
-   "time_updated": "2023-12-11T00:51:40Z",
-   "time_added": "2023-12-11T00:51:40Z"
+   "item_id": "3978349499",
+   "given_url": "https://www.gogglebob.com/2021/03/08/fgc-571-shock-troopers/",
+   "given_title": "FGC #571 Shock Troopers – Gogglebob.com",
+   "resolved_title": "FGC #571 Shock Troopers",
+   "resolved_url": "https://www.gogglebob.com/2021/03/08/fgc-571-shock-troopers/",
+   "time_updated": "2023-12-11T00:49:23Z",
+   "time_added": "2023-12-11T00:49:21Z"
+  },
+  {
+   "item_id": "3978873396",
+   "given_url": "https://m.youtube.com/watch?v=VbHFuO8RJMQ",
+   "given_title": "Every Mega Man Game's Lore Explained in Obsessive Detail - YouTube",
+   "resolved_title": "Every Mega Man Game's Lore Explained in Obsessive Detail",
+   "resolved_url": "http://www.youtube.com/watch?v=VbHFuO8RJMQ",
+   "time_updated": "2023-12-12T00:03:49Z",
+   "time_added": "2023-12-12T00:03:47Z"
+  },
+  {
+   "item_id": "3979052019",
+   "given_url": "https://www.goodreads.com/series/342227-how-did-we-find-out",
+   "given_title": "How Did We Find Out Series by Isaac Asimov",
+   "resolved_title": "How Did We Find Out Series",
+   "resolved_url": "https://www.goodreads.com/series/342227-how-did-we-find-out",
+   "time_updated": "2023-12-12T10:15:20Z",
+   "time_added": "2023-12-12T10:15:17Z"
   }
  ]
 }

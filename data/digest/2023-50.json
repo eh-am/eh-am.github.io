@@ -4,6 +4,15 @@
  "sortKey": "2023-50",
  "items": [
   {
+   "item_id": "2530170935",
+   "given_url": "https://github.com/gonetz/GLideN64/wiki/The-masterpiece-graphic-microcode-behind--the-Nintendo-64-version-of--Indiana-Jones-and-the-Infernal-Machine-and-Star-Wars-Episode-I:-Battle-for-Naboo",
+   "given_title": "The masterpiece graphic microcode behind the Nintendo 64 version of Indiana",
+   "resolved_title": "GLideN64",
+   "resolved_url": "https://github.com/gonetz/GLideN64",
+   "time_updated": "2023-12-11T18:00:52Z",
+   "time_added": "2023-12-11T18:00:52Z"
+  },
+  {
    "item_id": "3977043734",
    "given_url": "https://www.htmhell.dev/adventcalendar/2023/8/",
    "given_title": "The hidden depths of the input element - HTMHell",
@@ -22,15 +31,6 @@
    "time_added": "2023-12-12T10:00:26Z"
   },
   {
-   "item_id": "3979052019",
-   "given_url": "https://www.goodreads.com/series/342227-how-did-we-find-out",
-   "given_title": "How Did We Find Out Series by Isaac Asimov",
-   "resolved_title": "How Did We Find Out Series",
-   "resolved_url": "https://www.goodreads.com/series/342227-how-did-we-find-out",
-   "time_updated": "2023-12-12T19:24:49Z",
-   "time_added": "2023-12-12T19:24:48Z"
-  },
-  {
    "item_id": "3978349499",
    "given_url": "https://www.gogglebob.com/2021/03/08/fgc-571-shock-troopers/",
    "given_title": "FGC #571 Shock Troopers – Gogglebob.com",
@@ -40,13 +40,22 @@
    "time_added": "2023-12-11T00:49:21Z"
   },
   {
-   "item_id": "3978873396",
-   "given_url": "https://m.youtube.com/watch?v=VbHFuO8RJMQ",
-   "given_title": "Every Mega Man Game's Lore Explained in Obsessive Detail - YouTube",
-   "resolved_title": "Every Mega Man Game's Lore Explained in Obsessive Detail",
-   "resolved_url": "http://www.youtube.com/watch?v=VbHFuO8RJMQ",
-   "time_updated": "2023-12-12T00:03:49Z",
-   "time_added": "2023-12-12T00:03:47Z"
+   "item_id": "2318725840",
+   "given_url": "https://www.gogglebob.com/",
+   "given_title": "Gogglebob.com – The Goggle Bob Blog",
+   "resolved_title": "Gogglebob.com",
+   "resolved_url": "https://www.gogglebob.com/",
+   "time_updated": "2023-12-11T00:51:40Z",
+   "time_added": "2023-12-11T00:51:40Z"
+  },
+  {
+   "item_id": "3978883996",
+   "given_url": "https://disney.fandom.com/wiki/The_%22New%22_Eeyore",
+   "given_title": "The \"New\" Eeyore | Disney Wiki | Fandom",
+   "resolved_title": "The \"New\" Eeyore",
+   "resolved_url": "https://disney.fandom.com/wiki/The_%22New%22_Eeyore",
+   "time_updated": "2023-12-12T00:38:35Z",
+   "time_added": "2023-12-12T00:38:33Z"
   },
   {
    "item_id": "3979160434",
@@ -56,6 +65,15 @@
    "resolved_url": "https://en.wikipedia.org/wiki/P%27ikareum",
    "time_updated": "2023-12-12T15:08:05Z",
    "time_added": "2023-12-12T15:08:03Z"
+  },
+  {
+   "item_id": "1315291854",
+   "given_url": "http://adb.arcadeitalia.net/default.php",
+   "given_title": "Arcade Database",
+   "resolved_title": "Arcade Database",
+   "resolved_url": "http://adb.arcadeitalia.net/default.php",
+   "time_updated": "2023-12-12T23:26:47Z",
+   "time_added": "2023-12-12T23:26:47Z"
   },
   {
    "item_id": "769528044",
@@ -76,40 +94,13 @@
    "time_added": "2023-12-11T00:36:45Z"
   },
   {
-   "item_id": "3978747385",
-   "given_url": "https://news.ycombinator.com/item?id=32151384",
-   "given_title": "Can someone ELI5 this? | Hacker News",
-   "resolved_title": "",
-   "resolved_url": "https://news.ycombinator.com/item?id=32151384",
-   "time_updated": "2023-12-11T18:15:17Z",
-   "time_added": "2023-12-11T18:15:16Z"
-  },
-  {
-   "item_id": "3978883996",
-   "given_url": "https://disney.fandom.com/wiki/The_%22New%22_Eeyore",
-   "given_title": "The \"New\" Eeyore | Disney Wiki | Fandom",
-   "resolved_title": "The \"New\" Eeyore",
-   "resolved_url": "https://disney.fandom.com/wiki/The_%22New%22_Eeyore",
-   "time_updated": "2023-12-12T00:38:35Z",
-   "time_added": "2023-12-12T00:38:33Z"
-  },
-  {
-   "item_id": "2318725840",
-   "given_url": "https://www.gogglebob.com/",
-   "given_title": "Gogglebob.com – The Goggle Bob Blog",
-   "resolved_title": "Gogglebob.com",
-   "resolved_url": "https://www.gogglebob.com/",
-   "time_updated": "2023-12-11T00:51:40Z",
-   "time_added": "2023-12-11T00:51:40Z"
-  },
-  {
-   "item_id": "2530170935",
-   "given_url": "https://github.com/gonetz/GLideN64/wiki/The-masterpiece-graphic-microcode-behind--the-Nintendo-64-version-of--Indiana-Jones-and-the-Infernal-Machine-and-Star-Wars-Episode-I:-Battle-for-Naboo",
-   "given_title": "The masterpiece graphic microcode behind the Nintendo 64 version of Indiana",
-   "resolved_title": "GLideN64",
-   "resolved_url": "https://github.com/gonetz/GLideN64",
-   "time_updated": "2023-12-11T18:00:52Z",
-   "time_added": "2023-12-11T18:00:52Z"
+   "item_id": "3978873396",
+   "given_url": "https://m.youtube.com/watch?v=VbHFuO8RJMQ",
+   "given_title": "Every Mega Man Game's Lore Explained in Obsessive Detail - YouTube",
+   "resolved_title": "Every Mega Man Game's Lore Explained in Obsessive Detail",
+   "resolved_url": "http://www.youtube.com/watch?v=VbHFuO8RJMQ",
+   "time_updated": "2023-12-12T00:03:49Z",
+   "time_added": "2023-12-12T00:03:47Z"
   },
   {
    "item_id": "3978899085",
@@ -121,13 +112,22 @@
    "time_added": "2023-12-12T01:35:28Z"
   },
   {
-   "item_id": "2553256643",
-   "given_url": "https://www.osnews.com/story/129733/the-masterpiece-graphic-microcode-behind-the-nintendo-64-version-of-indiana-jones-and-the-infernal-machine-and-star-wars-episode-i-battle-for-naboo/",
-   "given_title": "The masterpiece graphic microcode behind two groundbreaking N64 games – OSn",
-   "resolved_title": "The masterpiece graphic microcode behind two groundbreaking N64 games",
-   "resolved_url": "https://www.osnews.com/story/129733/the-masterpiece-graphic-microcode-behind-the-nintendo-64-version-of-indiana-jones-and-the-infernal-machine-and-star-wars-episode-i-battle-for-naboo/",
-   "time_updated": "2023-12-11T18:10:56Z",
-   "time_added": "2023-12-11T18:10:56Z"
+   "item_id": "3979566469",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Hasbar%C3%A1",
+   "given_title": "Hasbará – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Hasbará",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Hasbar%C3%A1",
+   "time_updated": "2023-12-13T11:32:07Z",
+   "time_added": "2023-12-13T11:32:05Z"
+  },
+  {
+   "item_id": "3978747385",
+   "given_url": "https://news.ycombinator.com/item?id=32151384",
+   "given_title": "Can someone ELI5 this? | Hacker News",
+   "resolved_title": "",
+   "resolved_url": "https://news.ycombinator.com/item?id=32151384",
+   "time_updated": "2023-12-11T18:15:17Z",
+   "time_added": "2023-12-11T18:15:16Z"
   },
   {
    "item_id": "2270213870",
@@ -139,13 +139,40 @@
    "time_added": "2023-12-12T01:19:03Z"
   },
   {
-   "item_id": "1315291854",
-   "given_url": "http://adb.arcadeitalia.net/default.php",
-   "given_title": "Arcade Database",
-   "resolved_title": "Arcade Database",
-   "resolved_url": "http://adb.arcadeitalia.net/default.php",
-   "time_updated": "2023-12-12T23:26:47Z",
-   "time_added": "2023-12-12T23:26:47Z"
+   "item_id": "3979052019",
+   "given_url": "https://www.goodreads.com/series/342227-how-did-we-find-out",
+   "given_title": "How Did We Find Out Series by Isaac Asimov",
+   "resolved_title": "How Did We Find Out Series",
+   "resolved_url": "https://www.goodreads.com/series/342227-how-did-we-find-out",
+   "time_updated": "2023-12-12T19:24:49Z",
+   "time_added": "2023-12-12T19:24:48Z"
+  },
+  {
+   "item_id": "2045112383",
+   "given_url": "https://en.m.wikipedia.org/wiki/PainStation",
+   "given_title": "PainStation - Wikipedia",
+   "resolved_title": "PainStation",
+   "resolved_url": "https://en.wikipedia.org/wiki/PainStation",
+   "time_updated": "2023-12-13T08:31:11Z",
+   "time_added": "2023-12-13T08:31:10Z"
+  },
+  {
+   "item_id": "3979576225",
+   "given_url": "https://www.gamedeveloper.com/business/the-game-awards-2023-sidelines-devs-in-favor-of-reveals-celebs-and-one-big-muppet?utm_source=dlvr.it\u0026utm_medium=facebook",
+   "given_title": "The Game Awards 2023 chooses muppets, reveals, and celebs over devs",
+   "resolved_title": "The Game Awards 2023 chooses muppets, reveals, and celebs over devs",
+   "resolved_url": "https://www.gamedeveloper.com/business/the-game-awards-2023-sidelines-devs-in-favor-of-reveals-celebs-and-one-big-muppet",
+   "time_updated": "2023-12-13T11:58:54Z",
+   "time_added": "2023-12-13T11:58:52Z"
+  },
+  {
+   "item_id": "2553256643",
+   "given_url": "https://www.osnews.com/story/129733/the-masterpiece-graphic-microcode-behind-the-nintendo-64-version-of-indiana-jones-and-the-infernal-machine-and-star-wars-episode-i-battle-for-naboo/",
+   "given_title": "The masterpiece graphic microcode behind two groundbreaking N64 games – OSn",
+   "resolved_title": "The masterpiece graphic microcode behind two groundbreaking N64 games",
+   "resolved_url": "https://www.osnews.com/story/129733/the-masterpiece-graphic-microcode-behind-the-nintendo-64-version-of-indiana-jones-and-the-infernal-machine-and-star-wars-episode-i-battle-for-naboo/",
+   "time_updated": "2023-12-11T18:10:56Z",
+   "time_added": "2023-12-11T18:10:56Z"
   }
  ]
 }

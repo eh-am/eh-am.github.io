@@ -4,22 +4,13 @@
  "sortKey": "2023-49",
  "items": [
   {
-   "item_id": "3945733833",
-   "given_url": "https://moonbase.lgbt/blog/100m-accelerated-backhopping/",
-   "given_title": "Gordon Freeman at the Olympic Games · Luna’s Blog",
-   "resolved_title": "Gordon Freeman at the Olympic Games",
-   "resolved_url": "https://moonbase.lgbt/blog/100m-accelerated-backhopping/",
-   "time_updated": "2023-12-07T11:02:18Z",
-   "time_added": "2023-12-07T11:02:17Z"
-  },
-  {
-   "item_id": "3976560004",
-   "given_url": "https://m.youtube.com/watch?v=gm9lE97sIJo",
-   "given_title": "Using Glitches and Tricks to Beat Half-Life 2 - YouTube",
-   "resolved_title": "Using Glitches and Tricks to Beat Half-Life 2",
-   "resolved_url": "http://www.youtube.com/watch?v=gm9lE97sIJo",
-   "time_updated": "2023-12-07T11:06:55Z",
-   "time_added": "2023-12-07T11:06:54Z"
+   "item_id": "1850187670",
+   "given_url": "https://www.nhm.ac.uk/discover/when-whales-walked-on-four-legs.html",
+   "given_title": "When whales walked on four legs | Natural History Museum",
+   "resolved_title": "When whales walked on four legs",
+   "resolved_url": "https://www.nhm.ac.uk/discover/when-whales-walked-on-four-legs.html",
+   "time_updated": "2023-12-08T18:22:51Z",
+   "time_added": "2023-12-08T18:22:50Z"
   },
   {
    "item_id": "3369100651",
@@ -31,22 +22,67 @@
    "time_added": "2023-12-07T22:30:39Z"
   },
   {
-   "item_id": "127390427",
-   "given_url": "https://en.m.wikipedia.org/wiki/Fran_Drescher",
-   "given_title": "Fran Drescher - Wikipedia",
-   "resolved_title": "Fran Drescher",
-   "resolved_url": "https://en.wikipedia.org/wiki/Fran_Drescher",
-   "time_updated": "2023-12-07T02:02:37Z",
-   "time_added": "2023-12-07T02:02:36Z"
+   "item_id": "3524424967",
+   "given_url": "https://thingsiplay.game.blog/2020/02/18/why-split-neo-geo-system-from-arcade-in-retropie/",
+   "given_title": "Why split Neo Geo system from Arcade in Retropie? – things i play",
+   "resolved_title": "Why split Neo Geo system from Arcade in Retropie?",
+   "resolved_url": "https://thingsiplay.game.blog/2020/02/18/why-split-neo-geo-system-from-arcade-in-retropie/",
+   "time_updated": "2023-12-10T22:23:28Z",
+   "time_added": "2023-12-10T22:23:28Z"
   },
   {
-   "item_id": "3605943862",
-   "given_url": "https://temasys.io/guides/developers/webrtc-ice-sorcery/",
-   "given_title": "Understanding ICE in WebRTC - Temasys",
-   "resolved_title": "What Is This Sorcery? We Explain…",
-   "resolved_url": "https://temasys.io/guides/developers/webrtc-ice-sorcery/",
-   "time_updated": "2023-12-07T12:03:09Z",
-   "time_added": "2023-12-07T12:03:08Z"
+   "item_id": "3830656363",
+   "given_url": "https://razrfalcon.github.io/notes-on-svg-parsing/",
+   "given_title": "Intro - Notes on SVG parsing",
+   "resolved_title": "Notes on SVG parsing",
+   "resolved_url": "https://razrfalcon.github.io/notes-on-svg-parsing/",
+   "time_updated": "2023-12-07T22:20:49Z",
+   "time_added": "2023-12-07T22:20:48Z"
+  },
+  {
+   "item_id": "3977459789",
+   "given_url": "https://m.youtube.com/watch?v=30Y6lbXYemg",
+   "given_title": "Seven Samurai - Renegade Cut - YouTube",
+   "resolved_title": "Seven Samurai - Renegade Cut",
+   "resolved_url": "http://www.youtube.com/watch?v=30Y6lbXYemg",
+   "time_updated": "2023-12-09T02:10:57Z",
+   "time_added": "2023-12-09T02:10:55Z"
+  },
+  {
+   "item_id": "3977856297",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Sandeman",
+   "given_title": "Sandeman – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Sandeman",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Sandeman",
+   "time_updated": "2023-12-09T22:48:57Z",
+   "time_added": "2023-12-09T22:48:56Z"
+  },
+  {
+   "item_id": "3094992871",
+   "given_url": "https://youglish.com/japanese",
+   "given_title": "Improve your Japanese pronunciation using YouTube",
+   "resolved_title": "Improve Your Japanese Pronunciation",
+   "resolved_url": "https://youglish.com/japanese",
+   "time_updated": "2023-12-08T15:20:31Z",
+   "time_added": "2023-12-08T15:20:30Z"
+  },
+  {
+   "item_id": "3414471734",
+   "given_url": "https://cienciafundamental.blogfolha.uol.com.br/2021/08/24/quando-o-sertao-foi-mar/",
+   "given_title": "Quando o sertão foi mar – Ciência fundamental",
+   "resolved_title": "Quando o sertão foi mar",
+   "resolved_url": "https://cienciafundamental.blogfolha.uol.com.br/2021/08/24/quando-o-sertao-foi-mar/",
+   "time_updated": "2023-12-08T18:17:10Z",
+   "time_added": "2023-12-08T18:17:09Z"
+  },
+  {
+   "item_id": "980691346",
+   "given_url": "https://en.m.wikipedia.org/wiki/Toy_problem",
+   "given_title": "Toy problem - Wikipedia",
+   "resolved_title": "Toy problem",
+   "resolved_url": "https://en.wikipedia.org/wiki/Toy_problem",
+   "time_updated": "2023-12-08T15:40:28Z",
+   "time_added": "2023-12-08T15:40:28Z"
   },
   {
    "item_id": "394786955",
@@ -67,15 +103,6 @@
    "time_added": "2023-12-10T11:26:58Z"
   },
   {
-   "item_id": "2652135375",
-   "given_url": "https://bloggeek.me/psa-mdns-and-local-ice-candidates-are-coming/",
-   "given_title": "PSA: mDNS and .local ICE candidates are coming • BlogGeek.me",
-   "resolved_title": "PSA: mDNS and .local ICE candidates are coming",
-   "resolved_url": "https://bloggeek.me/psa-mdns-and-local-ice-candidates-are-coming/",
-   "time_updated": "2023-12-07T12:08:14Z",
-   "time_added": "2023-12-07T12:08:13Z"
-  },
-  {
    "item_id": "681785362",
    "given_url": "https://en.m.wiktionary.org/wiki/halcyon_days",
    "given_title": "halcyon days - Wiktionary, the free dictionary",
@@ -83,69 +110,6 @@
    "resolved_url": "https://en.wiktionary.org/wiki/halcyon_days",
    "time_updated": "2023-12-08T02:17:15Z",
    "time_added": "2023-12-08T02:17:14Z"
-  },
-  {
-   "item_id": "980691346",
-   "given_url": "https://en.m.wikipedia.org/wiki/Toy_problem",
-   "given_title": "Toy problem - Wikipedia",
-   "resolved_title": "Toy problem",
-   "resolved_url": "https://en.wikipedia.org/wiki/Toy_problem",
-   "time_updated": "2023-12-08T15:40:28Z",
-   "time_added": "2023-12-08T15:40:28Z"
-  },
-  {
-   "item_id": "3977459789",
-   "given_url": "https://m.youtube.com/watch?v=30Y6lbXYemg",
-   "given_title": "Seven Samurai - Renegade Cut - YouTube",
-   "resolved_title": "Seven Samurai - Renegade Cut",
-   "resolved_url": "http://www.youtube.com/watch?v=30Y6lbXYemg",
-   "time_updated": "2023-12-09T02:10:57Z",
-   "time_added": "2023-12-09T02:10:55Z"
-  },
-  {
-   "item_id": "3830656363",
-   "given_url": "https://razrfalcon.github.io/notes-on-svg-parsing/",
-   "given_title": "Intro - Notes on SVG parsing",
-   "resolved_title": "Notes on SVG parsing",
-   "resolved_url": "https://razrfalcon.github.io/notes-on-svg-parsing/",
-   "time_updated": "2023-12-07T22:20:49Z",
-   "time_added": "2023-12-07T22:20:48Z"
-  },
-  {
-   "item_id": "3978059485",
-   "given_url": "https://www.reddit.com/r/samharris/comments/123uhk6/comment/jdz10l0/?utm_source=share\u0026utm_medium=mweb3x\u0026utm_name=mweb3xcss\u0026utm_term=1\u0026utm_content=share_button",
-   "given_title": "",
-   "resolved_title": "Prove your humanity",
-   "resolved_url": "https://www.reddit.com/r/samharris/comments/123uhk6/comment/jdz10l0/?utm_source=share\u0026utm_medium=mweb3x\u0026utm_name=mweb3xcss\u0026utm_term=1\u0026utm_content=share_button",
-   "time_updated": "2023-12-10T11:13:46Z",
-   "time_added": "2023-12-10T11:13:45Z"
-  },
-  {
-   "item_id": "3094992871",
-   "given_url": "https://youglish.com/japanese",
-   "given_title": "Improve your Japanese pronunciation using YouTube",
-   "resolved_title": "Improve Your Japanese Pronunciation",
-   "resolved_url": "https://youglish.com/japanese",
-   "time_updated": "2023-12-08T15:20:31Z",
-   "time_added": "2023-12-08T15:20:30Z"
-  },
-  {
-   "item_id": "1850187670",
-   "given_url": "https://www.nhm.ac.uk/discover/when-whales-walked-on-four-legs.html",
-   "given_title": "When whales walked on four legs | Natural History Museum",
-   "resolved_title": "When whales walked on four legs",
-   "resolved_url": "https://www.nhm.ac.uk/discover/when-whales-walked-on-four-legs.html",
-   "time_updated": "2023-12-08T18:22:51Z",
-   "time_added": "2023-12-08T18:22:50Z"
-  },
-  {
-   "item_id": "3524424967",
-   "given_url": "https://thingsiplay.game.blog/2020/02/18/why-split-neo-geo-system-from-arcade-in-retropie/",
-   "given_title": "Why split Neo Geo system from Arcade in Retropie? – things i play",
-   "resolved_title": "Why split Neo Geo system from Arcade in Retropie?",
-   "resolved_url": "https://thingsiplay.game.blog/2020/02/18/why-split-neo-geo-system-from-arcade-in-retropie/",
-   "time_updated": "2023-12-10T22:23:28Z",
-   "time_added": "2023-12-10T22:23:28Z"
   },
   {
    "item_id": "3972486076",
@@ -157,22 +121,13 @@
    "time_added": "2023-12-09T22:53:24Z"
   },
   {
-   "item_id": "3414471734",
-   "given_url": "https://cienciafundamental.blogfolha.uol.com.br/2021/08/24/quando-o-sertao-foi-mar/",
-   "given_title": "Quando o sertão foi mar – Ciência fundamental",
-   "resolved_title": "Quando o sertão foi mar",
-   "resolved_url": "https://cienciafundamental.blogfolha.uol.com.br/2021/08/24/quando-o-sertao-foi-mar/",
-   "time_updated": "2023-12-08T18:17:10Z",
-   "time_added": "2023-12-08T18:17:09Z"
-  },
-  {
-   "item_id": "3977856297",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Sandeman",
-   "given_title": "Sandeman – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Sandeman",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Sandeman",
-   "time_updated": "2023-12-09T22:48:57Z",
-   "time_added": "2023-12-09T22:48:56Z"
+   "item_id": "3978059485",
+   "given_url": "https://www.reddit.com/r/samharris/comments/123uhk6/comment/jdz10l0/?utm_source=share\u0026utm_medium=mweb3x\u0026utm_name=mweb3xcss\u0026utm_term=1\u0026utm_content=share_button",
+   "given_title": "",
+   "resolved_title": "Prove your humanity",
+   "resolved_url": "https://www.reddit.com/r/samharris/comments/123uhk6/comment/jdz10l0/?utm_source=share\u0026utm_medium=mweb3x\u0026utm_name=mweb3xcss\u0026utm_term=1\u0026utm_content=share_button",
+   "time_updated": "2023-12-10T11:13:46Z",
+   "time_added": "2023-12-10T11:13:45Z"
   }
  ]
 }

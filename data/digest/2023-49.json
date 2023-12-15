@@ -4,24 +4,6 @@
  "sortKey": "2023-49",
  "items": [
   {
-   "item_id": "1850187670",
-   "given_url": "https://www.nhm.ac.uk/discover/when-whales-walked-on-four-legs.html",
-   "given_title": "When whales walked on four legs | Natural History Museum",
-   "resolved_title": "When whales walked on four legs",
-   "resolved_url": "https://www.nhm.ac.uk/discover/when-whales-walked-on-four-legs.html",
-   "time_updated": "2023-12-08T18:22:51Z",
-   "time_added": "2023-12-08T18:22:50Z"
-  },
-  {
-   "item_id": "3369100651",
-   "given_url": "https://css-tricks.com/nth-child-between-two-fixed-indexes/",
-   "given_title": ":nth-child Between Two Fixed Indexes | CSS-Tricks - CSS-Tricks",
-   "resolved_title": ":nth-child Between Two Fixed Indexes",
-   "resolved_url": "https://css-tricks.com/nth-child-between-two-fixed-indexes/",
-   "time_updated": "2023-12-07T22:30:39Z",
-   "time_added": "2023-12-07T22:30:39Z"
-  },
-  {
    "item_id": "3524424967",
    "given_url": "https://thingsiplay.game.blog/2020/02/18/why-split-neo-geo-system-from-arcade-in-retropie/",
    "given_title": "Why split Neo Geo system from Arcade in Retropie? – things i play",
@@ -29,15 +11,6 @@
    "resolved_url": "https://thingsiplay.game.blog/2020/02/18/why-split-neo-geo-system-from-arcade-in-retropie/",
    "time_updated": "2023-12-10T22:23:28Z",
    "time_added": "2023-12-10T22:23:28Z"
-  },
-  {
-   "item_id": "3830656363",
-   "given_url": "https://razrfalcon.github.io/notes-on-svg-parsing/",
-   "given_title": "Intro - Notes on SVG parsing",
-   "resolved_title": "Notes on SVG parsing",
-   "resolved_url": "https://razrfalcon.github.io/notes-on-svg-parsing/",
-   "time_updated": "2023-12-07T22:20:49Z",
-   "time_added": "2023-12-07T22:20:48Z"
   },
   {
    "item_id": "3977459789",
@@ -49,13 +22,22 @@
    "time_added": "2023-12-09T02:10:55Z"
   },
   {
-   "item_id": "3977856297",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Sandeman",
-   "given_title": "Sandeman – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Sandeman",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Sandeman",
-   "time_updated": "2023-12-09T22:48:57Z",
-   "time_added": "2023-12-09T22:48:56Z"
+   "item_id": "3978059485",
+   "given_url": "https://www.reddit.com/r/samharris/comments/123uhk6/comment/jdz10l0/?utm_source=share\u0026utm_medium=mweb3x\u0026utm_name=mweb3xcss\u0026utm_term=1\u0026utm_content=share_button",
+   "given_title": "",
+   "resolved_title": "Prove your humanity",
+   "resolved_url": "https://www.reddit.com/r/samharris/comments/123uhk6/comment/jdz10l0/?utm_source=share\u0026utm_medium=mweb3x\u0026utm_name=mweb3xcss\u0026utm_term=1\u0026utm_content=share_button",
+   "time_updated": "2023-12-10T11:13:46Z",
+   "time_added": "2023-12-10T11:13:45Z"
+  },
+  {
+   "item_id": "1850187670",
+   "given_url": "https://www.nhm.ac.uk/discover/when-whales-walked-on-four-legs.html",
+   "given_title": "When whales walked on four legs | Natural History Museum",
+   "resolved_title": "When whales walked on four legs",
+   "resolved_url": "https://www.nhm.ac.uk/discover/when-whales-walked-on-four-legs.html",
+   "time_updated": "2023-12-08T18:22:51Z",
+   "time_added": "2023-12-08T18:22:50Z"
   },
   {
    "item_id": "3094992871",
@@ -67,13 +49,13 @@
    "time_added": "2023-12-08T15:20:30Z"
   },
   {
-   "item_id": "3414471734",
-   "given_url": "https://cienciafundamental.blogfolha.uol.com.br/2021/08/24/quando-o-sertao-foi-mar/",
-   "given_title": "Quando o sertão foi mar – Ciência fundamental",
-   "resolved_title": "Quando o sertão foi mar",
-   "resolved_url": "https://cienciafundamental.blogfolha.uol.com.br/2021/08/24/quando-o-sertao-foi-mar/",
-   "time_updated": "2023-12-08T18:17:10Z",
-   "time_added": "2023-12-08T18:17:09Z"
+   "item_id": "3977856297",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Sandeman",
+   "given_title": "Sandeman – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Sandeman",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Sandeman",
+   "time_updated": "2023-12-09T22:48:57Z",
+   "time_added": "2023-12-09T22:48:56Z"
   },
   {
    "item_id": "980691346",
@@ -85,22 +67,13 @@
    "time_added": "2023-12-08T15:40:28Z"
   },
   {
-   "item_id": "394786955",
-   "given_url": "https://whc.unesco.org/en/list/1186",
-   "given_title": "Wadi Al-Hitan (Whale Valley) - UNESCO World Heritage Centre",
-   "resolved_title": "Wadi Al-Hitan (Whale Valley)",
-   "resolved_url": "https://whc.unesco.org/en/list/1186/",
-   "time_updated": "2023-12-08T18:20:33Z",
-   "time_added": "2023-12-08T18:20:33Z"
-  },
-  {
-   "item_id": "3977630239",
-   "given_url": "https://www.bbc.com/culture/article/20231208-the-boy-and-the-heron-inside-the-dark-heart-of-studio-ghibils-latest-animated-masterpiece",
-   "given_title": "The Boy and the Heron: Inside the dark heart of Studio Ghibli's latest anim",
-   "resolved_title": "The Boy and the Heron: Inside the dark heart of Studio Ghibli’s latest animated masterpiece",
-   "resolved_url": "https://www.bbc.com/culture/article/20231208-the-boy-and-the-heron-inside-the-dark-heart-of-studio-ghibils-latest-animated-masterpiece",
-   "time_updated": "2023-12-10T11:26:58Z",
-   "time_added": "2023-12-10T11:26:58Z"
+   "item_id": "3414471734",
+   "given_url": "https://cienciafundamental.blogfolha.uol.com.br/2021/08/24/quando-o-sertao-foi-mar/",
+   "given_title": "Quando o sertão foi mar – Ciência fundamental",
+   "resolved_title": "Quando o sertão foi mar",
+   "resolved_url": "https://cienciafundamental.blogfolha.uol.com.br/2021/08/24/quando-o-sertao-foi-mar/",
+   "time_updated": "2023-12-08T18:17:10Z",
+   "time_added": "2023-12-08T18:17:09Z"
   },
   {
    "item_id": "681785362",
@@ -121,13 +94,22 @@
    "time_added": "2023-12-09T22:53:24Z"
   },
   {
-   "item_id": "3978059485",
-   "given_url": "https://www.reddit.com/r/samharris/comments/123uhk6/comment/jdz10l0/?utm_source=share\u0026utm_medium=mweb3x\u0026utm_name=mweb3xcss\u0026utm_term=1\u0026utm_content=share_button",
-   "given_title": "",
-   "resolved_title": "Prove your humanity",
-   "resolved_url": "https://www.reddit.com/r/samharris/comments/123uhk6/comment/jdz10l0/?utm_source=share\u0026utm_medium=mweb3x\u0026utm_name=mweb3xcss\u0026utm_term=1\u0026utm_content=share_button",
-   "time_updated": "2023-12-10T11:13:46Z",
-   "time_added": "2023-12-10T11:13:45Z"
+   "item_id": "3977630239",
+   "given_url": "https://www.bbc.com/culture/article/20231208-the-boy-and-the-heron-inside-the-dark-heart-of-studio-ghibils-latest-animated-masterpiece",
+   "given_title": "The Boy and the Heron: Inside the dark heart of Studio Ghibli's latest anim",
+   "resolved_title": "The Boy and the Heron: Inside the dark heart of Studio Ghibli’s latest animated masterpiece",
+   "resolved_url": "https://www.bbc.com/culture/article/20231208-the-boy-and-the-heron-inside-the-dark-heart-of-studio-ghibils-latest-animated-masterpiece",
+   "time_updated": "2023-12-10T11:26:58Z",
+   "time_added": "2023-12-10T11:26:58Z"
+  },
+  {
+   "item_id": "394786955",
+   "given_url": "https://whc.unesco.org/en/list/1186",
+   "given_title": "Wadi Al-Hitan (Whale Valley) - UNESCO World Heritage Centre",
+   "resolved_title": "Wadi Al-Hitan (Whale Valley)",
+   "resolved_url": "https://whc.unesco.org/en/list/1186/",
+   "time_updated": "2023-12-08T18:20:33Z",
+   "time_added": "2023-12-08T18:20:33Z"
   }
  ]
 }

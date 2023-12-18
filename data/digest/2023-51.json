@@ -1,0 +1,25 @@
+{
+ "year": "2023",
+ "week": "51",
+ "sortKey": "2023-51",
+ "items": [
+  {
+   "item_id": "3980684813",
+   "given_url": "https://spectrum.ieee.org/deepfake-history-of-internet",
+   "given_title": "Fakes: Not an Internet Thing, a Human Thing - IEEE Spectrum",
+   "resolved_title": "Fakes: Not an Internet Thing, a Human Thing",
+   "resolved_url": "https://spectrum.ieee.org/deepfake-history-of-internet",
+   "time_updated": "2023-12-18T09:37:13Z",
+   "time_added": "2023-12-18T09:37:12Z"
+  },
+  {
+   "item_id": "121060266",
+   "given_url": "https://en.m.wikipedia.org/wiki/Verlan",
+   "given_title": "Verlan - Wikipedia",
+   "resolved_title": "Verlan",
+   "resolved_url": "https://en.wikipedia.org/wiki/Verlan",
+   "time_updated": "2023-12-18T09:37:13Z",
+   "time_added": "2023-12-17T23:35:00Z"
+  }
+ ]
+}

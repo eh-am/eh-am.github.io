@@ -4,13 +4,49 @@
  "sortKey": "2023-51",
  "items": [
   {
+   "item_id": "1128578052",
+   "given_url": "https://en.m.wikipedia.org/wiki/Solarpunk",
+   "given_title": "Solarpunk - Wikipedia",
+   "resolved_title": "Solarpunk",
+   "resolved_url": "https://en.wikipedia.org/wiki/Solarpunk",
+   "time_updated": "2023-12-18T18:28:28Z",
+   "time_added": "2023-12-18T18:23:38Z"
+  },
+  {
    "item_id": "3980684813",
    "given_url": "https://spectrum.ieee.org/deepfake-history-of-internet",
    "given_title": "Fakes: Not an Internet Thing, a Human Thing - IEEE Spectrum",
    "resolved_title": "Fakes: Not an Internet Thing, a Human Thing",
    "resolved_url": "https://spectrum.ieee.org/deepfake-history-of-internet",
-   "time_updated": "2023-12-18T09:37:13Z",
+   "time_updated": "2023-12-18T18:28:28Z",
    "time_added": "2023-12-18T09:37:12Z"
+  },
+  {
+   "item_id": "38071600",
+   "given_url": "https://en.m.wikipedia.org/wiki/Wirth%27s_law",
+   "given_title": "Wirth's law - Wikipedia",
+   "resolved_title": "Wirth's law",
+   "resolved_url": "https://en.wikipedia.org/wiki/Wirth%27s_law",
+   "time_updated": "2023-12-18T18:35:16Z",
+   "time_added": "2023-12-18T18:31:31Z"
+  },
+  {
+   "item_id": "3981997050",
+   "given_url": "https://m.youtube.com/watch?v=23H3Ea1HtvE",
+   "given_title": "THE BOY AND THE HERON Every Detail Explained｜Hayao Miyazaki｜*Spoiler* - You",
+   "resolved_title": "THE BOY AND THE HERON Every Detail Explained｜Hayao Miyazaki｜*Spoiler*",
+   "resolved_url": "http://www.youtube.com/watch?v=23H3Ea1HtvE",
+   "time_updated": "2023-12-18T18:28:28Z",
+   "time_added": "2023-12-18T16:13:16Z"
+  },
+  {
+   "item_id": "3981903022",
+   "given_url": "https://www.bbc.com/portuguese/articles/cd1p8g2l45po",
+   "given_title": "Morar em Portugal: inquilinos brasileiros reclamam de xenofobia para alugar",
+   "resolved_title": "Inquilinos brasileiros reclamam de xenofobia para alugar imóveis em Portugal",
+   "resolved_url": "https://www.bbc.com/portuguese/articles/cd1p8g2l45po",
+   "time_updated": "2023-12-18T18:35:16Z",
+   "time_added": "2023-12-18T18:35:16Z"
   },
   {
    "item_id": "121060266",
@@ -18,8 +54,17 @@
    "given_title": "Verlan - Wikipedia",
    "resolved_title": "Verlan",
    "resolved_url": "https://en.wikipedia.org/wiki/Verlan",
-   "time_updated": "2023-12-18T09:37:13Z",
+   "time_updated": "2023-12-18T18:28:28Z",
    "time_added": "2023-12-17T23:35:00Z"
+  },
+  {
+   "item_id": "3981846808",
+   "given_url": "https://potato.cheap/",
+   "given_title": "The Cheap Web",
+   "resolved_title": "☃︎ The \"Cheap\" Web",
+   "resolved_url": "https://potato.cheap/",
+   "time_updated": "2023-12-18T18:28:28Z",
+   "time_added": "2023-12-18T18:28:27Z"
   }
  ]
 }

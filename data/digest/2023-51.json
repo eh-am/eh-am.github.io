@@ -13,15 +13,6 @@
    "time_added": "2023-12-18T18:23:38Z"
   },
   {
-   "item_id": "3981903022",
-   "given_url": "https://www.bbc.com/portuguese/articles/cd1p8g2l45po",
-   "given_title": "Morar em Portugal: inquilinos brasileiros reclamam de xenofobia para alugar",
-   "resolved_title": "Inquilinos brasileiros reclamam de xenofobia para alugar imóveis em Portugal",
-   "resolved_url": "https://www.bbc.com/portuguese/articles/cd1p8g2l45po",
-   "time_updated": "2023-12-18T18:35:16Z",
-   "time_added": "2023-12-18T18:35:16Z"
-  },
-  {
    "item_id": "121060266",
    "given_url": "https://en.m.wikipedia.org/wiki/Verlan",
    "given_title": "Verlan - Wikipedia",
@@ -31,6 +22,51 @@
    "time_added": "2023-12-17T23:35:00Z"
   },
   {
+   "item_id": "3982505781",
+   "given_url": "https://tech-fairy.com/pxn-arcade-stick-0082-noob-review-is-this-the-right-arcade-stick-for-you-to-buy/",
+   "given_title": "PXN Arcade Stick 0082 Noob Review:- Is this the right arcade stick for you ",
+   "resolved_title": "",
+   "resolved_url": "https://tech-fairy.com/pxn-arcade-stick-0082-noob-review-is-this-the-right-arcade-stick-for-you-to-buy/",
+   "time_updated": "2023-12-19T19:21:31Z",
+   "time_added": "2023-12-19T19:21:00Z"
+  },
+  {
+   "item_id": "3980684813",
+   "given_url": "https://spectrum.ieee.org/deepfake-history-of-internet",
+   "given_title": "Fakes: Not an Internet Thing, a Human Thing - IEEE Spectrum",
+   "resolved_title": "Fakes: Not an Internet Thing, a Human Thing",
+   "resolved_url": "https://spectrum.ieee.org/deepfake-history-of-internet",
+   "time_updated": "2023-12-18T18:28:28Z",
+   "time_added": "2023-12-18T09:37:12Z"
+  },
+  {
+   "item_id": "3981903022",
+   "given_url": "https://www.bbc.com/portuguese/articles/cd1p8g2l45po",
+   "given_title": "Morar em Portugal: inquilinos brasileiros reclamam de xenofobia para alugar",
+   "resolved_title": "Inquilinos brasileiros reclamam de xenofobia para alugar imóveis em Portugal",
+   "resolved_url": "https://www.bbc.com/portuguese/articles/cd1p8g2l45po",
+   "time_updated": "2023-12-18T18:35:16Z",
+   "time_added": "2023-12-18T18:35:16Z"
+  },
+  {
+   "item_id": "3982401115",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Ignaz_Semmelweis",
+   "given_title": "Ignaz Semmelweis – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Ignaz Semmelweis",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Ignaz_Semmelweis",
+   "time_updated": "2023-12-19T14:53:25Z",
+   "time_added": "2023-12-19T14:48:35Z"
+  },
+  {
+   "item_id": "97593726",
+   "given_url": "https://en.m.wikipedia.org/wiki/Ignaz_Semmelweis",
+   "given_title": "Ignaz Semmelweis - Wikipedia",
+   "resolved_title": "Ignaz Semmelweis",
+   "resolved_url": "https://en.wikipedia.org/wiki/Ignaz_Semmelweis",
+   "time_updated": "2023-12-19T14:53:25Z",
+   "time_added": "2023-12-19T14:53:24Z"
+  },
+  {
    "item_id": "3981997050",
    "given_url": "https://m.youtube.com/watch?v=23H3Ea1HtvE",
    "given_title": "THE BOY AND THE HERON Every Detail Explained｜Hayao Miyazaki｜*Spoiler* - You",
@@ -38,6 +74,15 @@
    "resolved_url": "http://www.youtube.com/watch?v=23H3Ea1HtvE",
    "time_updated": "2023-12-18T18:28:28Z",
    "time_added": "2023-12-18T16:13:16Z"
+  },
+  {
+   "item_id": "2383562899",
+   "given_url": "https://500songs.com/",
+   "given_title": "A History of Rock Music in 500 Songs",
+   "resolved_title": "A History of Rock Music in 500 Songs",
+   "resolved_url": "https://500songs.com/",
+   "time_updated": "2023-12-19T14:53:25Z",
+   "time_added": "2023-12-19T12:11:25Z"
   },
   {
    "item_id": "3981846808",
@@ -56,15 +101,6 @@
    "resolved_url": "https://en.wikipedia.org/wiki/Wirth%27s_law",
    "time_updated": "2023-12-18T18:35:16Z",
    "time_added": "2023-12-18T18:31:31Z"
-  },
-  {
-   "item_id": "3980684813",
-   "given_url": "https://spectrum.ieee.org/deepfake-history-of-internet",
-   "given_title": "Fakes: Not an Internet Thing, a Human Thing - IEEE Spectrum",
-   "resolved_title": "Fakes: Not an Internet Thing, a Human Thing",
-   "resolved_url": "https://spectrum.ieee.org/deepfake-history-of-internet",
-   "time_updated": "2023-12-18T18:28:28Z",
-   "time_added": "2023-12-18T09:37:12Z"
   }
  ]
 }

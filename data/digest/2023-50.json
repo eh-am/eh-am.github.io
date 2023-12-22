@@ -4,22 +4,13 @@
  "sortKey": "2023-50",
  "items": [
   {
-   "item_id": "513684729",
-   "given_url": "https://pt.m.wikipedia.org/wiki/O_Tempo_e_o_Vento",
-   "given_title": "O Tempo e o Vento – Wikipédia, a enciclopédia livre",
-   "resolved_title": "O Tempo e o Vento",
-   "resolved_url": "https://pt.wikipedia.org/wiki/O_Tempo_e_o_Vento",
-   "time_updated": "2023-12-15T12:37:24Z",
-   "time_added": "2023-12-15T12:37:23Z"
-  },
-  {
-   "item_id": "3980152954",
-   "given_url": "https://archive.ph/NW95o",
-   "given_title": "What’s Behind the Freud Resurgence?",
-   "resolved_title": "",
-   "resolved_url": "https://archive.ph/NW95o",
-   "time_updated": "2023-12-14T15:59:13Z",
-   "time_added": "2023-12-14T15:58:41Z"
+   "item_id": "456200411",
+   "given_url": "https://en.m.wikipedia.org/wiki/The_Woman_in_the_Dunes",
+   "given_title": "The Woman in the Dunes - Wikipedia",
+   "resolved_title": "The Woman in the Dunes",
+   "resolved_url": "https://en.wikipedia.org/wiki/The_Woman_in_the_Dunes",
+   "time_updated": "2023-12-15T12:29:16Z",
+   "time_added": "2023-12-15T12:29:16Z"
   },
   {
    "item_id": "3597373935",
@@ -31,24 +22,6 @@
    "time_added": "2023-12-17T19:55:24Z"
   },
   {
-   "item_id": "3981582659",
-   "given_url": "https://youtube.com/watch?v=Y2la199bPtk\u0026si=Ec_3q4a3wLHRpgwS",
-   "given_title": "[SFM] Japanese Man running in tunnel screaming Sex at the top of his lun...",
-   "resolved_title": "[SFM] Japanese Man running in tunnel screaming Sex at the top of his lungs but it's Kiryu",
-   "resolved_url": "https://youtube.com/watch?v=Y2la199bPtk\u0026si=Ec_3q4a3wLHRpgwS",
-   "time_updated": "2023-12-17T21:33:44Z",
-   "time_added": "2023-12-17T21:33:43Z"
-  },
-  {
-   "item_id": "3971835480",
-   "given_url": "https://uxdesign.cc/is-technology-harming-our-brains-181512c76d4c",
-   "given_title": "Is technology harming our brains? | by Natalie Worth | Nov, 2023 | UX Colle",
-   "resolved_title": "Is technology harming our brains?",
-   "resolved_url": "https://uxdesign.cc/is-technology-harming-our-brains-181512c76d4c",
-   "time_updated": "2023-12-14T15:15:01Z",
-   "time_added": "2023-12-14T15:15:01Z"
-  },
-  {
    "item_id": "3980554374",
    "given_url": "https://m.youtube.com/watch?v=YUou0rghddc",
    "given_title": "Hideo Kojima’s Closet Picks - YouTube",
@@ -58,13 +31,22 @@
    "time_added": "2023-12-15T12:25:41Z"
   },
   {
-   "item_id": "456200411",
-   "given_url": "https://en.m.wikipedia.org/wiki/The_Woman_in_the_Dunes",
-   "given_title": "The Woman in the Dunes - Wikipedia",
-   "resolved_title": "The Woman in the Dunes",
-   "resolved_url": "https://en.wikipedia.org/wiki/The_Woman_in_the_Dunes",
-   "time_updated": "2023-12-15T12:29:16Z",
-   "time_added": "2023-12-15T12:29:16Z"
+   "item_id": "513684729",
+   "given_url": "https://pt.m.wikipedia.org/wiki/O_Tempo_e_o_Vento",
+   "given_title": "O Tempo e o Vento – Wikipédia, a enciclopédia livre",
+   "resolved_title": "O Tempo e o Vento",
+   "resolved_url": "https://pt.wikipedia.org/wiki/O_Tempo_e_o_Vento",
+   "time_updated": "2023-12-15T12:37:24Z",
+   "time_added": "2023-12-15T12:37:23Z"
+  },
+  {
+   "item_id": "3981582659",
+   "given_url": "https://youtube.com/watch?v=Y2la199bPtk\u0026si=Ec_3q4a3wLHRpgwS",
+   "given_title": "[SFM] Japanese Man running in tunnel screaming Sex at the top of his lun...",
+   "resolved_title": "[SFM] Japanese Man running in tunnel screaming Sex at the top of his lungs but it's Kiryu",
+   "resolved_url": "https://youtube.com/watch?v=Y2la199bPtk\u0026si=Ec_3q4a3wLHRpgwS",
+   "time_updated": "2023-12-17T21:33:44Z",
+   "time_added": "2023-12-17T21:33:43Z"
   }
  ]
 }

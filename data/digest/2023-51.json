@@ -4,6 +4,51 @@
  "sortKey": "2023-51",
  "items": [
   {
+   "item_id": "3981903022",
+   "given_url": "https://www.bbc.com/portuguese/articles/cd1p8g2l45po",
+   "given_title": "Morar em Portugal: inquilinos brasileiros reclamam de xenofobia para alugar",
+   "resolved_title": "Inquilinos brasileiros reclamam de xenofobia para alugar imóveis em Portugal",
+   "resolved_url": "https://www.bbc.com/portuguese/articles/cd1p8g2l45po",
+   "time_updated": "2023-12-18T18:35:16Z",
+   "time_added": "2023-12-18T18:35:16Z"
+  },
+  {
+   "item_id": "3739002177",
+   "given_url": "https://www.reddit.com/r/SteamDeck/comments/ymv653/guide_to_setup_the_8bitdo_ultimate_24ghz_wireless/",
+   "given_title": "Guide to Setup the 8BitDo Ultimate 2.4GHz Wireless Controller : r/SteamDeck",
+   "resolved_title": "Guide to Setup the 8BitDo Ultimate 2.4GHz Wireless Controller",
+   "resolved_url": "https://www.reddit.com/r/SteamDeck/comments/ymv653/guide_to_setup_the_8bitdo_ultimate_24ghz_wireless/",
+   "time_updated": "2023-12-21T12:19:05Z",
+   "time_added": "2023-12-21T12:19:04Z"
+  },
+  {
+   "item_id": "265020966",
+   "given_url": "https://aphelis.net/origin-development-quotation-mark/",
+   "given_title": "The origin and development of the quotation mark",
+   "resolved_title": "The origin and development of the quotation mark",
+   "resolved_url": "https://aphelis.net/origin-development-quotation-mark/",
+   "time_updated": "2023-12-22T10:21:34Z",
+   "time_added": "2023-12-22T10:21:34Z"
+  },
+  {
+   "item_id": "121060266",
+   "given_url": "https://en.m.wikipedia.org/wiki/Verlan",
+   "given_title": "Verlan - Wikipedia",
+   "resolved_title": "Verlan",
+   "resolved_url": "https://en.wikipedia.org/wiki/Verlan",
+   "time_updated": "2023-12-18T18:28:28Z",
+   "time_added": "2023-12-17T23:35:00Z"
+  },
+  {
+   "item_id": "8902262",
+   "given_url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/MagicalNegro",
+   "given_title": "Magical Negro - TV Tropes",
+   "resolved_title": "Magical Negro",
+   "resolved_url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/MagicalNegro",
+   "time_updated": "2023-12-20T15:36:04Z",
+   "time_added": "2023-12-20T15:36:04Z"
+  },
+  {
    "item_id": "108463999",
    "given_url": "https://en.m.wikipedia.org/wiki/Sea_Org",
    "given_title": "Sea Org - Wikipedia",
@@ -11,33 +56,6 @@
    "resolved_url": "https://en.wikipedia.org/wiki/Sea_Org",
    "time_updated": "2023-12-21T09:15:12Z",
    "time_added": "2023-12-21T09:15:11Z"
-  },
-  {
-   "item_id": "291055198",
-   "given_url": "https://en.m.wikipedia.org/wiki/In_Living_Color",
-   "given_title": "In Living Color - Wikipedia",
-   "resolved_title": "In Living Color",
-   "resolved_url": "https://en.wikipedia.org/wiki/In_Living_Color",
-   "time_updated": "2023-12-22T08:23:35Z",
-   "time_added": "2023-12-22T08:23:34Z"
-  },
-  {
-   "item_id": "38071600",
-   "given_url": "https://en.m.wikipedia.org/wiki/Wirth%27s_law",
-   "given_title": "Wirth's law - Wikipedia",
-   "resolved_title": "Wirth's law",
-   "resolved_url": "https://en.wikipedia.org/wiki/Wirth%27s_law",
-   "time_updated": "2023-12-18T18:35:16Z",
-   "time_added": "2023-12-18T18:31:31Z"
-  },
-  {
-   "item_id": "3982505781",
-   "given_url": "https://tech-fairy.com/pxn-arcade-stick-0082-noob-review-is-this-the-right-arcade-stick-for-you-to-buy/",
-   "given_title": "PXN Arcade Stick 0082 Noob Review:- Is this the right arcade stick for you ",
-   "resolved_title": "",
-   "resolved_url": "https://tech-fairy.com/pxn-arcade-stick-0082-noob-review-is-this-the-right-arcade-stick-for-you-to-buy/",
-   "time_updated": "2023-12-19T19:21:31Z",
-   "time_added": "2023-12-19T19:21:00Z"
   },
   {
    "item_id": "3982796050",
@@ -49,13 +67,85 @@
    "time_added": "2023-12-21T10:30:54Z"
   },
   {
-   "item_id": "3739002177",
-   "given_url": "https://www.reddit.com/r/SteamDeck/comments/ymv653/guide_to_setup_the_8bitdo_ultimate_24ghz_wireless/",
-   "given_title": "Guide to Setup the 8BitDo Ultimate 2.4GHz Wireless Controller : r/SteamDeck",
-   "resolved_title": "Guide to Setup the 8BitDo Ultimate 2.4GHz Wireless Controller",
-   "resolved_url": "https://www.reddit.com/r/SteamDeck/comments/ymv653/guide_to_setup_the_8bitdo_ultimate_24ghz_wireless/",
-   "time_updated": "2023-12-21T12:19:05Z",
-   "time_added": "2023-12-21T12:19:04Z"
+   "item_id": "3983597499",
+   "given_url": "https://en.m.wikipedia.org/wiki/GunForce_II",
+   "given_title": "GunForce II - Wikipedia",
+   "resolved_title": "GunForce II",
+   "resolved_url": "https://en.wikipedia.org/wiki/GunForce_II",
+   "time_updated": "2023-12-21T22:04:03Z",
+   "time_added": "2023-12-21T22:04:01Z"
+  },
+  {
+   "item_id": "3981997050",
+   "given_url": "https://m.youtube.com/watch?v=23H3Ea1HtvE",
+   "given_title": "THE BOY AND THE HERON Every Detail Explained｜Hayao Miyazaki｜*Spoiler* - You",
+   "resolved_title": "THE BOY AND THE HERON Every Detail Explained｜Hayao Miyazaki｜*Spoiler*",
+   "resolved_url": "http://www.youtube.com/watch?v=23H3Ea1HtvE",
+   "time_updated": "2023-12-18T18:28:28Z",
+   "time_added": "2023-12-18T16:13:16Z"
+  },
+  {
+   "item_id": "38071600",
+   "given_url": "https://en.m.wikipedia.org/wiki/Wirth%27s_law",
+   "given_title": "Wirth's law - Wikipedia",
+   "resolved_title": "Wirth's law",
+   "resolved_url": "https://en.wikipedia.org/wiki/Wirth%27s_law",
+   "time_updated": "2023-12-18T18:35:16Z",
+   "time_added": "2023-12-18T18:31:31Z"
+  },
+  {
+   "item_id": "2383562899",
+   "given_url": "https://500songs.com/",
+   "given_title": "A History of Rock Music in 500 Songs",
+   "resolved_title": "A History of Rock Music in 500 Songs",
+   "resolved_url": "https://500songs.com/",
+   "time_updated": "2023-12-20T10:57:36Z",
+   "time_added": "2023-12-19T12:11:25Z"
+  },
+  {
+   "item_id": "3982401115",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Ignaz_Semmelweis",
+   "given_title": "Ignaz Semmelweis – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Ignaz Semmelweis",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Ignaz_Semmelweis",
+   "time_updated": "2023-12-20T10:57:36Z",
+   "time_added": "2023-12-19T14:48:35Z"
+  },
+  {
+   "item_id": "3982505781",
+   "given_url": "https://tech-fairy.com/pxn-arcade-stick-0082-noob-review-is-this-the-right-arcade-stick-for-you-to-buy/",
+   "given_title": "PXN Arcade Stick 0082 Noob Review:- Is this the right arcade stick for you ",
+   "resolved_title": "",
+   "resolved_url": "https://tech-fairy.com/pxn-arcade-stick-0082-noob-review-is-this-the-right-arcade-stick-for-you-to-buy/",
+   "time_updated": "2023-12-19T19:21:31Z",
+   "time_added": "2023-12-19T19:21:00Z"
+  },
+  {
+   "item_id": "3982274259",
+   "given_url": "https://playfulprogramming.blogspot.com/2023/12/about-time.html?m=1",
+   "given_title": "Playful Programming: About time - how to unit test code that depends on tim",
+   "resolved_title": "About time - how to unit test code that depends on time",
+   "resolved_url": "https://playfulprogramming.blogspot.com/2023/12/about-time.html",
+   "time_updated": "2023-12-20T10:57:36Z",
+   "time_added": "2023-12-20T10:57:33Z"
+  },
+  {
+   "item_id": "492954583",
+   "given_url": "https://www.richardcarrier.info/philosophy.html",
+   "given_title": "Is Philosophy Stupid?",
+   "resolved_title": "Is Philosophy Stupid?",
+   "resolved_url": "https://www.richardcarrier.info/philosophy.html",
+   "time_updated": "2023-12-22T08:09:43Z",
+   "time_added": "2023-12-22T08:09:42Z"
+  },
+  {
+   "item_id": "291055198",
+   "given_url": "https://en.m.wikipedia.org/wiki/In_Living_Color",
+   "given_title": "In Living Color - Wikipedia",
+   "resolved_title": "In Living Color",
+   "resolved_url": "https://en.wikipedia.org/wiki/In_Living_Color",
+   "time_updated": "2023-12-22T08:23:35Z",
+   "time_added": "2023-12-22T08:23:34Z"
   },
   {
    "item_id": "3983779395",
@@ -85,40 +175,13 @@
    "time_added": "2023-12-18T18:23:38Z"
   },
   {
-   "item_id": "3981903022",
-   "given_url": "https://www.bbc.com/portuguese/articles/cd1p8g2l45po",
-   "given_title": "Morar em Portugal: inquilinos brasileiros reclamam de xenofobia para alugar",
-   "resolved_title": "Inquilinos brasileiros reclamam de xenofobia para alugar imóveis em Portugal",
-   "resolved_url": "https://www.bbc.com/portuguese/articles/cd1p8g2l45po",
-   "time_updated": "2023-12-18T18:35:16Z",
-   "time_added": "2023-12-18T18:35:16Z"
-  },
-  {
-   "item_id": "2383562899",
-   "given_url": "https://500songs.com/",
-   "given_title": "A History of Rock Music in 500 Songs",
-   "resolved_title": "A History of Rock Music in 500 Songs",
-   "resolved_url": "https://500songs.com/",
-   "time_updated": "2023-12-20T10:57:36Z",
-   "time_added": "2023-12-19T12:11:25Z"
-  },
-  {
-   "item_id": "265020966",
-   "given_url": "https://aphelis.net/origin-development-quotation-mark/",
-   "given_title": "The origin and development of the quotation mark",
-   "resolved_title": "The origin and development of the quotation mark",
-   "resolved_url": "https://aphelis.net/origin-development-quotation-mark/",
-   "time_updated": "2023-12-22T10:21:34Z",
-   "time_added": "2023-12-22T10:21:34Z"
-  },
-  {
-   "item_id": "3982401115",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Ignaz_Semmelweis",
-   "given_title": "Ignaz Semmelweis – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Ignaz Semmelweis",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Ignaz_Semmelweis",
-   "time_updated": "2023-12-20T10:57:36Z",
-   "time_added": "2023-12-19T14:48:35Z"
+   "item_id": "3981846808",
+   "given_url": "https://potato.cheap/",
+   "given_title": "The Cheap Web",
+   "resolved_title": "☃︎ The \"Cheap\" Web",
+   "resolved_url": "https://potato.cheap",
+   "time_updated": "2023-12-18T18:28:28Z",
+   "time_added": "2023-12-18T18:28:27Z"
   },
   {
    "item_id": "97593726",
@@ -130,67 +193,13 @@
    "time_added": "2023-12-19T14:53:24Z"
   },
   {
-   "item_id": "3982274259",
-   "given_url": "https://playfulprogramming.blogspot.com/2023/12/about-time.html?m=1",
-   "given_title": "Playful Programming: About time - how to unit test code that depends on tim",
-   "resolved_title": "About time - how to unit test code that depends on time",
-   "resolved_url": "https://playfulprogramming.blogspot.com/2023/12/about-time.html",
-   "time_updated": "2023-12-20T10:57:36Z",
-   "time_added": "2023-12-20T10:57:33Z"
-  },
-  {
-   "item_id": "8902262",
-   "given_url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/MagicalNegro",
-   "given_title": "Magical Negro - TV Tropes",
-   "resolved_title": "Magical Negro",
-   "resolved_url": "https://tvtropes.org/pmwiki/pmwiki.php/Main/MagicalNegro",
-   "time_updated": "2023-12-20T15:36:04Z",
-   "time_added": "2023-12-20T15:36:04Z"
-  },
-  {
-   "item_id": "3981997050",
-   "given_url": "https://m.youtube.com/watch?v=23H3Ea1HtvE",
-   "given_title": "THE BOY AND THE HERON Every Detail Explained｜Hayao Miyazaki｜*Spoiler* - You",
-   "resolved_title": "THE BOY AND THE HERON Every Detail Explained｜Hayao Miyazaki｜*Spoiler*",
-   "resolved_url": "http://www.youtube.com/watch?v=23H3Ea1HtvE",
-   "time_updated": "2023-12-18T18:28:28Z",
-   "time_added": "2023-12-18T16:13:16Z"
-  },
-  {
-   "item_id": "3981846808",
-   "given_url": "https://potato.cheap/",
-   "given_title": "The Cheap Web",
-   "resolved_title": "☃︎ The \"Cheap\" Web",
-   "resolved_url": "https://potato.cheap",
-   "time_updated": "2023-12-18T18:28:28Z",
-   "time_added": "2023-12-18T18:28:27Z"
-  },
-  {
-   "item_id": "492954583",
-   "given_url": "https://www.richardcarrier.info/philosophy.html",
-   "given_title": "Is Philosophy Stupid?",
-   "resolved_title": "Is Philosophy Stupid?",
-   "resolved_url": "https://www.richardcarrier.info/philosophy.html",
-   "time_updated": "2023-12-22T08:09:43Z",
-   "time_added": "2023-12-22T08:09:42Z"
-  },
-  {
-   "item_id": "121060266",
-   "given_url": "https://en.m.wikipedia.org/wiki/Verlan",
-   "given_title": "Verlan - Wikipedia",
-   "resolved_title": "Verlan",
-   "resolved_url": "https://en.wikipedia.org/wiki/Verlan",
-   "time_updated": "2023-12-18T18:28:28Z",
-   "time_added": "2023-12-17T23:35:00Z"
-  },
-  {
-   "item_id": "3983597499",
-   "given_url": "https://en.m.wikipedia.org/wiki/GunForce_II",
-   "given_title": "GunForce II - Wikipedia",
-   "resolved_title": "GunForce II",
-   "resolved_url": "https://en.wikipedia.org/wiki/GunForce_II",
-   "time_updated": "2023-12-21T22:04:03Z",
-   "time_added": "2023-12-21T22:04:01Z"
+   "item_id": "3984080128",
+   "given_url": "https://m.youtube.com/watch?v=mhi5YsZdyCA",
+   "given_title": "The 30 GREATEST Shmups of All Time! What Makes a Shmup Great? - YouTube",
+   "resolved_title": "The 30 GREATEST Shmups of All Time! What Makes a Shmup Great?",
+   "resolved_url": "http://www.youtube.com/watch?v=mhi5YsZdyCA",
+   "time_updated": "2023-12-22T23:50:07Z",
+   "time_added": "2023-12-22T23:50:04Z"
   }
  ]
 }

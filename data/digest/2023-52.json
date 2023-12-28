@@ -4,22 +4,31 @@
  "sortKey": "2023-52",
  "items": [
   {
-   "item_id": "1861086300",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Pulgasari",
-   "given_title": "Pulgasari – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Pulgasari",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Pulgasari",
-   "time_updated": "2023-12-25T02:15:50Z",
-   "time_added": "2023-12-25T02:15:49Z"
+   "item_id": "1707938414",
+   "given_url": "https://eater.net/8bit/",
+   "given_title": "Build an 8-bit computer | Ben Eater",
+   "resolved_title": "Ben Eater",
+   "resolved_url": "https://eater.net/8bit",
+   "time_updated": "2023-12-25T15:11:06Z",
+   "time_added": "2023-12-25T15:11:06Z"
   },
   {
-   "item_id": "3985174846",
-   "given_url": "https://m.youtube.com/watch?v=hzNWapTIfzI",
-   "given_title": "?? CHURRASCO JAPAN ?? - YouTube",
-   "resolved_title": "🇧🇷 CHURRASCO JAPAN 🇯🇵",
-   "resolved_url": "http://www.youtube.com/watch?v=hzNWapTIfzI",
-   "time_updated": "2023-12-25T21:59:49Z",
-   "time_added": "2023-12-25T21:59:47Z"
+   "item_id": "26175806",
+   "given_url": "https://en.m.wikipedia.org/wiki/Pulgasari",
+   "given_title": "Pulgasari - Wikipedia",
+   "resolved_title": "Pulgasari",
+   "resolved_url": "https://en.wikipedia.org/wiki/Pulgasari",
+   "time_updated": "2023-12-25T02:16:16Z",
+   "time_added": "2023-12-25T02:16:15Z"
+  },
+  {
+   "item_id": "3580220475",
+   "given_url": "https://academic.oup.com/bioscience/article/49/6/453/229475?login=false",
+   "given_title": "Darwinian Gastronomy: Why We Use Spices | BioScience | Oxford Academic",
+   "resolved_title": "",
+   "resolved_url": "https://academic.oup.com/bioscience/article/49/6/453/229475",
+   "time_updated": "2023-12-27T18:54:36Z",
+   "time_added": "2023-12-27T18:54:36Z"
   },
   {
    "item_id": "1454172594",
@@ -31,13 +40,13 @@
    "time_added": "2023-12-25T01:51:16Z"
   },
   {
-   "item_id": "1707938414",
-   "given_url": "https://eater.net/8bit/",
-   "given_title": "Build an 8-bit computer | Ben Eater",
-   "resolved_title": "Ben Eater",
-   "resolved_url": "https://eater.net/8bit",
-   "time_updated": "2023-12-25T15:11:06Z",
-   "time_added": "2023-12-25T15:11:06Z"
+   "item_id": "1914928975",
+   "given_url": "https://en.m.wikipedia.org/wiki/Dead_cat_strategy",
+   "given_title": "Dead cat strategy - Wikipedia",
+   "resolved_title": "Dead cat strategy",
+   "resolved_url": "https://en.wikipedia.org/wiki/Dead_cat_strategy",
+   "time_updated": "2023-12-27T00:40:58Z",
+   "time_added": "2023-12-27T00:40:58Z"
   },
   {
    "item_id": "3983588026",
@@ -49,6 +58,15 @@
    "time_added": "2023-12-27T11:40:52Z"
   },
   {
+   "item_id": "3985174846",
+   "given_url": "https://m.youtube.com/watch?v=hzNWapTIfzI",
+   "given_title": "?? CHURRASCO JAPAN ?? - YouTube",
+   "resolved_title": "🇧🇷 CHURRASCO JAPAN 🇯🇵",
+   "resolved_url": "http://www.youtube.com/watch?v=hzNWapTIfzI",
+   "time_updated": "2023-12-25T21:59:49Z",
+   "time_added": "2023-12-25T21:59:47Z"
+  },
+  {
    "item_id": "290689345",
    "given_url": "https://pt.m.wikipedia.org/wiki/Como_Era_Gostoso_o_Meu_Franc%C3%AAs",
    "given_title": "Como Era Gostoso o Meu Francês – Wikipédia, a enciclopédia livre",
@@ -56,15 +74,6 @@
    "resolved_url": "https://pt.wikipedia.org/wiki/Como_Era_Gostoso_o_Meu_Franc%C3%AAs",
    "time_updated": "2023-12-26T12:45:12Z",
    "time_added": "2023-12-26T12:45:12Z"
-  },
-  {
-   "item_id": "1914928975",
-   "given_url": "https://en.m.wikipedia.org/wiki/Dead_cat_strategy",
-   "given_title": "Dead cat strategy - Wikipedia",
-   "resolved_title": "Dead cat strategy",
-   "resolved_url": "https://en.wikipedia.org/wiki/Dead_cat_strategy",
-   "time_updated": "2023-12-27T00:40:58Z",
-   "time_added": "2023-12-27T00:40:58Z"
   },
   {
    "item_id": "3375136023",
@@ -94,13 +103,22 @@
    "time_added": "2023-12-27T11:19:31Z"
   },
   {
-   "item_id": "26175806",
-   "given_url": "https://en.m.wikipedia.org/wiki/Pulgasari",
-   "given_title": "Pulgasari - Wikipedia",
+   "item_id": "3985915221",
+   "given_url": "https://m.youtube.com/watch?v=cNbnef_eXBM\u0026embeds_referring_euri=https%3A%2F%2Fwww.themarginalian.org%2F\u0026source_ve_path=MjM4NTE\u0026feature=emb_title",
+   "given_title": "David Bowie on why you should never play to the gallery - YouTube",
+   "resolved_title": "David Bowie on why you should never play to the gallery",
+   "resolved_url": "http://www.youtube.com/watch?v=cNbnef_eXBM",
+   "time_updated": "2023-12-27T16:18:49Z",
+   "time_added": "2023-12-27T16:18:48Z"
+  },
+  {
+   "item_id": "1861086300",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Pulgasari",
+   "given_title": "Pulgasari – Wikipédia, a enciclopédia livre",
    "resolved_title": "Pulgasari",
-   "resolved_url": "https://en.wikipedia.org/wiki/Pulgasari",
-   "time_updated": "2023-12-25T02:16:16Z",
-   "time_added": "2023-12-25T02:16:15Z"
+   "resolved_url": "https://pt.wikipedia.org/wiki/Pulgasari",
+   "time_updated": "2023-12-25T02:15:50Z",
+   "time_added": "2023-12-25T02:15:49Z"
   }
  ]
 }

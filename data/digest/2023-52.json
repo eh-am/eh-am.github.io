@@ -4,15 +4,6 @@
  "sortKey": "2023-52",
  "items": [
   {
-   "item_id": "1707938414",
-   "given_url": "https://eater.net/8bit/",
-   "given_title": "Build an 8-bit computer | Ben Eater",
-   "resolved_title": "Ben Eater",
-   "resolved_url": "https://eater.net/8bit",
-   "time_updated": "2023-12-25T15:11:06Z",
-   "time_added": "2023-12-25T15:11:06Z"
-  },
-  {
    "item_id": "26175806",
    "given_url": "https://en.m.wikipedia.org/wiki/Pulgasari",
    "given_title": "Pulgasari - Wikipedia",
@@ -20,15 +11,6 @@
    "resolved_url": "https://en.wikipedia.org/wiki/Pulgasari",
    "time_updated": "2023-12-25T02:16:16Z",
    "time_added": "2023-12-25T02:16:15Z"
-  },
-  {
-   "item_id": "3580220475",
-   "given_url": "https://academic.oup.com/bioscience/article/49/6/453/229475?login=false",
-   "given_title": "Darwinian Gastronomy: Why We Use Spices | BioScience | Oxford Academic",
-   "resolved_title": "",
-   "resolved_url": "https://academic.oup.com/bioscience/article/49/6/453/229475",
-   "time_updated": "2023-12-27T18:54:36Z",
-   "time_added": "2023-12-27T18:54:36Z"
   },
   {
    "item_id": "1454172594",
@@ -40,6 +22,15 @@
    "time_added": "2023-12-25T01:51:16Z"
   },
   {
+   "item_id": "290689345",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Como_Era_Gostoso_o_Meu_Franc%C3%AAs",
+   "given_title": "Como Era Gostoso o Meu Francês – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Como Era Gostoso o Meu Francês",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Como_Era_Gostoso_o_Meu_Franc%C3%AAs",
+   "time_updated": "2023-12-26T12:45:12Z",
+   "time_added": "2023-12-26T12:45:12Z"
+  },
+  {
    "item_id": "1914928975",
    "given_url": "https://en.m.wikipedia.org/wiki/Dead_cat_strategy",
    "given_title": "Dead cat strategy - Wikipedia",
@@ -47,15 +38,6 @@
    "resolved_url": "https://en.wikipedia.org/wiki/Dead_cat_strategy",
    "time_updated": "2023-12-27T00:40:58Z",
    "time_added": "2023-12-27T00:40:58Z"
-  },
-  {
-   "item_id": "3983588026",
-   "given_url": "https://m-cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext",
-   "given_title": "10 Things Software Developers Should Learn about Learning | January 2024 | ",
-   "resolved_title": "10 Things Software Developers Should Learn about Learning",
-   "resolved_url": "https://m-cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext",
-   "time_updated": "2023-12-27T11:40:52Z",
-   "time_added": "2023-12-27T11:40:52Z"
   },
   {
    "item_id": "3985174846",
@@ -67,31 +49,40 @@
    "time_added": "2023-12-25T21:59:47Z"
   },
   {
-   "item_id": "290689345",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Como_Era_Gostoso_o_Meu_Franc%C3%AAs",
-   "given_title": "Como Era Gostoso o Meu Francês – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Como Era Gostoso o Meu Francês",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Como_Era_Gostoso_o_Meu_Franc%C3%AAs",
-   "time_updated": "2023-12-26T12:45:12Z",
-   "time_added": "2023-12-26T12:45:12Z"
+   "item_id": "1707938414",
+   "given_url": "https://eater.net/8bit/",
+   "given_title": "Build an 8-bit computer | Ben Eater",
+   "resolved_title": "Ben Eater",
+   "resolved_url": "https://eater.net/8bit",
+   "time_updated": "2023-12-25T15:11:06Z",
+   "time_added": "2023-12-25T15:11:06Z"
   },
   {
-   "item_id": "3375136023",
-   "given_url": "https://www.worldhistory.org/article/1334/the-seven-voyages-of-zheng-he/",
-   "given_title": "The Seven Voyages of Zheng He - World History Encyclopedia",
-   "resolved_title": "The Seven Voyages of Zheng He",
-   "resolved_url": "https://www.worldhistory.org/article/1334/the-seven-voyages-of-zheng-he/",
-   "time_updated": "2023-12-26T13:00:16Z",
-   "time_added": "2023-12-26T13:00:15Z"
+   "item_id": "3580220475",
+   "given_url": "https://academic.oup.com/bioscience/article/49/6/453/229475?login=false",
+   "given_title": "Darwinian Gastronomy: Why We Use Spices | BioScience | Oxford Academic",
+   "resolved_title": "",
+   "resolved_url": "https://academic.oup.com/bioscience/article/49/6/453/229475",
+   "time_updated": "2023-12-27T18:54:36Z",
+   "time_added": "2023-12-27T18:54:36Z"
   },
   {
-   "item_id": "90926723",
-   "given_url": "https://en.m.wikipedia.org/wiki/Lenna",
-   "given_title": "Lenna - Wikipedia",
-   "resolved_title": "Lenna",
-   "resolved_url": "https://en.wikipedia.org/wiki/Lenna",
-   "time_updated": "2023-12-27T01:01:39Z",
-   "time_added": "2023-12-27T01:01:38Z"
+   "item_id": "1861086300",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Pulgasari",
+   "given_title": "Pulgasari – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Pulgasari",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Pulgasari",
+   "time_updated": "2023-12-25T02:15:50Z",
+   "time_added": "2023-12-25T02:15:49Z"
+  },
+  {
+   "item_id": "3983588026",
+   "given_url": "https://m-cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext",
+   "given_title": "10 Things Software Developers Should Learn about Learning | January 2024 | ",
+   "resolved_title": "10 Things Software Developers Should Learn about Learning",
+   "resolved_url": "https://m-cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext",
+   "time_updated": "2023-12-27T11:40:52Z",
+   "time_added": "2023-12-27T11:40:52Z"
   },
   {
    "item_id": "549873201",
@@ -112,13 +103,22 @@
    "time_added": "2023-12-27T16:18:48Z"
   },
   {
-   "item_id": "1861086300",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Pulgasari",
-   "given_title": "Pulgasari – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Pulgasari",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Pulgasari",
-   "time_updated": "2023-12-25T02:15:50Z",
-   "time_added": "2023-12-25T02:15:49Z"
+   "item_id": "3375136023",
+   "given_url": "https://www.worldhistory.org/article/1334/the-seven-voyages-of-zheng-he/",
+   "given_title": "The Seven Voyages of Zheng He - World History Encyclopedia",
+   "resolved_title": "The Seven Voyages of Zheng He",
+   "resolved_url": "https://www.worldhistory.org/article/1334/the-seven-voyages-of-zheng-he/",
+   "time_updated": "2023-12-26T13:00:16Z",
+   "time_added": "2023-12-26T13:00:15Z"
+  },
+  {
+   "item_id": "90926723",
+   "given_url": "https://en.m.wikipedia.org/wiki/Lenna",
+   "given_title": "Lenna - Wikipedia",
+   "resolved_title": "Lenna",
+   "resolved_url": "https://en.wikipedia.org/wiki/Lenna",
+   "time_updated": "2023-12-27T01:01:39Z",
+   "time_added": "2023-12-27T01:01:38Z"
   }
  ]
 }

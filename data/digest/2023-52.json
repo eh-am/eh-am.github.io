@@ -4,51 +4,6 @@
  "sortKey": "2023-52",
  "items": [
   {
-   "item_id": "1707938414",
-   "given_url": "https://eater.net/8bit/",
-   "given_title": "Build an 8-bit computer | Ben Eater",
-   "resolved_title": "Ben Eater",
-   "resolved_url": "https://eater.net/8bit",
-   "time_updated": "2023-12-25T15:11:06Z",
-   "time_added": "2023-12-25T15:11:06Z"
-  },
-  {
-   "item_id": "3983588026",
-   "given_url": "https://m-cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext",
-   "given_title": "10 Things Software Developers Should Learn about Learning | January 2024 | ",
-   "resolved_title": "10 Things Software Developers Should Learn about Learning",
-   "resolved_url": "https://m-cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext",
-   "time_updated": "2023-12-27T11:40:52Z",
-   "time_added": "2023-12-27T11:40:52Z"
-  },
-  {
-   "item_id": "3985174846",
-   "given_url": "https://m.youtube.com/watch?v=hzNWapTIfzI",
-   "given_title": "?? CHURRASCO JAPAN ?? - YouTube",
-   "resolved_title": "🇧🇷 CHURRASCO JAPAN 🇯🇵",
-   "resolved_url": "http://www.youtube.com/watch?v=hzNWapTIfzI",
-   "time_updated": "2023-12-25T21:59:49Z",
-   "time_added": "2023-12-25T21:59:47Z"
-  },
-  {
-   "item_id": "1861086300",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Pulgasari",
-   "given_title": "Pulgasari – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Pulgasari",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Pulgasari",
-   "time_updated": "2023-12-25T02:15:50Z",
-   "time_added": "2023-12-25T02:15:49Z"
-  },
-  {
-   "item_id": "90926723",
-   "given_url": "https://en.m.wikipedia.org/wiki/Lenna",
-   "given_title": "Lenna - Wikipedia",
-   "resolved_title": "Lenna",
-   "resolved_url": "https://en.wikipedia.org/wiki/Lenna",
-   "time_updated": "2023-12-27T01:01:39Z",
-   "time_added": "2023-12-27T01:01:38Z"
-  },
-  {
    "item_id": "290689345",
    "given_url": "https://pt.m.wikipedia.org/wiki/Como_Era_Gostoso_o_Meu_Franc%C3%AAs",
    "given_title": "Como Era Gostoso o Meu Francês – Wikipédia, a enciclopédia livre",
@@ -56,42 +11,6 @@
    "resolved_url": "https://pt.wikipedia.org/wiki/Como_Era_Gostoso_o_Meu_Franc%C3%AAs",
    "time_updated": "2023-12-26T12:45:12Z",
    "time_added": "2023-12-26T12:45:12Z"
-  },
-  {
-   "item_id": "1914928975",
-   "given_url": "https://en.m.wikipedia.org/wiki/Dead_cat_strategy",
-   "given_title": "Dead cat strategy - Wikipedia",
-   "resolved_title": "Dead cat strategy",
-   "resolved_url": "https://en.wikipedia.org/wiki/Dead_cat_strategy",
-   "time_updated": "2023-12-27T00:40:58Z",
-   "time_added": "2023-12-27T00:40:58Z"
-  },
-  {
-   "item_id": "3580220475",
-   "given_url": "https://academic.oup.com/bioscience/article/49/6/453/229475?login=false",
-   "given_title": "Darwinian Gastronomy: Why We Use Spices | BioScience | Oxford Academic",
-   "resolved_title": "",
-   "resolved_url": "https://academic.oup.com/bioscience/article/49/6/453/229475",
-   "time_updated": "2023-12-27T18:54:36Z",
-   "time_added": "2023-12-27T18:54:36Z"
-  },
-  {
-   "item_id": "3375136023",
-   "given_url": "https://www.worldhistory.org/article/1334/the-seven-voyages-of-zheng-he/",
-   "given_title": "The Seven Voyages of Zheng He - World History Encyclopedia",
-   "resolved_title": "The Seven Voyages of Zheng He",
-   "resolved_url": "https://www.worldhistory.org/article/1334/the-seven-voyages-of-zheng-he/",
-   "time_updated": "2023-12-26T13:00:16Z",
-   "time_added": "2023-12-26T13:00:15Z"
-  },
-  {
-   "item_id": "3985915221",
-   "given_url": "https://m.youtube.com/watch?v=cNbnef_eXBM\u0026embeds_referring_euri=https%3A%2F%2Fwww.themarginalian.org%2F\u0026source_ve_path=MjM4NTE\u0026feature=emb_title",
-   "given_title": "David Bowie on why you should never play to the gallery - YouTube",
-   "resolved_title": "David Bowie on why you should never play to the gallery",
-   "resolved_url": "http://www.youtube.com/watch?v=cNbnef_eXBM",
-   "time_updated": "2023-12-27T16:18:49Z",
-   "time_added": "2023-12-27T16:18:48Z"
   },
   {
    "item_id": "26175806",
@@ -103,15 +22,6 @@
    "time_added": "2023-12-25T02:16:15Z"
   },
   {
-   "item_id": "549873201",
-   "given_url": "https://www.scientificamerican.com/article/are-geeky-couples-more-likely-to-have-kids-with-autism/",
-   "given_title": "Are Geeky Couples More Likely to Have Kids with Autism? | Scientific Americ",
-   "resolved_title": "Are Geeky Couples More Likely to Have Kids with Autism?",
-   "resolved_url": "https://www.scientificamerican.com/article/are-geeky-couples-more-likely-to-have-kids-with-autism/",
-   "time_updated": "2023-12-27T11:19:31Z",
-   "time_added": "2023-12-27T11:19:31Z"
-  },
-  {
    "item_id": "3986220854",
    "given_url": "https://noticias.uol.com.br/ultimas-noticias/rfi/2023/12/28/milei-lista-as-medidas-da-sua-revolucao-liberal-que-pode-taxar-brasileiros-que-estudam-na-argentina.htm",
    "given_title": "Medidas de Milei: Estudantes do Brasil na Argentina podem ser taxados",
@@ -121,6 +31,96 @@
    "time_added": "2023-12-28T17:19:18Z"
   },
   {
+   "item_id": "3986538428",
+   "given_url": "https://m.youtube.com/watch?v=k7Xu4GvpN9U",
+   "given_title": "How Disco Elysium Was Stolen From Its Creators - YouTube",
+   "resolved_title": "How Disco Elysium Was Stolen From Its Creators",
+   "resolved_url": "http://www.youtube.com/watch?v=k7Xu4GvpN9U",
+   "time_updated": "2023-12-29T01:41:00Z",
+   "time_added": "2023-12-29T01:40:58Z"
+  },
+  {
+   "item_id": "1861086300",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Pulgasari",
+   "given_title": "Pulgasari – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Pulgasari",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Pulgasari",
+   "time_updated": "2023-12-25T02:15:50Z",
+   "time_added": "2023-12-25T02:15:49Z"
+  },
+  {
+   "item_id": "549873201",
+   "given_url": "https://www.scientificamerican.com/article/are-geeky-couples-more-likely-to-have-kids-with-autism/",
+   "given_title": "Are Geeky Couples More Likely to Have Kids with Autism? | Scientific Americ",
+   "resolved_title": "Are Geeky Couples More Likely to Have Kids with Autism?",
+   "resolved_url": "https://www.scientificamerican.com/article/are-geeky-couples-more-likely-to-have-kids-with-autism/",
+   "time_updated": "2023-12-27T11:19:31Z",
+   "time_added": "2023-12-27T11:19:31Z"
+  },
+  {
+   "item_id": "3375136023",
+   "given_url": "https://www.worldhistory.org/article/1334/the-seven-voyages-of-zheng-he/",
+   "given_title": "The Seven Voyages of Zheng He - World History Encyclopedia",
+   "resolved_title": "The Seven Voyages of Zheng He",
+   "resolved_url": "https://www.worldhistory.org/article/1334/the-seven-voyages-of-zheng-he/",
+   "time_updated": "2023-12-26T13:00:16Z",
+   "time_added": "2023-12-26T13:00:15Z"
+  },
+  {
+   "item_id": "90926723",
+   "given_url": "https://en.m.wikipedia.org/wiki/Lenna",
+   "given_title": "Lenna - Wikipedia",
+   "resolved_title": "Lenna",
+   "resolved_url": "https://en.wikipedia.org/wiki/Lenna",
+   "time_updated": "2023-12-27T01:01:39Z",
+   "time_added": "2023-12-27T01:01:38Z"
+  },
+  {
+   "item_id": "3580220475",
+   "given_url": "https://academic.oup.com/bioscience/article/49/6/453/229475?login=false",
+   "given_title": "Darwinian Gastronomy: Why We Use Spices | BioScience | Oxford Academic",
+   "resolved_title": "",
+   "resolved_url": "https://academic.oup.com/bioscience/article/49/6/453/229475",
+   "time_updated": "2023-12-27T18:54:36Z",
+   "time_added": "2023-12-27T18:54:36Z"
+  },
+  {
+   "item_id": "3983588026",
+   "given_url": "https://m-cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext",
+   "given_title": "10 Things Software Developers Should Learn about Learning | January 2024 | ",
+   "resolved_title": "10 Things Software Developers Should Learn about Learning",
+   "resolved_url": "https://m-cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext",
+   "time_updated": "2023-12-27T11:40:52Z",
+   "time_added": "2023-12-27T11:40:52Z"
+  },
+  {
+   "item_id": "1914928975",
+   "given_url": "https://en.m.wikipedia.org/wiki/Dead_cat_strategy",
+   "given_title": "Dead cat strategy - Wikipedia",
+   "resolved_title": "Dead cat strategy",
+   "resolved_url": "https://en.wikipedia.org/wiki/Dead_cat_strategy",
+   "time_updated": "2023-12-27T00:40:58Z",
+   "time_added": "2023-12-27T00:40:58Z"
+  },
+  {
+   "item_id": "390630938",
+   "given_url": "https://en.m.wikipedia.org/wiki/Antiquities_of_the_Jews",
+   "given_title": "Antiquities of the Jews - Wikipedia",
+   "resolved_title": "Antiquities of the Jews",
+   "resolved_url": "https://en.wikipedia.org/wiki/Antiquities_of_the_Jews",
+   "time_updated": "2023-12-29T02:12:15Z",
+   "time_added": "2023-12-29T02:12:14Z"
+  },
+  {
+   "item_id": "3986676411",
+   "given_url": "https://klingon.wiki/En/Dicion%C3%A1rioDaL%C3%ADnguaKlingon",
+   "given_title": "Dicionário da língua Klingon – Klingon Language Wiki",
+   "resolved_title": "Dicionário da língua klingon",
+   "resolved_url": "https://klingon.wiki/En/Dicion%C3%A1rioDaL%C3%ADnguaKlingon",
+   "time_updated": "2023-12-29T10:10:26Z",
+   "time_added": "2023-12-29T10:10:23Z"
+  },
+  {
    "item_id": "1454172594",
    "given_url": "https://en.m.wikipedia.org/wiki/Blood_curse",
    "given_title": "Blood curse - Wikipedia",
@@ -128,6 +128,33 @@
    "resolved_url": "https://en.wikipedia.org/wiki/Blood_curse",
    "time_updated": "2023-12-25T01:51:17Z",
    "time_added": "2023-12-25T01:51:16Z"
+  },
+  {
+   "item_id": "1707938414",
+   "given_url": "https://eater.net/8bit/",
+   "given_title": "Build an 8-bit computer | Ben Eater",
+   "resolved_title": "Ben Eater",
+   "resolved_url": "https://eater.net/8bit",
+   "time_updated": "2023-12-25T15:11:06Z",
+   "time_added": "2023-12-25T15:11:06Z"
+  },
+  {
+   "item_id": "3985174846",
+   "given_url": "https://m.youtube.com/watch?v=hzNWapTIfzI",
+   "given_title": "?? CHURRASCO JAPAN ?? - YouTube",
+   "resolved_title": "🇧🇷 CHURRASCO JAPAN 🇯🇵",
+   "resolved_url": "http://www.youtube.com/watch?v=hzNWapTIfzI",
+   "time_updated": "2023-12-25T21:59:49Z",
+   "time_added": "2023-12-25T21:59:47Z"
+  },
+  {
+   "item_id": "3985915221",
+   "given_url": "https://m.youtube.com/watch?v=cNbnef_eXBM\u0026embeds_referring_euri=https%3A%2F%2Fwww.themarginalian.org%2F\u0026source_ve_path=MjM4NTE\u0026feature=emb_title",
+   "given_title": "David Bowie on why you should never play to the gallery - YouTube",
+   "resolved_title": "David Bowie on why you should never play to the gallery",
+   "resolved_url": "http://www.youtube.com/watch?v=cNbnef_eXBM",
+   "time_updated": "2023-12-27T16:18:49Z",
+   "time_added": "2023-12-27T16:18:48Z"
   }
  ]
 }

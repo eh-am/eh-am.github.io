@@ -4,85 +4,13 @@
  "sortKey": "2023-51",
  "items": [
   {
-   "item_id": "3983597499",
-   "given_url": "https://en.m.wikipedia.org/wiki/GunForce_II",
-   "given_title": "GunForce II - Wikipedia",
-   "resolved_title": "GunForce II",
-   "resolved_url": "https://en.wikipedia.org/wiki/GunForce_II",
-   "time_updated": "2023-12-21T22:04:03Z",
-   "time_added": "2023-12-21T22:04:01Z"
-  },
-  {
-   "item_id": "3984248364",
-   "given_url": "https://old.reddit.com/r/Fighters/comments/s5k9sd/how_in_the_hell_do_you_actually_implement_rollback/hsy3zxn/",
-   "given_title": "PrensadorDeBotones comments on How in the hell do you actually implement ro",
-   "resolved_title": "How in the hell do you actually implement rollback?",
-   "resolved_url": "https://www.reddit.com/r/Fighters/comments/s5k9sd/how_in_the_hell_do_you_actually_implement_rollback/",
-   "time_updated": "2023-12-23T11:13:43Z",
-   "time_added": "2023-12-23T11:13:42Z"
-  },
-  {
-   "item_id": "2789806235",
-   "given_url": "https://www.youtube.com/watch?v=1JHetORRpfQ",
-   "given_title": "(217) Code Mystics Explains Netcode: Input Delay vs. Rollback - YouTube",
-   "resolved_title": "Code Mystics Explains Netcode: Input Delay vs. Rollback",
-   "resolved_url": "https://www.youtube.com/watch?v=1JHetORRpfQ",
-   "time_updated": "2023-12-23T11:25:22Z",
-   "time_added": "2023-12-23T11:25:22Z"
-  },
-  {
-   "item_id": "291055198",
-   "given_url": "https://en.m.wikipedia.org/wiki/In_Living_Color",
-   "given_title": "In Living Color - Wikipedia",
-   "resolved_title": "In Living Color",
-   "resolved_url": "https://en.wikipedia.org/wiki/In_Living_Color",
-   "time_updated": "2023-12-22T08:23:35Z",
-   "time_added": "2023-12-22T08:23:34Z"
-  },
-  {
-   "item_id": "3984080128",
-   "given_url": "https://m.youtube.com/watch?v=mhi5YsZdyCA",
-   "given_title": "The 30 GREATEST Shmups of All Time! What Makes a Shmup Great? - YouTube",
-   "resolved_title": "The 30 GREATEST Shmups of All Time! What Makes a Shmup Great?",
-   "resolved_url": "http://www.youtube.com/watch?v=mhi5YsZdyCA",
-   "time_updated": "2023-12-22T23:50:07Z",
-   "time_added": "2023-12-22T23:50:04Z"
-  },
-  {
-   "item_id": "1993627754",
-   "given_url": "https://www.youtube.com/watch?v=bQmMFQzrEsc",
-   "given_title": "(226) Why the Gospels are Myth | Richard Carrier - YouTube",
-   "resolved_title": "Why the Gospels are Myth | Richard Carrier",
-   "resolved_url": "http://www.youtube.com/watch?v=bQmMFQzrEsc",
-   "time_updated": "2023-12-24T11:49:36Z",
-   "time_added": "2023-12-24T11:49:36Z"
-  },
-  {
-   "item_id": "236027462",
-   "given_url": "https://en.m.wikipedia.org/wiki/Palaeography",
-   "given_title": "Palaeography - Wikipedia",
-   "resolved_title": "Palaeography",
-   "resolved_url": "https://en.wikipedia.org/wiki/Palaeography",
-   "time_updated": "2023-12-23T22:12:43Z",
-   "time_added": "2023-12-23T22:12:43Z"
-  },
-  {
-   "item_id": "3984749168",
-   "given_url": "https://news.ycombinator.com/item?id=38755180",
-   "given_title": "If only someone told me this before my first startup | Hacker News",
-   "resolved_title": "If only someone told me this before my first startup",
-   "resolved_url": "https://news.ycombinator.com/item?id=38755180",
-   "time_updated": "2023-12-24T19:08:34Z",
-   "time_added": "2023-12-24T19:08:33Z"
-  },
-  {
-   "item_id": "3957654321",
-   "given_url": "https://en.m.wikipedia.org/wiki/United_States_military_and_prostitution_in_South_Korea",
-   "given_title": "",
-   "resolved_title": "United States military and prostitution in South Korea",
-   "resolved_url": "https://en.wikipedia.org/wiki/United_States_military_and_prostitution_in_South_Korea",
-   "time_updated": "2023-12-24T09:38:21Z",
-   "time_added": "2023-12-24T09:38:20Z"
+   "item_id": "2752134011",
+   "given_url": "https://github.com/pond3r/ggpo",
+   "given_title": "pond3r/ggpo: Good Game, Peace Out Rollback Network SDK",
+   "resolved_title": "pond3r/ggpo",
+   "resolved_url": "https://github.com/pond3r/ggpo",
+   "time_updated": "2023-12-23T11:15:34Z",
+   "time_added": "2023-12-23T11:15:34Z"
   },
   {
    "item_id": "492954583",
@@ -94,31 +22,13 @@
    "time_added": "2023-12-22T08:09:42Z"
   },
   {
-   "item_id": "3236262431",
-   "given_url": "https://en.m.wikipedia.org/wiki/Simon_Mol",
-   "given_title": "Simon Mol - Wikipedia",
-   "resolved_title": "Simon Mol",
-   "resolved_url": "https://en.wikipedia.org/wiki/Simon_Mol",
-   "time_updated": "2023-12-23T09:53:54Z",
-   "time_added": "2023-12-23T09:53:53Z"
-  },
-  {
-   "item_id": "2752134011",
-   "given_url": "https://github.com/pond3r/ggpo",
-   "given_title": "pond3r/ggpo: Good Game, Peace Out Rollback Network SDK",
-   "resolved_title": "pond3r/ggpo",
-   "resolved_url": "https://github.com/pond3r/ggpo",
-   "time_updated": "2023-12-23T11:15:34Z",
-   "time_added": "2023-12-23T11:15:34Z"
-  },
-  {
-   "item_id": "3983779395",
-   "given_url": "https://m.youtube.com/watch?v=ZT5YRaulTzk",
-   "given_title": "Star Trek- In Living Color- High Quality Version - YouTube",
-   "resolved_title": "Star Trek- In Living Color- High Quality Version",
-   "resolved_url": "http://www.youtube.com/watch?v=ZT5YRaulTzk",
-   "time_updated": "2023-12-22T08:30:35Z",
-   "time_added": "2023-12-22T08:30:33Z"
+   "item_id": "265020966",
+   "given_url": "https://aphelis.net/origin-development-quotation-mark/",
+   "given_title": "The origin and development of the quotation mark",
+   "resolved_title": "The origin and development of the quotation mark",
+   "resolved_url": "https://aphelis.net/origin-development-quotation-mark/",
+   "time_updated": "2023-12-22T10:21:34Z",
+   "time_added": "2023-12-22T10:21:34Z"
   },
   {
    "item_id": "1837139661",
@@ -130,13 +40,94 @@
    "time_added": "2023-12-24T16:27:21Z"
   },
   {
-   "item_id": "265020966",
-   "given_url": "https://aphelis.net/origin-development-quotation-mark/",
-   "given_title": "The origin and development of the quotation mark",
-   "resolved_title": "The origin and development of the quotation mark",
-   "resolved_url": "https://aphelis.net/origin-development-quotation-mark/",
-   "time_updated": "2023-12-22T10:21:34Z",
-   "time_added": "2023-12-22T10:21:34Z"
+   "item_id": "3983779395",
+   "given_url": "https://m.youtube.com/watch?v=ZT5YRaulTzk",
+   "given_title": "Star Trek- In Living Color- High Quality Version - YouTube",
+   "resolved_title": "Star Trek- In Living Color- High Quality Version",
+   "resolved_url": "http://www.youtube.com/watch?v=ZT5YRaulTzk",
+   "time_updated": "2023-12-22T08:30:35Z",
+   "time_added": "2023-12-22T08:30:33Z"
+  },
+  {
+   "item_id": "3984248364",
+   "given_url": "https://old.reddit.com/r/Fighters/comments/s5k9sd/how_in_the_hell_do_you_actually_implement_rollback/hsy3zxn/",
+   "given_title": "PrensadorDeBotones comments on How in the hell do you actually implement ro",
+   "resolved_title": "How in the hell do you actually implement rollback?",
+   "resolved_url": "https://www.reddit.com/r/Fighters/comments/s5k9sd/how_in_the_hell_do_you_actually_implement_rollback/",
+   "time_updated": "2023-12-23T11:13:43Z",
+   "time_added": "2023-12-23T11:13:42Z"
+  },
+  {
+   "item_id": "236027462",
+   "given_url": "https://en.m.wikipedia.org/wiki/Palaeography",
+   "given_title": "Palaeography - Wikipedia",
+   "resolved_title": "Palaeography",
+   "resolved_url": "https://en.wikipedia.org/wiki/Palaeography",
+   "time_updated": "2023-12-23T22:12:43Z",
+   "time_added": "2023-12-23T22:12:43Z"
+  },
+  {
+   "item_id": "2789806235",
+   "given_url": "https://www.youtube.com/watch?v=1JHetORRpfQ",
+   "given_title": "(217) Code Mystics Explains Netcode: Input Delay vs. Rollback - YouTube",
+   "resolved_title": "Code Mystics Explains Netcode: Input Delay vs. Rollback",
+   "resolved_url": "https://www.youtube.com/watch?v=1JHetORRpfQ",
+   "time_updated": "2023-12-23T11:25:22Z",
+   "time_added": "2023-12-23T11:25:22Z"
+  },
+  {
+   "item_id": "1993627754",
+   "given_url": "https://www.youtube.com/watch?v=bQmMFQzrEsc",
+   "given_title": "(226) Why the Gospels are Myth | Richard Carrier - YouTube",
+   "resolved_title": "Why the Gospels are Myth | Richard Carrier",
+   "resolved_url": "http://www.youtube.com/watch?v=bQmMFQzrEsc",
+   "time_updated": "2023-12-24T11:49:36Z",
+   "time_added": "2023-12-24T11:49:36Z"
+  },
+  {
+   "item_id": "3984080128",
+   "given_url": "https://m.youtube.com/watch?v=mhi5YsZdyCA",
+   "given_title": "The 30 GREATEST Shmups of All Time! What Makes a Shmup Great? - YouTube",
+   "resolved_title": "The 30 GREATEST Shmups of All Time! What Makes a Shmup Great?",
+   "resolved_url": "http://www.youtube.com/watch?v=mhi5YsZdyCA",
+   "time_updated": "2023-12-22T23:50:07Z",
+   "time_added": "2023-12-22T23:50:04Z"
+  },
+  {
+   "item_id": "3957654321",
+   "given_url": "https://en.m.wikipedia.org/wiki/United_States_military_and_prostitution_in_South_Korea",
+   "given_title": "",
+   "resolved_title": "United States military and prostitution in South Korea",
+   "resolved_url": "https://en.wikipedia.org/wiki/United_States_military_and_prostitution_in_South_Korea",
+   "time_updated": "2023-12-24T09:38:21Z",
+   "time_added": "2023-12-24T09:38:20Z"
+  },
+  {
+   "item_id": "3984749168",
+   "given_url": "https://news.ycombinator.com/item?id=38755180",
+   "given_title": "If only someone told me this before my first startup | Hacker News",
+   "resolved_title": "If only someone told me this before my first startup",
+   "resolved_url": "https://news.ycombinator.com/item?id=38755180",
+   "time_updated": "2023-12-24T19:08:34Z",
+   "time_added": "2023-12-24T19:08:33Z"
+  },
+  {
+   "item_id": "291055198",
+   "given_url": "https://en.m.wikipedia.org/wiki/In_Living_Color",
+   "given_title": "In Living Color - Wikipedia",
+   "resolved_title": "In Living Color",
+   "resolved_url": "https://en.wikipedia.org/wiki/In_Living_Color",
+   "time_updated": "2023-12-22T08:23:35Z",
+   "time_added": "2023-12-22T08:23:34Z"
+  },
+  {
+   "item_id": "3236262431",
+   "given_url": "https://en.m.wikipedia.org/wiki/Simon_Mol",
+   "given_title": "Simon Mol - Wikipedia",
+   "resolved_title": "Simon Mol",
+   "resolved_url": "https://en.wikipedia.org/wiki/Simon_Mol",
+   "time_updated": "2023-12-23T09:53:54Z",
+   "time_added": "2023-12-23T09:53:53Z"
   }
  ]
 }

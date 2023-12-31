@@ -4,33 +4,6 @@
  "sortKey": "2023-51",
  "items": [
   {
-   "item_id": "3984749168",
-   "given_url": "https://news.ycombinator.com/item?id=38755180",
-   "given_title": "If only someone told me this before my first startup | Hacker News",
-   "resolved_title": "If only someone told me this before my first startup",
-   "resolved_url": "https://news.ycombinator.com/item?id=38755180",
-   "time_updated": "2023-12-24T19:08:34Z",
-   "time_added": "2023-12-24T19:08:33Z"
-  },
-  {
-   "item_id": "3957654321",
-   "given_url": "https://en.m.wikipedia.org/wiki/United_States_military_and_prostitution_in_South_Korea",
-   "given_title": "",
-   "resolved_title": "United States military and prostitution in South Korea",
-   "resolved_url": "https://en.wikipedia.org/wiki/United_States_military_and_prostitution_in_South_Korea",
-   "time_updated": "2023-12-24T09:38:21Z",
-   "time_added": "2023-12-24T09:38:20Z"
-  },
-  {
-   "item_id": "1993627754",
-   "given_url": "https://www.youtube.com/watch?v=bQmMFQzrEsc",
-   "given_title": "(226) Why the Gospels are Myth | Richard Carrier - YouTube",
-   "resolved_title": "Why the Gospels are Myth | Richard Carrier",
-   "resolved_url": "http://www.youtube.com/watch?v=bQmMFQzrEsc",
-   "time_updated": "2023-12-24T11:49:36Z",
-   "time_added": "2023-12-24T11:49:36Z"
-  },
-  {
    "item_id": "1837139661",
    "given_url": "https://emulation.gametechwiki.com/index.php/Netplay",
    "given_title": "Netplay - Emulation General Wiki",
@@ -38,6 +11,15 @@
    "resolved_url": "https://emulation.gametechwiki.com/index.php/Netplay",
    "time_updated": "2023-12-24T16:27:22Z",
    "time_added": "2023-12-24T16:27:21Z"
+  },
+  {
+   "item_id": "3984749168",
+   "given_url": "https://news.ycombinator.com/item?id=38755180",
+   "given_title": "If only someone told me this before my first startup | Hacker News",
+   "resolved_title": "If only someone told me this before my first startup",
+   "resolved_url": "https://news.ycombinator.com/item?id=38755180",
+   "time_updated": "2023-12-24T19:08:34Z",
+   "time_added": "2023-12-24T19:08:33Z"
   }
  ]
 }

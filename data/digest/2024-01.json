@@ -1,0 +1,25 @@
+{
+ "year": "2024",
+ "week": "1",
+ "sortKey": "2024-01",
+ "items": [
+  {
+   "item_id": "3584079901",
+   "given_url": "https://allegedlythewebsite.org/timeline",
+   "given_title": "Richard Carrier Lawsuits Timeline — Allegedly: The Website",
+   "resolved_title": "Richard Carrier Lawsuits Timeline — Allegedly",
+   "resolved_url": "https://allegedlythewebsite.org/timeline",
+   "time_updated": "2024-01-01T02:53:56Z",
+   "time_added": "2024-01-01T02:53:55Z"
+  },
+  {
+   "item_id": "3918651251",
+   "given_url": "https://github.com/ublue-os/bazzite",
+   "given_title": "ublue-os/bazzite: Bazzite is an OCI image that serves as an alternative ope",
+   "resolved_title": "ublue-os/bazzite",
+   "resolved_url": "https://github.com/ublue-os/bazzite",
+   "time_updated": "2024-01-01T01:28:02Z",
+   "time_added": "2024-01-01T01:28:01Z"
+  }
+ ]
+}

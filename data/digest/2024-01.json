@@ -13,15 +13,6 @@
    "time_added": "2024-01-01T02:53:55Z"
   },
   {
-   "item_id": "3987957809",
-   "given_url": "https://www.gameblast.com.br/2021/04/Disco-Elysium-Final-Cut-Traducao-Entrevista.html?m=1",
-   "given_title": "Disco Elysium: conversamos com a equipe responsável por traduzir o RPG para",
-   "resolved_title": "",
-   "resolved_url": "https://www.gameblast.com.br/2021/04/Disco-Elysium-Final-Cut-Traducao-Entrevista.html?m=1",
-   "time_updated": "2024-01-01T16:50:27Z",
-   "time_added": "2024-01-01T16:50:11Z"
-  },
-  {
    "item_id": "3918651251",
    "given_url": "https://github.com/ublue-os/bazzite",
    "given_title": "ublue-os/bazzite: Bazzite is an OCI image that serves as an alternative ope",
@@ -29,6 +20,15 @@
    "resolved_url": "https://github.com/ublue-os/bazzite",
    "time_updated": "2024-01-01T01:28:02Z",
    "time_added": "2024-01-01T01:28:01Z"
+  },
+  {
+   "item_id": "3987957809",
+   "given_url": "https://www.gameblast.com.br/2021/04/Disco-Elysium-Final-Cut-Traducao-Entrevista.html?m=1",
+   "given_title": "Disco Elysium: conversamos com a equipe responsável por traduzir o RPG para",
+   "resolved_title": "",
+   "resolved_url": "https://www.gameblast.com.br/2021/04/Disco-Elysium-Final-Cut-Traducao-Entrevista.html?m=1",
+   "time_updated": "2024-01-01T16:50:27Z",
+   "time_added": "2024-01-01T16:50:11Z"
   }
  ]
 }

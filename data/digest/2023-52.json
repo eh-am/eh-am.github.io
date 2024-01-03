@@ -4,24 +4,6 @@
  "sortKey": "2023-52",
  "items": [
   {
-   "item_id": "3987503794",
-   "given_url": "https://m.youtube.com/watch?feature=shared\u0026v=z91PZpejFeE",
-   "given_title": "Omnidirectional Galvanic Vestibular Stimulation in Virtual Reality [Supplem",
-   "resolved_title": "Omnidirectional Galvanic Vestibular Stimulation in Virtual Reality [Supplementary Video]",
-   "resolved_url": "https://www.youtube.com/watch?v=z91PZpejFeE",
-   "time_updated": "2023-12-31T11:55:30Z",
-   "time_added": "2023-12-31T11:55:28Z"
-  },
-  {
-   "item_id": "390630938",
-   "given_url": "https://en.m.wikipedia.org/wiki/Antiquities_of_the_Jews",
-   "given_title": "Antiquities of the Jews - Wikipedia",
-   "resolved_title": "Antiquities of the Jews",
-   "resolved_url": "https://en.wikipedia.org/wiki/Antiquities_of_the_Jews",
-   "time_updated": "2023-12-29T02:12:15Z",
-   "time_added": "2023-12-29T02:12:14Z"
-  },
-  {
    "item_id": "3986676411",
    "given_url": "https://klingon.wiki/En/Dicion%C3%A1rioDaL%C3%ADnguaKlingon",
    "given_title": "Dicionário da língua Klingon – Klingon Language Wiki",
@@ -40,24 +22,6 @@
    "time_added": "2023-12-29T13:43:40Z"
   },
   {
-   "item_id": "3579812729",
-   "given_url": "https://www.reddit.com/r/QualityAssurance/comments/srhafv/cypress_vs_playwright/",
-   "given_title": "What is the best tool for testing web applications? : r/QualityAssurance",
-   "resolved_title": "Cypress vs Playwright",
-   "resolved_url": "https://www.reddit.com/r/QualityAssurance/comments/srhafv/cypress_vs_playwright/",
-   "time_updated": "2023-12-30T00:27:45Z",
-   "time_added": "2023-12-30T00:27:44Z"
-  },
-  {
-   "item_id": "383864959",
-   "given_url": "https://en.m.wikipedia.org/wiki/Periodical_cicadas",
-   "given_title": "Periodical cicadas - Wikipedia",
-   "resolved_title": "Periodical cicadas",
-   "resolved_url": "https://en.wikipedia.org/wiki/Periodical_cicadas",
-   "time_updated": "2023-12-31T10:50:07Z",
-   "time_added": "2023-12-31T10:50:06Z"
-  },
-  {
    "item_id": "176174484",
    "given_url": "https://en.m.wikipedia.org/wiki/Chiastic_structure",
    "given_title": "Chiastic structure - Wikipedia",
@@ -67,40 +31,22 @@
    "time_added": "2023-12-30T10:28:39Z"
   },
   {
-   "item_id": "90926723",
-   "given_url": "https://en.m.wikipedia.org/wiki/Lenna",
-   "given_title": "Lenna - Wikipedia",
-   "resolved_title": "Lenna",
-   "resolved_url": "https://en.wikipedia.org/wiki/Lenna",
-   "time_updated": "2023-12-27T01:01:39Z",
-   "time_added": "2023-12-27T01:01:38Z"
+   "item_id": "3987503794",
+   "given_url": "https://m.youtube.com/watch?feature=shared\u0026v=z91PZpejFeE",
+   "given_title": "Omnidirectional Galvanic Vestibular Stimulation in Virtual Reality [Supplem",
+   "resolved_title": "Omnidirectional Galvanic Vestibular Stimulation in Virtual Reality [Supplementary Video]",
+   "resolved_url": "https://www.youtube.com/watch?v=z91PZpejFeE",
+   "time_updated": "2023-12-31T11:55:30Z",
+   "time_added": "2023-12-31T11:55:28Z"
   },
   {
-   "item_id": "549873201",
-   "given_url": "https://www.scientificamerican.com/article/are-geeky-couples-more-likely-to-have-kids-with-autism/",
-   "given_title": "Are Geeky Couples More Likely to Have Kids with Autism? | Scientific Americ",
-   "resolved_title": "Are Geeky Couples More Likely to Have Kids with Autism?",
-   "resolved_url": "https://www.scientificamerican.com/article/are-geeky-couples-more-likely-to-have-kids-with-autism/",
-   "time_updated": "2023-12-27T11:19:31Z",
-   "time_added": "2023-12-27T11:19:31Z"
-  },
-  {
-   "item_id": "3983588026",
-   "given_url": "https://m-cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext",
-   "given_title": "10 Things Software Developers Should Learn about Learning | January 2024 | ",
-   "resolved_title": "10 Things Software Developers Should Learn about Learning",
-   "resolved_url": "https://m-cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext",
-   "time_updated": "2023-12-27T11:40:52Z",
-   "time_added": "2023-12-27T11:40:52Z"
-  },
-  {
-   "item_id": "3985915221",
-   "given_url": "https://m.youtube.com/watch?v=cNbnef_eXBM\u0026embeds_referring_euri=https%3A%2F%2Fwww.themarginalian.org%2F\u0026source_ve_path=MjM4NTE\u0026feature=emb_title",
-   "given_title": "David Bowie on why you should never play to the gallery - YouTube",
-   "resolved_title": "David Bowie on why you should never play to the gallery",
-   "resolved_url": "http://www.youtube.com/watch?v=cNbnef_eXBM",
-   "time_updated": "2023-12-27T16:18:49Z",
-   "time_added": "2023-12-27T16:18:48Z"
+   "item_id": "383864959",
+   "given_url": "https://en.m.wikipedia.org/wiki/Periodical_cicadas",
+   "given_title": "Periodical cicadas - Wikipedia",
+   "resolved_title": "Periodical cicadas",
+   "resolved_url": "https://en.wikipedia.org/wiki/Periodical_cicadas",
+   "time_updated": "2023-12-31T10:50:07Z",
+   "time_added": "2023-12-31T10:50:06Z"
   },
   {
    "item_id": "3580220475",
@@ -128,6 +74,33 @@
    "resolved_url": "http://www.youtube.com/watch?v=k7Xu4GvpN9U",
    "time_updated": "2023-12-29T01:41:00Z",
    "time_added": "2023-12-29T01:40:58Z"
+  },
+  {
+   "item_id": "390630938",
+   "given_url": "https://en.m.wikipedia.org/wiki/Antiquities_of_the_Jews",
+   "given_title": "Antiquities of the Jews - Wikipedia",
+   "resolved_title": "Antiquities of the Jews",
+   "resolved_url": "https://en.wikipedia.org/wiki/Antiquities_of_the_Jews",
+   "time_updated": "2023-12-29T02:12:15Z",
+   "time_added": "2023-12-29T02:12:14Z"
+  },
+  {
+   "item_id": "3985915221",
+   "given_url": "https://m.youtube.com/watch?v=cNbnef_eXBM\u0026embeds_referring_euri=https%3A%2F%2Fwww.themarginalian.org%2F\u0026source_ve_path=MjM4NTE\u0026feature=emb_title",
+   "given_title": "David Bowie on why you should never play to the gallery - YouTube",
+   "resolved_title": "David Bowie on why you should never play to the gallery",
+   "resolved_url": "http://www.youtube.com/watch?v=cNbnef_eXBM",
+   "time_updated": "2023-12-27T16:18:49Z",
+   "time_added": "2023-12-27T16:18:48Z"
+  },
+  {
+   "item_id": "3579812729",
+   "given_url": "https://www.reddit.com/r/QualityAssurance/comments/srhafv/cypress_vs_playwright/",
+   "given_title": "What is the best tool for testing web applications? : r/QualityAssurance",
+   "resolved_title": "Cypress vs Playwright",
+   "resolved_url": "https://www.reddit.com/r/QualityAssurance/comments/srhafv/cypress_vs_playwright/",
+   "time_updated": "2023-12-30T00:27:45Z",
+   "time_added": "2023-12-30T00:27:44Z"
   }
  ]
 }

@@ -13,6 +13,15 @@
    "time_added": "2024-01-01T02:53:55Z"
   },
   {
+   "item_id": "3987957809",
+   "given_url": "https://www.gameblast.com.br/2021/04/Disco-Elysium-Final-Cut-Traducao-Entrevista.html?m=1",
+   "given_title": "Disco Elysium: conversamos com a equipe responsável por traduzir o RPG para",
+   "resolved_title": "",
+   "resolved_url": "https://www.gameblast.com.br/2021/04/Disco-Elysium-Final-Cut-Traducao-Entrevista.html?m=1",
+   "time_updated": "2024-01-01T16:50:27Z",
+   "time_added": "2024-01-01T16:50:11Z"
+  },
+  {
    "item_id": "3918651251",
    "given_url": "https://github.com/ublue-os/bazzite",
    "given_title": "ublue-os/bazzite: Bazzite is an OCI image that serves as an alternative ope",
@@ -22,13 +31,22 @@
    "time_added": "2024-01-01T01:28:01Z"
   },
   {
-   "item_id": "3987957809",
-   "given_url": "https://www.gameblast.com.br/2021/04/Disco-Elysium-Final-Cut-Traducao-Entrevista.html?m=1",
-   "given_title": "Disco Elysium: conversamos com a equipe responsável por traduzir o RPG para",
-   "resolved_title": "",
-   "resolved_url": "https://www.gameblast.com.br/2021/04/Disco-Elysium-Final-Cut-Traducao-Entrevista.html?m=1",
-   "time_updated": "2024-01-01T16:50:27Z",
-   "time_added": "2024-01-01T16:50:11Z"
+   "item_id": "3988536160",
+   "given_url": "https://unseen-japan.com/review-godzilla-minus-one-is-a-monster-disappointment/#Yamato-damashii_in_Action",
+   "given_title": "Review: Godzilla Minus One is a Monster Disappointment - Unseen Japan",
+   "resolved_title": "Review: Godzilla Minus One is a Monster Disappointment",
+   "resolved_url": "https://unseen-japan.com/review-godzilla-minus-one-is-a-monster-disappointment/",
+   "time_updated": "2024-01-02T20:54:45Z",
+   "time_added": "2024-01-02T20:54:44Z"
+  },
+  {
+   "item_id": "67318862",
+   "given_url": "https://en.m.wikipedia.org/wiki/Lewis_and_Clark_Expedition",
+   "given_title": "Lewis and Clark Expedition - Wikipedia",
+   "resolved_title": "Lewis and Clark Expedition",
+   "resolved_url": "https://en.wikipedia.org/wiki/Lewis_and_Clark_Expedition",
+   "time_updated": "2024-01-02T23:57:06Z",
+   "time_added": "2024-01-02T23:57:05Z"
   }
  ]
 }

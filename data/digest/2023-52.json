@@ -13,24 +13,6 @@
    "time_added": "2023-12-29T10:10:23Z"
   },
   {
-   "item_id": "3986742910",
-   "given_url": "https://github.com/microsoft/TypeScript/issues/28357#issuecomment-748550734",
-   "given_title": "TypeScript doesn't allow event : CustomEvent in addEventListener · Issue #2",
-   "resolved_title": "TypeScript doesn't allow event : CustomEvent in addEventListener#28357",
-   "resolved_url": "https://github.com/microsoft/TypeScript/issues/28357",
-   "time_updated": "2023-12-29T13:43:42Z",
-   "time_added": "2023-12-29T13:43:40Z"
-  },
-  {
-   "item_id": "176174484",
-   "given_url": "https://en.m.wikipedia.org/wiki/Chiastic_structure",
-   "given_title": "Chiastic structure - Wikipedia",
-   "resolved_title": "Chiastic structure",
-   "resolved_url": "https://en.wikipedia.org/wiki/Chiastic_structure",
-   "time_updated": "2023-12-30T10:28:40Z",
-   "time_added": "2023-12-30T10:28:39Z"
-  },
-  {
    "item_id": "3987503794",
    "given_url": "https://m.youtube.com/watch?feature=shared\u0026v=z91PZpejFeE",
    "given_title": "Omnidirectional Galvanic Vestibular Stimulation in Virtual Reality [Supplem",
@@ -40,22 +22,13 @@
    "time_added": "2023-12-31T11:55:28Z"
   },
   {
-   "item_id": "383864959",
-   "given_url": "https://en.m.wikipedia.org/wiki/Periodical_cicadas",
-   "given_title": "Periodical cicadas - Wikipedia",
-   "resolved_title": "Periodical cicadas",
-   "resolved_url": "https://en.wikipedia.org/wiki/Periodical_cicadas",
-   "time_updated": "2023-12-31T10:50:07Z",
-   "time_added": "2023-12-31T10:50:06Z"
-  },
-  {
-   "item_id": "3580220475",
-   "given_url": "https://academic.oup.com/bioscience/article/49/6/453/229475?login=false",
-   "given_title": "Darwinian Gastronomy: Why We Use Spices | BioScience | Oxford Academic",
-   "resolved_title": "",
-   "resolved_url": "https://academic.oup.com/bioscience/article/49/6/453/229475",
-   "time_updated": "2023-12-27T18:54:36Z",
-   "time_added": "2023-12-27T18:54:36Z"
+   "item_id": "3986742910",
+   "given_url": "https://github.com/microsoft/TypeScript/issues/28357#issuecomment-748550734",
+   "given_title": "TypeScript doesn't allow event : CustomEvent in addEventListener · Issue #2",
+   "resolved_title": "TypeScript doesn't allow event : CustomEvent in addEventListener#28357",
+   "resolved_url": "https://github.com/microsoft/TypeScript/issues/28357",
+   "time_updated": "2023-12-29T13:43:42Z",
+   "time_added": "2023-12-29T13:43:40Z"
   },
   {
    "item_id": "3986220854",
@@ -85,15 +58,6 @@
    "time_added": "2023-12-29T02:12:14Z"
   },
   {
-   "item_id": "3985915221",
-   "given_url": "https://m.youtube.com/watch?v=cNbnef_eXBM\u0026embeds_referring_euri=https%3A%2F%2Fwww.themarginalian.org%2F\u0026source_ve_path=MjM4NTE\u0026feature=emb_title",
-   "given_title": "David Bowie on why you should never play to the gallery - YouTube",
-   "resolved_title": "David Bowie on why you should never play to the gallery",
-   "resolved_url": "http://www.youtube.com/watch?v=cNbnef_eXBM",
-   "time_updated": "2023-12-27T16:18:49Z",
-   "time_added": "2023-12-27T16:18:48Z"
-  },
-  {
    "item_id": "3579812729",
    "given_url": "https://www.reddit.com/r/QualityAssurance/comments/srhafv/cypress_vs_playwright/",
    "given_title": "What is the best tool for testing web applications? : r/QualityAssurance",
@@ -101,6 +65,24 @@
    "resolved_url": "https://www.reddit.com/r/QualityAssurance/comments/srhafv/cypress_vs_playwright/",
    "time_updated": "2023-12-30T00:27:45Z",
    "time_added": "2023-12-30T00:27:44Z"
+  },
+  {
+   "item_id": "176174484",
+   "given_url": "https://en.m.wikipedia.org/wiki/Chiastic_structure",
+   "given_title": "Chiastic structure - Wikipedia",
+   "resolved_title": "Chiastic structure",
+   "resolved_url": "https://en.wikipedia.org/wiki/Chiastic_structure",
+   "time_updated": "2023-12-30T10:28:40Z",
+   "time_added": "2023-12-30T10:28:39Z"
+  },
+  {
+   "item_id": "383864959",
+   "given_url": "https://en.m.wikipedia.org/wiki/Periodical_cicadas",
+   "given_title": "Periodical cicadas - Wikipedia",
+   "resolved_title": "Periodical cicadas",
+   "resolved_url": "https://en.wikipedia.org/wiki/Periodical_cicadas",
+   "time_updated": "2023-12-31T10:50:07Z",
+   "time_added": "2023-12-31T10:50:06Z"
   }
  ]
 }

@@ -4,22 +4,22 @@
  "sortKey": "2023-52",
  "items": [
   {
-   "item_id": "3986676411",
-   "given_url": "https://klingon.wiki/En/Dicion%C3%A1rioDaL%C3%ADnguaKlingon",
-   "given_title": "Dicionário da língua Klingon – Klingon Language Wiki",
-   "resolved_title": "Dicionário da língua klingon",
-   "resolved_url": "https://klingon.wiki/En/Dicion%C3%A1rioDaL%C3%ADnguaKlingon",
-   "time_updated": "2023-12-29T10:10:26Z",
-   "time_added": "2023-12-29T10:10:23Z"
+   "item_id": "3986742910",
+   "given_url": "https://github.com/microsoft/TypeScript/issues/28357#issuecomment-748550734",
+   "given_title": "TypeScript doesn't allow event : CustomEvent in addEventListener · Issue #2",
+   "resolved_title": "TypeScript doesn't allow event : CustomEvent in addEventListener#28357",
+   "resolved_url": "https://github.com/microsoft/TypeScript/issues/28357",
+   "time_updated": "2023-12-29T13:43:42Z",
+   "time_added": "2023-12-29T13:43:40Z"
   },
   {
-   "item_id": "390630938",
-   "given_url": "https://en.m.wikipedia.org/wiki/Antiquities_of_the_Jews",
-   "given_title": "Antiquities of the Jews - Wikipedia",
-   "resolved_title": "Antiquities of the Jews",
-   "resolved_url": "https://en.wikipedia.org/wiki/Antiquities_of_the_Jews",
-   "time_updated": "2023-12-29T02:12:15Z",
-   "time_added": "2023-12-29T02:12:14Z"
+   "item_id": "3579812729",
+   "given_url": "https://www.reddit.com/r/QualityAssurance/comments/srhafv/cypress_vs_playwright/",
+   "given_title": "What is the best tool for testing web applications? : r/QualityAssurance",
+   "resolved_title": "Cypress vs Playwright",
+   "resolved_url": "https://www.reddit.com/r/QualityAssurance/comments/srhafv/cypress_vs_playwright/",
+   "time_updated": "2023-12-30T00:27:45Z",
+   "time_added": "2023-12-30T00:27:44Z"
   },
   {
    "item_id": "176174484",
@@ -31,15 +31,6 @@
    "time_added": "2023-12-30T10:28:39Z"
   },
   {
-   "item_id": "3986538428",
-   "given_url": "https://m.youtube.com/watch?v=k7Xu4GvpN9U",
-   "given_title": "How Disco Elysium Was Stolen From Its Creators - YouTube",
-   "resolved_title": "How Disco Elysium Was Stolen From Its Creators",
-   "resolved_url": "http://www.youtube.com/watch?v=k7Xu4GvpN9U",
-   "time_updated": "2023-12-29T01:41:00Z",
-   "time_added": "2023-12-29T01:40:58Z"
-  },
-  {
    "item_id": "383864959",
    "given_url": "https://en.m.wikipedia.org/wiki/Periodical_cicadas",
    "given_title": "Periodical cicadas - Wikipedia",
@@ -49,15 +40,6 @@
    "time_added": "2023-12-31T10:50:06Z"
   },
   {
-   "item_id": "3986742910",
-   "given_url": "https://github.com/microsoft/TypeScript/issues/28357#issuecomment-748550734",
-   "given_title": "TypeScript doesn't allow event : CustomEvent in addEventListener · Issue #2",
-   "resolved_title": "TypeScript doesn't allow event : CustomEvent in addEventListener#28357",
-   "resolved_url": "https://github.com/microsoft/TypeScript/issues/28357",
-   "time_updated": "2023-12-29T13:43:42Z",
-   "time_added": "2023-12-29T13:43:40Z"
-  },
-  {
    "item_id": "3987503794",
    "given_url": "https://m.youtube.com/watch?feature=shared\u0026v=z91PZpejFeE",
    "given_title": "Omnidirectional Galvanic Vestibular Stimulation in Virtual Reality [Supplem",
@@ -65,15 +47,6 @@
    "resolved_url": "https://www.youtube.com/watch?v=z91PZpejFeE",
    "time_updated": "2023-12-31T11:55:30Z",
    "time_added": "2023-12-31T11:55:28Z"
-  },
-  {
-   "item_id": "3579812729",
-   "given_url": "https://www.reddit.com/r/QualityAssurance/comments/srhafv/cypress_vs_playwright/",
-   "given_title": "What is the best tool for testing web applications? : r/QualityAssurance",
-   "resolved_title": "Cypress vs Playwright",
-   "resolved_url": "https://www.reddit.com/r/QualityAssurance/comments/srhafv/cypress_vs_playwright/",
-   "time_updated": "2023-12-30T00:27:45Z",
-   "time_added": "2023-12-30T00:27:44Z"
   }
  ]
 }

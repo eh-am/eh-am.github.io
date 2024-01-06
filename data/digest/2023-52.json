@@ -4,33 +4,6 @@
  "sortKey": "2023-52",
  "items": [
   {
-   "item_id": "3986742910",
-   "given_url": "https://github.com/microsoft/TypeScript/issues/28357#issuecomment-748550734",
-   "given_title": "TypeScript doesn't allow event : CustomEvent in addEventListener · Issue #2",
-   "resolved_title": "TypeScript doesn't allow event : CustomEvent in addEventListener#28357",
-   "resolved_url": "https://github.com/microsoft/TypeScript/issues/28357",
-   "time_updated": "2023-12-29T13:43:42Z",
-   "time_added": "2023-12-29T13:43:40Z"
-  },
-  {
-   "item_id": "3579812729",
-   "given_url": "https://www.reddit.com/r/QualityAssurance/comments/srhafv/cypress_vs_playwright/",
-   "given_title": "What is the best tool for testing web applications? : r/QualityAssurance",
-   "resolved_title": "Cypress vs Playwright",
-   "resolved_url": "https://www.reddit.com/r/QualityAssurance/comments/srhafv/cypress_vs_playwright/",
-   "time_updated": "2023-12-30T00:27:45Z",
-   "time_added": "2023-12-30T00:27:44Z"
-  },
-  {
-   "item_id": "176174484",
-   "given_url": "https://en.m.wikipedia.org/wiki/Chiastic_structure",
-   "given_title": "Chiastic structure - Wikipedia",
-   "resolved_title": "Chiastic structure",
-   "resolved_url": "https://en.wikipedia.org/wiki/Chiastic_structure",
-   "time_updated": "2023-12-30T10:28:40Z",
-   "time_added": "2023-12-30T10:28:39Z"
-  },
-  {
    "item_id": "383864959",
    "given_url": "https://en.m.wikipedia.org/wiki/Periodical_cicadas",
    "given_title": "Periodical cicadas - Wikipedia",
@@ -47,6 +20,15 @@
    "resolved_url": "https://www.youtube.com/watch?v=z91PZpejFeE",
    "time_updated": "2023-12-31T11:55:30Z",
    "time_added": "2023-12-31T11:55:28Z"
+  },
+  {
+   "item_id": "176174484",
+   "given_url": "https://en.m.wikipedia.org/wiki/Chiastic_structure",
+   "given_title": "Chiastic structure - Wikipedia",
+   "resolved_title": "Chiastic structure",
+   "resolved_url": "https://en.wikipedia.org/wiki/Chiastic_structure",
+   "time_updated": "2023-12-30T10:28:40Z",
+   "time_added": "2023-12-30T10:28:39Z"
   }
  ]
 }

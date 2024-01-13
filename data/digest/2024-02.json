@@ -4,24 +4,6 @@
  "sortKey": "2024-02",
  "items": [
   {
-   "item_id": "133900610",
-   "given_url": "https://en.m.wikipedia.org/wiki/Bodil_Joensen",
-   "given_title": "Bodil Joensen - Wikipedia",
-   "resolved_title": "Bodil Joensen",
-   "resolved_url": "https://en.wikipedia.org/wiki/Bodil_Joensen",
-   "time_updated": "2024-01-10T19:10:46Z",
-   "time_added": "2024-01-10T19:10:46Z"
-  },
-  {
-   "item_id": "305387645",
-   "given_url": "https://en.m.wikipedia.org/wiki/Simon_of_Trent",
-   "given_title": "Simon of Trent - Wikipedia",
-   "resolved_title": "Simon of Trent",
-   "resolved_url": "https://en.wikipedia.org/wiki/Simon_of_Trent",
-   "time_updated": "2024-01-10T19:27:09Z",
-   "time_added": "2024-01-10T19:27:08Z"
-  },
-  {
    "item_id": "3992317420",
    "given_url": "https://filmthreat.com/features/the-bootleg-files-dogarama/2/",
    "given_title": "THE BOOTLEG FILES: DOGARAMA Bootleg Files, Features Film Threat - Part 2",
@@ -29,24 +11,6 @@
    "resolved_url": "https://filmthreat.com/features/the-bootleg-files-dogarama/2/",
    "time_updated": "2024-01-10T19:03:59Z",
    "time_added": "2024-01-10T19:03:58Z"
-  },
-  {
-   "item_id": "3992584870",
-   "given_url": "https://www.uol.com.br/nossa/colunas/rafael-tonon/2024/01/11/meloes-que-custam-uma-moto-a-obsessao-dos-japoneses-por-frutas-de-luxo.htm",
-   "given_title": "Melões que custam uma moto: a obsessão dos japoneses por frutas 'de luxo'",
-   "resolved_title": "Melões que custam uma moto: a obsessão dos japoneses por frutas 'de luxo'",
-   "resolved_url": "https://www.uol.com.br/nossa/colunas/rafael-tonon/2024/01/11/meloes-que-custam-uma-moto-a-obsessao-dos-japoneses-por-frutas-de-luxo.htm",
-   "time_updated": "2024-01-11T14:11:54Z",
-   "time_added": "2024-01-11T14:11:52Z"
-  },
-  {
-   "item_id": "3992317114",
-   "given_url": "https://filmthreat.com/features/the-bootleg-files-dogarama/",
-   "given_title": "THE BOOTLEG FILES: DOGARAMA Bootleg Files, Features Film Threat",
-   "resolved_title": "THE BOOTLEG FILES: DOGARAMA",
-   "resolved_url": "https://filmthreat.com/features/the-bootleg-files-dogarama/",
-   "time_updated": "2024-01-10T19:03:10Z",
-   "time_added": "2024-01-10T19:03:09Z"
   },
   {
    "item_id": "63316548",
@@ -58,6 +22,15 @@
    "time_added": "2024-01-10T19:20:34Z"
   },
   {
+   "item_id": "305387645",
+   "given_url": "https://en.m.wikipedia.org/wiki/Simon_of_Trent",
+   "given_title": "Simon of Trent - Wikipedia",
+   "resolved_title": "Simon of Trent",
+   "resolved_url": "https://en.wikipedia.org/wiki/Simon_of_Trent",
+   "time_updated": "2024-01-10T19:27:09Z",
+   "time_added": "2024-01-10T19:27:08Z"
+  },
+  {
    "item_id": "3993102739",
    "given_url": "https://m.youtube.com/watch?v=C8YtdC8mxTU\u0026feature=youtu.be",
    "given_title": "How do Video Game Graphics Work? - YouTube",
@@ -65,6 +38,60 @@
    "resolved_url": "http://www.youtube.com/watch?v=C8YtdC8mxTU",
    "time_updated": "2024-01-12T10:18:43Z",
    "time_added": "2024-01-12T10:18:42Z"
+  },
+  {
+   "item_id": "3993219061",
+   "given_url": "https://filiph.net/text/we-need-technology-that-is-less-immersive,-not-more.html",
+   "given_title": "We need technology that is less immersive, not more",
+   "resolved_title": "We need technology that is less immersive, not more",
+   "resolved_url": "https://filiph.net/text/we-need-technology-that-is-less-immersive,-not-more.html",
+   "time_updated": "2024-01-12T16:27:34Z",
+   "time_added": "2024-01-12T16:27:34Z"
+  },
+  {
+   "item_id": "329450001",
+   "given_url": "https://en.m.wikipedia.org/wiki/The_Defiant_Ones",
+   "given_title": "The Defiant Ones - Wikipedia",
+   "resolved_title": "The Defiant Ones",
+   "resolved_url": "https://en.wikipedia.org/wiki/The_Defiant_Ones",
+   "time_updated": "2024-01-13T00:42:12Z",
+   "time_added": "2024-01-13T00:42:12Z"
+  },
+  {
+   "item_id": "3992317114",
+   "given_url": "https://filmthreat.com/features/the-bootleg-files-dogarama/",
+   "given_title": "THE BOOTLEG FILES: DOGARAMA Bootleg Files, Features Film Threat",
+   "resolved_title": "THE BOOTLEG FILES: DOGARAMA",
+   "resolved_url": "https://filmthreat.com/features/the-bootleg-files-dogarama/",
+   "time_updated": "2024-01-10T19:03:10Z",
+   "time_added": "2024-01-10T19:03:09Z"
+  },
+  {
+   "item_id": "3992584870",
+   "given_url": "https://www.uol.com.br/nossa/colunas/rafael-tonon/2024/01/11/meloes-que-custam-uma-moto-a-obsessao-dos-japoneses-por-frutas-de-luxo.htm",
+   "given_title": "Melões que custam uma moto: a obsessão dos japoneses por frutas 'de luxo'",
+   "resolved_title": "Melões que custam uma moto: a obsessão dos japoneses por frutas 'de luxo'",
+   "resolved_url": "https://www.uol.com.br/nossa/colunas/rafael-tonon/2024/01/11/meloes-que-custam-uma-moto-a-obsessao-dos-japoneses-por-frutas-de-luxo.htm",
+   "time_updated": "2024-01-11T14:11:54Z",
+   "time_added": "2024-01-11T14:11:52Z"
+  },
+  {
+   "item_id": "3993048999",
+   "given_url": "https://www1.folha.uol.com.br/folhinha/2024/01/colecao-vaga-lume-ganha-homenagem-em-livro-com-easter-eggs-de-obras-famosas.shtml",
+   "given_title": "Coleção Vaga-Lume ganha homenagem em livro com easter eggs - 12/01/2024 - F",
+   "resolved_title": "Coleção Vaga-Lume ganha homenagem em livro com easter eggs de obras famosas",
+   "resolved_url": "https://www1.folha.uol.com.br/folhinha/2024/01/colecao-vaga-lume-ganha-homenagem-em-livro-com-easter-eggs-de-obras-famosas.shtml",
+   "time_updated": "2024-01-12T12:26:54Z",
+   "time_added": "2024-01-12T12:26:54Z"
+  },
+  {
+   "item_id": "133900610",
+   "given_url": "https://en.m.wikipedia.org/wiki/Bodil_Joensen",
+   "given_title": "Bodil Joensen - Wikipedia",
+   "resolved_title": "Bodil Joensen",
+   "resolved_url": "https://en.wikipedia.org/wiki/Bodil_Joensen",
+   "time_updated": "2024-01-10T19:10:46Z",
+   "time_added": "2024-01-10T19:10:46Z"
   }
  ]
 }

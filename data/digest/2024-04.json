@@ -4,6 +4,15 @@
  "sortKey": "2024-04",
  "items": [
   {
+   "item_id": "2255840140",
+   "given_url": "https://www.youtube.com/watch?v=caEFyFRc91c",
+   "given_title": "Elis Regina \u0026 Adoniran Barbosa - Tiro ao álvaro - YouTube",
+   "resolved_title": "Elis Regina \u0026 Adoniran Barbosa - Tiro ao álvaro",
+   "resolved_url": "https://www.youtube.com/watch?v=caEFyFRc91c",
+   "time_updated": "2024-01-22T19:00:48Z",
+   "time_added": "2024-01-22T19:00:48Z"
+  },
+  {
    "item_id": "1377807138",
    "given_url": "https://en.m.wikipedia.org/wiki/Cybernetic_Culture_Research_Unit",
    "given_title": "Cybernetic Culture Research Unit - Wikipedia",
@@ -22,15 +31,6 @@
    "time_added": "2024-01-22T18:48:17Z"
   },
   {
-   "item_id": "3998462482",
-   "given_url": "https://www.tapatalk.com/groups/gsjournal/albert-einstein-is-a-farce-t5944.html",
-   "given_title": "\"Albert Einstein is a farce.\" - GSJ Forum",
-   "resolved_title": "GSJ Forum-\u0026quot;Albert Einstein is a farce.\u0026quot;",
-   "resolved_url": "https://www.tapatalk.com/groups/gsjournal/albert-einstein-is-a-farce-t5944.html",
-   "time_updated": "2024-01-24T00:00:29Z",
-   "time_added": "2024-01-24T00:00:27Z"
-  },
-  {
    "item_id": "1629056341",
    "given_url": "https://pt.wikipedia.org/wiki/Sous%C3%A2ndrade",
    "given_title": "Sousândrade – Wikipédia, a enciclopédia livre",
@@ -40,31 +40,13 @@
    "time_added": "2024-01-22T18:47:04Z"
   },
   {
-   "item_id": "2255840140",
-   "given_url": "https://www.youtube.com/watch?v=caEFyFRc91c",
-   "given_title": "Elis Regina \u0026 Adoniran Barbosa - Tiro ao álvaro - YouTube",
-   "resolved_title": "Elis Regina \u0026 Adoniran Barbosa - Tiro ao álvaro",
-   "resolved_url": "https://www.youtube.com/watch?v=caEFyFRc91c",
-   "time_updated": "2024-01-22T19:00:48Z",
-   "time_added": "2024-01-22T19:00:48Z"
-  },
-  {
-   "item_id": "3997944204",
-   "given_url": "https://www.reddit.com/r/RemarkableTablet/comments/1982nef/torn_between_supernote_a6x2_nomad_and_remarkable_2/",
-   "given_title": "Torn between supernote A6x2 nomad and remarkable 2 : r/RemarkableTablet",
-   "resolved_title": "whoa there, pardner!",
-   "resolved_url": "https://www.reddit.com/r/RemarkableTablet/comments/1982nef/torn_between_supernote_a6x2_nomad_and_remarkable_2/",
-   "time_updated": "2024-01-22T21:57:36Z",
-   "time_added": "2024-01-22T21:57:35Z"
-  },
-  {
-   "item_id": "3998197391",
-   "given_url": "https://www.youtube.com/watch?v=PaKbtFlO7eU",
-   "given_title": "(3) 栗原ミチオ = Michio Kurihara - Pendulum on a G-string / Canon in C - YouTube",
-   "resolved_title": "栗原ミチオ = Michio Kurihara - Pendulum on a G-string / Canon in C",
-   "resolved_url": "https://www.youtube.com/watch?v=PaKbtFlO7eU",
-   "time_updated": "2024-01-23T11:39:57Z",
-   "time_added": "2024-01-23T11:39:56Z"
+   "item_id": "3998462482",
+   "given_url": "https://www.tapatalk.com/groups/gsjournal/albert-einstein-is-a-farce-t5944.html",
+   "given_title": "\"Albert Einstein is a farce.\" - GSJ Forum",
+   "resolved_title": "GSJ Forum-\u0026quot;Albert Einstein is a farce.\u0026quot;",
+   "resolved_url": "https://www.tapatalk.com/groups/gsjournal/albert-einstein-is-a-farce-t5944.html",
+   "time_updated": "2024-01-24T00:00:29Z",
+   "time_added": "2024-01-24T00:00:27Z"
   },
   {
    "item_id": "3998462789",
@@ -76,6 +58,15 @@
    "time_added": "2024-01-24T00:01:37Z"
   },
   {
+   "item_id": "3997944204",
+   "given_url": "https://www.reddit.com/r/RemarkableTablet/comments/1982nef/torn_between_supernote_a6x2_nomad_and_remarkable_2/",
+   "given_title": "Torn between supernote A6x2 nomad and remarkable 2 : r/RemarkableTablet",
+   "resolved_title": "whoa there, pardner!",
+   "resolved_url": "https://www.reddit.com/r/RemarkableTablet/comments/1982nef/torn_between_supernote_a6x2_nomad_and_remarkable_2/",
+   "time_updated": "2024-01-22T21:57:36Z",
+   "time_added": "2024-01-22T21:57:35Z"
+  },
+  {
    "item_id": "3998253476",
    "given_url": "https://pt.m.wikipedia.org/wiki/Hudson_Hawk",
    "given_title": "Hudson Hawk – Wikipédia, a enciclopédia livre",
@@ -83,6 +74,24 @@
    "resolved_url": "https://pt.wikipedia.org/wiki/Hudson_Hawk",
    "time_updated": "2024-01-23T14:01:24Z",
    "time_added": "2024-01-23T14:01:22Z"
+  },
+  {
+   "item_id": "3998615404",
+   "given_url": "https://math.stackexchange.com/questions/668/whats-an-intuitive-way-to-think-about-the-determinant#669",
+   "given_title": "linear algebra - What's an intuitive way to think about the determinant? - ",
+   "resolved_title": "",
+   "resolved_url": "",
+   "time_updated": "2024-01-24T09:45:31Z",
+   "time_added": "2024-01-24T09:45:31Z"
+  },
+  {
+   "item_id": "3998197391",
+   "given_url": "https://www.youtube.com/watch?v=PaKbtFlO7eU",
+   "given_title": "(3) 栗原ミチオ = Michio Kurihara - Pendulum on a G-string / Canon in C - YouTube",
+   "resolved_title": "栗原ミチオ = Michio Kurihara - Pendulum on a G-string / Canon in C",
+   "resolved_url": "https://www.youtube.com/watch?v=PaKbtFlO7eU",
+   "time_updated": "2024-01-23T11:39:57Z",
+   "time_added": "2024-01-23T11:39:56Z"
   }
  ]
 }

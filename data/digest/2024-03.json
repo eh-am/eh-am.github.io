@@ -4,24 +4,6 @@
  "sortKey": "2024-03",
  "items": [
   {
-   "item_id": "3997251408",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Areia_monaz%C3%ADtica",
-   "given_title": "Areia monazítica – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Areia monazítica",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Areia_monaz%C3%ADtica",
-   "time_updated": "2024-01-21T12:01:54Z",
-   "time_added": "2024-01-21T12:01:52Z"
-  },
-  {
-   "item_id": "3997225805",
-   "given_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/01/21/pcc-cv-simulacao-de-crimes-atrai-criancas-para-jogo-online.htm",
-   "given_title": "Roblox simula PCC e Comando Vermelho e permite acesso a crianças",
-   "resolved_title": "Famoso entre crianças, Roblox permite simulador com PCC e apologia ao crime",
-   "resolved_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/01/21/pcc-cv-simulacao-de-crimes-atrai-criancas-para-jogo-online.htm",
-   "time_updated": "2024-01-21T17:01:30Z",
-   "time_added": "2024-01-21T17:01:29Z"
-  },
-  {
    "item_id": "3997432786",
    "given_url": "https://www.uol.com.br/universa/noticias/redacao/2024/01/21/nishimura-mako-quem-foi-a-unica-mulher-a-entrar-para-a-yakuza-do-japao.htm",
    "given_title": "Nishimura Mako: quem foi a única mulher a entrar para a yakuza do Japão",
@@ -40,13 +22,13 @@
    "time_added": "2024-01-21T23:13:32Z"
   },
   {
-   "item_id": "3997228899",
-   "given_url": "https://en.m.wikipedia.org/wiki/Esperanto_in_the_Soviet_Union",
-   "given_title": "Esperanto in the Soviet Union - Wikipedia",
-   "resolved_title": "Esperanto in the Soviet Union",
-   "resolved_url": "https://en.wikipedia.org/wiki/Esperanto_in_the_Soviet_Union",
-   "time_updated": "2024-01-21T10:40:53Z",
-   "time_added": "2024-01-21T10:40:51Z"
+   "item_id": "3997225805",
+   "given_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/01/21/pcc-cv-simulacao-de-crimes-atrai-criancas-para-jogo-online.htm",
+   "given_title": "Roblox simula PCC e Comando Vermelho e permite acesso a crianças",
+   "resolved_title": "Famoso entre crianças, Roblox permite simulador com PCC e apologia ao crime",
+   "resolved_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/01/21/pcc-cv-simulacao-de-crimes-atrai-criancas-para-jogo-online.htm",
+   "time_updated": "2024-01-21T17:01:30Z",
+   "time_added": "2024-01-21T17:01:29Z"
   }
  ]
 }

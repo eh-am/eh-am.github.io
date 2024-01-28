@@ -4,13 +4,13 @@
  "sortKey": "2024-04",
  "items": [
   {
-   "item_id": "3999243155",
-   "given_url": "https://www.dn.pt/2983430771/imigracao-portal-para-pedir-reagrupamento-familiar-comeca-hoje-a-funcionar/",
-   "given_title": "Imigração. Portal para pedir reagrupamento familiar começa hoje a funcionar",
-   "resolved_title": "Imigração. Portal para pedir reagrupamento familiar começa hoje a funcionar",
-   "resolved_url": "http://dn.pt/2983430771/imigracao-portal-para-pedir-reagrupamento-familiar-comeca-hoje-a-funcionar/",
-   "time_updated": "2024-01-26T11:37:27Z",
-   "time_added": "2024-01-26T11:37:27Z"
+   "item_id": "3997874293",
+   "given_url": "https://pt.wikipedia.org/wiki/O_Guesa",
+   "given_title": "O Guesa – Wikipédia, a enciclopédia livre",
+   "resolved_title": "O Guesa",
+   "resolved_url": "https://pt.wikipedia.org/wiki/O_Guesa",
+   "time_updated": "2024-01-22T18:48:18Z",
+   "time_added": "2024-01-22T18:48:17Z"
   },
   {
    "item_id": "3998615404",
@@ -22,13 +22,31 @@
    "time_added": "2024-01-24T09:45:31Z"
   },
   {
-   "item_id": "3999043577",
-   "given_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/01/25/edificio-martinelli-historias.htm",
-   "given_title": "Edifício Martinelli tem histórias misteriosas no centro de SP",
-   "resolved_title": "Como edifício Martinelli foi de luxuoso hotel para prédio mal-assombrado",
-   "resolved_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/01/25/edificio-martinelli-historias.htm",
-   "time_updated": "2024-01-25T09:53:52Z",
-   "time_added": "2024-01-25T09:53:49Z"
+   "item_id": "1377807138",
+   "given_url": "https://en.m.wikipedia.org/wiki/Cybernetic_Culture_Research_Unit",
+   "given_title": "Cybernetic Culture Research Unit - Wikipedia",
+   "resolved_title": "Cybernetic Culture Research Unit",
+   "resolved_url": "https://en.wikipedia.org/wiki/Cybernetic_Culture_Research_Unit",
+   "time_updated": "2024-01-22T00:31:10Z",
+   "time_added": "2024-01-22T00:31:08Z"
+  },
+  {
+   "item_id": "1629056341",
+   "given_url": "https://pt.wikipedia.org/wiki/Sous%C3%A2ndrade",
+   "given_title": "Sousândrade – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Sousândrade",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Sous%C3%A2ndrade",
+   "time_updated": "2024-01-22T18:47:04Z",
+   "time_added": "2024-01-22T18:47:04Z"
+  },
+  {
+   "item_id": "2255840140",
+   "given_url": "https://www.youtube.com/watch?v=caEFyFRc91c",
+   "given_title": "Elis Regina \u0026 Adoniran Barbosa - Tiro ao álvaro - YouTube",
+   "resolved_title": "Elis Regina \u0026 Adoniran Barbosa - Tiro ao álvaro",
+   "resolved_url": "https://www.youtube.com/watch?v=caEFyFRc91c",
+   "time_updated": "2024-01-22T19:00:48Z",
+   "time_added": "2024-01-22T19:00:48Z"
   },
   {
    "item_id": "3998197391",
@@ -40,6 +58,15 @@
    "time_added": "2024-01-23T11:39:56Z"
   },
   {
+   "item_id": "3999243155",
+   "given_url": "https://www.dn.pt/2983430771/imigracao-portal-para-pedir-reagrupamento-familiar-comeca-hoje-a-funcionar/",
+   "given_title": "Imigração. Portal para pedir reagrupamento familiar começa hoje a funcionar",
+   "resolved_title": "Imigração. Portal para pedir reagrupamento familiar começa hoje a funcionar",
+   "resolved_url": "http://dn.pt/2983430771/imigracao-portal-para-pedir-reagrupamento-familiar-comeca-hoje-a-funcionar/",
+   "time_updated": "2024-01-26T11:37:27Z",
+   "time_added": "2024-01-26T11:37:27Z"
+  },
+  {
    "item_id": "3998253476",
    "given_url": "https://pt.m.wikipedia.org/wiki/Hudson_Hawk",
    "given_title": "Hudson Hawk – Wikipédia, a enciclopédia livre",
@@ -47,6 +74,24 @@
    "resolved_url": "https://pt.wikipedia.org/wiki/Hudson_Hawk",
    "time_updated": "2024-01-23T14:01:24Z",
    "time_added": "2024-01-23T14:01:22Z"
+  },
+  {
+   "item_id": "3999043577",
+   "given_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/01/25/edificio-martinelli-historias.htm",
+   "given_title": "Edifício Martinelli tem histórias misteriosas no centro de SP",
+   "resolved_title": "Como edifício Martinelli foi de luxuoso hotel para prédio mal-assombrado",
+   "resolved_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/01/25/edificio-martinelli-historias.htm",
+   "time_updated": "2024-01-25T09:53:52Z",
+   "time_added": "2024-01-25T09:53:49Z"
+  },
+  {
+   "item_id": "3999044752",
+   "given_url": "https://www.uol.com.br/esporte/futebol/colunas/rafael-reis/2024/01/25/camisa-do-guarani-atravessa-o-mundo-e-vira-icone-fashion-para-fas-do-k-pop.htm",
+   "given_title": "K-Pop: Camisa do Guarani vira ícone fashion",
+   "resolved_title": "Camisa do Guarani vira objeto de desejo de fãs do K-Pop",
+   "resolved_url": "https://www.uol.com.br/esporte/futebol/colunas/rafael-reis/2024/01/25/camisa-do-guarani-atravessa-o-mundo-e-vira-icone-fashion-para-fas-do-k-pop.htm",
+   "time_updated": "2024-01-25T09:58:14Z",
+   "time_added": "2024-01-25T09:58:12Z"
   },
   {
    "item_id": "3125602567",
@@ -58,13 +103,22 @@
    "time_added": "2024-01-26T15:45:22Z"
   },
   {
-   "item_id": "1377807138",
-   "given_url": "https://en.m.wikipedia.org/wiki/Cybernetic_Culture_Research_Unit",
-   "given_title": "Cybernetic Culture Research Unit - Wikipedia",
-   "resolved_title": "Cybernetic Culture Research Unit",
-   "resolved_url": "https://en.wikipedia.org/wiki/Cybernetic_Culture_Research_Unit",
-   "time_updated": "2024-01-22T00:31:10Z",
-   "time_added": "2024-01-22T00:31:08Z"
+   "item_id": "1868954",
+   "given_url": "https://www.yudkowsky.net/rational/bayes",
+   "given_title": "An Intuitive Explanation of Bayes’ Theorem – Eliezer S. Yudkowsky",
+   "resolved_title": "An Intuitive Explanation of Bayes’ Theorem",
+   "resolved_url": "https://www.yudkowsky.net/rational/bayes",
+   "time_updated": "2024-01-27T11:21:55Z",
+   "time_added": "2024-01-27T11:21:55Z"
+  },
+  {
+   "item_id": "3997944204",
+   "given_url": "https://www.reddit.com/r/RemarkableTablet/comments/1982nef/torn_between_supernote_a6x2_nomad_and_remarkable_2/",
+   "given_title": "Torn between supernote A6x2 nomad and remarkable 2 : r/RemarkableTablet",
+   "resolved_title": "whoa there, pardner!",
+   "resolved_url": "https://www.reddit.com/r/RemarkableTablet/comments/1982nef/torn_between_supernote_a6x2_nomad_and_remarkable_2/",
+   "time_updated": "2024-01-22T21:57:36Z",
+   "time_added": "2024-01-22T21:57:35Z"
   },
   {
    "item_id": "3998462482",
@@ -83,60 +137,6 @@
    "resolved_url": "",
    "time_updated": "2024-01-24T00:01:38Z",
    "time_added": "2024-01-24T00:01:37Z"
-  },
-  {
-   "item_id": "2255840140",
-   "given_url": "https://www.youtube.com/watch?v=caEFyFRc91c",
-   "given_title": "Elis Regina \u0026 Adoniran Barbosa - Tiro ao álvaro - YouTube",
-   "resolved_title": "Elis Regina \u0026 Adoniran Barbosa - Tiro ao álvaro",
-   "resolved_url": "https://www.youtube.com/watch?v=caEFyFRc91c",
-   "time_updated": "2024-01-22T19:00:48Z",
-   "time_added": "2024-01-22T19:00:48Z"
-  },
-  {
-   "item_id": "3997944204",
-   "given_url": "https://www.reddit.com/r/RemarkableTablet/comments/1982nef/torn_between_supernote_a6x2_nomad_and_remarkable_2/",
-   "given_title": "Torn between supernote A6x2 nomad and remarkable 2 : r/RemarkableTablet",
-   "resolved_title": "whoa there, pardner!",
-   "resolved_url": "https://www.reddit.com/r/RemarkableTablet/comments/1982nef/torn_between_supernote_a6x2_nomad_and_remarkable_2/",
-   "time_updated": "2024-01-22T21:57:36Z",
-   "time_added": "2024-01-22T21:57:35Z"
-  },
-  {
-   "item_id": "3999044752",
-   "given_url": "https://www.uol.com.br/esporte/futebol/colunas/rafael-reis/2024/01/25/camisa-do-guarani-atravessa-o-mundo-e-vira-icone-fashion-para-fas-do-k-pop.htm",
-   "given_title": "K-Pop: Camisa do Guarani vira ícone fashion",
-   "resolved_title": "Camisa do Guarani vira objeto de desejo de fãs do K-Pop",
-   "resolved_url": "https://www.uol.com.br/esporte/futebol/colunas/rafael-reis/2024/01/25/camisa-do-guarani-atravessa-o-mundo-e-vira-icone-fashion-para-fas-do-k-pop.htm",
-   "time_updated": "2024-01-25T09:58:14Z",
-   "time_added": "2024-01-25T09:58:12Z"
-  },
-  {
-   "item_id": "1868954",
-   "given_url": "https://www.yudkowsky.net/rational/bayes",
-   "given_title": "An Intuitive Explanation of Bayes’ Theorem – Eliezer S. Yudkowsky",
-   "resolved_title": "An Intuitive Explanation of Bayes’ Theorem",
-   "resolved_url": "https://www.yudkowsky.net/rational/bayes",
-   "time_updated": "2024-01-27T11:21:55Z",
-   "time_added": "2024-01-27T11:21:55Z"
-  },
-  {
-   "item_id": "1629056341",
-   "given_url": "https://pt.wikipedia.org/wiki/Sous%C3%A2ndrade",
-   "given_title": "Sousândrade – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Sousândrade",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Sous%C3%A2ndrade",
-   "time_updated": "2024-01-22T18:47:04Z",
-   "time_added": "2024-01-22T18:47:04Z"
-  },
-  {
-   "item_id": "3997874293",
-   "given_url": "https://pt.wikipedia.org/wiki/O_Guesa",
-   "given_title": "O Guesa – Wikipédia, a enciclopédia livre",
-   "resolved_title": "O Guesa",
-   "resolved_url": "https://pt.wikipedia.org/wiki/O_Guesa",
-   "time_updated": "2024-01-22T18:48:18Z",
-   "time_added": "2024-01-22T18:48:17Z"
   }
  ]
 }

@@ -4,60 +4,6 @@
  "sortKey": "2024-04",
  "items": [
   {
-   "item_id": "3125602567",
-   "given_url": "https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders",
-   "given_title": "The Man Who Carried Computer Science on His Shoulders | Krzysztof Apt | Inf",
-   "resolved_title": "The Man Who Carried Computer Science on His Shoulders",
-   "resolved_url": "https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders",
-   "time_updated": "2024-01-26T15:45:22Z",
-   "time_added": "2024-01-26T15:45:22Z"
-  },
-  {
-   "item_id": "3998253476",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Hudson_Hawk",
-   "given_title": "Hudson Hawk – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Hudson Hawk",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Hudson_Hawk",
-   "time_updated": "2024-01-23T14:01:24Z",
-   "time_added": "2024-01-23T14:01:22Z"
-  },
-  {
-   "item_id": "3998462482",
-   "given_url": "https://www.tapatalk.com/groups/gsjournal/albert-einstein-is-a-farce-t5944.html",
-   "given_title": "\"Albert Einstein is a farce.\" - GSJ Forum",
-   "resolved_title": "GSJ Forum-\u0026quot;Albert Einstein is a farce.\u0026quot;",
-   "resolved_url": "https://www.tapatalk.com/groups/gsjournal/albert-einstein-is-a-farce-t5944.html",
-   "time_updated": "2024-01-24T00:00:29Z",
-   "time_added": "2024-01-24T00:00:27Z"
-  },
-  {
-   "item_id": "3998462789",
-   "given_url": "https://maquiavelbaltasargracian.blogspot.com/2008/07/csar-lattes-albert-einstein-uma-farsa.html?m=1",
-   "given_title": "O Mundo: César Lattes: \"Albert Einstein é uma farsa\"",
-   "resolved_title": "",
-   "resolved_url": "",
-   "time_updated": "2024-01-24T00:01:38Z",
-   "time_added": "2024-01-24T00:01:37Z"
-  },
-  {
-   "item_id": "3998615404",
-   "given_url": "https://math.stackexchange.com/questions/668/whats-an-intuitive-way-to-think-about-the-determinant#669",
-   "given_title": "linear algebra - What's an intuitive way to think about the determinant? - ",
-   "resolved_title": "",
-   "resolved_url": "",
-   "time_updated": "2024-01-24T09:45:31Z",
-   "time_added": "2024-01-24T09:45:31Z"
-  },
-  {
-   "item_id": "4000199565",
-   "given_url": "https://m.youtube.com/watch?t=182\u0026v=68YMEmaF0rs\u0026feature=youtu.be",
-   "given_title": "Disney Imagineer Makes History | Disney Parks - YouTube",
-   "resolved_title": "Disney Imagineer Makes History | Disney Parks",
-   "resolved_url": "http://www.youtube.com/watch?v=68YMEmaF0rs",
-   "time_updated": "2024-01-28T10:45:12Z",
-   "time_added": "2024-01-28T10:45:10Z"
-  },
-  {
    "item_id": "3999043577",
    "given_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/01/25/edificio-martinelli-historias.htm",
    "given_title": "Edifício Martinelli tem histórias misteriosas no centro de SP",
@@ -74,6 +20,33 @@
    "resolved_url": "https://www.uol.com.br/esporte/futebol/colunas/rafael-reis/2024/01/25/camisa-do-guarani-atravessa-o-mundo-e-vira-icone-fashion-para-fas-do-k-pop.htm",
    "time_updated": "2024-01-25T09:58:14Z",
    "time_added": "2024-01-25T09:58:12Z"
+  },
+  {
+   "item_id": "3125602567",
+   "given_url": "https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders",
+   "given_title": "The Man Who Carried Computer Science on His Shoulders | Krzysztof Apt | Inf",
+   "resolved_title": "The Man Who Carried Computer Science on His Shoulders",
+   "resolved_url": "https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders",
+   "time_updated": "2024-01-26T15:45:22Z",
+   "time_added": "2024-01-26T15:45:22Z"
+  },
+  {
+   "item_id": "4000199565",
+   "given_url": "https://m.youtube.com/watch?t=182\u0026v=68YMEmaF0rs\u0026feature=youtu.be",
+   "given_title": "Disney Imagineer Makes History | Disney Parks - YouTube",
+   "resolved_title": "Disney Imagineer Makes History | Disney Parks",
+   "resolved_url": "http://www.youtube.com/watch?v=68YMEmaF0rs",
+   "time_updated": "2024-01-28T10:45:12Z",
+   "time_added": "2024-01-28T10:45:10Z"
+  },
+  {
+   "item_id": "3998615404",
+   "given_url": "https://math.stackexchange.com/questions/668/whats-an-intuitive-way-to-think-about-the-determinant#669",
+   "given_title": "linear algebra - What's an intuitive way to think about the determinant? - ",
+   "resolved_title": "",
+   "resolved_url": "",
+   "time_updated": "2024-01-24T09:45:31Z",
+   "time_added": "2024-01-24T09:45:31Z"
   },
   {
    "item_id": "3999243155",

@@ -22,33 +22,6 @@
    "time_added": "2024-01-25T09:58:12Z"
   },
   {
-   "item_id": "3125602567",
-   "given_url": "https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders",
-   "given_title": "The Man Who Carried Computer Science on His Shoulders | Krzysztof Apt | Inf",
-   "resolved_title": "The Man Who Carried Computer Science on His Shoulders",
-   "resolved_url": "https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders",
-   "time_updated": "2024-01-26T15:45:22Z",
-   "time_added": "2024-01-26T15:45:22Z"
-  },
-  {
-   "item_id": "4000199565",
-   "given_url": "https://m.youtube.com/watch?t=182\u0026v=68YMEmaF0rs\u0026feature=youtu.be",
-   "given_title": "Disney Imagineer Makes History | Disney Parks - YouTube",
-   "resolved_title": "Disney Imagineer Makes History | Disney Parks",
-   "resolved_url": "http://www.youtube.com/watch?v=68YMEmaF0rs",
-   "time_updated": "2024-01-28T10:45:12Z",
-   "time_added": "2024-01-28T10:45:10Z"
-  },
-  {
-   "item_id": "3998615404",
-   "given_url": "https://math.stackexchange.com/questions/668/whats-an-intuitive-way-to-think-about-the-determinant#669",
-   "given_title": "linear algebra - What's an intuitive way to think about the determinant? - ",
-   "resolved_title": "",
-   "resolved_url": "",
-   "time_updated": "2024-01-24T09:45:31Z",
-   "time_added": "2024-01-24T09:45:31Z"
-  },
-  {
    "item_id": "3999243155",
    "given_url": "https://www.dn.pt/2983430771/imigracao-portal-para-pedir-reagrupamento-familiar-comeca-hoje-a-funcionar/",
    "given_title": "Imigração. Portal para pedir reagrupamento familiar começa hoje a funcionar",
@@ -58,6 +31,15 @@
    "time_added": "2024-01-26T11:37:27Z"
   },
   {
+   "item_id": "3125602567",
+   "given_url": "https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders",
+   "given_title": "The Man Who Carried Computer Science on His Shoulders | Krzysztof Apt | Inf",
+   "resolved_title": "The Man Who Carried Computer Science on His Shoulders",
+   "resolved_url": "https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders",
+   "time_updated": "2024-01-26T15:45:22Z",
+   "time_added": "2024-01-26T15:45:22Z"
+  },
+  {
    "item_id": "1868954",
    "given_url": "https://www.yudkowsky.net/rational/bayes",
    "given_title": "An Intuitive Explanation of Bayes’ Theorem – Eliezer S. Yudkowsky",
@@ -65,6 +47,15 @@
    "resolved_url": "https://www.yudkowsky.net/rational/bayes",
    "time_updated": "2024-01-27T11:21:55Z",
    "time_added": "2024-01-27T11:21:55Z"
+  },
+  {
+   "item_id": "4000199565",
+   "given_url": "https://m.youtube.com/watch?t=182\u0026v=68YMEmaF0rs\u0026feature=youtu.be",
+   "given_title": "Disney Imagineer Makes History | Disney Parks - YouTube",
+   "resolved_title": "Disney Imagineer Makes History | Disney Parks",
+   "resolved_url": "http://www.youtube.com/watch?v=68YMEmaF0rs",
+   "time_updated": "2024-01-28T10:45:12Z",
+   "time_added": "2024-01-28T10:45:10Z"
   }
  ]
 }

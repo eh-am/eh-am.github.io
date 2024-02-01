@@ -22,6 +22,15 @@
    "time_added": "2024-01-30T22:14:48Z"
   },
   {
+   "item_id": "3822223726",
+   "given_url": "https://en.m.wikipedia.org/wiki/Shiny_object_syndrome",
+   "given_title": "Shiny object syndrome - Wikipedia",
+   "resolved_title": "Shiny object syndrome",
+   "resolved_url": "https://en.wikipedia.org/wiki/Shiny_object_syndrome",
+   "time_updated": "2024-02-01T00:46:56Z",
+   "time_added": "2024-02-01T00:46:55Z"
+  },
+  {
    "item_id": "4001285649",
    "given_url": "https://news.ycombinator.com/item?id=39174998",
    "given_title": "Adding type safety to object IDs in TypeScript | Hacker News",

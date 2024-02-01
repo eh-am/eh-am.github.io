@@ -4,15 +4,6 @@
  "sortKey": "2024-04",
  "items": [
   {
-   "item_id": "3999043577",
-   "given_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/01/25/edificio-martinelli-historias.htm",
-   "given_title": "Edifício Martinelli tem histórias misteriosas no centro de SP",
-   "resolved_title": "Como edifício Martinelli foi de luxuoso hotel para prédio mal-assombrado",
-   "resolved_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/01/25/edificio-martinelli-historias.htm",
-   "time_updated": "2024-01-25T09:53:52Z",
-   "time_added": "2024-01-25T09:53:49Z"
-  },
-  {
    "item_id": "3999044752",
    "given_url": "https://www.uol.com.br/esporte/futebol/colunas/rafael-reis/2024/01/25/camisa-do-guarani-atravessa-o-mundo-e-vira-icone-fashion-para-fas-do-k-pop.htm",
    "given_title": "K-Pop: Camisa do Guarani vira ícone fashion",
@@ -20,15 +11,6 @@
    "resolved_url": "https://www.uol.com.br/esporte/futebol/colunas/rafael-reis/2024/01/25/camisa-do-guarani-atravessa-o-mundo-e-vira-icone-fashion-para-fas-do-k-pop.htm",
    "time_updated": "2024-01-25T09:58:14Z",
    "time_added": "2024-01-25T09:58:12Z"
-  },
-  {
-   "item_id": "3999243155",
-   "given_url": "https://www.dn.pt/2983430771/imigracao-portal-para-pedir-reagrupamento-familiar-comeca-hoje-a-funcionar/",
-   "given_title": "Imigração. Portal para pedir reagrupamento familiar começa hoje a funcionar",
-   "resolved_title": "Imigração. Portal para pedir reagrupamento familiar começa hoje a funcionar",
-   "resolved_url": "http://dn.pt/2983430771/imigracao-portal-para-pedir-reagrupamento-familiar-comeca-hoje-a-funcionar/",
-   "time_updated": "2024-01-26T11:37:27Z",
-   "time_added": "2024-01-26T11:37:27Z"
   },
   {
    "item_id": "3125602567",
@@ -47,6 +29,24 @@
    "resolved_url": "https://www.yudkowsky.net/rational/bayes",
    "time_updated": "2024-01-27T11:21:55Z",
    "time_added": "2024-01-27T11:21:55Z"
+  },
+  {
+   "item_id": "3999043577",
+   "given_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/01/25/edificio-martinelli-historias.htm",
+   "given_title": "Edifício Martinelli tem histórias misteriosas no centro de SP",
+   "resolved_title": "Como edifício Martinelli foi de luxuoso hotel para prédio mal-assombrado",
+   "resolved_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/01/25/edificio-martinelli-historias.htm",
+   "time_updated": "2024-01-25T09:53:52Z",
+   "time_added": "2024-01-25T09:53:49Z"
+  },
+  {
+   "item_id": "3999243155",
+   "given_url": "https://www.dn.pt/2983430771/imigracao-portal-para-pedir-reagrupamento-familiar-comeca-hoje-a-funcionar/",
+   "given_title": "Imigração. Portal para pedir reagrupamento familiar começa hoje a funcionar",
+   "resolved_title": "Imigração. Portal para pedir reagrupamento familiar começa hoje a funcionar",
+   "resolved_url": "http://dn.pt/2983430771/imigracao-portal-para-pedir-reagrupamento-familiar-comeca-hoje-a-funcionar/",
+   "time_updated": "2024-01-26T11:37:27Z",
+   "time_added": "2024-01-26T11:37:27Z"
   },
   {
    "item_id": "4000199565",

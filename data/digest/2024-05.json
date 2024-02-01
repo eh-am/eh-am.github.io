@@ -4,6 +4,24 @@
  "sortKey": "2024-05",
  "items": [
   {
+   "item_id": "4001285649",
+   "given_url": "https://news.ycombinator.com/item?id=39174998",
+   "given_title": "Adding type safety to object IDs in TypeScript | Hacker News",
+   "resolved_title": "Adding type safety to object IDs in TypeScript",
+   "resolved_url": "https://news.ycombinator.com/item?id=39174998",
+   "time_updated": "2024-01-30T22:33:24Z",
+   "time_added": "2024-01-30T22:33:23Z"
+  },
+  {
+   "item_id": "1928154056",
+   "given_url": "https://www.yahoo.com/entertainment/marlon-brando-was-a-secret-tech-geek-and-photoshop-124061824672.html",
+   "given_title": "Marlon Brando Was a Secret Tech Geek and Photoshop Ace",
+   "resolved_title": "Marlon Brando Was a Secret Tech Geek and Photoshop Ace",
+   "resolved_url": "https://www.yahoo.com/entertainment/marlon-brando-was-a-secret-tech-geek-and-photoshop-124061824672.html",
+   "time_updated": "2024-02-01T11:07:44Z",
+   "time_added": "2024-02-01T11:07:44Z"
+  },
+  {
    "item_id": "974151240",
    "given_url": "https://en.m.wikipedia.org/wiki/Eiji_Tsuburaya",
    "given_title": "Eiji Tsuburaya - Wikipedia",
@@ -31,13 +49,13 @@
    "time_added": "2024-02-01T00:46:55Z"
   },
   {
-   "item_id": "4001285649",
-   "given_url": "https://news.ycombinator.com/item?id=39174998",
-   "given_title": "Adding type safety to object IDs in TypeScript | Hacker News",
-   "resolved_title": "Adding type safety to object IDs in TypeScript",
-   "resolved_url": "https://news.ycombinator.com/item?id=39174998",
-   "time_updated": "2024-01-30T22:33:24Z",
-   "time_added": "2024-01-30T22:33:23Z"
+   "item_id": "4001976329",
+   "given_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/02/01/da-favela-pra-usp-ela-fala-das-dificuldades-na-maior-universidade-do-pais.htm",
+   "given_title": "Da favela pra USP: o lado duro da maior universidade da América Latina",
+   "resolved_title": "'Muita gente passa fome': ela mostra o 'lado invisível' de estudar na USP",
+   "resolved_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/02/01/da-favela-pra-usp-ela-fala-das-dificuldades-na-maior-universidade-do-pais.htm",
+   "time_updated": "2024-02-01T10:30:35Z",
+   "time_added": "2024-02-01T10:30:35Z"
   }
  ]
 }

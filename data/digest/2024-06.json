@@ -4,15 +4,6 @@
  "sortKey": "2024-06",
  "items": [
   {
-   "item_id": "4003823428",
-   "given_url": "https://gamarevista.uol.com.br/semana/qual-e-sua-novela-favorita/novelas-turcas-dorama-k-drama-series-estrangeiras-brasil/",
-   "given_title": "Novelas turcas, doramas e os folhetins estrangeiros no Brasil — Gama Revist",
-   "resolved_title": "Das turcas ao k-drama: a moda das novelas estrangeiras no Brasil",
-   "resolved_url": "https://gamarevista.uol.com.br/semana/qual-e-sua-novela-favorita/novelas-turcas-dorama-k-drama-series-estrangeiras-brasil/",
-   "time_updated": "2024-02-05T19:17:39Z",
-   "time_added": "2024-02-05T19:17:39Z"
-  },
-  {
    "item_id": "4003509848",
    "given_url": "https://m.youtube.com/watch?v=4VlS9VA_HuU",
    "given_title": "?[Yakuza/龍が如く] Sad Substory theme piano cover - YouTube",
@@ -20,6 +11,33 @@
    "resolved_url": "http://www.youtube.com/watch?v=4VlS9VA_HuU",
    "time_updated": "2024-02-05T00:08:18Z",
    "time_added": "2024-02-05T00:08:16Z"
+  },
+  {
+   "item_id": "2561502143",
+   "given_url": "https://concrete.style/",
+   "given_title": "concrete.css",
+   "resolved_title": "concrete.css",
+   "resolved_url": "https://concrete.style/",
+   "time_updated": "2024-02-08T11:25:47Z",
+   "time_added": "2024-02-08T11:25:43Z"
+  },
+  {
+   "item_id": "4005139279",
+   "given_url": "https://youtube.com/watch?v=cM_KEgcKesA\u0026si=77bOmEtfFLc297J8",
+   "given_title": "S1: Larry David: Curb Your Enthusiasm | The History of Curb Your Enthusiasm",
+   "resolved_title": "S1: Larry David: Curb Your Enthusiasm | The History of Curb Your Enthusiasm",
+   "resolved_url": "https://youtube.com/watch?v=cM_KEgcKesA\u0026si=77bOmEtfFLc297J8",
+   "time_updated": "2024-02-08T14:55:46Z",
+   "time_added": "2024-02-08T14:55:44Z"
+  },
+  {
+   "item_id": "4003823428",
+   "given_url": "https://gamarevista.uol.com.br/semana/qual-e-sua-novela-favorita/novelas-turcas-dorama-k-drama-series-estrangeiras-brasil/",
+   "given_title": "Novelas turcas, doramas e os folhetins estrangeiros no Brasil — Gama Revist",
+   "resolved_title": "Das turcas ao k-drama: a moda das novelas estrangeiras no Brasil",
+   "resolved_url": "https://gamarevista.uol.com.br/semana/qual-e-sua-novela-favorita/novelas-turcas-dorama-k-drama-series-estrangeiras-brasil/",
+   "time_updated": "2024-02-05T19:17:39Z",
+   "time_added": "2024-02-05T19:17:39Z"
   },
   {
    "item_id": "4004905932",
@@ -31,13 +49,13 @@
    "time_added": "2024-02-08T01:56:46Z"
   },
   {
-   "item_id": "2561502143",
-   "given_url": "https://concrete.style/",
-   "given_title": "concrete.css",
-   "resolved_title": "concrete.css",
-   "resolved_url": "https://concrete.style/",
-   "time_updated": "2024-02-08T11:25:47Z",
-   "time_added": "2024-02-08T11:25:43Z"
+   "item_id": "4005193055",
+   "given_url": "https://old.reddit.com/r/statistics/comments/94pb18/struggling_with_likelihood_intuition/e3p8zh3/",
+   "given_title": "Struggling with Likelihood intuition : statistics",
+   "resolved_title": "Struggling with Likelihood intuition",
+   "resolved_url": "https://www.reddit.com/r/statistics/comments/94pb18/struggling_with_likelihood_intuition/",
+   "time_updated": "2024-02-08T17:28:32Z",
+   "time_added": "2024-02-08T17:28:30Z"
   }
  ]
 }

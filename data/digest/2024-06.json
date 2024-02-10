@@ -13,22 +13,22 @@
    "time_added": "2024-02-08T01:56:46Z"
   },
   {
-   "item_id": "4005307404",
-   "given_url": "https://tuckercarlson.com/the-vladimir-putin-interview/",
-   "given_title": "The Vladimir Putin Interview",
-   "resolved_title": "",
-   "resolved_url": "https://tuckercarlson.com/the-vladimir-putin-interview/",
-   "time_updated": "2024-02-09T05:28:26Z",
-   "time_added": "2024-02-09T05:28:26Z"
+   "item_id": "4005139279",
+   "given_url": "https://youtube.com/watch?v=cM_KEgcKesA\u0026si=77bOmEtfFLc297J8",
+   "given_title": "S1: Larry David: Curb Your Enthusiasm | The History of Curb Your Enthusiasm",
+   "resolved_title": "S1: Larry David: Curb Your Enthusiasm | The History of Curb Your Enthusiasm",
+   "resolved_url": "https://youtube.com/watch?v=cM_KEgcKesA\u0026si=77bOmEtfFLc297J8",
+   "time_updated": "2024-02-08T14:55:46Z",
+   "time_added": "2024-02-08T14:55:44Z"
   },
   {
-   "item_id": "4005659215",
-   "given_url": "https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/",
-   "given_title": "How I write HTTP services in Go after 13 years | Grafana Labs",
-   "resolved_title": "How I write HTTP services in Go after 13 years",
-   "resolved_url": "https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/#putting-this-all-into-practice",
-   "time_updated": "2024-02-10T00:32:40Z",
-   "time_added": "2024-02-10T00:32:37Z"
+   "item_id": "4004585105",
+   "given_url": "https://www.theguardian.com/lifeandstyle/2024/feb/07/the-art-of-doing-nothing-have-the-dutch-found-the-answer-to-burnout-culture",
+   "given_title": "The art of doing nothing: have the Dutch found the answer to burnout cultur",
+   "resolved_title": "The art of doing nothing: have the Dutch found the answer to burnout culture?",
+   "resolved_url": "https://www.theguardian.com/lifeandstyle/2024/feb/07/the-art-of-doing-nothing-have-the-dutch-found-the-answer-to-burnout-culture",
+   "time_updated": "2024-02-09T10:57:55Z",
+   "time_added": "2024-02-09T10:57:54Z"
   },
   {
    "item_id": "4003823428",
@@ -49,13 +49,13 @@
    "time_added": "2024-02-08T17:28:30Z"
   },
   {
-   "item_id": "339860114",
-   "given_url": "https://en.m.wikipedia.org/wiki/Fox_tossing",
-   "given_title": "Fox tossing - Wikipedia",
-   "resolved_title": "Fox tossing",
-   "resolved_url": "https://en.wikipedia.org/wiki/Fox_tossing",
-   "time_updated": "2024-02-09T05:17:59Z",
-   "time_added": "2024-02-09T05:17:59Z"
+   "item_id": "4005488879",
+   "given_url": "https://en.m.wikipedia.org/wiki/Nothingburger",
+   "given_title": "Nothingburger - Wikipedia",
+   "resolved_title": "Nothingburger",
+   "resolved_url": "https://en.wikipedia.org/wiki/Nothingburger",
+   "time_updated": "2024-02-09T10:11:42Z",
+   "time_added": "2024-02-09T10:11:40Z"
   },
   {
    "item_id": "2561502143",
@@ -67,31 +67,22 @@
    "time_added": "2024-02-08T11:25:43Z"
   },
   {
-   "item_id": "4005488879",
-   "given_url": "https://en.m.wikipedia.org/wiki/Nothingburger",
-   "given_title": "Nothingburger - Wikipedia",
-   "resolved_title": "Nothingburger",
-   "resolved_url": "https://en.wikipedia.org/wiki/Nothingburger",
-   "time_updated": "2024-02-09T10:11:42Z",
-   "time_added": "2024-02-09T10:11:40Z"
+   "item_id": "339860114",
+   "given_url": "https://en.m.wikipedia.org/wiki/Fox_tossing",
+   "given_title": "Fox tossing - Wikipedia",
+   "resolved_title": "Fox tossing",
+   "resolved_url": "https://en.wikipedia.org/wiki/Fox_tossing",
+   "time_updated": "2024-02-09T05:17:59Z",
+   "time_added": "2024-02-09T05:17:59Z"
   },
   {
-   "item_id": "4004585105",
-   "given_url": "https://www.theguardian.com/lifeandstyle/2024/feb/07/the-art-of-doing-nothing-have-the-dutch-found-the-answer-to-burnout-culture",
-   "given_title": "The art of doing nothing: have the Dutch found the answer to burnout cultur",
-   "resolved_title": "The art of doing nothing: have the Dutch found the answer to burnout culture?",
-   "resolved_url": "https://www.theguardian.com/lifeandstyle/2024/feb/07/the-art-of-doing-nothing-have-the-dutch-found-the-answer-to-burnout-culture",
-   "time_updated": "2024-02-09T10:57:55Z",
-   "time_added": "2024-02-09T10:57:54Z"
-  },
-  {
-   "item_id": "4005692141",
-   "given_url": "https://waitbutwhy.com/2024/02/vision-pro.html",
-   "given_title": "All My Thoughts After 40 Hours in the Vision Pro — Wait But Why",
-   "resolved_title": "All My Thoughts After 40 Hours in the Vision Pro",
-   "resolved_url": "https://waitbutwhy.com/2024/02/vision-pro.html",
-   "time_updated": "2024-02-09T22:52:32Z",
-   "time_added": "2024-02-09T22:52:30Z"
+   "item_id": "4005659215",
+   "given_url": "https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/",
+   "given_title": "How I write HTTP services in Go after 13 years | Grafana Labs",
+   "resolved_title": "How I write HTTP services in Go after 13 years",
+   "resolved_url": "https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/",
+   "time_updated": "2024-02-10T00:32:40Z",
+   "time_added": "2024-02-10T00:32:37Z"
   },
   {
    "item_id": "4003509848",
@@ -103,13 +94,22 @@
    "time_added": "2024-02-05T00:08:16Z"
   },
   {
-   "item_id": "4005139279",
-   "given_url": "https://youtube.com/watch?v=cM_KEgcKesA\u0026si=77bOmEtfFLc297J8",
-   "given_title": "S1: Larry David: Curb Your Enthusiasm | The History of Curb Your Enthusiasm",
-   "resolved_title": "S1: Larry David: Curb Your Enthusiasm | The History of Curb Your Enthusiasm",
-   "resolved_url": "https://youtube.com/watch?v=cM_KEgcKesA\u0026si=77bOmEtfFLc297J8",
-   "time_updated": "2024-02-08T14:55:46Z",
-   "time_added": "2024-02-08T14:55:44Z"
+   "item_id": "4005307404",
+   "given_url": "https://tuckercarlson.com/the-vladimir-putin-interview/",
+   "given_title": "The Vladimir Putin Interview",
+   "resolved_title": "",
+   "resolved_url": "https://tuckercarlson.com/the-vladimir-putin-interview/",
+   "time_updated": "2024-02-09T05:28:26Z",
+   "time_added": "2024-02-09T05:28:26Z"
+  },
+  {
+   "item_id": "4005692141",
+   "given_url": "https://waitbutwhy.com/2024/02/vision-pro.html",
+   "given_title": "All My Thoughts After 40 Hours in the Vision Pro — Wait But Why",
+   "resolved_title": "All My Thoughts After 40 Hours in the Vision Pro",
+   "resolved_url": "https://waitbutwhy.com/2024/02/vision-pro.html",
+   "time_updated": "2024-02-09T22:52:32Z",
+   "time_added": "2024-02-09T22:52:30Z"
   }
  ]
 }

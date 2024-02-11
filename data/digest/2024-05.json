@@ -4,33 +4,6 @@
  "sortKey": "2024-05",
  "items": [
   {
-   "item_id": "4003117996",
-   "given_url": "https://nichegamer.com/like-a-dragon-infinite-wealth-english-localization-rife-with-feminist-agenda/",
-   "given_title": "Like a Dragon: Infinite Wealth English localization rife with feminist agen",
-   "resolved_title": "Like a Dragon: Infinite Wealth English localization rife with feminist agenda",
-   "resolved_url": "https://nichegamer.com/like-a-dragon-infinite-wealth-english-localization-rife-with-feminist-agenda/",
-   "time_updated": "2024-02-03T23:45:32Z",
-   "time_added": "2024-02-03T23:45:30Z"
-  },
-  {
-   "item_id": "389892944",
-   "given_url": "https://en.m.wikipedia.org/wiki/No_soap_radio",
-   "given_title": "No soap radio - Wikipedia",
-   "resolved_title": "No soap radio",
-   "resolved_url": "https://en.wikipedia.org/wiki/No_soap_radio",
-   "time_updated": "2024-02-04T21:37:16Z",
-   "time_added": "2024-02-04T21:37:15Z"
-  },
-  {
-   "item_id": "2925818255",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Quinto_Imp%C3%A9rio",
-   "given_title": "Quinto Império – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Quinto Império",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Quinto_Imp%C3%A9rio",
-   "time_updated": "2024-02-04T00:40:10Z",
-   "time_added": "2024-02-04T00:40:09Z"
-  },
-  {
    "item_id": "84062619",
    "given_url": "https://en.m.wikipedia.org/wiki/Non_sequitur_(literary_device)",
    "given_title": "Non sequitur (literary device) - Wikipedia",
@@ -40,13 +13,13 @@
    "time_added": "2024-02-04T21:28:47Z"
   },
   {
-   "item_id": "4002970014",
-   "given_url": "https://academic.oup.com/ije/article/40/3/563/740639?login=false",
-   "given_title": "Why are children in the same family so different from one another?* | Inter",
-   "resolved_title": "",
-   "resolved_url": "https://academic.oup.com/ije/article/40/3/563/740639?login=false",
-   "time_updated": "2024-02-03T14:58:32Z",
-   "time_added": "2024-02-03T14:58:29Z"
+   "item_id": "389892944",
+   "given_url": "https://en.m.wikipedia.org/wiki/No_soap_radio",
+   "given_title": "No soap radio - Wikipedia",
+   "resolved_title": "No soap radio",
+   "resolved_url": "https://en.wikipedia.org/wiki/No_soap_radio",
+   "time_updated": "2024-02-04T21:37:16Z",
+   "time_added": "2024-02-04T21:37:15Z"
   }
  ]
 }

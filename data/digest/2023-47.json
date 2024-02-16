@@ -1,0 +1,70 @@
+{
+ "year": "2023",
+ "week": "47",
+ "sortKey": "2023-47",
+ "items": [
+  {
+   "item_id": "3655799906",
+   "given_url": "https://github.com/pocketbase/pocketbase",
+   "given_title": "GitHub - pocketbase/pocketbase: Open Source realtime backend in 1 file",
+   "resolved_title": "pocketbase/pocketbase",
+   "resolved_url": "https://github.com/pocketbase/pocketbase",
+   "time_updated": "2023-11-26T10:19:29Z",
+   "time_added": "2023-11-26T10:19:28Z"
+  },
+  {
+   "item_id": "3971034690",
+   "given_url": "https://www.medicina.ulisboa.pt/en/node/7591",
+   "given_title": "Visita guiada ao Teatro Anatómico | Faculdade de Medicina da Universidade d",
+   "resolved_title": "",
+   "resolved_url": "",
+   "time_updated": "2023-11-26T11:20:07Z",
+   "time_added": "2023-11-26T11:20:06Z"
+  },
+  {
+   "item_id": "127881584",
+   "given_url": "https://en.m.wikipedia.org/wiki/Veerappan",
+   "given_title": "Veerappan - Wikipedia",
+   "resolved_title": "Veerappan",
+   "resolved_url": "https://en.wikipedia.org/wiki/Veerappan",
+   "time_updated": "2023-11-26T10:23:34Z",
+   "time_added": "2023-11-26T10:23:34Z"
+  },
+  {
+   "item_id": "2272994376",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Lampi%C3%A3o_(cangaceiro)",
+   "given_title": "Lampião (cangaceiro) – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Lampião (cangaceiro)",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Lampi%C3%A3o_(cangaceiro)",
+   "time_updated": "2023-11-26T10:43:49Z",
+   "time_added": "2023-11-26T10:43:48Z"
+  },
+  {
+   "item_id": "3969813008",
+   "given_url": "https://garymarcus.substack.com/p/about-that-openai-breakthrough",
+   "given_title": "About that OpenAI “breakthrough” - by Gary Marcus",
+   "resolved_title": "About that OpenAI “breakthrough”",
+   "resolved_url": "https://garymarcus.substack.com/p/about-that-openai-breakthrough",
+   "time_updated": "2023-11-26T01:17:30Z",
+   "time_added": "2023-11-26T01:17:30Z"
+  },
+  {
+   "item_id": "2309891623",
+   "given_url": "https://www.nexojornal.com.br/explicado/2018/09/02/A-hist%C3%B3ria-do-canga%C3%A7o-mito-est%C3%A9tica-e-banditismo-no-sert%C3%A3o",
+   "given_title": "A história do cangaço: mito, estética e banditismo no sertão | Nexo Jornal",
+   "resolved_title": "A história do cangaço: mito, estética e banditismo no sertão",
+   "resolved_url": "https://www.nexojornal.com.br/explicado/2018/09/02/A-hist%C3%B3ria-do-canga%C3%A7o-mito-est%C3%A9tica-e-banditismo-no-sert%C3%A3o",
+   "time_updated": "2023-11-26T11:12:37Z",
+   "time_added": "2023-11-26T11:12:37Z"
+  },
+  {
+   "item_id": "399093887",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Diogo_Alves",
+   "given_title": "Diogo Alves – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Diogo Alves",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Diogo_Alves",
+   "time_updated": "2023-11-26T11:18:31Z",
+   "time_added": "2023-11-26T11:18:30Z"
+  }
+ ]
+}

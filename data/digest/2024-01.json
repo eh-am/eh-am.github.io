@@ -1,0 +1,25 @@
+{
+ "year": "2024",
+ "week": "1",
+ "sortKey": "2024-01",
+ "items": [
+  {
+   "item_id": "3948533740",
+   "given_url": "https://www.raspberrypi.com/news/bookworm-the-new-version-of-raspberry-pi-os/",
+   "given_title": "Bookworm — the new version of Raspberry Pi OS - Raspberry Pi",
+   "resolved_title": "Bookworm — the new version of Raspberry Pi OS",
+   "resolved_url": "https://www.raspberrypi.com/news/bookworm-the-new-version-of-raspberry-pi-os/",
+   "time_updated": "2024-01-07T21:20:58Z",
+   "time_added": "2024-01-07T21:20:58Z"
+  },
+  {
+   "item_id": "3887063832",
+   "given_url": "https://open-ui.org/components/focusgroup.explainer/",
+   "given_title": "focusgroup (Explainer) | Open UI",
+   "resolved_title": "focusgroup (Explainer)",
+   "resolved_url": "https://open-ui.org/components/focusgroup.explainer/",
+   "time_updated": "2024-01-07T22:47:38Z",
+   "time_added": "2024-01-07T22:47:36Z"
+  }
+ ]
+}

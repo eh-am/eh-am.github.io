@@ -13,15 +13,6 @@
    "time_added": "2024-02-19T14:40:18Z"
   },
   {
-   "item_id": "4010267564",
-   "given_url": "https://m.youtube.com/watch?v=NTOBUcqFLVs",
-   "given_title": "A Rocket League Thesis : The Losfeld Method of Directional Air-Roll - YouTu",
-   "resolved_title": "A Rocket League Thesis : The Losfeld Method of Directional Air-Roll",
-   "resolved_url": "http://www.youtube.com/watch?v=NTOBUcqFLVs",
-   "time_updated": "2024-02-20T00:59:16Z",
-   "time_added": "2024-02-20T00:59:14Z"
-  },
-  {
    "item_id": "226771215",
    "given_url": "https://en.m.wikipedia.org/wiki/Doggerland",
    "given_title": "Doggerland - Wikipedia",
@@ -29,6 +20,24 @@
    "resolved_url": "https://en.wikipedia.org/wiki/Doggerland",
    "time_updated": "2024-02-20T11:38:15Z",
    "time_added": "2024-02-20T11:38:14Z"
+  },
+  {
+   "item_id": "4011079700",
+   "given_url": "https://tab.uol.com.br/noticias/redacao/2024/02/21/argentina-expulsa-brasileiros-falso-turista.htm",
+   "given_title": "Argentina trava entrada estrangeiros e barra brasileiros no aeroporto",
+   "resolved_title": "Argentina expulsa brasileiros do país ao alegar que fazem 'falso turismo'",
+   "resolved_url": "https://tab.uol.com.br/noticias/redacao/2024/02/21/argentina-expulsa-brasileiros-falso-turista.htm",
+   "time_updated": "2024-02-21T12:24:25Z",
+   "time_added": "2024-02-21T12:24:24Z"
+  },
+  {
+   "item_id": "4010267564",
+   "given_url": "https://m.youtube.com/watch?v=NTOBUcqFLVs",
+   "given_title": "A Rocket League Thesis : The Losfeld Method of Directional Air-Roll - YouTu",
+   "resolved_title": "A Rocket League Thesis : The Losfeld Method of Directional Air-Roll",
+   "resolved_url": "http://www.youtube.com/watch?v=NTOBUcqFLVs",
+   "time_updated": "2024-02-20T00:59:16Z",
+   "time_added": "2024-02-20T00:59:14Z"
   }
  ]
 }

@@ -4,6 +4,24 @@
  "sortKey": "2024-08",
  "items": [
   {
+   "item_id": "4011079700",
+   "given_url": "https://tab.uol.com.br/noticias/redacao/2024/02/21/argentina-expulsa-brasileiros-falso-turista.htm",
+   "given_title": "Argentina trava entrada estrangeiros e barra brasileiros no aeroporto",
+   "resolved_title": "Argentina expulsa brasileiros do país ao alegar que fazem 'falso turismo'",
+   "resolved_url": "https://tab.uol.com.br/noticias/redacao/2024/02/21/argentina-expulsa-brasileiros-falso-turista.htm",
+   "time_updated": "2024-02-21T12:24:25Z",
+   "time_added": "2024-02-21T12:24:24Z"
+  },
+  {
+   "item_id": "4011774504",
+   "given_url": "https://www.bibliaonline.com.br/acf/gl/3/24,25",
+   "given_title": "Gálatas 3:24,25 - ACF - Almeida Corrigida Fiel - Bíblia Online",
+   "resolved_title": "Bíblia Online",
+   "resolved_url": "https://www.bibliaonline.com.br/acf/gl/3/24,25",
+   "time_updated": "2024-02-22T12:28:02Z",
+   "time_added": "2024-02-22T12:28:00Z"
+  },
+  {
    "item_id": "3370641009",
    "given_url": "https://www.emilydamstra.com/please-enough-dead-butterflies/",
    "given_title": "Please, enough with the dead butterflies! - Emily S. Damstra",
@@ -11,6 +29,15 @@
    "resolved_url": "https://www.emilydamstra.com/please-enough-dead-butterflies/",
    "time_updated": "2024-02-23T10:43:08Z",
    "time_added": "2024-02-23T10:43:08Z"
+  },
+  {
+   "item_id": "3925800262",
+   "given_url": "https://effectiviology.com/shirky-principle/",
+   "given_title": "The Shirky Principle: Institutions Try to Preserve the Problem to Which The",
+   "resolved_title": "The Shirky Principle: Institutions Try to Preserve the Problem to Which They Are the Solution",
+   "resolved_url": "https://effectiviology.com/shirky-principle/",
+   "time_updated": "2024-02-24T15:35:29Z",
+   "time_added": "2024-02-24T15:35:29Z"
   },
   {
    "item_id": "4013008895",
@@ -31,60 +58,6 @@
    "time_added": "2024-02-22T12:21:12Z"
   },
   {
-   "item_id": "4011774504",
-   "given_url": "https://www.bibliaonline.com.br/acf/gl/3/24,25",
-   "given_title": "Gálatas 3:24,25 - ACF - Almeida Corrigida Fiel - Bíblia Online",
-   "resolved_title": "Bíblia Online",
-   "resolved_url": "https://www.bibliaonline.com.br/acf/gl/3/24,25",
-   "time_updated": "2024-02-22T12:28:02Z",
-   "time_added": "2024-02-22T12:28:00Z"
-  },
-  {
-   "item_id": "49085862",
-   "given_url": "https://en.m.wikipedia.org/wiki/Seven_Laws_of_Noah",
-   "given_title": "Seven Laws of Noah - Wikipedia",
-   "resolved_title": "Seven Laws of Noah",
-   "resolved_url": "https://en.wikipedia.org/wiki/Seven_Laws_of_Noah",
-   "time_updated": "2024-02-24T15:58:30Z",
-   "time_added": "2024-02-24T15:58:29Z"
-  },
-  {
-   "item_id": "641138609",
-   "given_url": "https://en.m.wikipedia.org/wiki/Ananias_and_Sapphira",
-   "given_title": "Ananias and Sapphira - Wikipedia",
-   "resolved_title": "Ananias and Sapphira",
-   "resolved_url": "https://en.wikipedia.org/wiki/Ananias_and_Sapphira",
-   "time_updated": "2024-02-25T10:01:01Z",
-   "time_added": "2024-02-25T10:01:00Z"
-  },
-  {
-   "item_id": "4011079700",
-   "given_url": "https://tab.uol.com.br/noticias/redacao/2024/02/21/argentina-expulsa-brasileiros-falso-turista.htm",
-   "given_title": "Argentina trava entrada estrangeiros e barra brasileiros no aeroporto",
-   "resolved_title": "Argentina expulsa brasileiros do país ao alegar que fazem 'falso turismo'",
-   "resolved_url": "https://tab.uol.com.br/noticias/redacao/2024/02/21/argentina-expulsa-brasileiros-falso-turista.htm",
-   "time_updated": "2024-02-21T12:24:25Z",
-   "time_added": "2024-02-21T12:24:24Z"
-  },
-  {
-   "item_id": "3925800262",
-   "given_url": "https://effectiviology.com/shirky-principle/",
-   "given_title": "The Shirky Principle: Institutions Try to Preserve the Problem to Which The",
-   "resolved_title": "The Shirky Principle: Institutions Try to Preserve the Problem to Which They Are the Solution",
-   "resolved_url": "https://effectiviology.com/shirky-principle/",
-   "time_updated": "2024-02-24T15:35:29Z",
-   "time_added": "2024-02-24T15:35:29Z"
-  },
-  {
-   "item_id": "37612055",
-   "given_url": "https://en.m.wikipedia.org/wiki/Mount_Athos",
-   "given_title": "Mount Athos - Wikipedia",
-   "resolved_title": "Mount Athos",
-   "resolved_url": "https://en.wikipedia.org/wiki/Mount_Athos",
-   "time_updated": "2024-02-25T09:58:26Z",
-   "time_added": "2024-02-25T09:58:23Z"
-  },
-  {
    "item_id": "193074825",
    "given_url": "https://en.m.wikipedia.org/wiki/Kiln",
    "given_title": "Kiln - Wikipedia",
@@ -101,6 +74,33 @@
    "resolved_url": "https://theconversation.com/mythbusting-ancient-rome-the-truth-about-the-vomitorium-71068",
    "time_updated": "2024-02-24T11:46:30Z",
    "time_added": "2024-02-24T11:46:29Z"
+  },
+  {
+   "item_id": "49085862",
+   "given_url": "https://en.m.wikipedia.org/wiki/Seven_Laws_of_Noah",
+   "given_title": "Seven Laws of Noah - Wikipedia",
+   "resolved_title": "Seven Laws of Noah",
+   "resolved_url": "https://en.wikipedia.org/wiki/Seven_Laws_of_Noah",
+   "time_updated": "2024-02-24T15:58:30Z",
+   "time_added": "2024-02-24T15:58:29Z"
+  },
+  {
+   "item_id": "37612055",
+   "given_url": "https://en.m.wikipedia.org/wiki/Mount_Athos",
+   "given_title": "Mount Athos - Wikipedia",
+   "resolved_title": "Mount Athos",
+   "resolved_url": "https://en.wikipedia.org/wiki/Mount_Athos",
+   "time_updated": "2024-02-25T09:58:26Z",
+   "time_added": "2024-02-25T09:58:23Z"
+  },
+  {
+   "item_id": "641138609",
+   "given_url": "https://en.m.wikipedia.org/wiki/Ananias_and_Sapphira",
+   "given_title": "Ananias and Sapphira - Wikipedia",
+   "resolved_title": "Ananias and Sapphira",
+   "resolved_url": "https://en.wikipedia.org/wiki/Ananias_and_Sapphira",
+   "time_updated": "2024-02-25T10:01:01Z",
+   "time_added": "2024-02-25T10:01:00Z"
   }
  ]
 }

@@ -4,24 +4,6 @@
  "sortKey": "2024-08",
  "items": [
   {
-   "item_id": "193074825",
-   "given_url": "https://en.m.wikipedia.org/wiki/Kiln",
-   "given_title": "Kiln - Wikipedia",
-   "resolved_title": "Kiln",
-   "resolved_url": "https://en.wikipedia.org/wiki/Kiln",
-   "time_updated": "2024-02-22T22:05:35Z",
-   "time_added": "2024-02-22T22:05:34Z"
-  },
-  {
-   "item_id": "3370641009",
-   "given_url": "https://www.emilydamstra.com/please-enough-dead-butterflies/",
-   "given_title": "Please, enough with the dead butterflies! - Emily S. Damstra",
-   "resolved_title": "Please, enough with the dead butterflies!",
-   "resolved_url": "https://www.emilydamstra.com/please-enough-dead-butterflies/",
-   "time_updated": "2024-02-23T10:43:08Z",
-   "time_added": "2024-02-23T10:43:08Z"
-  },
-  {
    "item_id": "1571166977",
    "given_url": "https://theconversation.com/mythbusting-ancient-rome-the-truth-about-the-vomitorium-71068",
    "given_title": "Mythbusting Ancient Rome – the truth about the vomitorium",
@@ -40,6 +22,15 @@
    "time_added": "2024-02-24T17:31:18Z"
   },
   {
+   "item_id": "3370641009",
+   "given_url": "https://www.emilydamstra.com/please-enough-dead-butterflies/",
+   "given_title": "Please, enough with the dead butterflies! - Emily S. Damstra",
+   "resolved_title": "Please, enough with the dead butterflies!",
+   "resolved_url": "https://www.emilydamstra.com/please-enough-dead-butterflies/",
+   "time_updated": "2024-02-23T10:43:08Z",
+   "time_added": "2024-02-23T10:43:08Z"
+  },
+  {
    "item_id": "37612055",
    "given_url": "https://en.m.wikipedia.org/wiki/Mount_Athos",
    "given_title": "Mount Athos - Wikipedia",
@@ -47,6 +38,15 @@
    "resolved_url": "https://en.wikipedia.org/wiki/Mount_Athos",
    "time_updated": "2024-02-25T09:58:26Z",
    "time_added": "2024-02-25T09:58:23Z"
+  },
+  {
+   "item_id": "641138609",
+   "given_url": "https://en.m.wikipedia.org/wiki/Ananias_and_Sapphira",
+   "given_title": "Ananias and Sapphira - Wikipedia",
+   "resolved_title": "Ananias and Sapphira",
+   "resolved_url": "https://en.wikipedia.org/wiki/Ananias_and_Sapphira",
+   "time_updated": "2024-02-25T10:01:01Z",
+   "time_added": "2024-02-25T10:01:00Z"
   },
   {
    "item_id": "3925800262",
@@ -65,24 +65,6 @@
    "resolved_url": "https://en.wikipedia.org/wiki/Seven_Laws_of_Noah",
    "time_updated": "2024-02-24T15:58:30Z",
    "time_added": "2024-02-24T15:58:29Z"
-  },
-  {
-   "item_id": "4011774504",
-   "given_url": "https://www.bibliaonline.com.br/acf/gl/3/24,25",
-   "given_title": "Gálatas 3:24,25 - ACF - Almeida Corrigida Fiel - Bíblia Online",
-   "resolved_title": "Bíblia Online",
-   "resolved_url": "https://www.bibliaonline.com.br/acf/gl/3/24,25",
-   "time_updated": "2024-02-22T12:28:02Z",
-   "time_added": "2024-02-22T12:28:00Z"
-  },
-  {
-   "item_id": "641138609",
-   "given_url": "https://en.m.wikipedia.org/wiki/Ananias_and_Sapphira",
-   "given_title": "Ananias and Sapphira - Wikipedia",
-   "resolved_title": "Ananias and Sapphira",
-   "resolved_url": "https://en.wikipedia.org/wiki/Ananias_and_Sapphira",
-   "time_updated": "2024-02-25T10:01:01Z",
-   "time_added": "2024-02-25T10:01:00Z"
   }
  ]
 }

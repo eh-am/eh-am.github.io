@@ -4,15 +4,6 @@
  "sortKey": "2024-10",
  "items": [
   {
-   "item_id": "4017568588",
-   "given_url": "https://es.wikipedia.org/wiki/La_fuerza_est%C3%A1_con_Cerveza_Cristal",
-   "given_title": "La fuerza está con Cerveza Cristal - Wikipedia, la enciclopedia libre",
-   "resolved_title": "La fuerza está con Cerveza Cristal",
-   "resolved_url": "https://es.wikipedia.org/wiki/La_fuerza_est%C3%A1_con_Cerveza_Cristal",
-   "time_updated": "2024-03-04T21:15:49Z",
-   "time_added": "2024-03-04T21:15:48Z"
-  },
-  {
    "item_id": "4017900593",
    "given_url": "https://twitter.com/balaclavarecs/status/1764999853321441333",
    "given_title": "Balaclava Records on X: \"A Balaclava traz ao Brasil a emblemática banda Tor",
@@ -22,22 +13,13 @@
    "time_added": "2024-03-05T14:22:50Z"
   },
   {
-   "item_id": "4017140720",
-   "given_url": "https://m.youtube.com/watch?v=aCWCF19nUhA\u0026pp=ygUbdG9tIHRvbSBjbHViIGdlbml1cyBvZiBsb3Zl",
-   "given_title": "Tom Tom Club - Genius Of Love (Official Music Video) [4K] - YouTube",
-   "resolved_title": "Tom Tom Club - Genius Of Love (Official Music Video) [4K]",
-   "resolved_url": "http://www.google.com/sorry/index?continue=http://www.youtube.com/watch%3Fv%3DaCWCF19nUhA\u0026q=EgQi4kIDGNmulK8GIjBiytDaC-ndyTh_zwdGGqsmXbbLHYiPtVe-92IjxOBKvG1a2go4esI2PyWTTq6wprYyAXJaAUM",
-   "time_updated": "2024-03-04T00:35:38Z",
-   "time_added": "2024-03-04T00:35:30Z"
-  },
-  {
-   "item_id": "367910256",
-   "given_url": "https://en.m.wikipedia.org/wiki/Farnese_Hercules",
-   "given_title": "Farnese Hercules - Wikipedia",
-   "resolved_title": "Farnese Hercules",
-   "resolved_url": "https://en.wikipedia.org/wiki/Farnese_Hercules",
-   "time_updated": "2024-03-05T13:59:17Z",
-   "time_added": "2024-03-05T13:59:16Z"
+   "item_id": "4018318133",
+   "given_url": "https://www.uol.com.br/splash/colunas/pagina-cinco/2024/03/06/em-agosto-nos-vemos-postumo-gabriel-garcia-marquez-gabo-resenha.htm",
+   "given_title": "Em Agosto nos Vemos: novo livro de Gabo não vale o tempo do leitor",
+   "resolved_title": "'Em Agosto nos Vemos': é fraco o novo livro de Gabriel García Márquez",
+   "resolved_url": "https://www.uol.com.br/splash/colunas/pagina-cinco/2024/03/06/em-agosto-nos-vemos-postumo-gabriel-garcia-marquez-gabo-resenha.htm",
+   "time_updated": "2024-03-06T11:04:54Z",
+   "time_added": "2024-03-06T11:04:52Z"
   },
   {
    "item_id": "4017140719",
@@ -49,6 +31,15 @@
    "time_added": "2024-03-03T23:12:04Z"
   },
   {
+   "item_id": "367910256",
+   "given_url": "https://en.m.wikipedia.org/wiki/Farnese_Hercules",
+   "given_title": "Farnese Hercules - Wikipedia",
+   "resolved_title": "Farnese Hercules",
+   "resolved_url": "https://en.wikipedia.org/wiki/Farnese_Hercules",
+   "time_updated": "2024-03-05T13:59:17Z",
+   "time_added": "2024-03-05T13:59:16Z"
+  },
+  {
    "item_id": "4018071295",
    "given_url": "https://en.m.wikipedia.org/wiki/Bagaceratops",
    "given_title": "Bagaceratops - Wikipedia",
@@ -56,6 +47,24 @@
    "resolved_url": "https://en.wikipedia.org/wiki/Bagaceratops",
    "time_updated": "2024-03-05T22:03:36Z",
    "time_added": "2024-03-05T22:03:34Z"
+  },
+  {
+   "item_id": "4017140720",
+   "given_url": "https://m.youtube.com/watch?v=aCWCF19nUhA\u0026pp=ygUbdG9tIHRvbSBjbHViIGdlbml1cyBvZiBsb3Zl",
+   "given_title": "Tom Tom Club - Genius Of Love (Official Music Video) [4K] - YouTube",
+   "resolved_title": "Tom Tom Club - Genius Of Love (Official Music Video) [4K]",
+   "resolved_url": "http://www.google.com/sorry/index?continue=http://www.youtube.com/watch%3Fv%3DaCWCF19nUhA\u0026q=EgQi4kIDGNmulK8GIjBiytDaC-ndyTh_zwdGGqsmXbbLHYiPtVe-92IjxOBKvG1a2go4esI2PyWTTq6wprYyAXJaAUM",
+   "time_updated": "2024-03-04T00:35:38Z",
+   "time_added": "2024-03-04T00:35:30Z"
+  },
+  {
+   "item_id": "4017568588",
+   "given_url": "https://es.wikipedia.org/wiki/La_fuerza_est%C3%A1_con_Cerveza_Cristal",
+   "given_title": "La fuerza está con Cerveza Cristal - Wikipedia, la enciclopedia libre",
+   "resolved_title": "La fuerza está con Cerveza Cristal",
+   "resolved_url": "https://es.wikipedia.org/wiki/La_fuerza_est%C3%A1_con_Cerveza_Cristal",
+   "time_updated": "2024-03-04T21:15:49Z",
+   "time_added": "2024-03-04T21:15:48Z"
   }
  ]
 }

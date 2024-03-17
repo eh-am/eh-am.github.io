@@ -13,24 +13,6 @@
    "time_added": "2024-03-10T19:58:23Z"
   },
   {
-   "item_id": "3558102864",
-   "given_url": "https://www.em.com.br/app/noticia/internacional/factcheck/2021/08/25/interna_internacional,1299325/outros-paises-alem-de-brasil-butao-e-bangladesh-usam-urnas-sem-voto-impr.shtml",
-   "given_title": "Outros países, além de Brasil, Butão e Bangladesh, usam urnas sem voto impr",
-   "resolved_title": "Outros países, além de Brasil, Butão e Bangladesh, usam urnas sem voto impresso em escala local",
-   "resolved_url": "https://www.em.com.br/app/noticia/internacional/factcheck/2021/08/25/interna_internacional,1299325/outros-paises-alem-de-brasil-butao-e-bangladesh-usam-urnas-sem-voto-impr.shtml",
-   "time_updated": "2024-03-10T22:07:30Z",
-   "time_added": "2024-03-10T22:07:29Z"
-  },
-  {
-   "item_id": "769528044",
-   "given_url": "https://web.whatsapp.com/",
-   "given_title": "WhatsApp",
-   "resolved_title": "WhatsApp Web",
-   "resolved_url": "https://web.whatsapp.com/",
-   "time_updated": "2024-03-10T12:00:36Z",
-   "time_added": "2024-03-10T12:00:36Z"
-  },
-  {
    "item_id": "135053029",
    "given_url": "https://en.m.wikipedia.org/wiki/Hans_Christian_Andersen",
    "given_title": "Hans Christian Andersen - Wikipedia",
@@ -38,6 +20,15 @@
    "resolved_url": "https://en.wikipedia.org/wiki/Hans_Christian_Andersen",
    "time_updated": "2024-03-10T17:55:24Z",
    "time_added": "2024-03-10T17:55:23Z"
+  },
+  {
+   "item_id": "3558102864",
+   "given_url": "https://www.em.com.br/app/noticia/internacional/factcheck/2021/08/25/interna_internacional,1299325/outros-paises-alem-de-brasil-butao-e-bangladesh-usam-urnas-sem-voto-impr.shtml",
+   "given_title": "Outros países, além de Brasil, Butão e Bangladesh, usam urnas sem voto impr",
+   "resolved_title": "Outros países, além de Brasil, Butão e Bangladesh, usam urnas sem voto impresso em escala local",
+   "resolved_url": "https://www.em.com.br/app/noticia/internacional/factcheck/2021/08/25/interna_internacional,1299325/outros-paises-alem-de-brasil-butao-e-bangladesh-usam-urnas-sem-voto-impr.shtml",
+   "time_updated": "2024-03-10T22:07:30Z",
+   "time_added": "2024-03-10T22:07:29Z"
   }
  ]
 }

@@ -4,24 +4,6 @@
  "sortKey": "2024-11",
  "items": [
   {
-   "item_id": "69159626",
-   "given_url": "https://en.m.wikipedia.org/wiki/Jainism",
-   "given_title": "Jainism - Wikipedia",
-   "resolved_title": "Jainism",
-   "resolved_url": "https://en.wikipedia.org/wiki/Jainism",
-   "time_updated": "2024-03-16T08:30:45Z",
-   "time_added": "2024-03-16T08:30:44Z"
-  },
-  {
-   "item_id": "1007024071",
-   "given_url": "https://en.m.wikipedia.org/wiki/Izmail",
-   "given_title": "Izmail - Wikipedia",
-   "resolved_title": "Izmail",
-   "resolved_url": "https://en.wikipedia.org/wiki/Izmail",
-   "time_updated": "2024-03-12T13:25:10Z",
-   "time_added": "2024-03-12T13:25:09Z"
-  },
-  {
    "item_id": "4022361954",
    "given_url": "http://rocksalted.com/2018/09/the-lollipop-of-science-o-pirulito-da-ciencia-a-defective-guide-to-tom-ze-um-guia-com-defeito-para-tom-ze/",
    "given_title": "The Lollipop of Science (O Pirulito da Ciência): A Defective Guide to Tom Z",
@@ -31,13 +13,22 @@
    "time_added": "2024-03-14T23:03:32Z"
   },
   {
-   "item_id": "115064258",
-   "given_url": "https://en.m.wikipedia.org/wiki/Alice_in_Wonderland_syndrome",
-   "given_title": "Alice in Wonderland syndrome - Wikipedia",
-   "resolved_title": "Alice in Wonderland syndrome",
-   "resolved_url": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_syndrome",
-   "time_updated": "2024-03-12T20:00:10Z",
-   "time_added": "2024-03-12T20:00:09Z"
+   "item_id": "1787143605",
+   "given_url": "https://g1.globo.com/globo-reporter/noticia/2017/06/filtro-de-barro-invencao-brasileira-e-um-dos-melhores-do-mundo.html",
+   "given_title": "Globo Repórter - Filtro de barro, invenção brasileira, é um dos melhores do",
+   "resolved_title": "Filtro de barro, invenção brasileira, é um dos melhores do mundo",
+   "resolved_url": "https://g1.globo.com/globo-reporter/noticia/2017/06/filtro-de-barro-invencao-brasileira-e-um-dos-melhores-do-mundo.html",
+   "time_updated": "2024-03-15T21:13:43Z",
+   "time_added": "2024-03-15T21:13:43Z"
+  },
+  {
+   "item_id": "48617977",
+   "given_url": "https://en.m.wikipedia.org/wiki/Condominium_(international_law)",
+   "given_title": "Condominium (international law) - Wikipedia",
+   "resolved_title": "Condominium (international law)",
+   "resolved_url": "https://en.wikipedia.org/wiki/Condominium_(international_law)",
+   "time_updated": "2024-03-16T11:03:54Z",
+   "time_added": "2024-03-16T11:03:53Z"
   },
   {
    "item_id": "1466208492",
@@ -58,24 +49,6 @@
    "time_added": "2024-03-14T11:13:28Z"
   },
   {
-   "item_id": "4021733126",
-   "given_url": "https://hugo.blog/2024/03/11/vision-pro/",
-   "given_title": "Vision Pro is an over-engineered “devkit” // Hardware bleeds genius \u0026 audac",
-   "resolved_title": "Vision Pro is an over-engineered “devkit” // Hardware bleeds genius \u0026 audacity but software story is disheartening // What we got wrong at Oculus that Apple got right // Why Meta could finally have its Android moment",
-   "resolved_url": "https://hugo.blog/2024/03/11/vision-pro/",
-   "time_updated": "2024-03-15T18:29:34Z",
-   "time_added": "2024-03-15T18:29:33Z"
-  },
-  {
-   "item_id": "1770921969",
-   "given_url": "https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/a-utilizacao-do-pronome-pessoal-voce/23556",
-   "given_title": "A utilização do pronome pessoal você - Ciberdúvidas da Língua Portuguesa",
-   "resolved_title": "A utilização do pronome pessoal você : Ciberdúvidas da Língua Portuguesa",
-   "resolved_url": "https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/a-utilizacao-do-pronome-pessoal-voce/23556",
-   "time_updated": "2024-03-15T18:55:57Z",
-   "time_added": "2024-03-15T18:55:57Z"
-  },
-  {
    "item_id": "157109396",
    "given_url": "https://www.youtube.com/watch?v=rKTUAESacQM",
    "given_title": "(49) The Sugar Hill Gang - Rapper's Delight ( HQ, Full Version ) - YouTube",
@@ -85,22 +58,13 @@
    "time_added": "2024-03-15T21:35:47Z"
   },
   {
-   "item_id": "1761210075",
-   "given_url": "https://m.youtube.com/watch?v=E8PBrhFN35c",
-   "given_title": "THE SECRET OF SELLING THE NEGRO (1954) - YouTube",
-   "resolved_title": "THE SECRET OF SELLING THE NEGRO (1954)",
-   "resolved_url": "https://www.youtube.com/watch?v=E8PBrhFN35c",
-   "time_updated": "2024-03-14T00:47:58Z",
-   "time_added": "2024-03-14T00:47:57Z"
-  },
-  {
-   "item_id": "1787143605",
-   "given_url": "https://g1.globo.com/globo-reporter/noticia/2017/06/filtro-de-barro-invencao-brasileira-e-um-dos-melhores-do-mundo.html",
-   "given_title": "Globo Repórter - Filtro de barro, invenção brasileira, é um dos melhores do",
-   "resolved_title": "Filtro de barro, invenção brasileira, é um dos melhores do mundo",
-   "resolved_url": "https://g1.globo.com/globo-reporter/noticia/2017/06/filtro-de-barro-invencao-brasileira-e-um-dos-melhores-do-mundo.html",
-   "time_updated": "2024-03-15T21:13:43Z",
-   "time_added": "2024-03-15T21:13:43Z"
+   "item_id": "69159626",
+   "given_url": "https://en.m.wikipedia.org/wiki/Jainism",
+   "given_title": "Jainism - Wikipedia",
+   "resolved_title": "Jainism",
+   "resolved_url": "https://en.wikipedia.org/wiki/Jainism",
+   "time_updated": "2024-03-16T08:30:45Z",
+   "time_added": "2024-03-16T08:30:44Z"
   },
   {
    "item_id": "4021892400",
@@ -112,13 +76,13 @@
    "time_added": "2024-03-13T23:28:41Z"
   },
   {
-   "item_id": "48053690",
-   "given_url": "https://pt.wikipedia.org/wiki/Chita_(tecido)",
-   "given_title": "Chita (tecido) – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Chita (tecido)",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Chita_(tecido)",
-   "time_updated": "2024-03-14T15:20:39Z",
-   "time_added": "2024-03-14T15:20:39Z"
+   "item_id": "1761210075",
+   "given_url": "https://m.youtube.com/watch?v=E8PBrhFN35c",
+   "given_title": "THE SECRET OF SELLING THE NEGRO (1954) - YouTube",
+   "resolved_title": "THE SECRET OF SELLING THE NEGRO (1954)",
+   "resolved_url": "https://www.youtube.com/watch?v=E8PBrhFN35c",
+   "time_updated": "2024-03-14T00:47:58Z",
+   "time_added": "2024-03-14T00:47:57Z"
   },
   {
    "item_id": "4022684043",
@@ -130,13 +94,22 @@
    "time_added": "2024-03-15T15:51:36Z"
   },
   {
-   "item_id": "48617977",
-   "given_url": "https://en.m.wikipedia.org/wiki/Condominium_(international_law)",
-   "given_title": "Condominium (international law) - Wikipedia",
-   "resolved_title": "Condominium (international law)",
-   "resolved_url": "https://en.wikipedia.org/wiki/Condominium_(international_law)",
-   "time_updated": "2024-03-16T11:03:54Z",
-   "time_added": "2024-03-16T11:03:53Z"
+   "item_id": "1770921969",
+   "given_url": "https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/a-utilizacao-do-pronome-pessoal-voce/23556",
+   "given_title": "A utilização do pronome pessoal você - Ciberdúvidas da Língua Portuguesa",
+   "resolved_title": "A utilização do pronome pessoal você : Ciberdúvidas da Língua Portuguesa",
+   "resolved_url": "https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/a-utilizacao-do-pronome-pessoal-voce/23556",
+   "time_updated": "2024-03-15T18:55:57Z",
+   "time_added": "2024-03-15T18:55:57Z"
+  },
+  {
+   "item_id": "4021733126",
+   "given_url": "https://hugo.blog/2024/03/11/vision-pro/",
+   "given_title": "Vision Pro is an over-engineered “devkit” // Hardware bleeds genius \u0026 audac",
+   "resolved_title": "Vision Pro is an over-engineered “devkit” // Hardware bleeds genius \u0026 audacity but software story is disheartening // What we got wrong at Oculus that Apple got right // Why Meta could finally have its Android moment",
+   "resolved_url": "https://hugo.blog/2024/03/11/vision-pro/",
+   "time_updated": "2024-03-15T18:29:34Z",
+   "time_added": "2024-03-15T18:29:33Z"
   },
   {
    "item_id": "1305598999",
@@ -148,6 +121,15 @@
    "time_added": "2024-03-11T20:24:09Z"
   },
   {
+   "item_id": "1007024071",
+   "given_url": "https://en.m.wikipedia.org/wiki/Izmail",
+   "given_title": "Izmail - Wikipedia",
+   "resolved_title": "Izmail",
+   "resolved_url": "https://en.wikipedia.org/wiki/Izmail",
+   "time_updated": "2024-03-12T13:25:10Z",
+   "time_added": "2024-03-12T13:25:09Z"
+  },
+  {
    "item_id": "4021119319",
    "given_url": "https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/03/12/bancas-de-heteroidentificacao-quando-leis-para-incluir-acabam-ferindo.htm",
    "given_title": "Bancas de heteroidentificação: quando leis para incluir acabam ferindo",
@@ -155,6 +137,33 @@
    "resolved_url": "https://www.uol.com.br/tilt/colunas/blog-do-dunker/2024/03/12/bancas-de-heteroidentificacao-quando-leis-para-incluir-acabam-ferindo.htm",
    "time_updated": "2024-03-12T18:07:13Z",
    "time_added": "2024-03-12T18:07:13Z"
+  },
+  {
+   "item_id": "115064258",
+   "given_url": "https://en.m.wikipedia.org/wiki/Alice_in_Wonderland_syndrome",
+   "given_title": "Alice in Wonderland syndrome - Wikipedia",
+   "resolved_title": "Alice in Wonderland syndrome",
+   "resolved_url": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_syndrome",
+   "time_updated": "2024-03-12T20:00:10Z",
+   "time_added": "2024-03-12T20:00:09Z"
+  },
+  {
+   "item_id": "48053690",
+   "given_url": "https://pt.wikipedia.org/wiki/Chita_(tecido)",
+   "given_title": "Chita (tecido) – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Chita (tecido)",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Chita_(tecido)",
+   "time_updated": "2024-03-14T15:20:39Z",
+   "time_added": "2024-03-14T15:20:39Z"
+  },
+  {
+   "item_id": "4023083423",
+   "given_url": "https://www.nexusmods.com/dragonquestxisdefinitiveedition/mods/171",
+   "given_title": "Steam Deck Optimizations at Dragon Quest XI S: Echoes of an Elusive Age - D",
+   "resolved_title": "Steam Deck Optimizations",
+   "resolved_url": "https://www.nexusmods.com/dragonquestxisdefinitiveedition/mods/171",
+   "time_updated": "2024-03-16T13:50:39Z",
+   "time_added": "2024-03-16T13:50:37Z"
   }
  ]
 }

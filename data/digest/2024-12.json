@@ -4,15 +4,6 @@
  "sortKey": "2024-12",
  "items": [
   {
-   "item_id": "858644407",
-   "given_url": "https://en.m.wikipedia.org/wiki/Dark_Enlightenment",
-   "given_title": "Dark Enlightenment - Wikipedia",
-   "resolved_title": "Dark Enlightenment",
-   "resolved_url": "https://en.wikipedia.org/wiki/Dark_Enlightenment",
-   "time_updated": "2024-03-24T15:51:43Z",
-   "time_added": "2024-03-24T15:51:43Z"
-  },
-  {
    "item_id": "3397925520",
    "given_url": "https://en.m.wiktionary.org/wiki/ithyphallic",
    "given_title": "ithyphallic - Wiktionary, the free dictionary",
@@ -29,6 +20,15 @@
    "resolved_url": "http://web.archive.org/web/20190104161003/https://breakermag.com/heres-the-dark-enlightenment-explainer-you-never-wanted/",
    "time_updated": "2024-03-24T15:49:53Z",
    "time_added": "2024-03-24T15:49:50Z"
+  },
+  {
+   "item_id": "858644407",
+   "given_url": "https://en.m.wikipedia.org/wiki/Dark_Enlightenment",
+   "given_title": "Dark Enlightenment - Wikipedia",
+   "resolved_title": "Dark Enlightenment",
+   "resolved_url": "https://en.wikipedia.org/wiki/Dark_Enlightenment",
+   "time_updated": "2024-03-24T15:51:43Z",
+   "time_added": "2024-03-24T15:51:43Z"
   }
  ]
 }

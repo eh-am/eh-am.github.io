@@ -4,33 +4,6 @@
  "sortKey": "2024-12",
  "items": [
   {
-   "item_id": "367048873",
-   "given_url": "https://en.m.wikipedia.org/wiki/Curve_fitting",
-   "given_title": "Curve fitting - Wikipedia",
-   "resolved_title": "Curve fitting",
-   "resolved_url": "https://en.wikipedia.org/wiki/Curve_fitting",
-   "time_updated": "2024-03-23T16:15:24Z",
-   "time_added": "2024-03-23T16:15:23Z"
-  },
-  {
-   "item_id": "4024532326",
-   "given_url": "https://www1.folha.uol.com.br/ciencia/2024/03/as-controversias-de-marco-polo-700-anos-apos-sua-morte.shtml",
-   "given_title": "As controvérsias de Marco Polo, 700 anos após sua morte - 19/03/2024 - Ciên",
-   "resolved_title": "As controvérsias de Marco Polo, 700 anos após sua morte",
-   "resolved_url": "https://www1.folha.uol.com.br/ciencia/2024/03/as-controversias-de-marco-polo-700-anos-apos-sua-morte.shtml",
-   "time_updated": "2024-03-23T18:57:04Z",
-   "time_added": "2024-03-23T18:57:04Z"
-  },
-  {
-   "item_id": "4026825063",
-   "given_url": "http://web.archive.org/web/20190104161003/https://breakermag.com/heres-the-dark-enlightenment-explainer-you-never-wanted/",
-   "given_title": "Here's the Dark Enlightenment Explainer You Never Wanted",
-   "resolved_title": "Here’s the Dark Enlightenment Explainer You Never Wanted",
-   "resolved_url": "http://web.archive.org/web/20190104161003/https://breakermag.com/heres-the-dark-enlightenment-explainer-you-never-wanted/",
-   "time_updated": "2024-03-24T15:49:53Z",
-   "time_added": "2024-03-24T15:49:50Z"
-  },
-  {
    "item_id": "858644407",
    "given_url": "https://en.m.wikipedia.org/wiki/Dark_Enlightenment",
    "given_title": "Dark Enlightenment - Wikipedia",
@@ -47,6 +20,15 @@
    "resolved_url": "https://en.wiktionary.org/wiki/ithyphallic",
    "time_updated": "2024-03-24T18:54:07Z",
    "time_added": "2024-03-24T18:54:07Z"
+  },
+  {
+   "item_id": "4026825063",
+   "given_url": "http://web.archive.org/web/20190104161003/https://breakermag.com/heres-the-dark-enlightenment-explainer-you-never-wanted/",
+   "given_title": "Here's the Dark Enlightenment Explainer You Never Wanted",
+   "resolved_title": "Here’s the Dark Enlightenment Explainer You Never Wanted",
+   "resolved_url": "http://web.archive.org/web/20190104161003/https://breakermag.com/heres-the-dark-enlightenment-explainer-you-never-wanted/",
+   "time_updated": "2024-03-24T15:49:53Z",
+   "time_added": "2024-03-24T15:49:50Z"
   }
  ]
 }

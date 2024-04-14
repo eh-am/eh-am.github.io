@@ -4,24 +4,6 @@
  "sortKey": "2024-14",
  "items": [
   {
-   "item_id": "190351254",
-   "given_url": "https://en.m.wikipedia.org/wiki/Poisoning_of_Alexander_Litvinenko",
-   "given_title": "Poisoning of Alexander Litvinenko - Wikipedia",
-   "resolved_title": "Poisoning of Alexander Litvinenko",
-   "resolved_url": "https://en.wikipedia.org/wiki/Poisoning_of_Alexander_Litvinenko",
-   "time_updated": "2024-04-07T07:48:13Z",
-   "time_added": "2024-04-07T07:48:12Z"
-  },
-  {
-   "item_id": "4032742882",
-   "given_url": "https://m.youtube.com/watch?v=GXJUVnlGmI8",
-   "given_title": "Historical Paul: What Scholars Actually Know About Paul's Life, Beliefs, an",
-   "resolved_title": "Historical Paul: What Scholars Actually Know About Paul's Life, Beliefs, and Personality",
-   "resolved_url": "http://www.google.com/sorry/index?continue=http://www.youtube.com/watch%3Fv%3DGXJUVnlGmI8\u0026q=EgQi4kIDGJiyxbAGIjBuVu1-7VZW_qYZ_liiu_Q5Axu_52dMXhbw2y9fXW2RVuh0REIwZwJT-lARDa_27JQyAXJaAUM",
-   "time_updated": "2024-04-06T14:15:53Z",
-   "time_added": "2024-04-06T14:15:51Z"
-  },
-  {
    "item_id": "4033034353",
    "given_url": "https://open.spotify.com/album/6RwJlqDiiZXlszNaLw5XLA?si=RUALUMexSh2XnGfit4kPOg",
    "given_title": "",
@@ -40,22 +22,13 @@
    "time_added": "2024-04-07T07:19:31Z"
   },
   {
-   "item_id": "2322827050",
-   "given_url": "https://www.amazon.com/Paul-Jesus-Apostle-Transformed-Christianity/dp/1439123322",
-   "given_title": "Paul and Jesus: How the Apostle Transformed Christianity: Tabor, James D.: ",
-   "resolved_title": "",
-   "resolved_url": "https://www.amazon.com/Paul-Jesus-Apostle-Transformed-Christianity/dp/1439123322",
-   "time_updated": "2024-04-06T14:19:05Z",
-   "time_added": "2024-04-06T14:19:05Z"
-  },
-  {
-   "item_id": "3912347764",
-   "given_url": "https://m.youtube.com/watch?v=LyyqlD7uR3U",
-   "given_title": "Lord Of The Rings from Gollum's perspective - YouTube",
-   "resolved_title": "Lord Of The Rings from Gollum's perspective",
-   "resolved_url": "http://www.youtube.com/watch?v=LyyqlD7uR3U",
-   "time_updated": "2024-04-06T22:21:01Z",
-   "time_added": "2024-04-06T22:21:00Z"
+   "item_id": "190351254",
+   "given_url": "https://en.m.wikipedia.org/wiki/Poisoning_of_Alexander_Litvinenko",
+   "given_title": "Poisoning of Alexander Litvinenko - Wikipedia",
+   "resolved_title": "Poisoning of Alexander Litvinenko",
+   "resolved_url": "https://en.wikipedia.org/wiki/Poisoning_of_Alexander_Litvinenko",
+   "time_updated": "2024-04-07T07:48:13Z",
+   "time_added": "2024-04-07T07:48:12Z"
   }
  ]
 }

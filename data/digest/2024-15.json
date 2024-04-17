@@ -4,40 +4,13 @@
  "sortKey": "2024-15",
  "items": [
   {
-   "item_id": "4035389430",
-   "given_url": "https://www.jvt.me/posts/2024/04/12/use-renovate/",
-   "given_title": "Why I recommend Renovate over any other dependency update tools · Jamie Tan",
-   "resolved_title": "Jamie Tanna | Software Engineer",
-   "resolved_url": "https://www.jvt.me/posts/2024/04/12/use-renovate/",
-   "time_updated": "2024-04-12T13:03:05Z",
-   "time_added": "2024-04-12T13:03:04Z"
-  },
-  {
-   "item_id": "4034862093",
-   "given_url": "https://www.cinemacity.pt/movie/lupin-iii-o-castelo-de-cagliostro/",
-   "given_title": "LUPIN III O CASTELO DE CAGLIOSTRO - CinemaCity",
-   "resolved_title": "LUPIN III O CASTELO DE CAGLIOSTRO",
-   "resolved_url": "https://www.cinemacity.pt/movie/lupin-iii-o-castelo-de-cagliostro/",
-   "time_updated": "2024-04-11T08:12:01Z",
-   "time_added": "2024-04-11T08:11:58Z"
-  },
-  {
-   "item_id": "4035634273",
-   "given_url": "https://homeoesp.org/livros-online/evangelho-segundo-tom%C3%A9.pdf",
-   "given_title": "evangelho-segundo-tomé.pdf",
-   "resolved_title": "",
-   "resolved_url": "https://homeoesp.org/livros-online/evangelho-segundo-tom%C3%A9.pdf",
-   "time_updated": "2024-04-12T23:55:34Z",
-   "time_added": "2024-04-12T23:55:32Z"
-  },
-  {
-   "item_id": "4035012984",
-   "given_url": "https://dicionario.priberam.org/quez%C3%ADlia",
-   "given_title": "quezília - Dicionário Online Priberam de Português",
-   "resolved_title": "quezília",
-   "resolved_url": "https://dicionario.priberam.org/quez%C3%ADlia",
-   "time_updated": "2024-04-11T15:17:27Z",
-   "time_added": "2024-04-11T15:17:25Z"
+   "item_id": "4034698301",
+   "given_url": "https://m.youtube.com/watch?v=xAll9UABRPI",
+   "given_title": "El Paso, Elsewhere - what even is modern retro gaming? | Renegade Cut - You",
+   "resolved_title": "El Paso, Elsewhere - what even is modern retro gaming? | Renegade Cut",
+   "resolved_url": "http://www.youtube.com/watch?v=xAll9UABRPI",
+   "time_updated": "2024-04-10T22:22:15Z",
+   "time_added": "2024-04-10T22:22:13Z"
   },
   {
    "item_id": "4035350863",
@@ -49,121 +22,13 @@
    "time_added": "2024-04-12T10:05:51Z"
   },
   {
-   "item_id": "4034698301",
-   "given_url": "https://m.youtube.com/watch?v=xAll9UABRPI",
-   "given_title": "El Paso, Elsewhere - what even is modern retro gaming? | Renegade Cut - You",
-   "resolved_title": "El Paso, Elsewhere - what even is modern retro gaming? | Renegade Cut",
-   "resolved_url": "http://www.youtube.com/watch?v=xAll9UABRPI",
-   "time_updated": "2024-04-10T22:22:15Z",
-   "time_added": "2024-04-10T22:22:13Z"
-  },
-  {
-   "item_id": "4021640937",
-   "given_url": "https://observador.pt/2024/03/13/cheiro-a-azeitonas-atinge-de-novo-a-regiao-de-lisboa-e-fenomeno-devera-tornar-se-cada-vez-mais-frequente/",
-   "given_title": "Cheiro a azeitonas atinge (de novo) a região de Lisboa, e fenómeno deverá t",
-   "resolved_title": "",
-   "resolved_url": "https://observador.pt/2024/03/13/cheiro-a-azeitonas-atinge-de-novo-a-regiao-de-lisboa-e-fenomeno-devera-tornar-se-cada-vez-mais-frequente/",
-   "time_updated": "2024-04-12T23:10:02Z",
-   "time_added": "2024-04-12T23:10:00Z"
-  },
-  {
-   "item_id": "72669484",
-   "given_url": "https://en.m.wikipedia.org/wiki/Gospel_of_Thomas",
-   "given_title": "Gospel of Thomas - Wikipedia",
-   "resolved_title": "Gospel of Thomas",
-   "resolved_url": "https://en.wikipedia.org/wiki/Gospel_of_Thomas",
-   "time_updated": "2024-04-12T23:33:00Z",
-   "time_added": "2024-04-12T23:33:00Z"
-  },
-  {
-   "item_id": "4035880927",
-   "given_url": "https://dicionario.priberam.org/p%C3%A1ria",
-   "given_title": "pária - Dicionário Online Priberam de Português",
-   "resolved_title": "pária",
-   "resolved_url": "https://dicionario.priberam.org/p%C3%A1ria",
-   "time_updated": "2024-04-13T15:21:53Z",
-   "time_added": "2024-04-13T15:21:50Z"
-  },
-  {
-   "item_id": "868065587",
-   "given_url": "https://www.merriam-webster.com/dictionary/ombudsman",
-   "given_title": "Ombudsman Definition \u0026 Meaning - Merriam-Webster",
-   "resolved_title": "ombudsman",
-   "resolved_url": "https://www.merriam-webster.com/dictionary/ombudsman",
-   "time_updated": "2024-04-09T19:04:44Z",
-   "time_added": "2024-04-09T19:04:43Z"
-  },
-  {
-   "item_id": "4035544658",
-   "given_url": "https://en.m.wikipedia.org/wiki/Sandu%C3%ADche-iche",
-   "given_title": "Sanduíche-iche - Wikipedia",
-   "resolved_title": "Sanduíche-iche",
-   "resolved_url": "https://en.wikipedia.org/wiki/Sandu%C3%ADche-iche",
-   "time_updated": "2024-04-12T18:47:04Z",
-   "time_added": "2024-04-12T18:47:01Z"
-  },
-  {
-   "item_id": "254073549",
-   "given_url": "https://en.m.wikipedia.org/wiki/Quebec_French_profanity",
-   "given_title": "Quebec French profanity - Wikipedia",
-   "resolved_title": "Quebec French profanity",
-   "resolved_url": "https://en.wikipedia.org/wiki/Quebec_French_profanity",
-   "time_updated": "2024-04-13T00:16:38Z",
-   "time_added": "2024-04-13T00:16:37Z"
-  },
-  {
-   "item_id": "3181202640",
-   "given_url": "https://www.plataformamedia.com/en/2020/10/30/joao-micaelo-the-portuguese-friend-of-kim-jong-un-we-smoked-the-first-cigarette-together/",
-   "given_title": "João Micaelo, the Portuguese friend of Kim Jong-un: “We smoked the first ci",
-   "resolved_title": "",
-   "resolved_url": "https://www.plataformamedia.com/en/2020/10/30/joao-micaelo-the-portuguese-friend-of-kim-jong-un-we-smoked-the-first-cigarette-together/",
-   "time_updated": "2024-04-13T22:05:25Z",
-   "time_added": "2024-04-13T22:05:24Z"
-  },
-  {
-   "item_id": "4034692326",
-   "given_url": "https://us5.campaign-archive.com/?u=2b2ae9b758ed521b92f3b8d00\u0026id=9e07962562",
-   "given_title": "Dunbier announces new publishing company and more from The Beat for 04/09/2",
-   "resolved_title": "Dunbier announces new publishing company and more from The Beat for 04/09/2024",
-   "resolved_url": "https://us5.campaign-archive.com/?u=2b2ae9b758ed521b92f3b8d00\u0026id=9e07962562",
-   "time_updated": "2024-04-10T22:04:23Z",
-   "time_added": "2024-04-10T22:04:21Z"
-  },
-  {
-   "item_id": "4034676658",
-   "given_url": "https://www.comicsbeat.com/interview-star-treks-alexander-siddig-celebrates-arab-american-heritage-month/",
-   "given_title": "Interview: STAR TREK's Alexander Siddig celebrates Arab-American Heritage M",
-   "resolved_title": "",
-   "resolved_url": "https://www.comicsbeat.com/interview-star-treks-alexander-siddig-celebrates-arab-american-heritage-month/",
-   "time_updated": "2024-04-11T13:46:13Z",
-   "time_added": "2024-04-11T13:46:12Z"
-  },
-  {
-   "item_id": "4035772854",
-   "given_url": "https://www.allmusic.com/artist/harmony-rockets-mn0000667264",
-   "given_title": "Harmony Rockets Songs, Albums, Reviews, Bio \u0026 More | AllMusic",
-   "resolved_title": "AllMusic is being updated. Hold tight.",
-   "resolved_url": "https://www.allmusic.com/allmusic_updated",
-   "time_updated": "2024-04-13T09:14:03Z",
-   "time_added": "2024-04-13T09:14:02Z"
-  },
-  {
-   "item_id": "3528725936",
-   "given_url": "https://pigeonpedia.com/difference-between-dove-and-pigeon/",
-   "given_title": "The Difference Between a Dove Vs a Pigeon Explained – Pigeonpedia",
-   "resolved_title": "The Difference Between a Dove Vs a Pigeon Explained",
-   "resolved_url": "https://pigeonpedia.com/difference-between-dove-and-pigeon/",
-   "time_updated": "2024-04-10T13:58:09Z",
-   "time_added": "2024-04-10T13:58:06Z"
-  },
-  {
-   "item_id": "32351190",
-   "given_url": "https://en.m.wikipedia.org/wiki/Closet_drama",
-   "given_title": "Closet drama - Wikipedia",
-   "resolved_title": "Closet drama",
-   "resolved_url": "https://en.wikipedia.org/wiki/Closet_drama",
-   "time_updated": "2024-04-11T15:43:23Z",
-   "time_added": "2024-04-11T15:43:22Z"
+   "item_id": "4035389430",
+   "given_url": "https://www.jvt.me/posts/2024/04/12/use-renovate/",
+   "given_title": "Why I recommend Renovate over any other dependency update tools · Jamie Tan",
+   "resolved_title": "Jamie Tanna | Software Engineer",
+   "resolved_url": "https://www.jvt.me/posts/2024/04/12/use-renovate/",
+   "time_updated": "2024-04-12T13:03:05Z",
+   "time_added": "2024-04-12T13:03:04Z"
   },
   {
    "item_id": "70781056",
@@ -175,6 +40,33 @@
    "time_added": "2024-04-13T21:19:34Z"
   },
   {
+   "item_id": "3181202640",
+   "given_url": "https://www.plataformamedia.com/en/2020/10/30/joao-micaelo-the-portuguese-friend-of-kim-jong-un-we-smoked-the-first-cigarette-together/",
+   "given_title": "João Micaelo, the Portuguese friend of Kim Jong-un: “We smoked the first ci",
+   "resolved_title": "",
+   "resolved_url": "https://www.plataformamedia.com/en/2020/10/30/joao-micaelo-the-portuguese-friend-of-kim-jong-un-we-smoked-the-first-cigarette-together/",
+   "time_updated": "2024-04-13T22:05:25Z",
+   "time_added": "2024-04-13T22:05:24Z"
+  },
+  {
+   "item_id": "4034676658",
+   "given_url": "https://www.comicsbeat.com/interview-star-treks-alexander-siddig-celebrates-arab-american-heritage-month/",
+   "given_title": "Interview: STAR TREK's Alexander Siddig celebrates Arab-American Heritage M",
+   "resolved_title": "",
+   "resolved_url": "https://www.comicsbeat.com/interview-star-treks-alexander-siddig-celebrates-arab-american-heritage-month/",
+   "time_updated": "2024-04-11T13:46:13Z",
+   "time_added": "2024-04-11T13:46:12Z"
+  },
+  {
+   "item_id": "4035634273",
+   "given_url": "https://homeoesp.org/livros-online/evangelho-segundo-tom%C3%A9.pdf",
+   "given_title": "evangelho-segundo-tomé.pdf",
+   "resolved_title": "",
+   "resolved_url": "https://homeoesp.org/livros-online/evangelho-segundo-tom%C3%A9.pdf",
+   "time_updated": "2024-04-12T23:55:34Z",
+   "time_added": "2024-04-12T23:55:32Z"
+  },
+  {
    "item_id": "4036183490",
    "given_url": "https://www.spe.pt/espeleologia/espeleologia-spe",
    "given_title": "Entrada - SPE - Sociedade Portuguesa de Espeleologia - SPE",
@@ -182,6 +74,87 @@
    "resolved_url": "https://www.spe.pt/espeleologia/espeleologia-spe",
    "time_updated": "2024-04-14T11:20:09Z",
    "time_added": "2024-04-14T11:20:05Z"
+  },
+  {
+   "item_id": "72669484",
+   "given_url": "https://en.m.wikipedia.org/wiki/Gospel_of_Thomas",
+   "given_title": "Gospel of Thomas - Wikipedia",
+   "resolved_title": "Gospel of Thomas",
+   "resolved_url": "https://en.wikipedia.org/wiki/Gospel_of_Thomas",
+   "time_updated": "2024-04-12T23:33:00Z",
+   "time_added": "2024-04-12T23:33:00Z"
+  },
+  {
+   "item_id": "254073549",
+   "given_url": "https://en.m.wikipedia.org/wiki/Quebec_French_profanity",
+   "given_title": "Quebec French profanity - Wikipedia",
+   "resolved_title": "Quebec French profanity",
+   "resolved_url": "https://en.wikipedia.org/wiki/Quebec_French_profanity",
+   "time_updated": "2024-04-13T00:16:38Z",
+   "time_added": "2024-04-13T00:16:37Z"
+  },
+  {
+   "item_id": "3528725936",
+   "given_url": "https://pigeonpedia.com/difference-between-dove-and-pigeon/",
+   "given_title": "The Difference Between a Dove Vs a Pigeon Explained – Pigeonpedia",
+   "resolved_title": "The Difference Between a Dove Vs a Pigeon Explained",
+   "resolved_url": "https://pigeonpedia.com/difference-between-dove-and-pigeon/",
+   "time_updated": "2024-04-10T13:58:09Z",
+   "time_added": "2024-04-10T13:58:06Z"
+  },
+  {
+   "item_id": "4035012984",
+   "given_url": "https://dicionario.priberam.org/quez%C3%ADlia",
+   "given_title": "quezília - Dicionário Online Priberam de Português",
+   "resolved_title": "quezília",
+   "resolved_url": "https://dicionario.priberam.org/quez%C3%ADlia",
+   "time_updated": "2024-04-11T15:17:27Z",
+   "time_added": "2024-04-11T15:17:25Z"
+  },
+  {
+   "item_id": "32351190",
+   "given_url": "https://en.m.wikipedia.org/wiki/Closet_drama",
+   "given_title": "Closet drama - Wikipedia",
+   "resolved_title": "Closet drama",
+   "resolved_url": "https://en.wikipedia.org/wiki/Closet_drama",
+   "time_updated": "2024-04-11T15:43:23Z",
+   "time_added": "2024-04-11T15:43:22Z"
+  },
+  {
+   "item_id": "4035544658",
+   "given_url": "https://en.m.wikipedia.org/wiki/Sandu%C3%ADche-iche",
+   "given_title": "Sanduíche-iche - Wikipedia",
+   "resolved_title": "Sanduíche-iche",
+   "resolved_url": "https://en.wikipedia.org/wiki/Sandu%C3%ADche-iche",
+   "time_updated": "2024-04-12T18:47:04Z",
+   "time_added": "2024-04-12T18:47:01Z"
+  },
+  {
+   "item_id": "4035772854",
+   "given_url": "https://www.allmusic.com/artist/harmony-rockets-mn0000667264",
+   "given_title": "Harmony Rockets Songs, Albums, Reviews, Bio \u0026 More | AllMusic",
+   "resolved_title": "AllMusic is being updated. Hold tight.",
+   "resolved_url": "https://www.allmusic.com/allmusic_updated",
+   "time_updated": "2024-04-13T09:14:03Z",
+   "time_added": "2024-04-13T09:14:02Z"
+  },
+  {
+   "item_id": "4035880927",
+   "given_url": "https://dicionario.priberam.org/p%C3%A1ria",
+   "given_title": "pária - Dicionário Online Priberam de Português",
+   "resolved_title": "pária",
+   "resolved_url": "https://dicionario.priberam.org/p%C3%A1ria",
+   "time_updated": "2024-04-13T15:21:53Z",
+   "time_added": "2024-04-13T15:21:50Z"
+  },
+  {
+   "item_id": "4034692326",
+   "given_url": "https://us5.campaign-archive.com/?u=2b2ae9b758ed521b92f3b8d00\u0026id=9e07962562",
+   "given_title": "Dunbier announces new publishing company and more from The Beat for 04/09/2",
+   "resolved_title": "Dunbier announces new publishing company and more from The Beat for 04/09/2024",
+   "resolved_url": "https://us5.campaign-archive.com/?u=2b2ae9b758ed521b92f3b8d00\u0026id=9e07962562",
+   "time_updated": "2024-04-10T22:04:23Z",
+   "time_added": "2024-04-10T22:04:21Z"
   },
   {
    "item_id": "2498774583",
@@ -193,31 +166,22 @@
    "time_added": "2024-04-14T12:03:52Z"
   },
   {
-   "item_id": "4034094244",
-   "given_url": "https://www.uol.com.br/esporte/colunas/milly-lacombe/2024/04/09/o-pequeno-nova-iguacu-mostra-como-o-futebol-brasileiro-reproduz-o-racismo.htm",
-   "given_title": "O pequeno Nova Iguaçu mostra como o futebol brasileiro reproduz o racismo",
-   "resolved_title": "O pequeno Nova Iguaçu mostra como o futebol brasileiro reproduz o racismo",
-   "resolved_url": "https://www.uol.com.br/esporte/colunas/milly-lacombe/2024/04/09/o-pequeno-nova-iguacu-mostra-como-o-futebol-brasileiro-reproduz-o-racismo.htm",
-   "time_updated": "2024-04-09T15:59:28Z",
-   "time_added": "2024-04-09T15:59:27Z"
+   "item_id": "4034862093",
+   "given_url": "https://www.cinemacity.pt/movie/lupin-iii-o-castelo-de-cagliostro/",
+   "given_title": "LUPIN III O CASTELO DE CAGLIOSTRO - CinemaCity",
+   "resolved_title": "LUPIN III O CASTELO DE CAGLIOSTRO",
+   "resolved_url": "https://www.cinemacity.pt/movie/lupin-iii-o-castelo-de-cagliostro/",
+   "time_updated": "2024-04-11T08:12:01Z",
+   "time_added": "2024-04-11T08:11:58Z"
   },
   {
-   "item_id": "1390263508",
-   "given_url": "https://jus.com.br/artigos/7049/o-brasil-e-uma-federacao",
-   "given_title": "O Brasil é uma Federação? - Jus.com.br | Jus Navigandi",
-   "resolved_title": "O Brasil é uma Federação?",
-   "resolved_url": "https://jus.com.br/artigos/7049/o-brasil-e-uma-federacao",
-   "time_updated": "2024-04-09T23:04:15Z",
-   "time_added": "2024-04-09T23:04:14Z"
-  },
-  {
-   "item_id": "3776708550",
-   "given_url": "https://www.youtube.com/watch?v=EZufiIwwqFA",
-   "given_title": "(4) Rotation matrix derivation (step-by-step prove) - YouTube",
-   "resolved_title": "Rotation matrix derivation (step-by-step prove)",
-   "resolved_url": "https://www.youtube.com/watch?v=EZufiIwwqFA",
-   "time_updated": "2024-04-09T15:01:53Z",
-   "time_added": "2024-04-09T15:01:53Z"
+   "item_id": "4021640937",
+   "given_url": "https://observador.pt/2024/03/13/cheiro-a-azeitonas-atinge-de-novo-a-regiao-de-lisboa-e-fenomeno-devera-tornar-se-cada-vez-mais-frequente/",
+   "given_title": "Cheiro a azeitonas atinge (de novo) a região de Lisboa, e fenómeno deverá t",
+   "resolved_title": "",
+   "resolved_url": "https://observador.pt/2024/03/13/cheiro-a-azeitonas-atinge-de-novo-a-regiao-de-lisboa-e-fenomeno-devera-tornar-se-cada-vez-mais-frequente/",
+   "time_updated": "2024-04-12T23:10:02Z",
+   "time_added": "2024-04-12T23:10:00Z"
   }
  ]
 }

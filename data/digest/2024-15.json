@@ -4,42 +4,6 @@
  "sortKey": "2024-15",
  "items": [
   {
-   "item_id": "4036183490",
-   "given_url": "https://www.spe.pt/espeleologia/espeleologia-spe",
-   "given_title": "Entrada - SPE - Sociedade Portuguesa de Espeleologia - SPE",
-   "resolved_title": "Entrada",
-   "resolved_url": "https://www.spe.pt/espeleologia/espeleologia-spe",
-   "time_updated": "2024-04-14T11:20:09Z",
-   "time_added": "2024-04-14T11:20:05Z"
-  },
-  {
-   "item_id": "4035880927",
-   "given_url": "https://dicionario.priberam.org/p%C3%A1ria",
-   "given_title": "pária - Dicionário Online Priberam de Português",
-   "resolved_title": "pária",
-   "resolved_url": "https://dicionario.priberam.org/p%C3%A1ria",
-   "time_updated": "2024-04-13T15:21:53Z",
-   "time_added": "2024-04-13T15:21:50Z"
-  },
-  {
-   "item_id": "3181202640",
-   "given_url": "https://www.plataformamedia.com/en/2020/10/30/joao-micaelo-the-portuguese-friend-of-kim-jong-un-we-smoked-the-first-cigarette-together/",
-   "given_title": "João Micaelo, the Portuguese friend of Kim Jong-un: “We smoked the first ci",
-   "resolved_title": "",
-   "resolved_url": "https://www.plataformamedia.com/en/2020/10/30/joao-micaelo-the-portuguese-friend-of-kim-jong-un-we-smoked-the-first-cigarette-together/",
-   "time_updated": "2024-04-13T22:05:25Z",
-   "time_added": "2024-04-13T22:05:24Z"
-  },
-  {
-   "item_id": "70781056",
-   "given_url": "https://en.m.wikipedia.org/wiki/Penthouse_apartment",
-   "given_title": "Penthouse apartment - Wikipedia",
-   "resolved_title": "Penthouse apartment",
-   "resolved_url": "https://en.wikipedia.org/wiki/Penthouse_apartment",
-   "time_updated": "2024-04-13T21:19:35Z",
-   "time_added": "2024-04-13T21:19:34Z"
-  },
-  {
    "item_id": "2498774583",
    "given_url": "https://www.oranlooney.com/post/ml-from-scratch-part-1-linear-regression/",
    "given_title": "ML From Scratch, Part 1: Linear Regression - OranLooney.com",
@@ -47,6 +11,15 @@
    "resolved_url": "http://www.oranlooney.com/post/ml-from-scratch-part-1-linear-regression/",
    "time_updated": "2024-04-14T12:03:52Z",
    "time_added": "2024-04-14T12:03:52Z"
+  },
+  {
+   "item_id": "4036183490",
+   "given_url": "https://www.spe.pt/espeleologia/espeleologia-spe",
+   "given_title": "Entrada - SPE - Sociedade Portuguesa de Espeleologia - SPE",
+   "resolved_title": "Entrada",
+   "resolved_url": "https://www.spe.pt/espeleologia/espeleologia-spe",
+   "time_updated": "2024-04-14T11:20:09Z",
+   "time_added": "2024-04-14T11:20:05Z"
   }
  ]
 }

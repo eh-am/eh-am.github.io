@@ -4,15 +4,6 @@
  "sortKey": "2024-17",
  "items": [
   {
-   "item_id": "4042415659",
-   "given_url": "https://www.reddit.com/r/portugal/s/iBTFcBa595",
-   "given_title": "",
-   "resolved_title": "Estou num intercidades da CP e não entendo como raio funciona a numeração dos lugares.",
-   "resolved_url": "https://www.reddit.com/r/portugal/comments/pq7l49/estou_num_intercidades_da_cp_e_n%C3%A3o_entendo_como/hd9fuga?share_id=rrXdCipWNRzKd2Kogifil\u0026utm_content=2\u0026utm_medium=android_app\u0026utm_name=androidcss\u0026utm_source=share\u0026utm_term=2",
-   "time_updated": "2024-04-28T17:19:35Z",
-   "time_added": "2024-04-28T17:19:33Z"
-  },
-  {
    "item_id": "4042417005",
    "given_url": "https://dicionario.priberam.org/paneleiro",
    "given_title": "paneleiro - Dicionário Online Priberam de Português",
@@ -22,22 +13,13 @@
    "time_added": "2024-04-28T17:24:10Z"
   },
   {
-   "item_id": "4042260639",
-   "given_url": "https://m.youtube.com/watch?v=f1yTizyAFpc",
-   "given_title": "The SMARTEST Way to Finally LOSE FAT in 2024 (Science Explained) - YouTube",
-   "resolved_title": "The SMARTEST Way to Finally LOSE FAT in 2024 (Science Explained)",
-   "resolved_url": "http://www.youtube.com/watch?v=f1yTizyAFpc",
-   "time_updated": "2024-04-28T08:36:46Z",
-   "time_added": "2024-04-28T08:36:44Z"
-  },
-  {
-   "item_id": "1443702078",
-   "given_url": "https://en.m.wikipedia.org/wiki/Anwar_Shaikh_(economist)",
-   "given_title": "Anwar Shaikh (economist) - Wikipedia",
-   "resolved_title": "Anwar Shaikh (economist)",
-   "resolved_url": "https://en.wikipedia.org/wiki/Anwar_Shaikh_(economist)",
-   "time_updated": "2024-04-28T07:34:29Z",
-   "time_added": "2024-04-28T07:34:28Z"
+   "item_id": "4042415659",
+   "given_url": "https://www.reddit.com/r/portugal/s/iBTFcBa595",
+   "given_title": "",
+   "resolved_title": "Estou num intercidades da CP e não entendo como raio funciona a numeração dos lugares.",
+   "resolved_url": "https://www.reddit.com/r/portugal/comments/pq7l49/estou_num_intercidades_da_cp_e_n%C3%A3o_entendo_como/hd9fuga?share_id=rrXdCipWNRzKd2Kogifil\u0026utm_content=2\u0026utm_medium=android_app\u0026utm_name=androidcss\u0026utm_source=share\u0026utm_term=2",
+   "time_updated": "2024-04-28T17:19:35Z",
+   "time_added": "2024-04-28T17:19:33Z"
   }
  ]
 }

@@ -4,33 +4,6 @@
  "sortKey": "2024-18",
  "items": [
   {
-   "item_id": "4043259837",
-   "given_url": "https://github.com/borgo-lang/borgo",
-   "given_title": "borgo-lang/borgo: Borgo is a statically typed language that compiles to Go.",
-   "resolved_title": "borgo-lang/borgo",
-   "resolved_url": "https://github.com/borgo-lang/borgo",
-   "time_updated": "2024-05-01T10:01:14Z",
-   "time_added": "2024-05-01T10:01:13Z"
-  },
-  {
-   "item_id": "3427529119",
-   "given_url": "https://www.velotio.com/engineering-blog/building-google-photos-alternative-using-aws-serverless",
-   "given_title": "Building Google Photos Alternative Using AWS Serverless",
-   "resolved_title": "Building Google Photos Alternative Using AWS Serverless",
-   "resolved_url": "https://www.velotio.com/engineering-blog/building-google-photos-alternative-using-aws-serverless",
-   "time_updated": "2024-05-04T22:28:55Z",
-   "time_added": "2024-05-04T22:28:54Z"
-  },
-  {
-   "item_id": "4045430118",
-   "given_url": "https://en.m.wikipedia.org/wiki/MINISO",
-   "given_title": "",
-   "resolved_title": "MINISO",
-   "resolved_url": "https://en.wikipedia.org/wiki/MINISO",
-   "time_updated": "2024-05-05T19:27:46Z",
-   "time_added": "2024-05-05T19:27:45Z"
-  },
-  {
    "item_id": "243718085",
    "given_url": "https://en.m.wikipedia.org/wiki/Antonio_Inoki",
    "given_title": "Antonio Inoki - Wikipedia",
@@ -38,6 +11,15 @@
    "resolved_url": "https://en.wikipedia.org/wiki/Antonio_Inoki",
    "time_updated": "2024-05-01T19:33:59Z",
    "time_added": "2024-05-01T19:33:58Z"
+  },
+  {
+   "item_id": "17193214",
+   "given_url": "https://clubearlivre.org/",
+   "given_title": "CAAL | Clube de Actividades de Ar Livre - Caminhadas, Montanhismo, Orientaç",
+   "resolved_title": "CAAL | Clube de Actividades de Ar Livre - Caminhadas, Montanhismo, Orientação e Escalada",
+   "resolved_url": "https://clubearlivre.org/",
+   "time_updated": "2024-05-04T22:17:09Z",
+   "time_added": "2024-05-04T22:17:08Z"
   },
   {
    "item_id": "143331444",
@@ -58,22 +40,22 @@
    "time_added": "2024-05-05T17:59:02Z"
   },
   {
-   "item_id": "439546770",
-   "given_url": "https://en.m.wikipedia.org/wiki/Freedom_to_roam",
-   "given_title": "Freedom to roam - Wikipedia",
-   "resolved_title": "Freedom to roam",
-   "resolved_url": "https://en.wikipedia.org/wiki/Freedom_to_roam",
-   "time_updated": "2024-05-01T10:03:43Z",
-   "time_added": "2024-05-01T10:03:42Z"
+   "item_id": "838021521",
+   "given_url": "https://knowyourmeme.com/memes/hunter2",
+   "given_title": "hunter2 | Know Your Meme",
+   "resolved_title": "hunter2",
+   "resolved_url": "https://knowyourmeme.com/memes/hunter2",
+   "time_updated": "2024-05-05T19:00:15Z",
+   "time_added": "2024-05-05T19:00:14Z"
   },
   {
-   "item_id": "17193214",
-   "given_url": "https://clubearlivre.org/",
-   "given_title": "CAAL | Clube de Actividades de Ar Livre - Caminhadas, Montanhismo, Orientaç",
-   "resolved_title": "CAAL | Clube de Actividades de Ar Livre - Caminhadas, Montanhismo, Orientação e Escalada",
-   "resolved_url": "https://clubearlivre.org/",
-   "time_updated": "2024-05-04T22:17:09Z",
-   "time_added": "2024-05-04T22:17:08Z"
+   "item_id": "4045430118",
+   "given_url": "https://en.m.wikipedia.org/wiki/MINISO",
+   "given_title": "",
+   "resolved_title": "MINISO",
+   "resolved_url": "https://en.wikipedia.org/wiki/MINISO",
+   "time_updated": "2024-05-05T19:27:46Z",
+   "time_added": "2024-05-05T19:27:45Z"
   },
   {
    "item_id": "3497495628",
@@ -85,15 +67,6 @@
    "time_added": "2024-05-04T22:25:43Z"
   },
   {
-   "item_id": "4044907794",
-   "given_url": "https://a-z-animals.com/blog/discover-the-city-that-worshipped-crocodiles-and-covered-them-in-gold-and-jewelry/",
-   "given_title": "Discover the City That Worshipped Crocodiles and Covered Them in Gold and J",
-   "resolved_title": "",
-   "resolved_url": "https://a-z-animals.com/blog/discover-the-city-that-worshipped-crocodiles-and-covered-them-in-gold-and-jewelry/",
-   "time_updated": "2024-05-04T11:22:54Z",
-   "time_added": "2024-05-04T11:22:51Z"
-  },
-  {
    "item_id": "4045360715",
    "given_url": "https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/casa-onde-nao-ha-pao-todos-ralham-e-ninguem-tem-razao/22269",
    "given_title": "«Casa onde não há pão, todos ralham e ninguém tem razão» - Ciberdúvidas da ",
@@ -103,22 +76,13 @@
    "time_added": "2024-05-05T15:33:51Z"
   },
   {
-   "item_id": "4043577166",
-   "given_url": "https://amusedbyalgarve.com/benagil-cave-algarve-portugal/#How_to_get_to_Benagil_Cave_in_Algarve_Portugal",
-   "given_title": "The Ultimate Guide to Benagil Cave, Algarve (  the best Benagil Cave tours)",
-   "resolved_title": "The Ultimate Guide to Benagil Cave, Algarve (+ the best Benagil Cave tours)",
-   "resolved_url": "https://amusedbyalgarve.com/benagil-cave-algarve-portugal/",
-   "time_updated": "2024-05-01T09:30:05Z",
-   "time_added": "2024-05-01T09:30:02Z"
-  },
-  {
-   "item_id": "1273619154",
-   "given_url": "https://www.thindifference.com/2016/04/lovehate-relationship-repetition/",
-   "given_title": "My Love/Hate Relationship with Repetition",
-   "resolved_title": "My Love/Hate Relationship with Repetition",
-   "resolved_url": "https://www.thindifference.com/2016/04/lovehate-relationship-repetition/",
-   "time_updated": "2024-05-01T10:02:07Z",
-   "time_added": "2024-05-01T10:02:06Z"
+   "item_id": "3427529119",
+   "given_url": "https://www.velotio.com/engineering-blog/building-google-photos-alternative-using-aws-serverless",
+   "given_title": "Building Google Photos Alternative Using AWS Serverless",
+   "resolved_title": "Building Google Photos Alternative Using AWS Serverless",
+   "resolved_url": "https://www.velotio.com/engineering-blog/building-google-photos-alternative-using-aws-serverless",
+   "time_updated": "2024-05-04T22:28:55Z",
+   "time_added": "2024-05-04T22:28:54Z"
   },
   {
    "item_id": "276445338",
@@ -139,13 +103,13 @@
    "time_added": "2024-05-03T16:41:04Z"
   },
   {
-   "item_id": "838021521",
-   "given_url": "https://knowyourmeme.com/memes/hunter2",
-   "given_title": "hunter2 | Know Your Meme",
-   "resolved_title": "hunter2",
-   "resolved_url": "https://knowyourmeme.com/memes/hunter2",
-   "time_updated": "2024-05-05T19:00:15Z",
-   "time_added": "2024-05-05T19:00:14Z"
+   "item_id": "4044907794",
+   "given_url": "https://a-z-animals.com/blog/discover-the-city-that-worshipped-crocodiles-and-covered-them-in-gold-and-jewelry/",
+   "given_title": "Discover the City That Worshipped Crocodiles and Covered Them in Gold and J",
+   "resolved_title": "",
+   "resolved_url": "https://a-z-animals.com/blog/discover-the-city-that-worshipped-crocodiles-and-covered-them-in-gold-and-jewelry/",
+   "time_updated": "2024-05-04T11:22:54Z",
+   "time_added": "2024-05-04T11:22:51Z"
   }
  ]
 }

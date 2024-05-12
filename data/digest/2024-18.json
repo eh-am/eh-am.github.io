@@ -4,15 +4,6 @@
  "sortKey": "2024-18",
  "items": [
   {
-   "item_id": "3427529119",
-   "given_url": "https://www.velotio.com/engineering-blog/building-google-photos-alternative-using-aws-serverless",
-   "given_title": "Building Google Photos Alternative Using AWS Serverless",
-   "resolved_title": "Building Google Photos Alternative Using AWS Serverless",
-   "resolved_url": "https://www.velotio.com/engineering-blog/building-google-photos-alternative-using-aws-serverless",
-   "time_updated": "2024-05-04T22:28:55Z",
-   "time_added": "2024-05-04T22:28:54Z"
-  },
-  {
    "item_id": "838021521",
    "given_url": "https://knowyourmeme.com/memes/hunter2",
    "given_title": "hunter2 | Know Your Meme",
@@ -22,31 +13,13 @@
    "time_added": "2024-05-05T19:00:14Z"
   },
   {
-   "item_id": "17193214",
-   "given_url": "https://clubearlivre.org/",
-   "given_title": "CAAL | Clube de Actividades de Ar Livre - Caminhadas, Montanhismo, Orientaç",
-   "resolved_title": "CAAL | Clube de Actividades de Ar Livre - Caminhadas, Montanhismo, Orientação e Escalada",
-   "resolved_url": "https://clubearlivre.org/",
-   "time_updated": "2024-05-04T22:17:09Z",
-   "time_added": "2024-05-04T22:17:08Z"
-  },
-  {
-   "item_id": "4045405366",
-   "given_url": "https://soyacincau.com/2022/10/25/a-tiktok-of-a-scammer-troll-is-going-viral-heres-where-it-comes-from/",
-   "given_title": "A TikTok of a scammer troll is going viral. Here's where it comes from - So",
-   "resolved_title": "A TikTok of a scammer troll is going viral. Here’s where it comes from",
-   "resolved_url": "https://soyacincau.com/2022/10/25/a-tiktok-of-a-scammer-troll-is-going-viral-heres-where-it-comes-from/",
-   "time_updated": "2024-05-05T17:59:06Z",
-   "time_added": "2024-05-05T17:59:02Z"
-  },
-  {
-   "item_id": "3497495628",
-   "given_url": "https://github.com/cshum/imagor",
-   "given_title": "cshum/imagor: Fast, secure image processing server and Go library, using li",
-   "resolved_title": "Imagor",
-   "resolved_url": "https://github.com/cshum/imagor",
-   "time_updated": "2024-05-04T22:25:44Z",
-   "time_added": "2024-05-04T22:25:43Z"
+   "item_id": "4045430118",
+   "given_url": "https://en.m.wikipedia.org/wiki/MINISO",
+   "given_title": "",
+   "resolved_title": "MINISO",
+   "resolved_url": "https://en.wikipedia.org/wiki/MINISO",
+   "time_updated": "2024-05-05T19:27:46Z",
+   "time_added": "2024-05-05T19:27:45Z"
   },
   {
    "item_id": "4045360715",
@@ -58,13 +31,13 @@
    "time_added": "2024-05-05T15:33:51Z"
   },
   {
-   "item_id": "4045430118",
-   "given_url": "https://en.m.wikipedia.org/wiki/MINISO",
-   "given_title": "",
-   "resolved_title": "MINISO",
-   "resolved_url": "https://en.wikipedia.org/wiki/MINISO",
-   "time_updated": "2024-05-05T19:27:46Z",
-   "time_added": "2024-05-05T19:27:45Z"
+   "item_id": "4045405366",
+   "given_url": "https://soyacincau.com/2022/10/25/a-tiktok-of-a-scammer-troll-is-going-viral-heres-where-it-comes-from/",
+   "given_title": "A TikTok of a scammer troll is going viral. Here's where it comes from - So",
+   "resolved_title": "A TikTok of a scammer troll is going viral. Here’s where it comes from",
+   "resolved_url": "https://soyacincau.com/2022/10/25/a-tiktok-of-a-scammer-troll-is-going-viral-heres-where-it-comes-from/",
+   "time_updated": "2024-05-05T17:59:06Z",
+   "time_added": "2024-05-05T17:59:02Z"
   }
  ]
 }

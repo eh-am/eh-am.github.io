@@ -4,15 +4,6 @@
  "sortKey": "2024-19",
  "items": [
   {
-   "item_id": "4048261236",
-   "given_url": "https://www.uol.com.br/splash/colunas/roberto-sadovski/2024/05/12/o-mundo-perde-roger-corman-visionario-do-cinema-indie-e-rei-dos-filme-b.htm",
-   "given_title": "Morre Roger Corman, visionário do cinema indie e rei dos filmes B",
-   "resolved_title": "O mundo perde Roger Corman, visionário do cinema indie e rei dos filmes B",
-   "resolved_url": "https://www.uol.com.br/splash/colunas/roberto-sadovski/2024/05/12/o-mundo-perde-roger-corman-visionario-do-cinema-indie-e-rei-dos-filme-b.htm",
-   "time_updated": "2024-05-12T09:06:38Z",
-   "time_added": "2024-05-12T09:06:35Z"
-  },
-  {
    "item_id": "4048265623",
    "given_url": "https://www.uol.com.br/universa/colunas/2024/05/12/ser-mae-e-uma-matematica-com-contas-que-nao-fecham.htm",
    "given_title": "Ser mãe é uma matemática com contas que não fecham",
@@ -22,31 +13,13 @@
    "time_added": "2024-05-12T09:34:36Z"
   },
   {
-   "item_id": "1651918683",
-   "given_url": "https://thecreativeindependent.com/people/adam-curtis-on-the-dangers-of-self-expression/",
-   "given_title": "Adam Curtis on the dangers of self-expression – The Creative Independent",
-   "resolved_title": "Adam Curtis on the dangers of self-expression",
-   "resolved_url": "https://thecreativeindependent.com/people/adam-curtis-on-the-dangers-of-self-expression/",
-   "time_updated": "2024-05-11T11:09:21Z",
-   "time_added": "2024-05-11T11:09:18Z"
-  },
-  {
-   "item_id": "601178604",
-   "given_url": "https://en.m.wikipedia.org/wiki/Lesser_ritual_of_the_pentagram",
-   "given_title": "Lesser ritual of the pentagram - Wikipedia",
-   "resolved_title": "Lesser banishing ritual of the pentagram",
-   "resolved_url": "https://en.wikipedia.org/wiki/Lesser_banishing_ritual_of_the_pentagram",
-   "time_updated": "2024-05-11T07:15:10Z",
-   "time_added": "2024-05-11T07:15:09Z"
-  },
-  {
-   "item_id": "4047820277",
-   "given_url": "https://www.uol.com.br/esporte/futebol/colunas/juca-kfouri/2024/05/10/antero-greco-vive.htm",
-   "given_title": "Antero Greco vive",
-   "resolved_title": "Antero Greco vive",
-   "resolved_url": "https://www.uol.com.br/esporte/futebol/colunas/juca-kfouri/2024/05/10/antero-greco-vive.htm",
-   "time_updated": "2024-05-11T09:27:49Z",
-   "time_added": "2024-05-11T09:27:48Z"
+   "item_id": "4048261236",
+   "given_url": "https://www.uol.com.br/splash/colunas/roberto-sadovski/2024/05/12/o-mundo-perde-roger-corman-visionario-do-cinema-indie-e-rei-dos-filme-b.htm",
+   "given_title": "Morre Roger Corman, visionário do cinema indie e rei dos filmes B",
+   "resolved_title": "O mundo perde Roger Corman, visionário do cinema indie e rei dos filmes B",
+   "resolved_url": "https://www.uol.com.br/splash/colunas/roberto-sadovski/2024/05/12/o-mundo-perde-roger-corman-visionario-do-cinema-indie-e-rei-dos-filme-b.htm",
+   "time_updated": "2024-05-12T09:06:38Z",
+   "time_added": "2024-05-12T09:06:35Z"
   }
  ]
 }

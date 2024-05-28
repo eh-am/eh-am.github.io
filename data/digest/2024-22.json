@@ -4,40 +4,22 @@
  "sortKey": "2024-22",
  "items": [
   {
-   "item_id": "239688276",
-   "given_url": "https://en.m.wikipedia.org/wiki/Kung_fu_(term)",
-   "given_title": "Kung fu (term) - Wikipedia",
-   "resolved_title": "Kung fu (term)",
-   "resolved_url": "https://en.wikipedia.org/wiki/Kung_fu_(term)",
-   "time_updated": "2024-05-27T07:50:09Z",
-   "time_added": "2024-05-27T07:50:07Z"
+   "item_id": "355910481",
+   "given_url": "https://en.m.wikipedia.org/wiki/Jugaad",
+   "given_title": "Jugaad - Wikipedia",
+   "resolved_title": "Jugaad",
+   "resolved_url": "https://en.wikipedia.org/wiki/Jugaad",
+   "time_updated": "2024-05-28T07:51:52Z",
+   "time_added": "2024-05-28T07:51:50Z"
   },
   {
-   "item_id": "4053795384",
-   "given_url": "https://www.popularmechanics.com/science/animals/a60848559/rule-of-biology-evolution-paradox/",
-   "given_title": "Scientists Found a Paradox in Evolution—and It May Become the Next Rule of ",
-   "resolved_title": "Scientists Found a Paradox in Evolution—and It May Become the Next Rule of Biology",
-   "resolved_url": "https://www.popularmechanics.com/science/animals/a60848559/rule-of-biology-evolution-paradox/",
-   "time_updated": "2024-05-27T10:13:57Z",
-   "time_added": "2024-05-27T10:13:55Z"
-  },
-  {
-   "item_id": "3940044652",
-   "given_url": "https://www.morethantokyo.com/komorebi-japanese-word/",
-   "given_title": "Komorebi—A Beautiful Japanese Word That English Needs",
-   "resolved_title": "Komorebi—A Beautiful Japanese Word that English Needs",
-   "resolved_url": "https://www.morethantokyo.com/komorebi-japanese-word/",
-   "time_updated": "2024-05-27T19:41:28Z",
-   "time_added": "2024-05-27T19:41:27Z"
-  },
-  {
-   "item_id": "3937883248",
-   "given_url": "https://www.cbc.ca/news/canada/khalistan-explained-canada-india-nijjar-1.6971803",
-   "given_title": "What is Khalistan: The Sikh separatist movement behind tensions between Can",
-   "resolved_title": "A look at the Sikh separatist movement at the root of tensions between Canada and India",
-   "resolved_url": "https://www.cbc.ca/news/canada/khalistan-explained-canada-india-nijjar-1.6971803",
-   "time_updated": "2024-05-27T21:21:23Z",
-   "time_added": "2024-05-27T21:21:22Z"
+   "item_id": "3930977148",
+   "given_url": "https://scottarc.blog/2023/09/06/how-to-write-a-secure-jwt-library-if-you-absolutely-must/",
+   "given_title": "How to Write a Secure JWT Library If You Absolutely Must – Semantically Sec",
+   "resolved_title": "How to Write a Secure JWT Library If You Absolutely Must",
+   "resolved_url": "https://scottarc.blog/2023/09/06/how-to-write-a-secure-jwt-library-if-you-absolutely-must/",
+   "time_updated": "2024-05-28T11:43:27Z",
+   "time_added": "2024-05-28T11:43:26Z"
   },
   {
    "item_id": "4054215630",
@@ -49,13 +31,13 @@
    "time_added": "2024-05-27T11:45:45Z"
   },
   {
-   "item_id": "3870273220",
-   "given_url": "https://www.youtube.com/watch?v=cWlugvcnuSA",
-   "given_title": "(64) Jun Togawa – Suki Suki Daisuki (Official Music Video) - YouTube",
-   "resolved_title": "Jun Togawa – Suki Suki Daisuki (Official Music Video)",
-   "resolved_url": "http://www.youtube.com/watch?v=cWlugvcnuSA",
-   "time_updated": "2024-05-27T21:04:30Z",
-   "time_added": "2024-05-27T21:04:30Z"
+   "item_id": "4053795384",
+   "given_url": "https://www.popularmechanics.com/science/animals/a60848559/rule-of-biology-evolution-paradox/",
+   "given_title": "Scientists Found a Paradox in Evolution—and It May Become the Next Rule of ",
+   "resolved_title": "Scientists Found a Paradox in Evolution—and It May Become the Next Rule of Biology",
+   "resolved_url": "https://www.popularmechanics.com/science/animals/a60848559/rule-of-biology-evolution-paradox/",
+   "time_updated": "2024-05-27T10:13:57Z",
+   "time_added": "2024-05-27T10:13:55Z"
   },
   {
    "item_id": "4055239799",
@@ -65,6 +47,42 @@
    "resolved_url": "https://old.reddit.com/r/anime/comments/4k91xk/spoilers_jojo_no_kimyou_na_bouken_diamond_wa/d3d3c7g/",
    "time_updated": "2024-05-27T21:07:14Z",
    "time_added": "2024-05-27T21:07:14Z"
+  },
+  {
+   "item_id": "3940044652",
+   "given_url": "https://www.morethantokyo.com/komorebi-japanese-word/",
+   "given_title": "Komorebi—A Beautiful Japanese Word That English Needs",
+   "resolved_title": "Komorebi—A Beautiful Japanese Word that English Needs",
+   "resolved_url": "https://www.morethantokyo.com/komorebi-japanese-word/",
+   "time_updated": "2024-05-27T19:41:28Z",
+   "time_added": "2024-05-27T19:41:27Z"
+  },
+  {
+   "item_id": "3870273220",
+   "given_url": "https://www.youtube.com/watch?v=cWlugvcnuSA",
+   "given_title": "(64) Jun Togawa – Suki Suki Daisuki (Official Music Video) - YouTube",
+   "resolved_title": "Jun Togawa – Suki Suki Daisuki (Official Music Video)",
+   "resolved_url": "http://www.youtube.com/watch?v=cWlugvcnuSA",
+   "time_updated": "2024-05-27T21:04:30Z",
+   "time_added": "2024-05-27T21:04:30Z"
+  },
+  {
+   "item_id": "3937883248",
+   "given_url": "https://www.cbc.ca/news/canada/khalistan-explained-canada-india-nijjar-1.6971803",
+   "given_title": "What is Khalistan: The Sikh separatist movement behind tensions between Can",
+   "resolved_title": "A look at the Sikh separatist movement at the root of tensions between Canada and India",
+   "resolved_url": "https://www.cbc.ca/news/canada/khalistan-explained-canada-india-nijjar-1.6971803",
+   "time_updated": "2024-05-27T21:21:23Z",
+   "time_added": "2024-05-27T21:21:22Z"
+  },
+  {
+   "item_id": "239688276",
+   "given_url": "https://en.m.wikipedia.org/wiki/Kung_fu_(term)",
+   "given_title": "Kung fu (term) - Wikipedia",
+   "resolved_title": "Kung fu (term)",
+   "resolved_url": "https://en.wikipedia.org/wiki/Kung_fu_(term)",
+   "time_updated": "2024-05-27T07:50:09Z",
+   "time_added": "2024-05-27T07:50:07Z"
   }
  ]
 }

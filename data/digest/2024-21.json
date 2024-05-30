@@ -4,42 +4,6 @@
  "sortKey": "2024-21",
  "items": [
   {
-   "item_id": "4054236330",
-   "given_url": "https://m.youtube.com/watch?v=hh4taTUMgVo\u0026pp=ygUdcm9tYXJpbyBubyByaW8gMTk5MiBsZWdlbmRhZG8%3D",
-   "given_title": "DE FÉRIAS COM ROMÁRIO, NO RIO, EM 1992 | Produção holandesa | legendado PT-",
-   "resolved_title": "DE FÉRIAS COM ROMÁRIO, NO RIO, EM 1992 | Produção holandesa | legendado PT-BR",
-   "resolved_url": "http://www.youtube.com/watch?v=hh4taTUMgVo",
-   "time_updated": "2024-05-25T14:18:35Z",
-   "time_added": "2024-05-25T14:18:33Z"
-  },
-  {
-   "item_id": "2229372576",
-   "given_url": "https://www.smithsonianmag.com/smart-news/einsteins-travel-diaries-reveal-his-deeply-troubling-views-race-180969387/",
-   "given_title": "Einstein’s Travel Diaries Reveal His Deeply Troubling Views on Race | Smith",
-   "resolved_title": "Einstein’s Travel Diaries Reveal His Deeply Troubling Views on Race",
-   "resolved_url": "https://www.smithsonianmag.com/smart-news/einsteins-travel-diaries-reveal-his-deeply-troubling-views-race-180969387/",
-   "time_updated": "2024-05-22T16:45:40Z",
-   "time_added": "2024-05-22T16:45:39Z"
-  },
-  {
-   "item_id": "4049945222",
-   "given_url": "https://amber-lang.com/",
-   "given_title": "Amber",
-   "resolved_title": "Amber The Programming Language",
-   "resolved_url": "https://amber-lang.com/",
-   "time_updated": "2024-05-22T22:33:04Z",
-   "time_added": "2024-05-22T22:33:01Z"
-  },
-  {
-   "item_id": "3482226602",
-   "given_url": "https://slothconservation.org/sloths-move-slow/",
-   "given_title": "Why do sloths move so slow? | The Sloth Conservation Foundation",
-   "resolved_title": "Why do sloths move so slow? : The Sloth Conservation Foundation",
-   "resolved_url": "https://slothconservation.org/sloths-move-slow/",
-   "time_updated": "2024-05-23T09:16:34Z",
-   "time_added": "2024-05-23T09:16:33Z"
-  },
-  {
    "item_id": "4053253793",
    "given_url": "https://www.uol.com.br/nossa/noticias/redacao/2024/05/23/tours-assombrados-pelo-pais-revelam-lendas-e-historias-aterrorizantes.htm",
    "given_title": "Almas penadas, crimes e lendas: onde fazer tours assombrados pelo Brasil",
@@ -58,6 +22,15 @@
    "time_added": "2024-05-23T13:13:09Z"
   },
   {
+   "item_id": "4054236330",
+   "given_url": "https://m.youtube.com/watch?v=hh4taTUMgVo\u0026pp=ygUdcm9tYXJpbyBubyByaW8gMTk5MiBsZWdlbmRhZG8%3D",
+   "given_title": "DE FÉRIAS COM ROMÁRIO, NO RIO, EM 1992 | Produção holandesa | legendado PT-",
+   "resolved_title": "DE FÉRIAS COM ROMÁRIO, NO RIO, EM 1992 | Produção holandesa | legendado PT-BR",
+   "resolved_url": "http://www.youtube.com/watch?v=hh4taTUMgVo",
+   "time_updated": "2024-05-25T14:18:35Z",
+   "time_added": "2024-05-25T14:18:33Z"
+  },
+  {
    "item_id": "4053230566",
    "given_url": "https://www.uol.com.br/splash/colunas/roberto-sadovski/2024/05/23/furiosa-transforma-caos-em-cinema-em-mais-uma-obra-prima-da-saga-mad-max.htm",
    "given_title": "'Furiosa' é mais uma obra-prima do gênio George Miller",
@@ -67,22 +40,13 @@
    "time_added": "2024-05-23T12:37:35Z"
   },
   {
-   "item_id": "4052555009",
-   "given_url": "https://www1.folha.uol.com.br/colunas/marceloviana/2024/05/o-advento-da-matematica-chinesa.shtml",
-   "given_title": "O advento da matemática chinesa - 21/05/2024 - Marcelo Viana - Folha",
-   "resolved_title": "O advento da matemática chinesa",
-   "resolved_url": "https://www1.folha.uol.com.br/colunas/marceloviana/2024/05/o-advento-da-matematica-chinesa.shtml",
-   "time_updated": "2024-05-22T14:14:25Z",
-   "time_added": "2024-05-22T14:14:25Z"
-  },
-  {
-   "item_id": "4053042623",
-   "given_url": "https://m.youtube.com/watch?v=RMwNAjcymOk",
-   "given_title": "Arcade Urban Legends - Then and Now | Renegade Cut - YouTube",
-   "resolved_title": "Arcade Urban Legends - Then and Now | Renegade Cut",
-   "resolved_url": "http://www.youtube.com/watch?v=RMwNAjcymOk",
-   "time_updated": "2024-05-22T23:07:28Z",
-   "time_added": "2024-05-22T23:07:25Z"
+   "item_id": "3482226602",
+   "given_url": "https://slothconservation.org/sloths-move-slow/",
+   "given_title": "Why do sloths move so slow? | The Sloth Conservation Foundation",
+   "resolved_title": "Why do sloths move so slow? : The Sloth Conservation Foundation",
+   "resolved_url": "https://slothconservation.org/sloths-move-slow/",
+   "time_updated": "2024-05-23T09:16:34Z",
+   "time_added": "2024-05-23T09:16:33Z"
   }
  ]
 }

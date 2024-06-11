@@ -4,6 +4,15 @@
  "sortKey": "2024-24",
  "items": [
   {
+   "item_id": "4061799185",
+   "given_url": "https://www.youtube.com/watch?v=DCfj2TG3w9o",
+   "given_title": "(6) We Sell Soul (Previously Unreleased) - YouTube",
+   "resolved_title": "We Sell Soul (Previously Unreleased)",
+   "resolved_url": "https://www.youtube.com/watch?v=DCfj2TG3w9o",
+   "time_updated": "2024-06-10T13:51:55Z",
+   "time_added": "2024-06-10T13:51:54Z"
+  },
+  {
    "item_id": "215805731",
    "given_url": "https://en.m.wikipedia.org/wiki/Wokou",
    "given_title": "Wokou - Wikipedia",
@@ -20,6 +29,24 @@
    "resolved_url": "http://betweensympathyanddetachment.blogspot.com/2010/06/artists-crossing-mediums.html",
    "time_updated": "2024-06-10T00:03:45Z",
    "time_added": "2024-06-10T00:03:44Z"
+  },
+  {
+   "item_id": "3312508111",
+   "given_url": "https://lit.dev/",
+   "given_title": "Lit",
+   "resolved_title": "Lit Discord",
+   "resolved_url": "https://lit.dev/",
+   "time_updated": "2024-06-10T14:39:30Z",
+   "time_added": "2024-06-10T14:39:30Z"
+  },
+  {
+   "item_id": "4060976272",
+   "given_url": "https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs",
+   "given_title": "The Weird Nerd comes with trade-offs - by Ruxandra Teslo",
+   "resolved_title": "The Weird Nerd comes with trade-offs",
+   "resolved_url": "https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs",
+   "time_updated": "2024-06-10T15:28:11Z",
+   "time_added": "2024-06-10T15:28:11Z"
   }
  ]
 }

@@ -4,33 +4,6 @@
  "sortKey": "2024-24",
  "items": [
   {
-   "item_id": "4060976272",
-   "given_url": "https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs",
-   "given_title": "The Weird Nerd comes with trade-offs - by Ruxandra Teslo",
-   "resolved_title": "The Weird Nerd comes with trade-offs",
-   "resolved_url": "https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs",
-   "time_updated": "2024-06-10T15:28:11Z",
-   "time_added": "2024-06-10T15:28:11Z"
-  },
-  {
-   "item_id": "187882366",
-   "given_url": "https://en.m.wikipedia.org/wiki/Aphorism",
-   "given_title": "Aphorism - Wikipedia",
-   "resolved_title": "Aphorism",
-   "resolved_url": "https://en.wikipedia.org/wiki/Aphorism",
-   "time_updated": "2024-06-11T09:29:07Z",
-   "time_added": "2024-06-11T09:29:06Z"
-  },
-  {
-   "item_id": "82413295",
-   "given_url": "https://en.m.wikipedia.org/wiki/Retrocausality",
-   "given_title": "Retrocausality - Wikipedia",
-   "resolved_title": "Retrocausality",
-   "resolved_url": "https://en.wikipedia.org/wiki/Retrocausality",
-   "time_updated": "2024-06-11T15:38:02Z",
-   "time_added": "2024-06-11T15:38:00Z"
-  },
-  {
    "item_id": "4062449439",
    "given_url": "https://m.youtube.com/watch?v=GHhD4PD75zY\u0026embeds_referring_euri=https%3A%2F%2Fwww.what-song.com%2F\u0026embeds_referring_origin=https%3A%2F%2Fwww.what-song.com\u0026source_ve_path=MjM4NTE\u0026feature=emb_title",
    "given_title": "Herbie Hancock - Rockit (Official Video) - YouTube",
@@ -40,22 +13,13 @@
    "time_added": "2024-06-11T21:57:27Z"
   },
   {
-   "item_id": "215805731",
-   "given_url": "https://en.m.wikipedia.org/wiki/Wokou",
-   "given_title": "Wokou - Wikipedia",
-   "resolved_title": "Wokou",
-   "resolved_url": "https://en.wikipedia.org/wiki/Wokou",
-   "time_updated": "2024-06-10T09:21:44Z",
-   "time_added": "2024-06-10T09:21:44Z"
-  },
-  {
-   "item_id": "3312508111",
-   "given_url": "https://lit.dev/",
-   "given_title": "Lit",
-   "resolved_title": "Lit Discord",
-   "resolved_url": "https://lit.dev/",
-   "time_updated": "2024-06-10T14:39:30Z",
-   "time_added": "2024-06-10T14:39:30Z"
+   "item_id": "4060976272",
+   "given_url": "https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs",
+   "given_title": "The Weird Nerd comes with trade-offs - by Ruxandra Teslo",
+   "resolved_title": "The Weird Nerd comes with trade-offs",
+   "resolved_url": "https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs",
+   "time_updated": "2024-06-10T15:28:11Z",
+   "time_added": "2024-06-10T15:28:11Z"
   },
   {
    "item_id": "4061548313",
@@ -67,13 +31,13 @@
    "time_added": "2024-06-10T00:03:44Z"
   },
   {
-   "item_id": "4061799185",
-   "given_url": "https://www.youtube.com/watch?v=DCfj2TG3w9o",
-   "given_title": "(6) We Sell Soul (Previously Unreleased) - YouTube",
-   "resolved_title": "We Sell Soul (Previously Unreleased)",
-   "resolved_url": "https://www.youtube.com/watch?v=DCfj2TG3w9o",
-   "time_updated": "2024-06-10T13:51:55Z",
-   "time_added": "2024-06-10T13:51:54Z"
+   "item_id": "215805731",
+   "given_url": "https://en.m.wikipedia.org/wiki/Wokou",
+   "given_title": "Wokou - Wikipedia",
+   "resolved_title": "Wokou",
+   "resolved_url": "https://en.wikipedia.org/wiki/Wokou",
+   "time_updated": "2024-06-10T09:21:44Z",
+   "time_added": "2024-06-10T09:21:44Z"
   },
   {
    "item_id": "4062319284",
@@ -83,6 +47,60 @@
    "resolved_url": "http://www.youtube.com/watch?v=lyry_eOQTJA",
    "time_updated": "2024-06-11T15:45:02Z",
    "time_added": "2024-06-11T15:45:00Z"
+  },
+  {
+   "item_id": "4062670525",
+   "given_url": "https://www.shiftrle.gg/articles/tales-of-league-play-the-iris-debacle",
+   "given_title": "Tales of League Play: the Iris debacle | Shift",
+   "resolved_title": "Tales of League Play : the Iris debacle",
+   "resolved_url": "https://www.shiftrle.gg/articles/tales-of-league-play-the-iris-debacle",
+   "time_updated": "2024-06-12T10:38:46Z",
+   "time_added": "2024-06-12T10:38:44Z"
+  },
+  {
+   "item_id": "4061799185",
+   "given_url": "https://www.youtube.com/watch?v=DCfj2TG3w9o",
+   "given_title": "(6) We Sell Soul (Previously Unreleased) - YouTube",
+   "resolved_title": "We Sell Soul (Previously Unreleased)",
+   "resolved_url": "https://www.youtube.com/watch?v=DCfj2TG3w9o",
+   "time_updated": "2024-06-10T13:51:55Z",
+   "time_added": "2024-06-10T13:51:54Z"
+  },
+  {
+   "item_id": "187882366",
+   "given_url": "https://en.m.wikipedia.org/wiki/Aphorism",
+   "given_title": "Aphorism - Wikipedia",
+   "resolved_title": "Aphorism",
+   "resolved_url": "https://en.wikipedia.org/wiki/Aphorism",
+   "time_updated": "2024-06-11T09:29:07Z",
+   "time_added": "2024-06-11T09:29:06Z"
+  },
+  {
+   "item_id": "3312508111",
+   "given_url": "https://lit.dev/",
+   "given_title": "Lit",
+   "resolved_title": "Lit Discord",
+   "resolved_url": "https://lit.dev/",
+   "time_updated": "2024-06-10T14:39:30Z",
+   "time_added": "2024-06-10T14:39:30Z"
+  },
+  {
+   "item_id": "82413295",
+   "given_url": "https://en.m.wikipedia.org/wiki/Retrocausality",
+   "given_title": "Retrocausality - Wikipedia",
+   "resolved_title": "Retrocausality",
+   "resolved_url": "https://en.wikipedia.org/wiki/Retrocausality",
+   "time_updated": "2024-06-11T15:38:02Z",
+   "time_added": "2024-06-11T15:38:00Z"
+  },
+  {
+   "item_id": "4051885723",
+   "given_url": "https://theconversation.com/ai-chatbots-are-intruding-into-online-communities-where-people-are-trying-to-connect-with-other-humans-229473",
+   "given_title": "AI chatbots are intruding into online communities where people are trying t",
+   "resolved_title": "AI chatbots are intruding into online communities where people are trying to connect with other humans",
+   "resolved_url": "https://theconversation.com/ai-chatbots-are-intruding-into-online-communities-where-people-are-trying-to-connect-with-other-humans-229473",
+   "time_updated": "2024-06-12T11:39:18Z",
+   "time_added": "2024-06-12T11:39:17Z"
   }
  ]
 }

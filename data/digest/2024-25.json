@@ -4,15 +4,6 @@
  "sortKey": "2024-25",
  "items": [
   {
-   "item_id": "4064825793",
-   "given_url": "https://stackoverflow.com/questions/34701662/vector-size-1-when-size-is-0-in-c",
-   "given_title": "vector size - 1 when size is 0 in C   - Stack Overflow",
-   "resolved_title": "vector size - 1 when size is 0 in C++",
-   "resolved_url": "https://stackoverflow.com/questions/34701662/vector-size-1-when-size-is-0-in-c",
-   "time_updated": "2024-06-17T15:53:09Z",
-   "time_added": "2024-06-17T15:53:08Z"
-  },
-  {
    "item_id": "4064934431",
    "given_url": "https://www.reddit.com/r/papermario/comments/19d8xkn/comment/kj52y8q/?utm_source=share\u0026utm_medium=mweb3x\u0026utm_name=mweb3xcss\u0026utm_term=1\u0026utm_content=share_button",
    "given_title": "",
@@ -20,15 +11,6 @@
    "resolved_url": "https://www.reddit.com/r/papermario/comments/19d8xkn/comment/kj52y8q/?utm_source=share\u0026utm_medium=mweb3x\u0026utm_name=mweb3xcss\u0026utm_term=1\u0026utm_content=share_button",
    "time_updated": "2024-06-17T21:18:47Z",
    "time_added": "2024-06-17T21:18:45Z"
-  },
-  {
-   "item_id": "4065286618",
-   "given_url": "https://informe.ensp.fiocruz.br/noticias/30833",
-   "given_title": "Estudo de piolhos pode desvendar hábitos de populações antigas",
-   "resolved_title": "Estudo de piolhos pode desvendar hábitos de populações antigas",
-   "resolved_url": "https://informe.ensp.fiocruz.br/noticias/30833",
-   "time_updated": "2024-06-18T17:03:53Z",
-   "time_added": "2024-06-18T17:03:51Z"
   },
   {
    "item_id": "4065146124",
@@ -40,6 +22,15 @@
    "time_added": "2024-06-18T14:12:29Z"
   },
   {
+   "item_id": "4065286618",
+   "given_url": "https://informe.ensp.fiocruz.br/noticias/30833",
+   "given_title": "Estudo de piolhos pode desvendar hábitos de populações antigas",
+   "resolved_title": "Estudo de piolhos pode desvendar hábitos de populações antigas",
+   "resolved_url": "https://informe.ensp.fiocruz.br/noticias/30833",
+   "time_updated": "2024-06-18T17:03:53Z",
+   "time_added": "2024-06-18T17:03:51Z"
+  },
+  {
    "item_id": "4065299452",
    "given_url": "https://drauziovarella.uol.com.br/pediatria/piolho-pediculose/amp/",
    "given_title": "Piolho (pediculose) - Portal Drauzio Varella",
@@ -47,6 +38,15 @@
    "resolved_url": "https://drauziovarella.uol.com.br/pediatria/piolho-pediculose/",
    "time_updated": "2024-06-18T17:38:47Z",
    "time_added": "2024-06-18T17:38:43Z"
+  },
+  {
+   "item_id": "4064825793",
+   "given_url": "https://stackoverflow.com/questions/34701662/vector-size-1-when-size-is-0-in-c",
+   "given_title": "vector size - 1 when size is 0 in C   - Stack Overflow",
+   "resolved_title": "vector size - 1 when size is 0 in C++",
+   "resolved_url": "https://stackoverflow.com/questions/34701662/vector-size-1-when-size-is-0-in-c",
+   "time_updated": "2024-06-17T15:53:09Z",
+   "time_added": "2024-06-17T15:53:08Z"
   },
   {
    "item_id": "1099980029",

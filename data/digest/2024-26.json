@@ -4,33 +4,6 @@
  "sortKey": "2024-26",
  "items": [
   {
-   "item_id": "4068507278",
-   "given_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/06/26/o-que-significam-as-girias-usadas-pelo-pcc.htm",
-   "given_title": "O que significam as gírias usadas pelo PCC?",
-   "resolved_title": "Lagarto, viúva, ganso e mais: o que significam as gírias usadas pelo PCC?",
-   "resolved_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/06/26/o-que-significam-as-girias-usadas-pelo-pcc.htm",
-   "time_updated": "2024-06-26T09:24:29Z",
-   "time_added": "2024-06-26T09:24:27Z"
-  },
-  {
-   "item_id": "4068772324",
-   "given_url": "https://pisa.tur.br/blog/2018/10/16/pinturas-rupestres-da-serra-da-capivara/",
-   "given_title": "Dica de Viagem: Conheça as pinturas rupestres da Serra da Capivara",
-   "resolved_title": "Dica de Viagem: Conheça as pinturas rupestres da Serra da Capivara",
-   "resolved_url": "https://pisa.tur.br/blog/2018/10/16/pinturas-rupestres-da-serra-da-capivara/",
-   "time_updated": "2024-06-26T23:08:20Z",
-   "time_added": "2024-06-26T23:08:17Z"
-  },
-  {
-   "item_id": "4067513350",
-   "given_url": "https://www1.folha.uol.com.br/equilibrio/2024/06/so-redes-sociais-explicam-a-crise-de-saude-mental-dos-jovens-diz-jonathan-haidt.shtml",
-   "given_title": "Jonathan Haidt: Mídias sociais criaram emergência de saúde - 23/06/2024 - E",
-   "resolved_title": "Só redes sociais explicam a crise de saúde mental dos jovens, diz Jonathan Haidt",
-   "resolved_url": "https://www1.folha.uol.com.br/equilibrio/2024/06/so-redes-sociais-explicam-a-crise-de-saude-mental-dos-jovens-diz-jonathan-haidt.shtml",
-   "time_updated": "2024-06-24T10:23:36Z",
-   "time_added": "2024-06-24T10:23:36Z"
-  },
-  {
    "item_id": "1180045717",
    "given_url": "https://en.m.wikipedia.org/wiki/Rushlight",
    "given_title": "Rushlight - Wikipedia",
@@ -38,24 +11,6 @@
    "resolved_url": "https://en.wikipedia.org/wiki/Rushlight",
    "time_updated": "2024-06-24T20:49:17Z",
    "time_added": "2024-06-24T20:49:17Z"
-  },
-  {
-   "item_id": "387228172",
-   "given_url": "https://en.m.wikipedia.org/wiki/The_Beautiful_Game",
-   "given_title": "The Beautiful Game - Wikipedia",
-   "resolved_title": "The Beautiful Game",
-   "resolved_url": "https://en.wikipedia.org/wiki/The_Beautiful_Game",
-   "time_updated": "2024-06-26T23:43:24Z",
-   "time_added": "2024-06-26T23:43:23Z"
-  },
-  {
-   "item_id": "2949958141",
-   "given_url": "https://www.youtube.com/watch?v=MTVdBgQY9LY",
-   "given_title": "(62) Physics Constraints in Games Part 1 - Constraint Basics - YouTube",
-   "resolved_title": "Physics Constraints in Games Part 1 - Constraint Basics",
-   "resolved_url": "https://www.youtube.com/watch?v=MTVdBgQY9LY",
-   "time_updated": "2024-06-25T13:41:57Z",
-   "time_added": "2024-06-25T13:41:57Z"
   },
   {
    "item_id": "826084024",
@@ -67,6 +22,60 @@
    "time_added": "2024-06-23T23:55:18Z"
   },
   {
+   "item_id": "4067513350",
+   "given_url": "https://www1.folha.uol.com.br/equilibrio/2024/06/so-redes-sociais-explicam-a-crise-de-saude-mental-dos-jovens-diz-jonathan-haidt.shtml",
+   "given_title": "Jonathan Haidt: Mídias sociais criaram emergência de saúde - 23/06/2024 - E",
+   "resolved_title": "Só redes sociais explicam a crise de saúde mental dos jovens, diz Jonathan Haidt",
+   "resolved_url": "https://www1.folha.uol.com.br/equilibrio/2024/06/so-redes-sociais-explicam-a-crise-de-saude-mental-dos-jovens-diz-jonathan-haidt.shtml",
+   "time_updated": "2024-06-24T10:23:36Z",
+   "time_added": "2024-06-24T10:23:36Z"
+  },
+  {
+   "item_id": "4068772324",
+   "given_url": "https://pisa.tur.br/blog/2018/10/16/pinturas-rupestres-da-serra-da-capivara/",
+   "given_title": "Dica de Viagem: Conheça as pinturas rupestres da Serra da Capivara",
+   "resolved_title": "Dica de Viagem: Conheça as pinturas rupestres da Serra da Capivara",
+   "resolved_url": "https://pisa.tur.br/blog/2018/10/16/pinturas-rupestres-da-serra-da-capivara/",
+   "time_updated": "2024-06-26T23:08:20Z",
+   "time_added": "2024-06-26T23:08:17Z"
+  },
+  {
+   "item_id": "387228172",
+   "given_url": "https://en.m.wikipedia.org/wiki/The_Beautiful_Game",
+   "given_title": "The Beautiful Game - Wikipedia",
+   "resolved_title": "The Beautiful Game",
+   "resolved_url": "https://en.wikipedia.org/wiki/The_Beautiful_Game",
+   "time_updated": "2024-06-26T23:43:24Z",
+   "time_added": "2024-06-26T23:43:23Z"
+  },
+  {
+   "item_id": "484856470",
+   "given_url": "https://en.m.wikipedia.org/wiki/Wojtek_(bear)",
+   "given_title": "Wojtek (bear) - Wikipedia",
+   "resolved_title": "Wojtek (bear)",
+   "resolved_url": "https://en.wikipedia.org/wiki/Wojtek_(bear)",
+   "time_updated": "2024-06-27T22:52:48Z",
+   "time_added": "2024-06-27T22:52:46Z"
+  },
+  {
+   "item_id": "1276215638",
+   "given_url": "https://en.m.wikipedia.org/wiki/Themiscyra_(Pontus)",
+   "given_title": "Themiscyra (Pontus) - Wikipedia",
+   "resolved_title": "Themiscyra (Pontus)",
+   "resolved_url": "https://en.m.wikipedia.org/wiki/Themiscyra_(Pontus)",
+   "time_updated": "2024-06-27T22:54:46Z",
+   "time_added": "2024-06-27T22:54:45Z"
+  },
+  {
+   "item_id": "2949958141",
+   "given_url": "https://www.youtube.com/watch?v=MTVdBgQY9LY",
+   "given_title": "(62) Physics Constraints in Games Part 1 - Constraint Basics - YouTube",
+   "resolved_title": "Physics Constraints in Games Part 1 - Constraint Basics",
+   "resolved_url": "https://www.youtube.com/watch?v=MTVdBgQY9LY",
+   "time_updated": "2024-06-25T13:41:57Z",
+   "time_added": "2024-06-25T13:41:57Z"
+  },
+  {
    "item_id": "4068214745",
    "given_url": "https://howtojaponese.com/2011/05/13/cool-verb-ending-yagaru/",
    "given_title": "Cool Verb Ending – －やがる | How to Japanese",
@@ -74,6 +83,15 @@
    "resolved_url": "https://howtojaponese.com/2011/05/13/cool-verb-ending-yagaru/",
    "time_updated": "2024-06-25T16:13:01Z",
    "time_added": "2024-06-25T16:12:59Z"
+  },
+  {
+   "item_id": "4068507278",
+   "given_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/06/26/o-que-significam-as-girias-usadas-pelo-pcc.htm",
+   "given_title": "O que significam as gírias usadas pelo PCC?",
+   "resolved_title": "Lagarto, viúva, ganso e mais: o que significam as gírias usadas pelo PCC?",
+   "resolved_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/06/26/o-que-significam-as-girias-usadas-pelo-pcc.htm",
+   "time_updated": "2024-06-26T09:24:29Z",
+   "time_added": "2024-06-26T09:24:27Z"
   }
  ]
 }

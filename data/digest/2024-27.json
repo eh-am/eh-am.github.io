@@ -4,24 +4,6 @@
  "sortKey": "2024-27",
  "items": [
   {
-   "item_id": "4069982406",
-   "given_url": "https://sol.sapo.pt/2024/06/29/estou-muito-preocupado-com-a-inseguranca/",
-   "given_title": "‘Estou muito preocupado com a insegurança’",
-   "resolved_title": "‘Estou muito preocupado com a insegurança’",
-   "resolved_url": "https://sol.sapo.pt/2024/06/29/estou-muito-preocupado-com-a-inseguranca/",
-   "time_updated": "2024-07-01T09:37:44Z",
-   "time_added": "2024-07-01T09:37:44Z"
-  },
-  {
-   "item_id": "4070961335",
-   "given_url": "https://github.com/carpa-dev/adler-brazil/issues/13",
-   "given_title": "Map bugs · Issue #13 · carpa-dev/adler-brazil",
-   "resolved_title": "",
-   "resolved_url": "https://github.com/carpa-dev/adler-brazil/issues/13",
-   "time_updated": "2024-07-02T10:35:37Z",
-   "time_added": "2024-07-02T10:35:36Z"
-  },
-  {
    "item_id": "4067012888",
    "given_url": "https://carbon-steel.github.io/jekyll/update/2024/06/19/abstractions.html",
    "given_title": "Programmers Should Never Trust Anyone, Not Even Themselves",
@@ -29,24 +11,6 @@
    "resolved_url": "https://carbon-steel.github.io/jekyll/update/2024/06/19/abstractions.html",
    "time_updated": "2024-07-01T11:35:46Z",
    "time_added": "2024-07-01T11:35:45Z"
-  },
-  {
-   "item_id": "4070515431",
-   "given_url": "https://www.uol.com.br/vivabem/noticias/deutsche-welle/2024/07/01/trato-compulsao-com-remedios-vicio-em-games-de-aposta-vira-problema-de-saude.htm",
-   "given_title": "'Trato compulsão com remédios': vício em games de aposta vira problema de s",
-   "resolved_title": "'Trato compulsão com remédios': vício em games de aposta vira problema de saúde",
-   "resolved_url": "https://www.uol.com.br/vivabem/noticias/deutsche-welle/2024/07/01/trato-compulsao-com-remedios-vicio-em-games-de-aposta-vira-problema-de-saude.htm",
-   "time_updated": "2024-07-01T09:21:52Z",
-   "time_added": "2024-07-01T09:21:48Z"
-  },
-  {
-   "item_id": "4070517493",
-   "given_url": "https://revelar.lisboa.pt/explorar/toponimia/detalhe?tx_toponimia_pi1%5Baction%5D=show\u0026tx_toponimia_pi1%5Bcontroller%5D=Toponimia\u0026tx_toponimia_pi1%5Btopid%5D=931",
-   "given_title": "Toponimia - detalhe - Revelar Lisboa",
-   "resolved_title": "Toponimia - detalhe",
-   "resolved_url": "https://revelar.lisboa.pt/explorar/toponimia/detalhe?tx_toponimia_pi1%5Baction%5D=show\u0026tx_toponimia_pi1%5Bcontroller%5D=Toponimia\u0026tx_toponimia_pi1%5Btopid%5D=3208\u0026cHash=e5804de2460aa5a585e83cfcb6721fbc",
-   "time_updated": "2024-07-01T09:29:29Z",
-   "time_added": "2024-07-01T09:29:23Z"
   },
   {
    "item_id": "4070789057",
@@ -58,6 +22,33 @@
    "time_added": "2024-07-01T23:34:27Z"
   },
   {
+   "item_id": "4070996506",
+   "given_url": "https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long",
+   "given_title": "Why Is Chile So Long? - by Tomas Pueyo",
+   "resolved_title": "Why Is Chile So Long?",
+   "resolved_url": "https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long",
+   "time_updated": "2024-07-02T14:08:37Z",
+   "time_added": "2024-07-02T14:08:35Z"
+  },
+  {
+   "item_id": "4070517493",
+   "given_url": "https://revelar.lisboa.pt/explorar/toponimia/detalhe?tx_toponimia_pi1%5Baction%5D=show\u0026tx_toponimia_pi1%5Bcontroller%5D=Toponimia\u0026tx_toponimia_pi1%5Btopid%5D=931",
+   "given_title": "Toponimia - detalhe - Revelar Lisboa",
+   "resolved_title": "Toponimia - detalhe",
+   "resolved_url": "https://revelar.lisboa.pt/explorar/toponimia/detalhe?tx_toponimia_pi1%5Baction%5D=show\u0026tx_toponimia_pi1%5Bcontroller%5D=Toponimia\u0026tx_toponimia_pi1%5Btopid%5D=3208\u0026cHash=e5804de2460aa5a585e83cfcb6721fbc",
+   "time_updated": "2024-07-01T09:29:29Z",
+   "time_added": "2024-07-01T09:29:23Z"
+  },
+  {
+   "item_id": "4069982406",
+   "given_url": "https://sol.sapo.pt/2024/06/29/estou-muito-preocupado-com-a-inseguranca/",
+   "given_title": "‘Estou muito preocupado com a insegurança’",
+   "resolved_title": "‘Estou muito preocupado com a insegurança’",
+   "resolved_url": "https://sol.sapo.pt/2024/06/29/estou-muito-preocupado-com-a-inseguranca/",
+   "time_updated": "2024-07-01T09:37:44Z",
+   "time_added": "2024-07-01T09:37:44Z"
+  },
+  {
    "item_id": "556267339",
    "given_url": "https://www.retron5.com/",
    "given_title": "RetroN 5 |",
@@ -65,6 +56,33 @@
    "resolved_url": "https://hyperkin.com/Retron5/",
    "time_updated": "2024-07-01T23:35:06Z",
    "time_added": "2024-07-01T23:35:06Z"
+  },
+  {
+   "item_id": "4070515431",
+   "given_url": "https://www.uol.com.br/vivabem/noticias/deutsche-welle/2024/07/01/trato-compulsao-com-remedios-vicio-em-games-de-aposta-vira-problema-de-saude.htm",
+   "given_title": "'Trato compulsão com remédios': vício em games de aposta vira problema de s",
+   "resolved_title": "'Trato compulsão com remédios': vício em games de aposta vira problema de saúde",
+   "resolved_url": "https://www.uol.com.br/vivabem/noticias/deutsche-welle/2024/07/01/trato-compulsao-com-remedios-vicio-em-games-de-aposta-vira-problema-de-saude.htm",
+   "time_updated": "2024-07-01T09:21:52Z",
+   "time_added": "2024-07-01T09:21:48Z"
+  },
+  {
+   "item_id": "4070961335",
+   "given_url": "https://github.com/carpa-dev/adler-brazil/issues/13",
+   "given_title": "Map bugs · Issue #13 · carpa-dev/adler-brazil",
+   "resolved_title": "",
+   "resolved_url": "https://github.com/carpa-dev/adler-brazil/issues/13",
+   "time_updated": "2024-07-02T10:35:37Z",
+   "time_added": "2024-07-02T10:35:36Z"
+  },
+  {
+   "item_id": "4071201898",
+   "given_url": "https://en.m.wikipedia.org/wiki/The_Network_is_the_Computer",
+   "given_title": "The Network is the Computer - Wikipedia",
+   "resolved_title": "The Network is the Computer",
+   "resolved_url": "https://en.wikipedia.org/wiki/The_Network_is_the_Computer",
+   "time_updated": "2024-07-02T22:31:51Z",
+   "time_added": "2024-07-02T22:31:50Z"
   },
   {
    "item_id": "1762309221",

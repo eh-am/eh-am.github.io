@@ -4,6 +4,42 @@
  "sortKey": "2024-28",
  "items": [
   {
+   "item_id": "3791609888",
+   "given_url": "https://www.estadao.com.br/cultura/literatura/edicao-critica-de-raizes-do-brasil-sai-nos-80-anos-do-livro/",
+   "given_title": "Edição crítica de 'Raízes do Brasil' sai nos 80 anos do livro - Estadão",
+   "resolved_title": "Edição crítica de 'Raízes do Brasil' sai nos 80 anos do livro",
+   "resolved_url": "https://www.estadao.com.br/cultura/literatura/edicao-critica-de-raizes-do-brasil-sai-nos-80-anos-do-livro/",
+   "time_updated": "2024-07-08T23:59:36Z",
+   "time_added": "2024-07-08T23:59:35Z"
+  },
+  {
+   "item_id": "3814349573",
+   "given_url": "https://www.thegamer.com/pokemon-designs-based-on-kaiju/",
+   "given_title": "Pokemon Based On Kaiju",
+   "resolved_title": "10 Pokemon Designs Based On Kaiju",
+   "resolved_url": "https://www.thegamer.com/pokemon-designs-based-on-kaiju/",
+   "time_updated": "2024-07-08T12:40:14Z",
+   "time_added": "2024-07-08T12:40:14Z"
+  },
+  {
+   "item_id": "4073621662",
+   "given_url": "https://www.ottonihistoria.com/post/o-que-%C3%A9-o-homem-cordial-entenda-esse-conceito",
+   "given_title": "O HOMEM CORDIAL: o que significa esse conceito?",
+   "resolved_title": "O que é o homem cordial? Entenda esse conceito.",
+   "resolved_url": "https://www.ottonihistoria.com/post/o-que-%C3%A9-o-homem-cordial-entenda-esse-conceito",
+   "time_updated": "2024-07-08T23:37:35Z",
+   "time_added": "2024-07-08T23:37:32Z"
+  },
+  {
+   "item_id": "4073624200",
+   "given_url": "https://m.youtube.com/watch?v=a1IBpsuCI14\u0026embeds_referring_euri=https%3A%2F%2Fwww.culturagenial.com%2F\u0026source_ve_path=MA",
+   "given_title": "Não sou nada... - YouTube",
+   "resolved_title": "Não sou nada...",
+   "resolved_url": "http://www.youtube.com/watch?v=a1IBpsuCI14",
+   "time_updated": "2024-07-08T23:48:02Z",
+   "time_added": "2024-07-08T23:48:00Z"
+  },
+  {
    "item_id": "1729064791",
    "given_url": "https://learncssgrid.com/",
    "given_title": "Learn CSS Grid - A Guide to Learning CSS Grid | Jonathan Suh",
@@ -11,6 +47,51 @@
    "resolved_url": "https://learncssgrid.com/",
    "time_updated": "2024-07-08T11:27:55Z",
    "time_added": "2024-07-08T11:27:55Z"
+  },
+  {
+   "item_id": "2729828463",
+   "given_url": "https://www.culturagenial.com/poemas-fundamentais-fernando-pessoa/",
+   "given_title": "10 melhores poemas de Fernando Pessoa (analisados e comentados) - Cultura G",
+   "resolved_title": "Fernando Pessoa: 10 poemas fundamentais",
+   "resolved_url": "https://www.culturagenial.com/poemas-fundamentais-fernando-pessoa/",
+   "time_updated": "2024-07-08T23:46:12Z",
+   "time_added": "2024-07-08T23:46:11Z"
+  },
+  {
+   "item_id": "2434531691",
+   "given_url": "https://www.culturagenial.com/poema-autopsicografia-de-fernando-pessoa/",
+   "given_title": "Poema Autopsicografia, de Fernando Pessoa (análise e significado) - Cultura",
+   "resolved_title": "Poema Autopsicografia, de Fernando Pessoa",
+   "resolved_url": "https://www.culturagenial.com/poema-autopsicografia-de-fernando-pessoa/",
+   "time_updated": "2024-07-08T23:49:54Z",
+   "time_added": "2024-07-08T23:49:53Z"
+  },
+  {
+   "item_id": "4073620553",
+   "given_url": "https://www.recantodasletras.com.br/analise-de-obras/5699331",
+   "given_title": "Análise do poema “Não te amo”, de Almeida Garrett",
+   "resolved_title": "Análise do poema “Não te amo”, de Almeida Garrett",
+   "resolved_url": "https://www.recantodasletras.com.br/analise-de-obras/5699331",
+   "time_updated": "2024-07-08T23:32:56Z",
+   "time_added": "2024-07-08T23:32:53Z"
+  },
+  {
+   "item_id": "4073635912",
+   "given_url": "https://x.com/Edukator_Teco/status/1810370848865620463",
+   "given_title": "Teco on X: \"\"Nossa, vc gosta de Interpol, Joy Division, The Cure, Portishea",
+   "resolved_title": "x.com",
+   "resolved_url": "https://twitter.com/x/migrate?tok=7b2265223a222f4564756b61746f725f5465636f2f7374617475732f31383130333730383438383635363230343633222c2274223a313732303438353336357d7ca4943c50fff1c9173bcf2ddf8d431d",
+   "time_updated": "2024-07-09T00:36:05Z",
+   "time_added": "2024-07-09T00:36:03Z"
+  },
+  {
+   "item_id": "1544632885",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Homem_cordial",
+   "given_title": "Homem cordial – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Homem cordial",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Homem_cordial",
+   "time_updated": "2024-07-08T23:18:15Z",
+   "time_added": "2024-07-08T23:18:13Z"
   }
  ]
 }

@@ -11,13 +11,13 @@ E até que funciona, faz até [invalidação com CloudFront!](https://github.com
 
 Porém chega uma hora que você percebe: isso leva mais tempo que deveria.
 
-Aí olhando no código (e explorando o CloudFormation no console) percebe que faz muito mais do que você imaginava, cria um CRD, que cria (dentre outras coisas) um bucket e um lambda, que é o que faz efetivamente o trabalho de copiar.
+Aí olhando no código (e explorando o CloudFormation no console) percebe que faz muito mais do que você imaginava, cria um CRD, que cria (dentre outras coisas) um bucket e um lambda, que é o que faz efetivamente o trabalho de copiar para o seu bucket de destino.
 
-Então se copia 1 vez para esse s3 temporário, e depois para o bucket correto. Para mais infos ver [o código do lambda](https://github.com/ohde/aws-cdk/blob/9ae6b1161d86016cfa459f25a295c0ee4fbb4343/packages/%40aws-cdk/aws-s3-deployment/lib/lambda/index.py).
+Então se copia 1 vez para um bucket temporário, e depois para o bucket correto. Para mais infos ver [o código do lambda](https://github.com/ohde/aws-cdk/blob/9ae6b1161d86016cfa459f25a295c0ee4fbb4343/packages/%40aws-cdk/aws-s3-deployment/lib/lambda/index.py).
 
 O que é claramente um desperdício de tempo.
 
-A solução é simplesmente usar a cli, usando `aws s3 sync` para copiar os arquivos se você quiser (e deletar os que não quer).
+A solução é simplesmente usar a cli, usando `aws s3 sync` para copiar os arquivos se você quiser, preferencialmente os novos, e deletar os que não quer (os que não serão mais usados).
 
 Ficaria algo como
 
@@ -33,16 +33,16 @@ Se quiser checar antes de commitar com o deploy (recomendado), rode com `--dryru
 ```
 
 # yay!!?! not so fast
-Tudo as mil maravilhas, porém estranhei que a lista de arquivos era sempre muito maior. Não mudei nada no meu site estático, por que está querendo subir todos os arquivos?!
+Tudo as mil maravilhas, porém estranhei que a lista de arquivos era sempre muito maior do que esperava. Não mudei nada no meu site estático, por que está querendo subir todos os arquivos?!
 
 
-Bom, [aparentemente eles checam o timestamp e o tamanho do arquivo](https://stackoverflow.com/questions/43529926/how-does-aws-s3-sync-determine-if-a-file-has-been-updated). Se você está fazendo um build novo, o timestamp dos arquivos também vai ser novo. Não sei se tem um jeito de falar pra ferramenta de build pra não mexer nos arquivos novos, e aí em CI cachear esses arquivos. E se tem, não sei se quero seguir nessa rota.
+Bom, [aparentemente eles checam o timestamp e o tamanho do arquivo](https://stackoverflow.com/questions/43529926/how-does-aws-s3-sync-determine-if-a-file-has-been-updated). Se você está fazendo um build novo, o timestamp dos arquivos também vai ser novo. Não sei se tem um jeito de falar pra ferramenta de build pra não mexer nos arquivos novos, e aí em CI cachear esses arquivos tal que seu timestamp não mude. E se tem, não sei se quero seguir nessa rota.
 
 Uma outra sugestão é falar para ignorar timestamps e usar apenas o tamanho do arquivo, com a flag `--size-only`.
 
-Ah, mas se eu trocar uma string de "CAVALO" para "CAMELO"? Não vai funcionar, sinto muito.
+Ah, mas se eu trocar uma string de "CAVALO" para "CAMELO", que tem o mesmo tamanho, o que acontece? Não vai funcionar, sinto muito.
 
-Além desse exemplo trivial, ainda tem o caso [levantado no Github onde](https://github.com/aws/aws-cli/issues/5216#issuecomment-1722248324) o seu index.html não muda de tamanho, especialmente no caso de SPA onde o html é o mesmo, só mudando o hash dos javascript inclusos.
+Além desse exemplo trivial, ainda tem o caso [levantado numa issue do Github](https://github.com/aws/aws-cli/issues/5216#issuecomment-1722248324) onde o seu index.html não muda de tamanho, especialmente no caso de SPA onde o html é o mesmo, só mudando o hash dos javascript inclusos (por ex `foo.ABC.js` vira `foo.JKL.js`).
 
 Nesse caso acho mais fácil simplesmente dar um `aws s3 cp` no `index.html`.
 
@@ -51,15 +51,15 @@ Idealmente seria possível usar um checksum como gerado via MD5 para checar o co
 
 A implementação existe em [layers inferiores](https://github.com/aws/aws-cli/issues/6750), mas não chegou ainda na `aws s3`, e sabe-se-lá quando vai chegar.
 
-Me perguntei como ferramentas como hugo fazendo deploy. Aparentemente [segundo a documentação](https://github.com/gohugoio/hugo/blob/439f07eac4706eb11fcaea259f04b3a4e4493fa1/docs/content/en/hosting-and-deployment/hugo-deploy.md?plain=1#L107-L110) o hugo checa o md5 dos arquivos, [aqui o código](https://github.com/gohugoio/hugo/blob/439f07eac4706eb11fcaea259f04b3a4e4493fa1/deploy/deploy.go#L692)
+Me perguntei como ferramentas como [hugo](https://gohugo.io/) fazendo deploy. Aparentemente [segundo a documentação](https://github.com/gohugoio/hugo/blob/439f07eac4706eb11fcaea259f04b3a4e4493fa1/docs/content/en/hosting-and-deployment/hugo-deploy.md?plain=1#L107-L110) o hugo checa o md5 dos arquivos, [aqui o código](https://github.com/gohugoio/hugo/blob/439f07eac4706eb11fcaea259f04b3a4e4493fa1/deploy/deploy.go#L692).
 
 
-"Ah mas como pega o MD5? Tem que baixar o arquivo?". Não, tal como dito anteriormente e segundo [esse comentário no código do hugo](https://github.com/gohugoio/hugo/blob/439f07eac4706eb11fcaea259f04b3a4e4493fa1/deploy/deploy.go#L584-L591), S3 já retorna isso.
+"Ah mas como pega o MD5? Tem que baixar o arquivo?". Não, tal como dito anteriormente e segundo [esse comentário no código do hugo](https://github.com/gohugoio/hugo/blob/439f07eac4706eb11fcaea259f04b3a4e4493fa1/deploy/deploy.go#L584-L591), a API do S3 já retorna isso.
 
-O que me faz pensar que deve ser mais fácil só usar a cli do hugo para deploys :^)
+O que me faz pensar que deve ser mais fácil só usar a cli do hugo para deploys ao invés de usar a cli da aws :^)
 
 # bônus
-Ainda tem um grande detalhe não necessariamente relacionado que não falei: você não pode só usar `--delete` e seguir com seu dia, já que possivelmente há alguém com o site aberto, com o manifest (do nextjs no caso) apontando para certos arquivos em caso de lazy load, que por sua vez não vão existir, quebrando a navegação do pobre coitado!
+Ainda tem um grande detalhe não necessariamente relacionado que não falei: você não pode só usar `--delete` e seguir com seu dia, já que possivelmente há alguém com o site aberto, com o `_buildManifest` (do nextjs no caso, basicamente um [mapa de rotas para filenames](https://github.com/vercel/next.js/discussions/32570#discussioncomment-1848122), apesar de que ideias similares existem em outros frameworks) apontando para certos arquivos em caso de lazy load, que por sua vez não vão existir, quebrando a navegação do pobre coitado!
 
 Então idealmente a solução seria:
 1. Vê os arquivos que vão ser deletados
@@ -71,4 +71,5 @@ Então idealmente a solução seria:
 BREAKING NEWS: fui informado que o NextJS já faz isso, mas não chequei. Trust but don't verify.
 
 
-Inspiração: [Stop Using the CDK S3 Deployment Module | by Riccardo Giorato | AWS in Plain English](https://aws.plainenglish.io/stop-using-the-cdk-s3-deployment-module-4f31f36b4f21).
+# Inspirações
+[Stop Using the CDK S3 Deployment Module | by Riccardo Giorato | AWS in Plain English](https://aws.plainenglish.io/stop-using-the-cdk-s3-deployment-module-4f31f36b4f21).

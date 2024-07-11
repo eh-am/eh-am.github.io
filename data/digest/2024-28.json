@@ -4,69 +4,6 @@
  "sortKey": "2024-28",
  "items": [
   {
-   "item_id": "4073635912",
-   "given_url": "https://x.com/Edukator_Teco/status/1810370848865620463",
-   "given_title": "Teco on X: \"\"Nossa, vc gosta de Interpol, Joy Division, The Cure, Portishea",
-   "resolved_title": "x.com",
-   "resolved_url": "https://twitter.com/x/migrate?tok=7b2265223a222f4564756b61746f725f5465636f2f7374617475732f31383130333730383438383635363230343633222c2274223a313732303438353336357d7ca4943c50fff1c9173bcf2ddf8d431d",
-   "time_updated": "2024-07-09T00:36:05Z",
-   "time_added": "2024-07-09T00:36:03Z"
-  },
-  {
-   "item_id": "4073498789",
-   "given_url": "https://paulgraham.com/persistence.html",
-   "given_title": "The Right Kind of Stubborn",
-   "resolved_title": "The Right Kind of Stubborn",
-   "resolved_url": "https://paulgraham.com/persistence.html",
-   "time_updated": "2024-07-09T10:30:48Z",
-   "time_added": "2024-07-09T10:30:45Z"
-  },
-  {
-   "item_id": "1544632885",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Homem_cordial",
-   "given_title": "Homem cordial – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Homem cordial",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Homem_cordial",
-   "time_updated": "2024-07-08T23:18:15Z",
-   "time_added": "2024-07-08T23:18:13Z"
-  },
-  {
-   "item_id": "4074332753",
-   "given_url": "https://news.ycombinator.com/item?id=40926350",
-   "given_title": "All: if you're going to post on a topic like this please make sure you're n",
-   "resolved_title": "All : if you're going to post on a topic like this please make sure you're not ju... : Hacker News",
-   "resolved_url": "https://news.ycombinator.com/item?id=40926350",
-   "time_updated": "2024-07-10T14:44:43Z",
-   "time_added": "2024-07-10T14:44:40Z"
-  },
-  {
-   "item_id": "4074225148",
-   "given_url": "https://www.uol.com.br/tilt/noticias/redacao/2024/07/10/4200-km-cientistas-descobrem-como-borboletas-atravessaram-oceano-sem-parar.htm",
-   "given_title": "4.200 km: como borboletas atravessaram oceano sem parar",
-   "resolved_title": "Cientistas descobrem como borboletas atravessaram oceano sem parar",
-   "resolved_url": "https://www.uol.com.br/tilt/noticias/redacao/2024/07/10/4200-km-cientistas-descobrem-como-borboletas-atravessaram-oceano-sem-parar.htm",
-   "time_updated": "2024-07-10T23:09:59Z",
-   "time_added": "2024-07-10T23:09:58Z"
-  },
-  {
-   "item_id": "4070031629",
-   "given_url": "https://pt.m.wikipedia.org/wiki/L%C3%ADngua_quimbundo",
-   "given_title": "Língua quimbundo – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Língua quimbundo",
-   "resolved_url": "https://pt.wikipedia.org/wiki/L%C3%ADngua_quimbundo",
-   "time_updated": "2024-07-10T20:19:44Z",
-   "time_added": "2024-07-10T20:19:43Z"
-  },
-  {
-   "item_id": "4074061888",
-   "given_url": "https://m.youtube.com/watch?v=Zx7IjLohI6I",
-   "given_title": "A Brief Review of Pokémon Generations 1-5 - YouTube",
-   "resolved_title": "A Brief Review of Pokémon Generations 1-5",
-   "resolved_url": "http://www.youtube.com/watch?v=Zx7IjLohI6I",
-   "time_updated": "2024-07-09T23:18:39Z",
-   "time_added": "2024-07-09T23:18:35Z"
-  },
-  {
    "item_id": "1729064791",
    "given_url": "https://learncssgrid.com/",
    "given_title": "Learn CSS Grid - A Guide to Learning CSS Grid | Jonathan Suh",
@@ -76,6 +13,15 @@
    "time_added": "2024-07-08T11:27:55Z"
   },
   {
+   "item_id": "666731869",
+   "given_url": "https://en.m.wikipedia.org/wiki/Aligot",
+   "given_title": "Aligot - Wikipedia",
+   "resolved_title": "Aligot",
+   "resolved_url": "https://en.wikipedia.org/wiki/Aligot",
+   "time_updated": "2024-07-10T23:53:05Z",
+   "time_added": "2024-07-10T23:53:04Z"
+  },
+  {
    "item_id": "3814349573",
    "given_url": "https://www.thegamer.com/pokemon-designs-based-on-kaiju/",
    "given_title": "Pokemon Based On Kaiju",
@@ -83,15 +29,6 @@
    "resolved_url": "https://www.thegamer.com/pokemon-designs-based-on-kaiju/",
    "time_updated": "2024-07-08T12:40:14Z",
    "time_added": "2024-07-08T12:40:14Z"
-  },
-  {
-   "item_id": "4073624200",
-   "given_url": "https://m.youtube.com/watch?v=a1IBpsuCI14\u0026embeds_referring_euri=https%3A%2F%2Fwww.culturagenial.com%2F\u0026source_ve_path=MA",
-   "given_title": "Não sou nada... - YouTube",
-   "resolved_title": "Não sou nada...",
-   "resolved_url": "http://www.youtube.com/watch?v=a1IBpsuCI14",
-   "time_updated": "2024-07-08T23:48:02Z",
-   "time_added": "2024-07-08T23:48:00Z"
   },
   {
    "item_id": "4073620553",
@@ -121,15 +58,6 @@
    "time_added": "2024-07-09T21:38:06Z"
   },
   {
-   "item_id": "666731869",
-   "given_url": "https://en.m.wikipedia.org/wiki/Aligot",
-   "given_title": "Aligot - Wikipedia",
-   "resolved_title": "Aligot",
-   "resolved_url": "https://en.wikipedia.org/wiki/Aligot",
-   "time_updated": "2024-07-10T23:53:05Z",
-   "time_added": "2024-07-10T23:53:04Z"
-  },
-  {
    "item_id": "2434531691",
    "given_url": "https://www.culturagenial.com/poema-autopsicografia-de-fernando-pessoa/",
    "given_title": "Poema Autopsicografia, de Fernando Pessoa (análise e significado) - Cultura",
@@ -137,6 +65,51 @@
    "resolved_url": "https://www.culturagenial.com/poema-autopsicografia-de-fernando-pessoa/",
    "time_updated": "2024-07-08T23:49:54Z",
    "time_added": "2024-07-08T23:49:53Z"
+  },
+  {
+   "item_id": "4073624200",
+   "given_url": "https://m.youtube.com/watch?v=a1IBpsuCI14\u0026embeds_referring_euri=https%3A%2F%2Fwww.culturagenial.com%2F\u0026source_ve_path=MA",
+   "given_title": "Não sou nada... - YouTube",
+   "resolved_title": "Não sou nada...",
+   "resolved_url": "http://www.youtube.com/watch?v=a1IBpsuCI14",
+   "time_updated": "2024-07-08T23:48:02Z",
+   "time_added": "2024-07-08T23:48:00Z"
+  },
+  {
+   "item_id": "4073498789",
+   "given_url": "https://paulgraham.com/persistence.html",
+   "given_title": "The Right Kind of Stubborn",
+   "resolved_title": "The Right Kind of Stubborn",
+   "resolved_url": "https://paulgraham.com/persistence.html",
+   "time_updated": "2024-07-09T10:30:48Z",
+   "time_added": "2024-07-09T10:30:45Z"
+  },
+  {
+   "item_id": "4074332753",
+   "given_url": "https://news.ycombinator.com/item?id=40926350",
+   "given_title": "All: if you're going to post on a topic like this please make sure you're n",
+   "resolved_title": "All : if you're going to post on a topic like this please make sure you're not ju... : Hacker News",
+   "resolved_url": "https://news.ycombinator.com/item?id=40926350",
+   "time_updated": "2024-07-10T14:44:43Z",
+   "time_added": "2024-07-10T14:44:40Z"
+  },
+  {
+   "item_id": "4074061888",
+   "given_url": "https://m.youtube.com/watch?v=Zx7IjLohI6I",
+   "given_title": "A Brief Review of Pokémon Generations 1-5 - YouTube",
+   "resolved_title": "A Brief Review of Pokémon Generations 1-5",
+   "resolved_url": "http://www.youtube.com/watch?v=Zx7IjLohI6I",
+   "time_updated": "2024-07-09T23:18:39Z",
+   "time_added": "2024-07-09T23:18:35Z"
+  },
+  {
+   "item_id": "4074225148",
+   "given_url": "https://www.uol.com.br/tilt/noticias/redacao/2024/07/10/4200-km-cientistas-descobrem-como-borboletas-atravessaram-oceano-sem-parar.htm",
+   "given_title": "4.200 km: como borboletas atravessaram oceano sem parar",
+   "resolved_title": "Cientistas descobrem como borboletas atravessaram oceano sem parar",
+   "resolved_url": "https://www.uol.com.br/tilt/noticias/redacao/2024/07/10/4200-km-cientistas-descobrem-como-borboletas-atravessaram-oceano-sem-parar.htm",
+   "time_updated": "2024-07-10T23:09:59Z",
+   "time_added": "2024-07-10T23:09:58Z"
   },
   {
    "item_id": "3791609888",
@@ -148,6 +121,15 @@
    "time_added": "2024-07-08T23:59:35Z"
   },
   {
+   "item_id": "1544632885",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Homem_cordial",
+   "given_title": "Homem cordial – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Homem cordial",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Homem_cordial",
+   "time_updated": "2024-07-08T23:18:15Z",
+   "time_added": "2024-07-08T23:18:13Z"
+  },
+  {
    "item_id": "4073621662",
    "given_url": "https://www.ottonihistoria.com/post/o-que-%C3%A9-o-homem-cordial-entenda-esse-conceito",
    "given_title": "O HOMEM CORDIAL: o que significa esse conceito?",
@@ -155,6 +137,24 @@
    "resolved_url": "https://www.ottonihistoria.com/post/o-que-%C3%A9-o-homem-cordial-entenda-esse-conceito",
    "time_updated": "2024-07-08T23:37:35Z",
    "time_added": "2024-07-08T23:37:32Z"
+  },
+  {
+   "item_id": "4073635912",
+   "given_url": "https://x.com/Edukator_Teco/status/1810370848865620463",
+   "given_title": "Teco on X: \"\"Nossa, vc gosta de Interpol, Joy Division, The Cure, Portishea",
+   "resolved_title": "x.com",
+   "resolved_url": "https://twitter.com/x/migrate?tok=7b2265223a222f4564756b61746f725f5465636f2f7374617475732f31383130333730383438383635363230343633222c2274223a313732303438353336357d7ca4943c50fff1c9173bcf2ddf8d431d",
+   "time_updated": "2024-07-09T00:36:05Z",
+   "time_added": "2024-07-09T00:36:03Z"
+  },
+  {
+   "item_id": "4070031629",
+   "given_url": "https://pt.m.wikipedia.org/wiki/L%C3%ADngua_quimbundo",
+   "given_title": "Língua quimbundo – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Língua quimbundo",
+   "resolved_url": "https://pt.wikipedia.org/wiki/L%C3%ADngua_quimbundo",
+   "time_updated": "2024-07-10T20:19:44Z",
+   "time_added": "2024-07-10T20:19:43Z"
   }
  ]
 }

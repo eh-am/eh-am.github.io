@@ -4,96 +4,6 @@
  "sortKey": "2024-27",
  "items": [
   {
-   "item_id": "4073093769",
-   "given_url": "https://noticias.uol.com.br/colunas/carlos-madeiro/2024/07/07/gravuras-achadas-em-ilhas-sugerem-culto-ao-sol-de-povos-pre-coloniais-no-pa.htm",
-   "given_title": "Gravuras achadas em ilhas sugerem culto ao sol de povos pré-coloniais no PA",
-   "resolved_title": "Gravuras achadas em ilhas sugerem culto ao sol de povos pré-coloniais no PA",
-   "resolved_url": "https://noticias.uol.com.br/colunas/carlos-madeiro/2024/07/07/gravuras-achadas-em-ilhas-sugerem-culto-ao-sol-de-povos-pre-coloniais-no-pa.htm",
-   "time_updated": "2024-07-07T18:11:08Z",
-   "time_added": "2024-07-07T18:11:07Z"
-  },
-  {
-   "item_id": "4072463171",
-   "given_url": "https://en.m.wikipedia.org/w/index.php?title=Assimilado\u0026diffonly=true",
-   "given_title": "",
-   "resolved_title": "Assimilado",
-   "resolved_url": "https://en.wikipedia.org/wiki/Assimilado",
-   "time_updated": "2024-07-05T23:10:50Z",
-   "time_added": "2024-07-05T23:10:49Z"
-  },
-  {
-   "item_id": "163088389",
-   "given_url": "https://en.m.wikipedia.org/wiki/Lusotropicalism",
-   "given_title": "Lusotropicalism - Wikipedia",
-   "resolved_title": "Lusotropicalism",
-   "resolved_url": "https://en.wikipedia.org/wiki/Lusotropicalism",
-   "time_updated": "2024-07-05T23:22:48Z",
-   "time_added": "2024-07-05T23:22:47Z"
-  },
-  {
-   "item_id": "4072473852",
-   "given_url": "https://m.youtube.com/watch?v=_sIPG_HaUhs",
-   "given_title": "Star Trek: The Next Generation (1987-94). Part One. Where No Pun Has Gone B",
-   "resolved_title": "Star Trek: The Next Generation (1987-94). Part One. Where No Pun Has Gone Before.",
-   "resolved_url": "http://www.youtube.com/watch?v=_sIPG_HaUhs",
-   "time_updated": "2024-07-05T23:38:49Z",
-   "time_added": "2024-07-05T23:38:47Z"
-  },
-  {
-   "item_id": "3595258696",
-   "given_url": "https://www.semver-ts.org/",
-   "given_title": "Introduction - Semantic Versioning for TypeScript Types",
-   "resolved_title": "Semantic Versioning for TypeScript Types",
-   "resolved_url": "https://www.semver-ts.org/",
-   "time_updated": "2024-07-07T10:28:40Z",
-   "time_added": "2024-07-07T10:28:39Z"
-  },
-  {
-   "item_id": "3739511165",
-   "given_url": "https://www.theoryculturesociety.org/blog/review-walter-rodney-how-europe-underdeveloped-africa",
-   "given_title": "Review: Walter Rodney, ‘How Europe Underdeveloped Africa’ — Theory, Culture",
-   "resolved_title": "Review: Walter Rodney, ‘How Europe Underdeveloped Africa’",
-   "resolved_url": "https://www.theoryculturesociety.org/blog/review-walter-rodney-how-europe-underdeveloped-africa",
-   "time_updated": "2024-07-06T10:36:05Z",
-   "time_added": "2024-07-06T10:36:04Z"
-  },
-  {
-   "item_id": "662095940",
-   "given_url": "https://en.m.wikipedia.org/wiki/How_Europe_Underdeveloped_Africa",
-   "given_title": "How Europe Underdeveloped Africa - Wikipedia",
-   "resolved_title": "How Europe Underdeveloped Africa",
-   "resolved_url": "https://en.wikipedia.org/wiki/How_Europe_Underdeveloped_Africa",
-   "time_updated": "2024-07-06T08:49:23Z",
-   "time_added": "2024-07-06T08:49:22Z"
-  },
-  {
-   "item_id": "4070661831",
-   "given_url": "https://thefilmstage.com/first-trailer-for-the-new-7-hour-version-of-abel-gances-restored-napoleon/",
-   "given_title": "First Trailer for the New 7-Hour Version of Abel Gance’s Restored Napoleon",
-   "resolved_title": "First Trailer for the New 7-Hour Version of Abel Gance’s Restored Napoleon",
-   "resolved_url": "https://thefilmstage.com/first-trailer-for-the-new-7-hour-version-of-abel-gances-restored-napoleon/",
-   "time_updated": "2024-07-07T21:37:11Z",
-   "time_added": "2024-07-07T21:37:10Z"
-  },
-  {
-   "item_id": "439512416",
-   "given_url": "https://en.m.wikipedia.org/wiki/Abel_Gance",
-   "given_title": "Abel Gance - Wikipedia",
-   "resolved_title": "Abel Gance",
-   "resolved_url": "http://en.m.wikipedia.org/wiki/Abel_Gance",
-   "time_updated": "2024-07-07T21:34:28Z",
-   "time_added": "2024-07-07T21:34:27Z"
-  },
-  {
-   "item_id": "4072571972",
-   "given_url": "https://www.uol.com.br/nossa/noticias/redacao/2024/07/06/o-picadinho-do-ritz-e-outras-comidas-afetivas-de-restaurantes-de-sao-paulo.htm",
-   "given_title": "O picadinho do Ritz e outras comidas afetivas de restaurantes de SP",
-   "resolved_title": "O picadinho do Ritz e outras comidas afetivas de restaurantes de São Paulo",
-   "resolved_url": "https://www.uol.com.br/nossa/noticias/redacao/2024/07/06/o-picadinho-do-ritz-e-outras-comidas-afetivas-de-restaurantes-de-sao-paulo.htm",
-   "time_updated": "2024-07-06T14:29:14Z",
-   "time_added": "2024-07-06T14:29:14Z"
-  },
-  {
    "item_id": "3933005127",
    "given_url": "https://kyleshevlin.com/typescript-prevents-bad-things-and-good-things/",
    "given_title": "Typescript Prevents Bad Things... and Good Things | Kyle Shevlin",
@@ -101,33 +11,6 @@
    "resolved_url": "https://kyleshevlin.com/typescript-prevents-bad-things-and-good-things",
    "time_updated": "2024-07-07T10:13:19Z",
    "time_added": "2024-07-07T10:13:16Z"
-  },
-  {
-   "item_id": "1127048103",
-   "given_url": "https://www.youtube.com/watch?v=IAbpVXEUt_c",
-   "given_title": "How to properly fold a burrito. - YouTube",
-   "resolved_title": "How to properly fold a burrito.",
-   "resolved_url": "https://www.youtube.com/watch?v=IAbpVXEUt_c",
-   "time_updated": "2024-07-07T15:14:51Z",
-   "time_added": "2024-07-07T15:14:51Z"
-  },
-  {
-   "item_id": "975646884",
-   "given_url": "https://en.m.wikipedia.org/wiki/Assimilation_(French_colonialism)",
-   "given_title": "Assimilation (French colonialism) - Wikipedia",
-   "resolved_title": "Assimilation (French colonialism)",
-   "resolved_url": "https://en.wikipedia.org/wiki/Assimilation_(French_colonialism)",
-   "time_updated": "2024-07-05T21:24:04Z",
-   "time_added": "2024-07-05T21:24:03Z"
-  },
-  {
-   "item_id": "4072596702",
-   "given_url": "https://ptjornal.com/video-burro-scolari-ha-10-anos-215590",
-   "given_title": "Vídeo: \"E o burro sou eu?\", de Scolari foi há 10 anos",
-   "resolved_title": "Vídeo: “E o burro sou eu?”, de Scolari foi há 10 anos",
-   "resolved_url": "https://ptjornal.com/video-burro-scolari-ha-10-anos-215590",
-   "time_updated": "2024-07-06T08:53:51Z",
-   "time_added": "2024-07-06T08:53:49Z"
   },
   {
    "item_id": "4072975717",
@@ -148,15 +31,6 @@
    "time_added": "2024-07-07T21:38:13Z"
   },
   {
-   "item_id": "4072394319",
-   "given_url": "https://vimeo.com/120126883",
-   "given_title": "Morde \u0026 Assopra - Dinossauro on Vimeo",
-   "resolved_title": "Morde \u0026 Assopra - Dinossauro",
-   "resolved_url": "https://vimeo.com/120126883",
-   "time_updated": "2024-07-05T18:49:10Z",
-   "time_added": "2024-07-05T18:49:08Z"
-  },
-  {
    "item_id": "1880267760",
    "given_url": "https://pt.m.wikipedia.org/wiki/Rom%C3%A3ozinho",
    "given_title": "Romãozinho – Wikipédia, a enciclopédia livre",
@@ -166,6 +40,42 @@
    "time_added": "2024-07-06T08:25:15Z"
   },
   {
+   "item_id": "1127048103",
+   "given_url": "https://www.youtube.com/watch?v=IAbpVXEUt_c",
+   "given_title": "How to properly fold a burrito. - YouTube",
+   "resolved_title": "How to properly fold a burrito.",
+   "resolved_url": "https://www.youtube.com/watch?v=IAbpVXEUt_c",
+   "time_updated": "2024-07-07T15:14:51Z",
+   "time_added": "2024-07-07T15:14:51Z"
+  },
+  {
+   "item_id": "4072596702",
+   "given_url": "https://ptjornal.com/video-burro-scolari-ha-10-anos-215590",
+   "given_title": "Vídeo: \"E o burro sou eu?\", de Scolari foi há 10 anos",
+   "resolved_title": "Vídeo: “E o burro sou eu?”, de Scolari foi há 10 anos",
+   "resolved_url": "https://ptjornal.com/video-burro-scolari-ha-10-anos-215590",
+   "time_updated": "2024-07-06T08:53:51Z",
+   "time_added": "2024-07-06T08:53:49Z"
+  },
+  {
+   "item_id": "4073093769",
+   "given_url": "https://noticias.uol.com.br/colunas/carlos-madeiro/2024/07/07/gravuras-achadas-em-ilhas-sugerem-culto-ao-sol-de-povos-pre-coloniais-no-pa.htm",
+   "given_title": "Gravuras achadas em ilhas sugerem culto ao sol de povos pré-coloniais no PA",
+   "resolved_title": "Gravuras achadas em ilhas sugerem culto ao sol de povos pré-coloniais no PA",
+   "resolved_url": "https://noticias.uol.com.br/colunas/carlos-madeiro/2024/07/07/gravuras-achadas-em-ilhas-sugerem-culto-ao-sol-de-povos-pre-coloniais-no-pa.htm",
+   "time_updated": "2024-07-07T18:11:08Z",
+   "time_added": "2024-07-07T18:11:07Z"
+  },
+  {
+   "item_id": "3739511165",
+   "given_url": "https://www.theoryculturesociety.org/blog/review-walter-rodney-how-europe-underdeveloped-africa",
+   "given_title": "Review: Walter Rodney, ‘How Europe Underdeveloped Africa’ — Theory, Culture",
+   "resolved_title": "Review: Walter Rodney, ‘How Europe Underdeveloped Africa’",
+   "resolved_url": "https://www.theoryculturesociety.org/blog/review-walter-rodney-how-europe-underdeveloped-africa",
+   "time_updated": "2024-07-06T10:36:05Z",
+   "time_added": "2024-07-06T10:36:04Z"
+  },
+  {
    "item_id": "380643421",
    "given_url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in",
    "given_title": "for...in - JavaScript | MDN",
@@ -173,6 +83,51 @@
    "resolved_url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in",
    "time_updated": "2024-07-06T11:23:28Z",
    "time_added": "2024-07-06T11:23:28Z"
+  },
+  {
+   "item_id": "3595258696",
+   "given_url": "https://www.semver-ts.org/",
+   "given_title": "Introduction - Semantic Versioning for TypeScript Types",
+   "resolved_title": "Semantic Versioning for TypeScript Types",
+   "resolved_url": "https://www.semver-ts.org/",
+   "time_updated": "2024-07-07T10:28:40Z",
+   "time_added": "2024-07-07T10:28:39Z"
+  },
+  {
+   "item_id": "439512416",
+   "given_url": "https://en.m.wikipedia.org/wiki/Abel_Gance",
+   "given_title": "Abel Gance - Wikipedia",
+   "resolved_title": "Abel Gance",
+   "resolved_url": "http://en.m.wikipedia.org/wiki/Abel_Gance",
+   "time_updated": "2024-07-07T21:34:28Z",
+   "time_added": "2024-07-07T21:34:27Z"
+  },
+  {
+   "item_id": "662095940",
+   "given_url": "https://en.m.wikipedia.org/wiki/How_Europe_Underdeveloped_Africa",
+   "given_title": "How Europe Underdeveloped Africa - Wikipedia",
+   "resolved_title": "How Europe Underdeveloped Africa",
+   "resolved_url": "https://en.wikipedia.org/wiki/How_Europe_Underdeveloped_Africa",
+   "time_updated": "2024-07-06T08:49:23Z",
+   "time_added": "2024-07-06T08:49:22Z"
+  },
+  {
+   "item_id": "4072571972",
+   "given_url": "https://www.uol.com.br/nossa/noticias/redacao/2024/07/06/o-picadinho-do-ritz-e-outras-comidas-afetivas-de-restaurantes-de-sao-paulo.htm",
+   "given_title": "O picadinho do Ritz e outras comidas afetivas de restaurantes de SP",
+   "resolved_title": "O picadinho do Ritz e outras comidas afetivas de restaurantes de São Paulo",
+   "resolved_url": "https://www.uol.com.br/nossa/noticias/redacao/2024/07/06/o-picadinho-do-ritz-e-outras-comidas-afetivas-de-restaurantes-de-sao-paulo.htm",
+   "time_updated": "2024-07-06T14:29:14Z",
+   "time_added": "2024-07-06T14:29:14Z"
+  },
+  {
+   "item_id": "4070661831",
+   "given_url": "https://thefilmstage.com/first-trailer-for-the-new-7-hour-version-of-abel-gances-restored-napoleon/",
+   "given_title": "First Trailer for the New 7-Hour Version of Abel Gance’s Restored Napoleon",
+   "resolved_title": "First Trailer for the New 7-Hour Version of Abel Gance’s Restored Napoleon",
+   "resolved_url": "https://thefilmstage.com/first-trailer-for-the-new-7-hour-version-of-abel-gances-restored-napoleon/",
+   "time_updated": "2024-07-07T21:37:11Z",
+   "time_added": "2024-07-07T21:37:10Z"
   }
  ]
 }

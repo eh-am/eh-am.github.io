@@ -4,6 +4,15 @@
  "sortKey": "2024-28",
  "items": [
   {
+   "item_id": "3814349573",
+   "given_url": "https://www.thegamer.com/pokemon-designs-based-on-kaiju/",
+   "given_title": "Pokemon Based On Kaiju",
+   "resolved_title": "10 Pokemon Designs Based On Kaiju",
+   "resolved_url": "https://www.thegamer.com/pokemon-designs-based-on-kaiju/",
+   "time_updated": "2024-07-08T12:40:14Z",
+   "time_added": "2024-07-08T12:40:14Z"
+  },
+  {
    "item_id": "1544632885",
    "given_url": "https://pt.m.wikipedia.org/wiki/Homem_cordial",
    "given_title": "Homem cordial – Wikipédia, a enciclopédia livre",
@@ -11,15 +20,6 @@
    "resolved_url": "https://pt.wikipedia.org/wiki/Homem_cordial",
    "time_updated": "2024-07-08T23:18:15Z",
    "time_added": "2024-07-08T23:18:13Z"
-  },
-  {
-   "item_id": "4074225148",
-   "given_url": "https://www.uol.com.br/tilt/noticias/redacao/2024/07/10/4200-km-cientistas-descobrem-como-borboletas-atravessaram-oceano-sem-parar.htm",
-   "given_title": "4.200 km: como borboletas atravessaram oceano sem parar",
-   "resolved_title": "Cientistas descobrem como borboletas atravessaram oceano sem parar",
-   "resolved_url": "https://www.uol.com.br/tilt/noticias/redacao/2024/07/10/4200-km-cientistas-descobrem-como-borboletas-atravessaram-oceano-sem-parar.htm",
-   "time_updated": "2024-07-10T23:09:59Z",
-   "time_added": "2024-07-10T23:09:58Z"
   },
   {
    "item_id": "4073624200",
@@ -31,121 +31,22 @@
    "time_added": "2024-07-08T23:48:00Z"
   },
   {
-   "item_id": "1096168784",
-   "given_url": "https://en.m.wikipedia.org/wiki/If_I_Had_Words",
-   "given_title": "If I Had Words - Wikipedia",
-   "resolved_title": "If I Had Words",
-   "resolved_url": "https://en.wikipedia.org/wiki/If_I_Had_Words",
-   "time_updated": "2024-07-12T09:51:12Z",
-   "time_added": "2024-07-12T09:51:10Z"
+   "item_id": "4074225148",
+   "given_url": "https://www.uol.com.br/tilt/noticias/redacao/2024/07/10/4200-km-cientistas-descobrem-como-borboletas-atravessaram-oceano-sem-parar.htm",
+   "given_title": "4.200 km: como borboletas atravessaram oceano sem parar",
+   "resolved_title": "Cientistas descobrem como borboletas atravessaram oceano sem parar",
+   "resolved_url": "https://www.uol.com.br/tilt/noticias/redacao/2024/07/10/4200-km-cientistas-descobrem-como-borboletas-atravessaram-oceano-sem-parar.htm",
+   "time_updated": "2024-07-10T23:09:59Z",
+   "time_added": "2024-07-10T23:09:58Z"
   },
   {
-   "item_id": "4073620553",
-   "given_url": "https://www.recantodasletras.com.br/analise-de-obras/5699331",
-   "given_title": "Análise do poema “Não te amo”, de Almeida Garrett",
-   "resolved_title": "Análise do poema “Não te amo”, de Almeida Garrett",
-   "resolved_url": "https://www.recantodasletras.com.br/analise-de-obras/5699331",
-   "time_updated": "2024-07-08T23:32:56Z",
-   "time_added": "2024-07-08T23:32:53Z"
-  },
-  {
-   "item_id": "666731869",
-   "given_url": "https://en.m.wikipedia.org/wiki/Aligot",
-   "given_title": "Aligot - Wikipedia",
-   "resolved_title": "Aligot",
-   "resolved_url": "https://en.wikipedia.org/wiki/Aligot",
-   "time_updated": "2024-07-10T23:53:05Z",
-   "time_added": "2024-07-10T23:53:04Z"
-  },
-  {
-   "item_id": "4073498789",
-   "given_url": "https://paulgraham.com/persistence.html",
-   "given_title": "The Right Kind of Stubborn",
-   "resolved_title": "The Right Kind of Stubborn",
-   "resolved_url": "https://paulgraham.com/persistence.html",
-   "time_updated": "2024-07-09T10:30:48Z",
-   "time_added": "2024-07-09T10:30:45Z"
-  },
-  {
-   "item_id": "4074061888",
-   "given_url": "https://m.youtube.com/watch?v=Zx7IjLohI6I",
-   "given_title": "A Brief Review of Pokémon Generations 1-5 - YouTube",
-   "resolved_title": "A Brief Review of Pokémon Generations 1-5",
-   "resolved_url": "http://www.youtube.com/watch?v=Zx7IjLohI6I",
-   "time_updated": "2024-07-09T23:18:39Z",
-   "time_added": "2024-07-09T23:18:35Z"
-  },
-  {
-   "item_id": "4073621662",
-   "given_url": "https://www.ottonihistoria.com/post/o-que-%C3%A9-o-homem-cordial-entenda-esse-conceito",
-   "given_title": "O HOMEM CORDIAL: o que significa esse conceito?",
-   "resolved_title": "O que é o homem cordial? Entenda esse conceito.",
-   "resolved_url": "https://www.ottonihistoria.com/post/o-que-%C3%A9-o-homem-cordial-entenda-esse-conceito",
-   "time_updated": "2024-07-08T23:37:35Z",
-   "time_added": "2024-07-08T23:37:32Z"
-  },
-  {
-   "item_id": "1729064791",
-   "given_url": "https://learncssgrid.com/",
-   "given_title": "Learn CSS Grid - A Guide to Learning CSS Grid | Jonathan Suh",
-   "resolved_title": "A guide to learning CSS grid by @jonsuh",
-   "resolved_url": "https://learncssgrid.com/",
-   "time_updated": "2024-07-08T11:27:55Z",
-   "time_added": "2024-07-08T11:27:55Z"
-  },
-  {
-   "item_id": "4073635912",
-   "given_url": "https://x.com/Edukator_Teco/status/1810370848865620463",
-   "given_title": "Teco on X: \"\"Nossa, vc gosta de Interpol, Joy Division, The Cure, Portishea",
-   "resolved_title": "x.com",
-   "resolved_url": "https://twitter.com/x/migrate?tok=7b2265223a222f4564756b61746f725f5465636f2f7374617475732f31383130333730383438383635363230343633222c2274223a313732303438353336357d7ca4943c50fff1c9173bcf2ddf8d431d",
-   "time_updated": "2024-07-09T00:36:05Z",
-   "time_added": "2024-07-09T00:36:03Z"
-  },
-  {
-   "item_id": "4074899465",
-   "given_url": "https://sol.sapo.pt/2013/06/11/sapos-o-tabu-da-etnia-cigana/",
-   "given_title": "Sapos: O tabu da etnia cigana",
-   "resolved_title": "Sapos: O tabu da etnia cigana",
-   "resolved_url": "https://sol.sapo.pt/2013/06/11/sapos-o-tabu-da-etnia-cigana/",
-   "time_updated": "2024-07-11T22:33:09Z",
-   "time_added": "2024-07-11T22:33:08Z"
-  },
-  {
-   "item_id": "4070031629",
-   "given_url": "https://pt.m.wikipedia.org/wiki/L%C3%ADngua_quimbundo",
-   "given_title": "Língua quimbundo – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Língua quimbundo",
-   "resolved_url": "https://pt.wikipedia.org/wiki/L%C3%ADngua_quimbundo",
-   "time_updated": "2024-07-10T20:19:44Z",
-   "time_added": "2024-07-10T20:19:43Z"
-  },
-  {
-   "item_id": "3814349573",
-   "given_url": "https://www.thegamer.com/pokemon-designs-based-on-kaiju/",
-   "given_title": "Pokemon Based On Kaiju",
-   "resolved_title": "10 Pokemon Designs Based On Kaiju",
-   "resolved_url": "https://www.thegamer.com/pokemon-designs-based-on-kaiju/",
-   "time_updated": "2024-07-08T12:40:14Z",
-   "time_added": "2024-07-08T12:40:14Z"
-  },
-  {
-   "item_id": "2729828463",
-   "given_url": "https://www.culturagenial.com/poemas-fundamentais-fernando-pessoa/",
-   "given_title": "10 melhores poemas de Fernando Pessoa (analisados e comentados) - Cultura G",
-   "resolved_title": "Fernando Pessoa: 10 poemas fundamentais",
-   "resolved_url": "https://www.culturagenial.com/poemas-fundamentais-fernando-pessoa/",
-   "time_updated": "2024-07-08T23:46:12Z",
-   "time_added": "2024-07-08T23:46:11Z"
-  },
-  {
-   "item_id": "2434531691",
-   "given_url": "https://www.culturagenial.com/poema-autopsicografia-de-fernando-pessoa/",
-   "given_title": "Poema Autopsicografia, de Fernando Pessoa (análise e significado) - Cultura",
-   "resolved_title": "Poema Autopsicografia, de Fernando Pessoa",
-   "resolved_url": "https://www.culturagenial.com/poema-autopsicografia-de-fernando-pessoa/",
-   "time_updated": "2024-07-08T23:49:54Z",
-   "time_added": "2024-07-08T23:49:53Z"
+   "item_id": "4075743368",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Farinheira",
+   "given_title": "Farinheira – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Farinheira",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Farinheira",
+   "time_updated": "2024-07-13T21:48:26Z",
+   "time_added": "2024-07-13T21:48:24Z"
   },
   {
    "item_id": "3791609888",
@@ -157,6 +58,96 @@
    "time_added": "2024-07-08T23:59:35Z"
   },
   {
+   "item_id": "4073635912",
+   "given_url": "https://x.com/Edukator_Teco/status/1810370848865620463",
+   "given_title": "Teco on X: \"\"Nossa, vc gosta de Interpol, Joy Division, The Cure, Portishea",
+   "resolved_title": "x.com",
+   "resolved_url": "https://twitter.com/x/migrate?tok=7b2265223a222f4564756b61746f725f5465636f2f7374617475732f31383130333730383438383635363230343633222c2274223a313732303438353336357d7ca4943c50fff1c9173bcf2ddf8d431d",
+   "time_updated": "2024-07-09T00:36:05Z",
+   "time_added": "2024-07-09T00:36:03Z"
+  },
+  {
+   "item_id": "1096168784",
+   "given_url": "https://en.m.wikipedia.org/wiki/If_I_Had_Words",
+   "given_title": "If I Had Words - Wikipedia",
+   "resolved_title": "If I Had Words",
+   "resolved_url": "https://en.wikipedia.org/wiki/If_I_Had_Words",
+   "time_updated": "2024-07-12T09:51:12Z",
+   "time_added": "2024-07-12T09:51:10Z"
+  },
+  {
+   "item_id": "4073498789",
+   "given_url": "https://paulgraham.com/persistence.html",
+   "given_title": "The Right Kind of Stubborn",
+   "resolved_title": "The Right Kind of Stubborn",
+   "resolved_url": "https://paulgraham.com/persistence.html",
+   "time_updated": "2024-07-09T10:30:48Z",
+   "time_added": "2024-07-09T10:30:45Z"
+  },
+  {
+   "item_id": "4074899465",
+   "given_url": "https://sol.sapo.pt/2013/06/11/sapos-o-tabu-da-etnia-cigana/",
+   "given_title": "Sapos: O tabu da etnia cigana",
+   "resolved_title": "Sapos: O tabu da etnia cigana",
+   "resolved_url": "https://sol.sapo.pt/2013/06/11/sapos-o-tabu-da-etnia-cigana/",
+   "time_updated": "2024-07-11T22:33:09Z",
+   "time_added": "2024-07-11T22:33:08Z"
+  },
+  {
+   "item_id": "4075715911",
+   "given_url": "https://wordhistories.net/2022/11/06/clutch-pearls/",
+   "given_title": "‘to clutch the pearls’: meaning and origin | word histories",
+   "resolved_title": "‘to clutch the pearls’: meaning and origin",
+   "resolved_url": "https://wordhistories.net/2022/11/06/clutch-pearls/",
+   "time_updated": "2024-07-13T20:08:35Z",
+   "time_added": "2024-07-13T20:08:34Z"
+  },
+  {
+   "item_id": "4073620553",
+   "given_url": "https://www.recantodasletras.com.br/analise-de-obras/5699331",
+   "given_title": "Análise do poema “Não te amo”, de Almeida Garrett",
+   "resolved_title": "Análise do poema “Não te amo”, de Almeida Garrett",
+   "resolved_url": "https://www.recantodasletras.com.br/analise-de-obras/5699331",
+   "time_updated": "2024-07-08T23:32:56Z",
+   "time_added": "2024-07-08T23:32:53Z"
+  },
+  {
+   "item_id": "2729828463",
+   "given_url": "https://www.culturagenial.com/poemas-fundamentais-fernando-pessoa/",
+   "given_title": "10 melhores poemas de Fernando Pessoa (analisados e comentados) - Cultura G",
+   "resolved_title": "Fernando Pessoa: 10 poemas fundamentais",
+   "resolved_url": "https://www.culturagenial.com/poemas-fundamentais-fernando-pessoa/",
+   "time_updated": "2024-07-08T23:46:12Z",
+   "time_added": "2024-07-08T23:46:11Z"
+  },
+  {
+   "item_id": "4070031629",
+   "given_url": "https://pt.m.wikipedia.org/wiki/L%C3%ADngua_quimbundo",
+   "given_title": "Língua quimbundo – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Língua quimbundo",
+   "resolved_url": "https://pt.wikipedia.org/wiki/L%C3%ADngua_quimbundo",
+   "time_updated": "2024-07-10T20:19:44Z",
+   "time_added": "2024-07-10T20:19:43Z"
+  },
+  {
+   "item_id": "221669666",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Bife_%C3%A0_parmegiana",
+   "given_title": "Bife à parmegiana – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Bife à parmegiana",
+   "resolved_url": "http://pt.m.wikipedia.org/wiki/Bife_%C3%A0_parmegiana",
+   "time_updated": "2024-07-12T20:09:17Z",
+   "time_added": "2024-07-12T20:09:16Z"
+  },
+  {
+   "item_id": "4075660536",
+   "given_url": "https://en.m.wikipedia.org/wiki/Dante's_Disneyland_Inferno",
+   "given_title": "Dante's Disneyland Inferno - Wikipedia",
+   "resolved_title": "Dante's Disneyland Inferno",
+   "resolved_url": "https://en.wikipedia.org/wiki/Dante%27s_Disneyland_Inferno",
+   "time_updated": "2024-07-13T16:43:15Z",
+   "time_added": "2024-07-13T16:43:11Z"
+  },
+  {
    "item_id": "623068509",
    "given_url": "https://pt.m.wikipedia.org/wiki/Clube_de_Bilderberg",
    "given_title": "Clube de Bilderberg – Wikipédia, a enciclopédia livre",
@@ -164,6 +155,15 @@
    "resolved_url": "https://pt.wikipedia.org/wiki/Clube_de_Bilderberg",
    "time_updated": "2024-07-09T21:38:07Z",
    "time_added": "2024-07-09T21:38:06Z"
+  },
+  {
+   "item_id": "4074061888",
+   "given_url": "https://m.youtube.com/watch?v=Zx7IjLohI6I",
+   "given_title": "A Brief Review of Pokémon Generations 1-5 - YouTube",
+   "resolved_title": "A Brief Review of Pokémon Generations 1-5",
+   "resolved_url": "http://www.youtube.com/watch?v=Zx7IjLohI6I",
+   "time_updated": "2024-07-09T23:18:39Z",
+   "time_added": "2024-07-09T23:18:35Z"
   },
   {
    "item_id": "4074332753",
@@ -175,13 +175,67 @@
    "time_added": "2024-07-10T14:44:40Z"
   },
   {
-   "item_id": "221669666",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Bife_%C3%A0_parmegiana",
-   "given_title": "Bife à parmegiana – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Bife à parmegiana",
-   "resolved_url": "http://pt.m.wikipedia.org/wiki/Bife_%C3%A0_parmegiana",
-   "time_updated": "2024-07-12T20:09:17Z",
-   "time_added": "2024-07-12T20:09:16Z"
+   "item_id": "4075707384",
+   "given_url": "https://m.youtube.com/watch?v=-oqAU5VxFWs\u0026pp=ygUXbXIgam9uZXMgY291bnRpbmcgY3Jvd3M%3D",
+   "given_title": "Counting Crows - Mr. Jones (Official Music Video) - YouTube",
+   "resolved_title": "Counting Crows - Mr. Jones (Official Music Video)",
+   "resolved_url": "http://www.youtube.com/watch?v=-oqAU5VxFWs",
+   "time_updated": "2024-07-13T19:35:21Z",
+   "time_added": "2024-07-13T19:35:15Z"
+  },
+  {
+   "item_id": "1729064791",
+   "given_url": "https://learncssgrid.com/",
+   "given_title": "Learn CSS Grid - A Guide to Learning CSS Grid | Jonathan Suh",
+   "resolved_title": "A guide to learning CSS grid by @jonsuh",
+   "resolved_url": "https://learncssgrid.com/",
+   "time_updated": "2024-07-08T11:27:55Z",
+   "time_added": "2024-07-08T11:27:55Z"
+  },
+  {
+   "item_id": "4073621662",
+   "given_url": "https://www.ottonihistoria.com/post/o-que-%C3%A9-o-homem-cordial-entenda-esse-conceito",
+   "given_title": "O HOMEM CORDIAL: o que significa esse conceito?",
+   "resolved_title": "O que é o homem cordial? Entenda esse conceito.",
+   "resolved_url": "https://www.ottonihistoria.com/post/o-que-%C3%A9-o-homem-cordial-entenda-esse-conceito",
+   "time_updated": "2024-07-08T23:37:35Z",
+   "time_added": "2024-07-08T23:37:32Z"
+  },
+  {
+   "item_id": "666731869",
+   "given_url": "https://en.m.wikipedia.org/wiki/Aligot",
+   "given_title": "Aligot - Wikipedia",
+   "resolved_title": "Aligot",
+   "resolved_url": "https://en.wikipedia.org/wiki/Aligot",
+   "time_updated": "2024-07-10T23:53:05Z",
+   "time_added": "2024-07-10T23:53:04Z"
+  },
+  {
+   "item_id": "4012709137",
+   "given_url": "https://ge.globo.com/blogs/painel-tatico/post/2019/02/12/chega-de-saudosismo-romantizar-o-passado-impede-o-futebol-brasileiro-de-olhar-pra-frente.ghtml",
+   "given_title": "Chega de saudosismo! Romantizar o passado impede o futebol brasileiro de ol",
+   "resolved_title": "Chega de saudosismo! Romantizar o passado impede o futebol brasileiro de olhar pra frente",
+   "resolved_url": "https://ge.globo.com/blogs/painel-tatico/post/2019/02/12/chega-de-saudosismo-romantizar-o-passado-impede-o-futebol-brasileiro-de-olhar-pra-frente.ghtml",
+   "time_updated": "2024-07-13T22:55:52Z",
+   "time_added": "2024-07-13T22:55:52Z"
+  },
+  {
+   "item_id": "117572574",
+   "given_url": "https://en.m.wikipedia.org/wiki/Laid_(song)",
+   "given_title": "Laid (song) - Wikipedia",
+   "resolved_title": "Laid (song)",
+   "resolved_url": "https://en.wikipedia.org/wiki/Laid_(song)",
+   "time_updated": "2024-07-13T20:30:22Z",
+   "time_added": "2024-07-13T20:30:21Z"
+  },
+  {
+   "item_id": "2434531691",
+   "given_url": "https://www.culturagenial.com/poema-autopsicografia-de-fernando-pessoa/",
+   "given_title": "Poema Autopsicografia, de Fernando Pessoa (análise e significado) - Cultura",
+   "resolved_title": "Poema Autopsicografia, de Fernando Pessoa",
+   "resolved_url": "https://www.culturagenial.com/poema-autopsicografia-de-fernando-pessoa/",
+   "time_updated": "2024-07-08T23:49:54Z",
+   "time_added": "2024-07-08T23:49:53Z"
   }
  ]
 }

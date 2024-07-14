@@ -4,15 +4,6 @@
  "sortKey": "2024-27",
  "items": [
   {
-   "item_id": "439512416",
-   "given_url": "https://en.m.wikipedia.org/wiki/Abel_Gance",
-   "given_title": "Abel Gance - Wikipedia",
-   "resolved_title": "Abel Gance",
-   "resolved_url": "http://en.m.wikipedia.org/wiki/Abel_Gance",
-   "time_updated": "2024-07-07T21:34:28Z",
-   "time_added": "2024-07-07T21:34:27Z"
-  },
-  {
    "item_id": "1127048103",
    "given_url": "https://www.youtube.com/watch?v=IAbpVXEUt_c",
    "given_title": "How to properly fold a burrito. - YouTube",
@@ -22,31 +13,13 @@
    "time_added": "2024-07-07T15:14:51Z"
   },
   {
-   "item_id": "3595258696",
-   "given_url": "https://www.semver-ts.org/",
-   "given_title": "Introduction - Semantic Versioning for TypeScript Types",
-   "resolved_title": "Semantic Versioning for TypeScript Types",
-   "resolved_url": "https://www.semver-ts.org/",
-   "time_updated": "2024-07-07T10:28:40Z",
-   "time_added": "2024-07-07T10:28:39Z"
-  },
-  {
-   "item_id": "3933005127",
-   "given_url": "https://kyleshevlin.com/typescript-prevents-bad-things-and-good-things/",
-   "given_title": "Typescript Prevents Bad Things... and Good Things | Kyle Shevlin",
-   "resolved_title": "Typescript Prevents Bad Things... and Good Things",
-   "resolved_url": "https://kyleshevlin.com/typescript-prevents-bad-things-and-good-things",
-   "time_updated": "2024-07-07T10:13:19Z",
-   "time_added": "2024-07-07T10:13:16Z"
-  },
-  {
-   "item_id": "4072975717",
-   "given_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/07/07/dia-do-ze-pelintra-quem-e-malandro-homenageado-no-rio-neste-domingo.htm",
-   "given_title": "Dia do Zé Pelintra: quem é ?malandro? homenageado no Rio neste domingo",
-   "resolved_title": "Zé Pelintra é homenageado no Rio: quem é o malandro de chapéu e terno?",
-   "resolved_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/07/07/dia-do-ze-pelintra-quem-e-malandro-homenageado-no-rio-neste-domingo.htm",
-   "time_updated": "2024-07-07T10:36:32Z",
-   "time_added": "2024-07-07T10:36:30Z"
+   "item_id": "4073156877",
+   "given_url": "https://m.youtube.com/watch?v=YoQkFQTe9cM",
+   "given_title": "Napoléon - Bande-annonce officielle HD - YouTube",
+   "resolved_title": "Napoléon - Bande-annonce officielle HD",
+   "resolved_url": "http://www.youtube.com/watch?v=YoQkFQTe9cM",
+   "time_updated": "2024-07-07T21:38:15Z",
+   "time_added": "2024-07-07T21:38:13Z"
   },
   {
    "item_id": "4073093769",
@@ -58,6 +31,15 @@
    "time_added": "2024-07-07T18:11:07Z"
   },
   {
+   "item_id": "439512416",
+   "given_url": "https://en.m.wikipedia.org/wiki/Abel_Gance",
+   "given_title": "Abel Gance - Wikipedia",
+   "resolved_title": "Abel Gance",
+   "resolved_url": "http://en.m.wikipedia.org/wiki/Abel_Gance",
+   "time_updated": "2024-07-07T21:34:28Z",
+   "time_added": "2024-07-07T21:34:27Z"
+  },
+  {
    "item_id": "4070661831",
    "given_url": "https://thefilmstage.com/first-trailer-for-the-new-7-hour-version-of-abel-gances-restored-napoleon/",
    "given_title": "First Trailer for the New 7-Hour Version of Abel Gance’s Restored Napoleon",
@@ -65,15 +47,6 @@
    "resolved_url": "https://thefilmstage.com/first-trailer-for-the-new-7-hour-version-of-abel-gances-restored-napoleon/",
    "time_updated": "2024-07-07T21:37:11Z",
    "time_added": "2024-07-07T21:37:10Z"
-  },
-  {
-   "item_id": "4073156877",
-   "given_url": "https://m.youtube.com/watch?v=YoQkFQTe9cM",
-   "given_title": "Napoléon - Bande-annonce officielle HD - YouTube",
-   "resolved_title": "Napoléon - Bande-annonce officielle HD",
-   "resolved_url": "http://www.youtube.com/watch?v=YoQkFQTe9cM",
-   "time_updated": "2024-07-07T21:38:15Z",
-   "time_added": "2024-07-07T21:38:13Z"
   }
  ]
 }

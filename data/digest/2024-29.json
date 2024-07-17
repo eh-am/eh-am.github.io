@@ -4,15 +4,6 @@
  "sortKey": "2024-29",
  "items": [
   {
-   "item_id": "4076776829",
-   "given_url": "https://www.shiftrle.gg/articles/bluey-we-got-super-lucky-with-alpha54-he-revived-my-career",
-   "given_title": "Bluey: \"We got super lucky with Alpha54, he revived my career\" | Shift",
-   "resolved_title": "Bluey : \"We got super lucky with Alpha54, he revived my career\"",
-   "resolved_url": "https://www.shiftrle.gg/articles/bluey-we-got-super-lucky-with-alpha54-he-revived-my-career",
-   "time_updated": "2024-07-16T09:41:54Z",
-   "time_added": "2024-07-16T09:41:52Z"
-  },
-  {
    "item_id": "2282643651",
    "given_url": "https://www.isc.org/blogs/cname-at-the-apex-of-a-zone/",
    "given_title": "CNAME at the apex of a zone - ISC",
@@ -20,6 +11,15 @@
    "resolved_url": "https://www.isc.org/blogs/cname-at-the-apex-of-a-zone/",
    "time_updated": "2024-07-16T22:01:58Z",
    "time_added": "2024-07-16T22:01:57Z"
+  },
+  {
+   "item_id": "4076776829",
+   "given_url": "https://www.shiftrle.gg/articles/bluey-we-got-super-lucky-with-alpha54-he-revived-my-career",
+   "given_title": "Bluey: \"We got super lucky with Alpha54, he revived my career\" | Shift",
+   "resolved_title": "Bluey : \"We got super lucky with Alpha54, he revived my career\"",
+   "resolved_url": "https://www.shiftrle.gg/articles/bluey-we-got-super-lucky-with-alpha54-he-revived-my-career",
+   "time_updated": "2024-07-16T09:41:54Z",
+   "time_added": "2024-07-16T09:41:52Z"
   }
  ]
 }

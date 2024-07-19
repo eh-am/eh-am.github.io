@@ -4,6 +4,15 @@
  "sortKey": "2024-28",
  "items": [
   {
+   "item_id": "221669666",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Bife_%C3%A0_parmegiana",
+   "given_title": "Bife à parmegiana – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Bife à parmegiana",
+   "resolved_url": "http://pt.m.wikipedia.org/wiki/Bife_%C3%A0_parmegiana",
+   "time_updated": "2024-07-12T20:09:17Z",
+   "time_added": "2024-07-12T20:09:16Z"
+  },
+  {
    "item_id": "4075660536",
    "given_url": "https://en.m.wikipedia.org/wiki/Dante's_Disneyland_Inferno",
    "given_title": "Dante's Disneyland Inferno - Wikipedia",
@@ -11,33 +20,6 @@
    "resolved_url": "https://en.wikipedia.org/wiki/Dante%27s_Disneyland_Inferno",
    "time_updated": "2024-07-13T16:43:15Z",
    "time_added": "2024-07-13T16:43:11Z"
-  },
-  {
-   "item_id": "4074899465",
-   "given_url": "https://sol.sapo.pt/2013/06/11/sapos-o-tabu-da-etnia-cigana/",
-   "given_title": "Sapos: O tabu da etnia cigana",
-   "resolved_title": "Sapos: O tabu da etnia cigana",
-   "resolved_url": "https://sol.sapo.pt/2013/06/11/sapos-o-tabu-da-etnia-cigana/",
-   "time_updated": "2024-07-11T22:33:09Z",
-   "time_added": "2024-07-11T22:33:08Z"
-  },
-  {
-   "item_id": "4075715911",
-   "given_url": "https://wordhistories.net/2022/11/06/clutch-pearls/",
-   "given_title": "‘to clutch the pearls’: meaning and origin | word histories",
-   "resolved_title": "‘to clutch the pearls’: meaning and origin",
-   "resolved_url": "https://wordhistories.net/2022/11/06/clutch-pearls/",
-   "time_updated": "2024-07-13T20:08:35Z",
-   "time_added": "2024-07-13T20:08:34Z"
-  },
-  {
-   "item_id": "4012709137",
-   "given_url": "https://ge.globo.com/blogs/painel-tatico/post/2019/02/12/chega-de-saudosismo-romantizar-o-passado-impede-o-futebol-brasileiro-de-olhar-pra-frente.ghtml",
-   "given_title": "Chega de saudosismo! Romantizar o passado impede o futebol brasileiro de ol",
-   "resolved_title": "Chega de saudosismo! Romantizar o passado impede o futebol brasileiro de olhar pra frente",
-   "resolved_url": "https://ge.globo.com/blogs/painel-tatico/post/2019/02/12/chega-de-saudosismo-romantizar-o-passado-impede-o-futebol-brasileiro-de-olhar-pra-frente.ghtml",
-   "time_updated": "2024-07-13T22:55:52Z",
-   "time_added": "2024-07-13T22:55:52Z"
   },
   {
    "item_id": "1096168784",
@@ -49,15 +31,6 @@
    "time_added": "2024-07-12T09:51:10Z"
   },
   {
-   "item_id": "4075707384",
-   "given_url": "https://m.youtube.com/watch?v=-oqAU5VxFWs\u0026pp=ygUXbXIgam9uZXMgY291bnRpbmcgY3Jvd3M%3D",
-   "given_title": "Counting Crows - Mr. Jones (Official Music Video) - YouTube",
-   "resolved_title": "Counting Crows - Mr. Jones (Official Music Video)",
-   "resolved_url": "http://www.youtube.com/watch?v=-oqAU5VxFWs",
-   "time_updated": "2024-07-13T19:35:21Z",
-   "time_added": "2024-07-13T19:35:15Z"
-  },
-  {
    "item_id": "117572574",
    "given_url": "https://en.m.wikipedia.org/wiki/Laid_(song)",
    "given_title": "Laid (song) - Wikipedia",
@@ -67,13 +40,31 @@
    "time_added": "2024-07-13T20:30:21Z"
   },
   {
-   "item_id": "221669666",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Bife_%C3%A0_parmegiana",
-   "given_title": "Bife à parmegiana – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Bife à parmegiana",
-   "resolved_url": "http://pt.m.wikipedia.org/wiki/Bife_%C3%A0_parmegiana",
-   "time_updated": "2024-07-12T20:09:17Z",
-   "time_added": "2024-07-12T20:09:16Z"
+   "item_id": "4012709137",
+   "given_url": "https://ge.globo.com/blogs/painel-tatico/post/2019/02/12/chega-de-saudosismo-romantizar-o-passado-impede-o-futebol-brasileiro-de-olhar-pra-frente.ghtml",
+   "given_title": "Chega de saudosismo! Romantizar o passado impede o futebol brasileiro de ol",
+   "resolved_title": "Chega de saudosismo! Romantizar o passado impede o futebol brasileiro de olhar pra frente",
+   "resolved_url": "https://ge.globo.com/blogs/painel-tatico/post/2019/02/12/chega-de-saudosismo-romantizar-o-passado-impede-o-futebol-brasileiro-de-olhar-pra-frente.ghtml",
+   "time_updated": "2024-07-13T22:55:52Z",
+   "time_added": "2024-07-13T22:55:52Z"
+  },
+  {
+   "item_id": "4075707384",
+   "given_url": "https://m.youtube.com/watch?v=-oqAU5VxFWs\u0026pp=ygUXbXIgam9uZXMgY291bnRpbmcgY3Jvd3M%3D",
+   "given_title": "Counting Crows - Mr. Jones (Official Music Video) - YouTube",
+   "resolved_title": "Counting Crows - Mr. Jones (Official Music Video)",
+   "resolved_url": "http://www.youtube.com/watch?v=-oqAU5VxFWs",
+   "time_updated": "2024-07-13T19:35:21Z",
+   "time_added": "2024-07-13T19:35:15Z"
+  },
+  {
+   "item_id": "4075715911",
+   "given_url": "https://wordhistories.net/2022/11/06/clutch-pearls/",
+   "given_title": "‘to clutch the pearls’: meaning and origin | word histories",
+   "resolved_title": "‘to clutch the pearls’: meaning and origin",
+   "resolved_url": "https://wordhistories.net/2022/11/06/clutch-pearls/",
+   "time_updated": "2024-07-13T20:08:35Z",
+   "time_added": "2024-07-13T20:08:34Z"
   },
   {
    "item_id": "4075743368",

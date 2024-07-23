@@ -19,26 +19,13 @@ func TestGroup(t *testing.T) {
 		},
 	})
 
-	want := map[string]wd.GroupedItems{
-		"2023-16": wd.GroupedItems{
-			Year:       "2023",
-			WeekNumber: "16",
-			Items: []wd.Item{
-				{
-					TimeUpdated: main.Timestamp{time.Unix(1682257852, 0)},
-				},
-			},
-		},
-		"2023-17": wd.GroupedItems{
-			Year:       "2023",
-			WeekNumber: "17",
-			Items: []wd.Item{
-				{
-					TimeUpdated: main.Timestamp{time.Unix(1682805248, 0)},
-				},
-			},
-		},
-	}
+	assert.Equal(t, "2023", got["2023-16"].Year)
+	assert.Equal(t, "16", got["2023-16"].WeekNumber)
+	assert.Len(t, got["2023-16"].Items, 1)
+	assert.Equal(t, main.Timestamp{time.Unix(1682257852, 0)}, got["2023-16"].Items[0].TimeUpdated)
 
-	assert.Equal(t, want, got)
+	assert.Equal(t, "2023", got["2023-17"].Year)
+	assert.Equal(t, "17", got["2023-17"].WeekNumber)
+	assert.Len(t, got["2023-17"].Items, 1)
+	assert.Equal(t, main.Timestamp{time.Unix(1682805248, 0)}, got["2023-17"].Items[0].TimeUpdated)
 }

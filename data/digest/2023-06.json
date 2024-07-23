@@ -4,121 +4,31 @@
  "sortKey": "2023-06",
  "items": [
   {
-   "item_id": "3804704791",
-   "given_url": "https://en.m.wikipedia.org/wiki/Productivity_paradox#2000_to_2020s_productivity_paradox",
-   "given_title": "Productivity paradox - Wikipedia",
-   "resolved_title": "Productivity paradox",
-   "resolved_url": "https://en.wikipedia.org/wiki/Productivity_paradox",
-   "time_updated": "2023-02-11T17:19:38Z",
-   "time_added": "2023-02-11T17:12:14Z"
+   "item_id": "3800916221",
+   "given_url": "https://noticias.uol.com.br/colunas/jamil-chade/2023/02/05/em-lisboa-as-feridas-abertas-de-um-brasil-abalado.htm",
+   "given_title": "Em Lisboa, as feridas abertas de um Brasil abalado - 05/02/2023 - UOL Notíc",
+   "resolved_title": "Em Lisboa, as feridas abertas de um Brasil abalado",
+   "resolved_url": "https://noticias.uol.com.br/colunas/jamil-chade/2023/02/05/em-lisboa-as-feridas-abertas-de-um-brasil-abalado.htm",
+   "time_updated": "2023-02-08T21:51:42Z",
+   "time_added": "2023-02-05T22:46:26Z"
   },
   {
-   "item_id": "3740566935",
-   "given_url": "https://github.com/justjake/quickjs-emscripten/blob/ff211447f403031cc7c2dcf484173a177cecf7a9/ts/asyncify-helpers.ts#L18-L26",
-   "given_title": "quickjs-emscripten/asyncify-helpers.ts at ff211447f403031cc7c2dcf484173a177",
-   "resolved_title": "quickjs-emscripten",
-   "resolved_url": "https://github.com/justjake/quickjs-emscripten",
-   "time_updated": "2023-02-08T22:28:17Z",
-   "time_added": "2023-02-08T22:28:17Z"
+   "item_id": "3801286964",
+   "given_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2023/02/06/que-chova-canivetes-faria-limers-se-preparam-para-receber-carnaval.htm",
+   "given_title": "'Que chova canivete': moradores de Pinheiros se enfurecem com Carnaval",
+   "resolved_title": "'Que chova canivete': moradores de Pinheiros se enfurecem com Carnaval",
+   "resolved_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2023/02/06/que-chova-canivetes-faria-limers-se-preparam-para-receber-carnaval.htm",
+   "time_updated": "2023-02-08T21:51:42Z",
+   "time_added": "2023-02-06T09:22:42Z"
   },
   {
-   "item_id": "3804317524",
-   "given_url": "https://m.youtube.com/watch?v=smUdiEghYHU",
-   "given_title": "Depths of DS9 - Why DS9 Season 3 is UNDERRATED - YouTube",
-   "resolved_title": "Depths of DS9 - Why DS9 Season 3 is UNDERRATED",
-   "resolved_url": "http://www.youtube.com/watch?v=smUdiEghYHU",
-   "time_updated": "2023-02-11T01:28:00Z",
-   "time_added": "2023-02-11T01:27:59Z"
-  },
-  {
-   "item_id": "3799326129",
-   "given_url": "https://dreamix-video-editing.github.io/",
-   "given_title": "Dreamix: Video Diffusion Models are General Video Editors",
-   "resolved_title": "Dreamix: Video Diffusion Models are General Video Editors",
-   "resolved_url": "https://dreamix-video-editing.github.io",
-   "time_updated": "2023-02-10T00:16:19Z",
-   "time_added": "2023-02-09T20:14:38Z"
-  },
-  {
-   "item_id": "868235338",
-   "given_url": "https://www.bbc.com/news/world-31877909",
-   "given_title": "Eight countries that moved their capitals - BBC News",
-   "resolved_title": "Eight countries that moved their capitals",
-   "resolved_url": "https://www.bbc.com/news/world-31877909",
-   "time_updated": "2023-02-11T17:19:38Z",
-   "time_added": "2023-02-11T13:16:22Z"
-  },
-  {
-   "item_id": "3804317523",
-   "given_url": "https://m.facebook.com/watch/?v=858475584355092\u0026paipv=0\u0026eav=AfZFTal81rB5h_IufFsA5oPDXGn7wzrmR49PxEow_6YYp_B3ACDhE0mQOW_rEK3KEEA\u0026_rdr",
-   "given_title": "Facebook Watch",
-   "resolved_title": "You’re Temporarily Blocked",
-   "resolved_url": "https://m.facebook.com/watch/?v=858475584355092\u0026paipv=0\u0026eav=AfZFTal81rB5h_IufFsA5oPDXGn7wzrmR49PxEow_6YYp_B3ACDhE0mQOW_rEK3KEEA\u0026_rdr",
-   "time_updated": "2023-02-11T01:28:00Z",
-   "time_added": "2023-02-10T12:53:59Z"
-  },
-  {
-   "item_id": "2350015274",
-   "given_url": "https://reasonablypolymorphic.com/blog/protos-are-wrong/",
-   "given_title": "Protobuffers Are Wrong :: Reasonably Polymorphic",
-   "resolved_title": "Protobuffers Are Wrong",
-   "resolved_url": "https://reasonablypolymorphic.com/blog/protos-are-wrong/index.html",
-   "time_updated": "2023-02-08T21:51:43Z",
-   "time_added": "2023-02-08T15:30:27Z"
-  },
-  {
-   "item_id": "3736423097",
-   "given_url": "https://en.m.wikipedia.org/wiki/Dark_forest_hypothesis",
-   "given_title": "Dark forest hypothesis - Wikipedia",
-   "resolved_title": "Dark forest hypothesis",
-   "resolved_url": "https://en.wikipedia.org/wiki/Dark_forest_hypothesis",
-   "time_updated": "2023-02-09T07:08:22Z",
-   "time_added": "2023-02-09T06:47:40Z"
-  },
-  {
-   "item_id": "3804696714",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Zarabatana",
-   "given_title": "Zarabatana – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Zarabatana",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Zarabatana",
-   "time_updated": "2023-02-11T17:19:38Z",
-   "time_added": "2023-02-11T10:38:37Z"
-  },
-  {
-   "item_id": "3800318134",
-   "given_url": "https://research.swtch.com/sample",
-   "given_title": "research!rsc: The Magic of Sampling, and its Limitations",
-   "resolved_title": "The Magic of Sampling, and its Limitations",
-   "resolved_url": "https://research.swtch.com/sample",
-   "time_updated": "2023-02-10T22:31:51Z",
-   "time_added": "2023-02-10T22:31:51Z"
-  },
-  {
-   "item_id": "3799549625",
-   "given_url": "https://time.com/6252441/jair-bolsonaro-florida-exile-maga/",
-   "given_title": "Bolsonaro’s Surreal New Life as Florida Man—And MAGA Darling | Time",
-   "resolved_title": "Inside Bolsonaro’s Surreal New Life as a Florida Man—And MAGA Darling",
-   "resolved_url": "https://time.com/6252441/jair-bolsonaro-florida-exile-maga/",
-   "time_updated": "2023-02-06T21:19:45Z",
-   "time_added": "2023-02-06T21:19:45Z"
-  },
-  {
-   "item_id": "3728442145",
-   "given_url": "https://etimologia.com.br/restaurante/",
-   "given_title": "Etimologia de Restaurante – Origem do Conceito",
-   "resolved_title": "https://etimologia.com.br/restaurante/",
-   "resolved_url": "https://etimologia.com.br/restaurante/",
-   "time_updated": "2023-02-12T17:47:14Z",
-   "time_added": "2023-02-12T17:47:14Z"
-  },
-  {
-   "item_id": "3598799942",
-   "given_url": "https://www.nippon.com/en/in-depth/d00800/",
-   "given_title": "Growing Up in the Post-Growth Era: What Makes Japanese Teenagers Tick?　 | N",
-   "resolved_title": "Growing Up in the Post-Growth Era: What Makes Japanese Teenagers Tick?　",
-   "resolved_url": "https://www.nippon.com/en/in-depth/d00800/",
-   "time_updated": "2023-02-08T16:35:16Z",
-   "time_added": "2023-02-08T16:35:16Z"
+   "item_id": "3010942714",
+   "given_url": "https://medium.com/@westwise/how-does-a-gorilla-get-so-strong-75c68edd3c26",
+   "given_title": "How Does A Gorilla Get So Strong? | by Sam Westreich, PhD | Medium",
+   "resolved_title": "How Does A Gorilla Get So Strong?",
+   "resolved_url": "https://medium.com/@westwise/how-does-a-gorilla-get-so-strong-75c68edd3c26",
+   "time_updated": "2023-02-08T21:51:42Z",
+   "time_added": "2023-02-06T18:33:50Z"
   },
   {
    "item_id": "2381826815",
@@ -139,60 +49,6 @@
    "time_added": "2023-02-06T20:00:08Z"
   },
   {
-   "item_id": "1395046680",
-   "given_url": "https://en.m.wikipedia.org/wiki/The_Dark_Forest",
-   "given_title": "The Dark Forest - Wikipedia",
-   "resolved_title": "The Dark Forest",
-   "resolved_url": "https://en.wikipedia.org/wiki/The_Dark_Forest",
-   "time_updated": "2023-02-09T07:08:22Z",
-   "time_added": "2023-02-09T06:49:15Z"
-  },
-  {
-   "item_id": "3802712483",
-   "given_url": "https://github.com/golang/go/discussions/58409",
-   "given_title": "(1) telemetry in the Go toolchain · Discussion #58409 · golang/go",
-   "resolved_title": "telemetry in the Go toolchain #58409",
-   "resolved_url": "https://github.com/golang/go/discussions/58409",
-   "time_updated": "2023-02-08T21:32:47Z",
-   "time_added": "2023-02-08T21:32:47Z"
-  },
-  {
-   "item_id": "3773401960",
-   "given_url": "https://gorillasun.de/blog/an-introduction-to-javascript-generators",
-   "given_title": "An Introduction to Javascript Generators | GORILLA SUN BLOG",
-   "resolved_title": "An Introduction to Javascript Generators",
-   "resolved_url": "https://gorillasun.de/blog/An-Introduction-to-Javascript-Generators",
-   "time_updated": "2023-02-08T22:33:00Z",
-   "time_added": "2023-02-08T22:33:00Z"
-  },
-  {
-   "item_id": "3804072173",
-   "given_url": "https://twitter.com/cslayer/status/1624013523364769792",
-   "given_title": "Carla Rodrigues no Twitter: \"Ouvido agora mesmo no edifício onde trabalho: ",
-   "resolved_title": "Carla Rodrigues",
-   "resolved_url": "https://twitter.com/cslayer/status/1624013523364769792",
-   "time_updated": "2023-02-10T16:11:44Z",
-   "time_added": "2023-02-10T16:11:43Z"
-  },
-  {
-   "item_id": "3740185995",
-   "given_url": "https://jrsinclair.com/articles/2022/why-would-anyone-need-javascript-generator-functions/",
-   "given_title": "Why would anyone need JavaScript generator functions?",
-   "resolved_title": "Why would anyone need JavaScript generator functions?",
-   "resolved_url": "https://jrsinclair.com/articles/2022/why-would-anyone-need-javascript-generator-functions",
-   "time_updated": "2023-02-08T22:17:30Z",
-   "time_added": "2023-02-08T22:17:30Z"
-  },
-  {
-   "item_id": "3645398766",
-   "given_url": "https://www.youtube.com/watch?v=gu3FfmgkwUc",
-   "given_title": "The Power of JS Generators by Anjana Vakil - YouTube",
-   "resolved_title": "The Power of JS Generators by Anjana Vakil",
-   "resolved_url": "https://www.youtube.com/watch?v=gu3FfmgkwUc",
-   "time_updated": "2023-02-08T22:33:05Z",
-   "time_added": "2023-02-08T22:33:05Z"
-  },
-  {
    "item_id": "3801576399",
    "given_url": "https://www.shiftrle.gg/articles/virtuoso-i-just-felt-like-i-wanted-something-different",
    "given_title": "Virtuoso: \"I just felt like I wanted something different.\" | Shift",
@@ -202,13 +58,31 @@
    "time_added": "2023-02-06T21:11:26Z"
   },
   {
-   "item_id": "3607472780",
-   "given_url": "https://github.com/obi1kenobi/trustfall",
-   "given_title": "obi1kenobi/trustfall: If GraphQL were more like SQL: a query language for a",
-   "resolved_title": "trustfall — How to Query (Almost) Everything",
-   "resolved_url": "https://github.com/obi1kenobi/trustfall",
-   "time_updated": "2023-02-11T17:19:38Z",
-   "time_added": "2023-02-11T17:14:54Z"
+   "item_id": "3799549625",
+   "given_url": "https://time.com/6252441/jair-bolsonaro-florida-exile-maga/",
+   "given_title": "Bolsonaro’s Surreal New Life as Florida Man—And MAGA Darling | Time",
+   "resolved_title": "Inside Bolsonaro’s Surreal New Life as a Florida Man—And MAGA Darling",
+   "resolved_url": "https://time.com/6252441/jair-bolsonaro-florida-exile-maga/",
+   "time_updated": "2023-02-06T21:19:45Z",
+   "time_added": "2023-02-06T21:19:45Z"
+  },
+  {
+   "item_id": "3800335860",
+   "given_url": "https://futurism.com/amazing-jailbreak-chatgpt",
+   "given_title": "Amazing \"Jailbreak\" Bypasses ChatGPT's Ethics Safeguards",
+   "resolved_title": "Amazing \"Jailbreak\" Bypasses ChatGPT's Ethics Safeguards",
+   "resolved_url": "https://futurism.com/amazing-jailbreak-chatgpt",
+   "time_updated": "2023-02-06T21:27:58Z",
+   "time_added": "2023-02-06T21:27:58Z"
+  },
+  {
+   "item_id": "25369699",
+   "given_url": "https://en.wikipedia.org/wiki/Kiyoshi_Kurosawa",
+   "given_title": "Kiyoshi Kurosawa - Wikipedia",
+   "resolved_title": "Kiyoshi Kurosawa",
+   "resolved_url": "https://en.wikipedia.org/wiki/Kiyoshi_Kurosawa",
+   "time_updated": "2023-02-07T18:24:05Z",
+   "time_added": "2023-02-07T18:24:05Z"
   },
   {
    "item_id": "3802645509",
@@ -220,40 +94,40 @@
    "time_added": "2023-02-08T13:27:01Z"
   },
   {
-   "item_id": "3804706976",
-   "given_url": "https://www.globalgranary.life/2012/03/02/chinese-proverbs-sayings/",
-   "given_title": "Chinese Proverbs \u0026 Sayings ⋆ Global Granary",
-   "resolved_title": "Chinese Proverbs \u0026 Sayings ⋆ Global Granary",
-   "resolved_url": "https://www.globalgranary.life/2012/03/02/chinese-proverbs-sayings/",
-   "time_updated": "2023-02-11T17:19:42Z",
-   "time_added": "2023-02-11T17:19:37Z"
+   "item_id": "3801749652",
+   "given_url": "https://www.nippon.com/en/japan-topics/g02197/",
+   "given_title": "The Black Ships Shock: A Historic Encounter that Changed Japan | Nippon.com",
+   "resolved_title": "The Black Ships Shock: A Historic Encounter that Changed Japan",
+   "resolved_url": "https://www.nippon.com/en/japan-topics/g02197/",
+   "time_updated": "2023-02-08T21:51:42Z",
+   "time_added": "2023-02-08T15:08:29Z"
   },
   {
-   "item_id": "3795624161",
-   "given_url": "https://www.youtube.com/watch?v=5g5hFFhVerE",
-   "given_title": "(15) Estágio Soviético | Podcast Outras Histórias - YouTube",
-   "resolved_title": "Estágio Soviético | Podcast Outras Histórias",
-   "resolved_url": "https://www.youtube.com/watch?v=5g5hFFhVerE",
-   "time_updated": "2023-02-08T21:42:53Z",
-   "time_added": "2023-02-08T21:42:53Z"
+   "item_id": "3802114067",
+   "given_url": "https://predr.ag/blog/speeding-up-rust-semver-checking-by-over-2000x/",
+   "given_title": "Speeding up Rust semver-checking by over 2000x",
+   "resolved_title": "Speeding up Rust semver-checking by over 2000x",
+   "resolved_url": "https://predr.ag/blog/speeding-up-rust-semver-checking-by-over-2000x",
+   "time_updated": "2023-02-08T21:51:43Z",
+   "time_added": "2023-02-08T15:24:56Z"
   },
   {
-   "item_id": "3803670380",
-   "given_url": "https://m.youtube.com/watch?v=u36A-YTxiOw",
-   "given_title": "The Best Way To Launch Your Startup | Startup School - YouTube",
-   "resolved_title": "The Best Way To Launch Your Startup | Startup School",
-   "resolved_url": "http://www.youtube.com/watch?v=u36A-YTxiOw",
-   "time_updated": "2023-02-11T17:19:38Z",
-   "time_added": "2023-02-11T14:26:40Z"
+   "item_id": "2350015274",
+   "given_url": "https://reasonablypolymorphic.com/blog/protos-are-wrong/",
+   "given_title": "Protobuffers Are Wrong :: Reasonably Polymorphic",
+   "resolved_title": "Protobuffers Are Wrong",
+   "resolved_url": "https://reasonablypolymorphic.com/blog/protos-are-wrong/index.html",
+   "time_updated": "2023-02-08T21:51:43Z",
+   "time_added": "2023-02-08T15:30:27Z"
   },
   {
-   "item_id": "2147903515",
-   "given_url": "https://mathiasbynens.be/notes/javascript-unicode#other-grapheme-clusters",
-   "given_title": "JavaScript has a Unicode problem · Mathias Bynens",
-   "resolved_title": "JavaScript has a Unicode problem · Mathias Bynens",
-   "resolved_url": "https://mathiasbynens.be/notes/javascript-unicode#accounting-for-lookalikes",
-   "time_updated": "2023-02-11T17:39:42Z",
-   "time_added": "2023-02-11T17:39:42Z"
+   "item_id": "3598799942",
+   "given_url": "https://www.nippon.com/en/in-depth/d00800/",
+   "given_title": "Growing Up in the Post-Growth Era: What Makes Japanese Teenagers Tick?　 | N",
+   "resolved_title": "Growing Up in the Post-Growth Era: What Makes Japanese Teenagers Tick?　",
+   "resolved_url": "https://www.nippon.com/en/in-depth/d00800/",
+   "time_updated": "2023-02-08T16:35:16Z",
+   "time_added": "2023-02-08T16:35:16Z"
   },
   {
    "item_id": "3802726704",
@@ -265,6 +139,195 @@
    "time_added": "2023-02-08T18:25:46Z"
   },
   {
+   "item_id": "3802922182",
+   "given_url": "https://m.youtube.com/watch?v=cwsGb6a_rHw",
+   "given_title": "Nichijou - Cool Things 6 - YouTube",
+   "resolved_title": "Nichijou - Cool Things 6",
+   "resolved_url": "http://www.youtube.com/watch?v=cwsGb6a_rHw",
+   "time_updated": "2023-02-08T21:51:44Z",
+   "time_added": "2023-02-08T21:15:55Z"
+  },
+  {
+   "item_id": "3802712483",
+   "given_url": "https://github.com/golang/go/discussions/58409",
+   "given_title": "(1) telemetry in the Go toolchain · Discussion #58409 · golang/go",
+   "resolved_title": "telemetry in the Go toolchain #58409",
+   "resolved_url": "https://github.com/golang/go/discussions/58409",
+   "time_updated": "2023-02-08T21:32:47Z",
+   "time_added": "2023-02-08T21:32:47Z"
+  },
+  {
+   "item_id": "3795624161",
+   "given_url": "https://www.youtube.com/watch?v=5g5hFFhVerE",
+   "given_title": "(15) Estágio Soviético | Podcast Outras Histórias - YouTube",
+   "resolved_title": "Estágio Soviético | Podcast Outras Histórias",
+   "resolved_url": "https://www.youtube.com/watch?v=5g5hFFhVerE",
+   "time_updated": "2023-02-08T21:42:53Z",
+   "time_added": "2023-02-08T21:42:53Z"
+  },
+  {
+   "item_id": "3740185995",
+   "given_url": "https://jrsinclair.com/articles/2022/why-would-anyone-need-javascript-generator-functions/",
+   "given_title": "Why would anyone need JavaScript generator functions?",
+   "resolved_title": "Why would anyone need JavaScript generator functions?",
+   "resolved_url": "https://jrsinclair.com/articles/2022/why-would-anyone-need-javascript-generator-functions",
+   "time_updated": "2023-02-08T22:17:30Z",
+   "time_added": "2023-02-08T22:17:30Z"
+  },
+  {
+   "item_id": "3740566935",
+   "given_url": "https://github.com/justjake/quickjs-emscripten/blob/ff211447f403031cc7c2dcf484173a177cecf7a9/ts/asyncify-helpers.ts#L18-L26",
+   "given_title": "quickjs-emscripten/asyncify-helpers.ts at ff211447f403031cc7c2dcf484173a177",
+   "resolved_title": "quickjs-emscripten",
+   "resolved_url": "https://github.com/justjake/quickjs-emscripten",
+   "time_updated": "2023-02-08T22:28:17Z",
+   "time_added": "2023-02-08T22:28:17Z"
+  },
+  {
+   "item_id": "3742640323",
+   "given_url": "https://writing.bakkot.com/gensync",
+   "given_title": "Optionally async functions in JavaScript",
+   "resolved_title": "Optionally async functions in JavaScript",
+   "resolved_url": "https://writing.bakkot.com/gensync",
+   "time_updated": "2023-02-08T22:28:33Z",
+   "time_added": "2023-02-08T22:28:33Z"
+  },
+  {
+   "item_id": "3773401960",
+   "given_url": "https://gorillasun.de/blog/an-introduction-to-javascript-generators",
+   "given_title": "An Introduction to Javascript Generators | GORILLA SUN BLOG",
+   "resolved_title": "An Introduction to Javascript Generators",
+   "resolved_url": "https://gorillasun.de/blog/An-Introduction-to-Javascript-Generators",
+   "time_updated": "2023-02-08T22:33:00Z",
+   "time_added": "2023-02-08T22:33:00Z"
+  },
+  {
+   "item_id": "3645398766",
+   "given_url": "https://www.youtube.com/watch?v=gu3FfmgkwUc",
+   "given_title": "The Power of JS Generators by Anjana Vakil - YouTube",
+   "resolved_title": "The Power of JS Generators by Anjana Vakil",
+   "resolved_url": "https://www.youtube.com/watch?v=gu3FfmgkwUc",
+   "time_updated": "2023-02-08T22:33:05Z",
+   "time_added": "2023-02-08T22:33:05Z"
+  },
+  {
+   "item_id": "3736423097",
+   "given_url": "https://en.m.wikipedia.org/wiki/Dark_forest_hypothesis",
+   "given_title": "Dark forest hypothesis - Wikipedia",
+   "resolved_title": "Dark forest hypothesis",
+   "resolved_url": "https://en.wikipedia.org/wiki/Dark_forest_hypothesis",
+   "time_updated": "2023-02-09T07:08:22Z",
+   "time_added": "2023-02-09T06:47:40Z"
+  },
+  {
+   "item_id": "1395046680",
+   "given_url": "https://en.m.wikipedia.org/wiki/The_Dark_Forest",
+   "given_title": "The Dark Forest - Wikipedia",
+   "resolved_title": "The Dark Forest",
+   "resolved_url": "https://en.wikipedia.org/wiki/The_Dark_Forest",
+   "time_updated": "2023-02-09T07:08:22Z",
+   "time_added": "2023-02-09T06:49:15Z"
+  },
+  {
+   "item_id": "67769868",
+   "given_url": "https://en.m.wikipedia.org/wiki/Three-body_problem",
+   "given_title": "Three-body problem - Wikipedia",
+   "resolved_title": "Three-body problem",
+   "resolved_url": "https://en.wikipedia.org/wiki/Three-body_problem",
+   "time_updated": "2023-02-09T07:08:22Z",
+   "time_added": "2023-02-09T06:53:17Z"
+  },
+  {
+   "item_id": "3566739731",
+   "given_url": "https://www.reddit.com/r/SteamDeck/comments/t6ysrf/guide_how_to_install_yuzu_and_run_games_botw_on/",
+   "given_title": "Guide - How to install Yuzu and run games (BotW) on Steam Deck! : r/SteamDe",
+   "resolved_title": "Guide - How to install Yuzu and run games (BotW) on Steam Deck!",
+   "resolved_url": "https://www.reddit.com/r/SteamDeck/comments/t6ysrf/guide_how_to_install_yuzu_and_run_games_botw_on/",
+   "time_updated": "2023-02-09T07:08:22Z",
+   "time_added": "2023-02-09T07:08:22Z"
+  },
+  {
+   "item_id": "3590259187",
+   "given_url": "https://developer.chrome.com/blog/smooshgate/",
+   "given_title": "",
+   "resolved_title": "SmooshGate FAQ",
+   "resolved_url": "https://developer.chrome.com/blog/smooshgate/",
+   "time_updated": "2023-02-09T19:31:56Z",
+   "time_added": "2023-02-09T19:31:55Z"
+  },
+  {
+   "item_id": "3799326129",
+   "given_url": "https://dreamix-video-editing.github.io/",
+   "given_title": "Dreamix: Video Diffusion Models are General Video Editors",
+   "resolved_title": "Dreamix: Video Diffusion Models are General Video Editors",
+   "resolved_url": "https://dreamix-video-editing.github.io",
+   "time_updated": "2023-02-10T00:16:19Z",
+   "time_added": "2023-02-09T20:14:38Z"
+  },
+  {
+   "item_id": "3801522484",
+   "given_url": "https://www.zachleat.com/web/react-criticism/",
+   "given_title": "A Historical Reference of React Criticism—zachleat.com",
+   "resolved_title": "A Historical Reference of React Criticism—zachleat.com",
+   "resolved_url": "https://www.zachleat.com/web/react-criticism/",
+   "time_updated": "2023-02-10T00:16:19Z",
+   "time_added": "2023-02-09T22:44:20Z"
+  },
+  {
+   "item_id": "3803532835",
+   "given_url": "https://www.platformer.news/p/elon-musk-fires-a-top-twitter-engineer",
+   "given_title": "Elon Musk fires a top Twitter engineer over his declining view count",
+   "resolved_title": "Elon Musk fires a top Twitter engineer over his declining view count",
+   "resolved_url": "https://www.platformer.news/p/elon-musk-fires-a-top-twitter-engineer",
+   "time_updated": "2023-02-10T00:16:19Z",
+   "time_added": "2023-02-10T00:16:19Z"
+  },
+  {
+   "item_id": "3804317523",
+   "given_url": "https://m.facebook.com/watch/?v=858475584355092\u0026paipv=0\u0026eav=AfZFTal81rB5h_IufFsA5oPDXGn7wzrmR49PxEow_6YYp_B3ACDhE0mQOW_rEK3KEEA\u0026_rdr",
+   "given_title": "Facebook Watch",
+   "resolved_title": "You’re Temporarily Blocked",
+   "resolved_url": "https://m.facebook.com/watch/?v=858475584355092\u0026paipv=0\u0026eav=AfZFTal81rB5h_IufFsA5oPDXGn7wzrmR49PxEow_6YYp_B3ACDhE0mQOW_rEK3KEEA\u0026_rdr",
+   "time_updated": "2023-02-11T01:28:00Z",
+   "time_added": "2023-02-10T12:53:59Z"
+  },
+  {
+   "item_id": "3804072173",
+   "given_url": "https://twitter.com/cslayer/status/1624013523364769792",
+   "given_title": "Carla Rodrigues no Twitter: \"Ouvido agora mesmo no edifício onde trabalho: ",
+   "resolved_title": "Carla Rodrigues",
+   "resolved_url": "https://twitter.com/cslayer/status/1624013523364769792",
+   "time_updated": "2023-02-10T16:11:44Z",
+   "time_added": "2023-02-10T16:11:43Z"
+  },
+  {
+   "item_id": "3804225269",
+   "given_url": "https://twitter.com/steveklabnik/status/1624127159462727689",
+   "given_title": "steveklabnik no Twitter: \"Hey Ruby folks: what's the best resource from lea",
+   "resolved_title": "steveklabnik",
+   "resolved_url": "https://twitter.com/steveklabnik/status/1624127159462727689",
+   "time_updated": "2023-02-10T21:32:04Z",
+   "time_added": "2023-02-10T21:32:03Z"
+  },
+  {
+   "item_id": "3800318134",
+   "given_url": "https://research.swtch.com/sample",
+   "given_title": "research!rsc: The Magic of Sampling, and its Limitations",
+   "resolved_title": "The Magic of Sampling, and its Limitations",
+   "resolved_url": "https://research.swtch.com/sample",
+   "time_updated": "2023-02-10T22:31:51Z",
+   "time_added": "2023-02-10T22:31:51Z"
+  },
+  {
+   "item_id": "3804317524",
+   "given_url": "https://m.youtube.com/watch?v=smUdiEghYHU",
+   "given_title": "Depths of DS9 - Why DS9 Season 3 is UNDERRATED - YouTube",
+   "resolved_title": "Depths of DS9 - Why DS9 Season 3 is UNDERRATED",
+   "resolved_url": "http://www.youtube.com/watch?v=smUdiEghYHU",
+   "time_updated": "2023-02-11T01:28:00Z",
+   "time_added": "2023-02-11T01:27:59Z"
+  },
+  {
    "item_id": "3804320960",
    "given_url": "https://m.youtube.com/watch?v=F6dJ6CSfjsI",
    "given_title": "The Story of Noly: From Prospect to Mocked to Fame - YouTube",
@@ -274,6 +337,33 @@
    "time_added": "2023-02-11T01:37:23Z"
   },
   {
+   "item_id": "3804696714",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Zarabatana",
+   "given_title": "Zarabatana – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Zarabatana",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Zarabatana",
+   "time_updated": "2023-02-11T17:19:38Z",
+   "time_added": "2023-02-11T10:38:37Z"
+  },
+  {
+   "item_id": "868235338",
+   "given_url": "https://www.bbc.com/news/world-31877909",
+   "given_title": "Eight countries that moved their capitals - BBC News",
+   "resolved_title": "Eight countries that moved their capitals",
+   "resolved_url": "https://www.bbc.com/news/world-31877909",
+   "time_updated": "2023-02-11T17:19:38Z",
+   "time_added": "2023-02-11T13:16:22Z"
+  },
+  {
+   "item_id": "3803670380",
+   "given_url": "https://m.youtube.com/watch?v=u36A-YTxiOw",
+   "given_title": "The Best Way To Launch Your Startup | Startup School - YouTube",
+   "resolved_title": "The Best Way To Launch Your Startup | Startup School",
+   "resolved_url": "https://www.youtube.com/watch?v=u36A-YTxiOw",
+   "time_updated": "2023-02-11T17:19:38Z",
+   "time_added": "2023-02-11T14:26:40Z"
+  },
+  {
    "item_id": "3802653203",
    "given_url": "https://noticias.uol.com.br/colunas/jamil-chade/2023/02/08/tentativa-de-golpe-no-brasil-foi-mais-organizada-que-nos-eua-diz-chomsky.htm",
    "given_title": "Chomsky: tentativa de golpe no Brasil foi mais organizada que nos EUA",
@@ -281,6 +371,42 @@
    "resolved_url": "https://noticias.uol.com.br/colunas/jamil-chade/2023/02/08/tentativa-de-golpe-no-brasil-foi-mais-organizada-que-nos-eua-diz-chomsky.htm",
    "time_updated": "2023-02-11T17:19:38Z",
    "time_added": "2023-02-11T16:59:04Z"
+  },
+  {
+   "item_id": "3804704791",
+   "given_url": "https://en.m.wikipedia.org/wiki/Productivity_paradox#2000_to_2020s_productivity_paradox",
+   "given_title": "Productivity paradox - Wikipedia",
+   "resolved_title": "Productivity paradox",
+   "resolved_url": "https://en.wikipedia.org/wiki/Productivity_paradox",
+   "time_updated": "2023-02-11T17:19:38Z",
+   "time_added": "2023-02-11T17:12:14Z"
+  },
+  {
+   "item_id": "3607472780",
+   "given_url": "https://github.com/obi1kenobi/trustfall",
+   "given_title": "obi1kenobi/trustfall: If GraphQL were more like SQL: a query language for a",
+   "resolved_title": "trustfall — How to Query (Almost) Everything",
+   "resolved_url": "https://github.com/obi1kenobi/trustfall",
+   "time_updated": "2023-02-11T17:19:38Z",
+   "time_added": "2023-02-11T17:14:54Z"
+  },
+  {
+   "item_id": "3804706976",
+   "given_url": "https://www.globalgranary.life/2012/03/02/chinese-proverbs-sayings/",
+   "given_title": "Chinese Proverbs \u0026 Sayings ⋆ Global Granary",
+   "resolved_title": "Chinese Proverbs \u0026 Sayings ⋆ Global Granary",
+   "resolved_url": "https://www.globalgranary.life/2012/03/02/chinese-proverbs-sayings/",
+   "time_updated": "2023-02-11T17:19:42Z",
+   "time_added": "2023-02-11T17:19:37Z"
+  },
+  {
+   "item_id": "2147903515",
+   "given_url": "https://mathiasbynens.be/notes/javascript-unicode#other-grapheme-clusters",
+   "given_title": "JavaScript has a Unicode problem · Mathias Bynens",
+   "resolved_title": "JavaScript has a Unicode problem · Mathias Bynens",
+   "resolved_url": "https://mathiasbynens.be/notes/javascript-unicode#accounting-for-lookalikes",
+   "time_updated": "2023-02-11T17:39:42Z",
+   "time_added": "2023-02-11T17:39:42Z"
   },
   {
    "item_id": "3799391572",
@@ -301,139 +427,13 @@
    "time_added": "2023-02-11T20:58:01Z"
   },
   {
-   "item_id": "3566739731",
-   "given_url": "https://www.reddit.com/r/SteamDeck/comments/t6ysrf/guide_how_to_install_yuzu_and_run_games_botw_on/",
-   "given_title": "Guide - How to install Yuzu and run games (BotW) on Steam Deck! : r/SteamDe",
-   "resolved_title": "r/SteamDeck",
-   "resolved_url": "https://www.reddit.com/r/SteamDeck/comments/t6ysrf/guide_how_to_install_yuzu_and_run_games_botw_on/",
-   "time_updated": "2023-02-09T07:08:22Z",
-   "time_added": "2023-02-09T07:08:22Z"
-  },
-  {
-   "item_id": "3801286964",
-   "given_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2023/02/06/que-chova-canivetes-faria-limers-se-preparam-para-receber-carnaval.htm",
-   "given_title": "'Que chova canivete': moradores de Pinheiros se enfurecem com Carnaval",
-   "resolved_title": "'Que chova canivete': moradores de Pinheiros se enfurecem com Carnaval",
-   "resolved_url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2023/02/06/que-chova-canivetes-faria-limers-se-preparam-para-receber-carnaval.htm",
-   "time_updated": "2023-02-08T21:51:42Z",
-   "time_added": "2023-02-06T09:22:42Z"
-  },
-  {
-   "item_id": "3590259187",
-   "given_url": "https://developer.chrome.com/blog/smooshgate/",
-   "given_title": "",
-   "resolved_title": "SmooshGate FAQ",
-   "resolved_url": "https://developer.chrome.com/blog/smooshgate/",
-   "time_updated": "2023-02-09T19:31:56Z",
-   "time_added": "2023-02-09T19:31:55Z"
-  },
-  {
-   "item_id": "3804225269",
-   "given_url": "https://twitter.com/steveklabnik/status/1624127159462727689",
-   "given_title": "steveklabnik no Twitter: \"Hey Ruby folks: what's the best resource from lea",
-   "resolved_title": "steveklabnik",
-   "resolved_url": "https://twitter.com/steveklabnik/status/1624127159462727689",
-   "time_updated": "2023-02-10T21:32:04Z",
-   "time_added": "2023-02-10T21:32:03Z"
-  },
-  {
-   "item_id": "3800335860",
-   "given_url": "https://futurism.com/amazing-jailbreak-chatgpt",
-   "given_title": "Amazing \"Jailbreak\" Bypasses ChatGPT's Ethics Safeguards",
-   "resolved_title": "Amazing \"Jailbreak\" Bypasses ChatGPT's Ethics Safeguards",
-   "resolved_url": "https://futurism.com/amazing-jailbreak-chatgpt",
-   "time_updated": "2023-02-06T21:27:58Z",
-   "time_added": "2023-02-06T21:27:58Z"
-  },
-  {
-   "item_id": "3010942714",
-   "given_url": "https://medium.com/@westwise/how-does-a-gorilla-get-so-strong-75c68edd3c26",
-   "given_title": "How Does A Gorilla Get So Strong? | by Sam Westreich, PhD | Medium",
-   "resolved_title": "How Does A Gorilla Get So Strong?",
-   "resolved_url": "https://medium.com/@westwise/how-does-a-gorilla-get-so-strong-75c68edd3c26",
-   "time_updated": "2023-02-08T21:51:42Z",
-   "time_added": "2023-02-06T18:33:50Z"
-  },
-  {
-   "item_id": "3803532835",
-   "given_url": "https://www.platformer.news/p/elon-musk-fires-a-top-twitter-engineer",
-   "given_title": "Elon Musk fires a top Twitter engineer over his declining view count",
-   "resolved_title": "Elon Musk fires a top Twitter engineer over his declining view count",
-   "resolved_url": "https://www.platformer.news/p/elon-musk-fires-a-top-twitter-engineer",
-   "time_updated": "2023-02-10T00:16:19Z",
-   "time_added": "2023-02-10T00:16:19Z"
-  },
-  {
-   "item_id": "25369699",
-   "given_url": "https://en.wikipedia.org/wiki/Kiyoshi_Kurosawa",
-   "given_title": "Kiyoshi Kurosawa - Wikipedia",
-   "resolved_title": "Kiyoshi Kurosawa",
-   "resolved_url": "https://en.wikipedia.org/wiki/Kiyoshi_Kurosawa",
-   "time_updated": "2023-02-07T18:24:05Z",
-   "time_added": "2023-02-07T18:24:05Z"
-  },
-  {
-   "item_id": "3802922182",
-   "given_url": "https://m.youtube.com/watch?v=cwsGb6a_rHw",
-   "given_title": "Nichijou - Cool Things 6 - YouTube",
-   "resolved_title": "Nichijou - Cool Things 6",
-   "resolved_url": "http://www.youtube.com/watch?v=cwsGb6a_rHw",
-   "time_updated": "2023-02-08T21:51:44Z",
-   "time_added": "2023-02-08T21:15:55Z"
-  },
-  {
-   "item_id": "3801522484",
-   "given_url": "https://www.zachleat.com/web/react-criticism/",
-   "given_title": "A Historical Reference of React Criticism—zachleat.com",
-   "resolved_title": "A Historical Reference of React Criticism—zachleat.com",
-   "resolved_url": "https://www.zachleat.com/web/react-criticism/",
-   "time_updated": "2023-02-10T00:16:19Z",
-   "time_added": "2023-02-09T22:44:20Z"
-  },
-  {
-   "item_id": "67769868",
-   "given_url": "https://en.m.wikipedia.org/wiki/Three-body_problem",
-   "given_title": "Three-body problem - Wikipedia",
-   "resolved_title": "Three-body problem",
-   "resolved_url": "https://en.wikipedia.org/wiki/Three-body_problem",
-   "time_updated": "2023-02-09T07:08:22Z",
-   "time_added": "2023-02-09T06:53:17Z"
-  },
-  {
-   "item_id": "3801749652",
-   "given_url": "https://www.nippon.com/en/japan-topics/g02197/",
-   "given_title": "The Black Ships Shock: A Historic Encounter that Changed Japan | Nippon.com",
-   "resolved_title": "The Black Ships Shock: A Historic Encounter that Changed Japan",
-   "resolved_url": "https://www.nippon.com/en/japan-topics/g02197/",
-   "time_updated": "2023-02-08T21:51:42Z",
-   "time_added": "2023-02-08T15:08:29Z"
-  },
-  {
-   "item_id": "3742640323",
-   "given_url": "https://writing.bakkot.com/gensync",
-   "given_title": "Optionally async functions in JavaScript",
-   "resolved_title": "Optionally async functions in JavaScript",
-   "resolved_url": "https://writing.bakkot.com/gensync",
-   "time_updated": "2023-02-08T22:28:33Z",
-   "time_added": "2023-02-08T22:28:33Z"
-  },
-  {
-   "item_id": "3802114067",
-   "given_url": "https://predr.ag/blog/speeding-up-rust-semver-checking-by-over-2000x/",
-   "given_title": "Speeding up Rust semver-checking by over 2000x",
-   "resolved_title": "Speeding up Rust semver-checking by over 2000x",
-   "resolved_url": "https://predr.ag/blog/speeding-up-rust-semver-checking-by-over-2000x",
-   "time_updated": "2023-02-08T21:51:43Z",
-   "time_added": "2023-02-08T15:24:56Z"
-  },
-  {
-   "item_id": "3800916221",
-   "given_url": "https://noticias.uol.com.br/colunas/jamil-chade/2023/02/05/em-lisboa-as-feridas-abertas-de-um-brasil-abalado.htm",
-   "given_title": "Em Lisboa, as feridas abertas de um Brasil abalado - 05/02/2023 - UOL Notíc",
-   "resolved_title": "Em Lisboa, as feridas abertas de um Brasil abalado",
-   "resolved_url": "https://noticias.uol.com.br/colunas/jamil-chade/2023/02/05/em-lisboa-as-feridas-abertas-de-um-brasil-abalado.htm",
-   "time_updated": "2023-02-08T21:51:42Z",
-   "time_added": "2023-02-05T22:46:26Z"
+   "item_id": "3728442145",
+   "given_url": "https://etimologia.com.br/restaurante/",
+   "given_title": "Etimologia de Restaurante – Origem do Conceito",
+   "resolved_title": "https://etimologia.com.br/restaurante/",
+   "resolved_url": "https://etimologia.com.br/restaurante/",
+   "time_updated": "2023-02-12T17:47:14Z",
+   "time_added": "2023-02-12T17:47:14Z"
   }
  ]
 }

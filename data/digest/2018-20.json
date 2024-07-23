@@ -4,15 +4,6 @@
  "sortKey": "2018-20",
  "items": [
   {
-   "item_id": "2188106904",
-   "given_url": "http://operamundi.uol.com.br/conteudo/historia/33069/hoje+na+historia+1973+-+carrero+blanco+sucessor+de+franco+e+assassinado+pelo+eta.shtml",
-   "given_title": "Opera Mundi - Hoje na História: 1973 - Carrero Blanco, sucessor de Franco, ",
-   "resolved_title": "Hoje na História: 1973 - Carrero Blanco, sucessor de Franco, é assassinado pelo ETA",
-   "resolved_url": "http://operamundi.uol.com.br/conteudo/historia/33069/hoje+na+historia+1973+-+carrero+blanco+sucessor+de+franco+e+assassinado+pelo+eta.shtml",
-   "time_updated": "2018-05-15T16:24:17+01:00",
-   "time_added": "2018-05-15T16:24:14+01:00"
-  },
-  {
    "item_id": "2183940353",
    "given_url": "https://www.pbs.org/newshour/economy/making-sense/analysis-how-poverty-can-drive-down-intelligence",
    "given_title": "Analysis: How poverty can drive down intelligence | PBS NewsHour",
@@ -22,22 +13,13 @@
    "time_added": "2018-05-14T01:02:59+01:00"
   },
   {
-   "item_id": "2191043145",
-   "given_url": "http://www.gazetadopovo.com.br/blogs/flavio-gordon/2018/05/16/epistocracia-o-ataque-dos-autoproclamados-fact-checkers-internet-livre/?doing_wp_cron=1526495647.9408259391784667968750",
-   "given_title": "Epistocracia: o ataque dos autoproclamados “fact-checkers” à internet livre",
-   "resolved_title": "",
-   "resolved_url": "https://www.gazetadopovo.com.br/blogs/flavio-gordon/2018/05/16/epistocracia-o-ataque-dos-autoproclamados-fact-checkers-internet-livre",
-   "time_updated": "2018-05-17T20:56:49+01:00",
-   "time_added": "2018-05-17T20:56:38+01:00"
-  },
-  {
-   "item_id": "132470062",
-   "given_url": "https://www.kalzumeus.com/2012/01/23/salary-negotiation/",
-   "given_title": "Salary Negotiation: Make More Money, Be More Valued | Kalzumeus Software",
-   "resolved_title": "Salary Negotiation: Make More Money, Be More Valued",
-   "resolved_url": "https://www.kalzumeus.com/2012/01/23/salary-negotiation/",
-   "time_updated": "2018-05-15T21:04:37+01:00",
-   "time_added": "2018-05-15T21:04:37+01:00"
+   "item_id": "1705292026",
+   "given_url": "https://github.com/hobby-kube/guide",
+   "given_title": "GitHub - hobby-kube/guide: Kubernetes clusters for the hobbyist.",
+   "resolved_title": "Kubernetes clusters for the hobbyist",
+   "resolved_url": "https://github.com/hobby-kube/guide",
+   "time_updated": "2018-05-14T01:09:48+01:00",
+   "time_added": "2018-05-14T01:09:48+01:00"
   },
   {
    "item_id": "1941326961",
@@ -49,6 +31,33 @@
    "time_added": "2018-05-15T04:18:44+01:00"
   },
   {
+   "item_id": "2188106904",
+   "given_url": "http://operamundi.uol.com.br/conteudo/historia/33069/hoje+na+historia+1973+-+carrero+blanco+sucessor+de+franco+e+assassinado+pelo+eta.shtml",
+   "given_title": "Opera Mundi - Hoje na História: 1973 - Carrero Blanco, sucessor de Franco, ",
+   "resolved_title": "Hoje na História: 1973 - Carrero Blanco, sucessor de Franco, é assassinado pelo ETA",
+   "resolved_url": "http://operamundi.uol.com.br/conteudo/historia/33069/hoje+na+historia+1973+-+carrero+blanco+sucessor+de+franco+e+assassinado+pelo+eta.shtml",
+   "time_updated": "2018-05-15T16:24:17+01:00",
+   "time_added": "2018-05-15T16:24:14+01:00"
+  },
+  {
+   "item_id": "132470062",
+   "given_url": "https://www.kalzumeus.com/2012/01/23/salary-negotiation/",
+   "given_title": "Salary Negotiation: Make More Money, Be More Valued | Kalzumeus Software",
+   "resolved_title": "Salary Negotiation: Make More Money, Be More Valued",
+   "resolved_url": "https://www.kalzumeus.com/2012/01/23/salary-negotiation/",
+   "time_updated": "2018-05-15T21:04:37+01:00",
+   "time_added": "2018-05-15T21:04:37+01:00"
+  },
+  {
+   "item_id": "2191043145",
+   "given_url": "http://www.gazetadopovo.com.br/blogs/flavio-gordon/2018/05/16/epistocracia-o-ataque-dos-autoproclamados-fact-checkers-internet-livre/?doing_wp_cron=1526495647.9408259391784667968750",
+   "given_title": "Epistocracia: o ataque dos autoproclamados “fact-checkers” à internet livre",
+   "resolved_title": "",
+   "resolved_url": "https://www.gazetadopovo.com.br/blogs/flavio-gordon/2018/05/16/epistocracia-o-ataque-dos-autoproclamados-fact-checkers-internet-livre",
+   "time_updated": "2018-05-17T20:56:49+01:00",
+   "time_added": "2018-05-17T20:56:38+01:00"
+  },
+  {
    "item_id": "2191287979",
    "given_url": "https://www.nexojornal.com.br/servico/2018/05/17/Guia-do-queijo-como-escolher-identificar-guardar.-E-como-ele-%C3%A9-feito",
    "given_title": "Guia do queijo: como escolher, identificar, guardar. E como ele é feito - N",
@@ -56,15 +65,6 @@
    "resolved_url": "https://www.nexojornal.com.br/servico/2018/05/17/Guia-do-queijo-como-escolher-identificar-guardar.-E-como-ele-%C3%A9-feito",
    "time_updated": "2018-05-18T14:37:46+01:00",
    "time_added": "2018-05-18T14:37:45+01:00"
-  },
-  {
-   "item_id": "1705292026",
-   "given_url": "https://github.com/hobby-kube/guide",
-   "given_title": "GitHub - hobby-kube/guide: Kubernetes clusters for the hobbyist.",
-   "resolved_title": "Kubernetes clusters for the hobbyist",
-   "resolved_url": "https://github.com/hobby-kube/guide",
-   "time_updated": "2018-05-14T01:09:48+01:00",
-   "time_added": "2018-05-14T01:09:48+01:00"
   }
  ]
 }

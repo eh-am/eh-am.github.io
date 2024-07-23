@@ -13,31 +13,22 @@
    "time_added": "2018-01-29T00:55:35Z"
   },
   {
-   "item_id": "491836887",
-   "given_url": "https://danielmiessler.com/study/tmux/",
-   "given_title": "A tmux Primer",
-   "resolved_title": "Tactical tmux: The 10 Most Important Commands",
-   "resolved_url": "https://danielmiessler.com/study/tmux/",
-   "time_updated": "2018-02-02T03:11:49Z",
-   "time_added": "2018-02-02T03:11:49Z"
+   "item_id": "1677183709",
+   "given_url": "http://enterprisedevops.org/article/ephemeral-environment-why-what-how-and-where",
+   "given_title": "Ephemeral Environments for DevOps: Why, What and How? — Enterprise DevOps",
+   "resolved_title": "Ephemeral Environments for DevOps: Why, What and How?",
+   "resolved_url": "http://enterprisedevops.org/article/ephemeral-environment-why-what-how-and-where",
+   "time_updated": "2018-01-29T15:09:51Z",
+   "time_added": "2018-01-29T15:09:49Z"
   },
   {
-   "item_id": "2042797637",
-   "given_url": "https://read.acloud.guru/you-need-sre-skills-to-thrive-in-a-serverless-world-kelsey-hightower-340a002b3730",
-   "given_title": "You need SRE skills to thrive in a serverless world — Kelsey Hightower",
-   "resolved_title": "You need SRE skills to thrive in a serverless world — Kelsey Hightower",
-   "resolved_url": "https://read.acloud.guru/you-need-sre-skills-to-thrive-in-a-serverless-world-kelsey-hightower-340a002b3730",
-   "time_updated": "2018-01-30T00:15:56Z",
-   "time_added": "2018-01-30T00:15:56Z"
-  },
-  {
-   "item_id": "2052709293",
-   "given_url": "https://infanciabemcuidada.com/2017/12/31/a-guerra-cultural-aos-meninos/amp/?__twitter_impression=true",
+   "item_id": "2049822518",
+   "given_url": "https://techbeacon.com/kubernetes-check-next-cloud-revolution-helm?utm_content=buffer6fc0e\u0026utm_medium=social\u0026utm_source=twitter.com\u0026utm_campaign=buffer",
    "given_title": "",
-   "resolved_title": "A guerra cultural aos meninos",
-   "resolved_url": "https://infanciabemcuidada.com/2017/12/31/a-guerra-cultural-aos-meninos/",
-   "time_updated": "2018-01-31T11:50:22Z",
-   "time_added": "2018-01-31T11:50:21Z"
+   "resolved_title": "Kubernetes: Check. Next up in the cloud revolution: Helm",
+   "resolved_url": "https://techbeacon.com/kubernetes-check-next-cloud-revolution-helm",
+   "time_updated": "2018-01-29T15:09:58Z",
+   "time_added": "2018-01-29T15:09:57Z"
   },
   {
    "item_id": "2049827806",
@@ -49,6 +40,141 @@
    "time_added": "2018-01-29T15:13:58Z"
   },
   {
+   "item_id": "2049985729",
+   "given_url": "https://www.wired.com/story/apple-podcast-analytics-first-month/amp?__twitter_impression=true",
+   "given_title": "",
+   "resolved_title": "Podcast Listeners Really Are the Holy Grail Advertisers Hoped They'd Be",
+   "resolved_url": "https://www.wired.com/story/apple-podcast-analytics-first-month/",
+   "time_updated": "2018-01-29T22:29:49Z",
+   "time_added": "2018-01-29T22:29:46Z"
+  },
+  {
+   "item_id": "2042797637",
+   "given_url": "https://read.acloud.guru/you-need-sre-skills-to-thrive-in-a-serverless-world-kelsey-hightower-340a002b3730",
+   "given_title": "You need SRE skills to thrive in a serverless world — Kelsey Hightower",
+   "resolved_title": "You need SRE skills to thrive in a serverless world — Kelsey Hightower",
+   "resolved_url": "https://read.acloud.guru/you-need-sre-skills-to-thrive-in-a-serverless-world-kelsey-hightower-340a002b3730",
+   "time_updated": "2018-01-30T00:15:56Z",
+   "time_added": "2018-01-30T00:15:56Z"
+  },
+  {
+   "item_id": "2000270106",
+   "given_url": "http://www.gazetadopovo.com.br/ideias/como-a-espionagem-comunista-se-infiltrou-no-governo-de-dois-ex-presidentes-brasileiros-e73p4i3scc55a8th9ycmz2a52",
+   "given_title": "Jânio e Jango foram amigos de espiões a serviço da União Soviética | Gazeta",
+   "resolved_title": "Como a espionagem comunista se infiltrou no governo de dois ex-presidentes brasileiros",
+   "resolved_url": "https://www.gazetadopovo.com.br/ideias/como-a-espionagem-comunista-se-infiltrou-no-governo-de-dois-ex-presidentes-brasileiros-e73p4i3scc55a8th9ycmz2a52/",
+   "time_updated": "2018-01-30T13:02:42Z",
+   "time_added": "2018-01-30T13:02:42Z"
+  },
+  {
+   "item_id": "2046043445",
+   "given_url": "https://www.uol/esporte/especiais/chico-lang---entrevista.htm#mesa-redonda-oferecia-o-que-a-globo-nao-mostrava",
+   "given_title": "Barraqueiro e sofredor | UOL Esporte",
+   "resolved_title": "",
+   "resolved_url": "",
+   "time_updated": "2018-01-30T16:25:25Z",
+   "time_added": "2018-01-30T16:25:25Z"
+  },
+  {
+   "item_id": "1851377243",
+   "given_url": "https://blog.angularindepth.com/avoiding-common-confusions-with-modules-in-angular-ada070e6891f",
+   "given_title": "Avoiding common confusions with modules in Angular – Angular In Depth",
+   "resolved_title": "Avoiding common confusions with modules in Angular",
+   "resolved_url": "https://blog.angularindepth.com/avoiding-common-confusions-with-modules-in-angular-ada070e6891f",
+   "time_updated": "2018-01-30T18:24:20Z",
+   "time_added": "2018-01-30T18:24:20Z"
+  },
+  {
+   "item_id": "2052709293",
+   "given_url": "https://infanciabemcuidada.com/2017/12/31/a-guerra-cultural-aos-meninos/amp/?__twitter_impression=true",
+   "given_title": "",
+   "resolved_title": "A guerra cultural aos meninos",
+   "resolved_url": "https://infanciabemcuidada.com/2017/12/31/a-guerra-cultural-aos-meninos/",
+   "time_updated": "2018-01-31T11:50:22Z",
+   "time_added": "2018-01-31T11:50:21Z"
+  },
+  {
+   "item_id": "1174275658",
+   "given_url": "https://en.wikipedia.org/wiki/Law_of_triviality",
+   "given_title": "Law of triviality - Wikipedia",
+   "resolved_title": "Law of triviality",
+   "resolved_url": "https://en.wikipedia.org/wiki/Law_of_triviality",
+   "time_updated": "2018-01-31T12:49:51Z",
+   "time_added": "2018-01-31T12:49:51Z"
+  },
+  {
+   "item_id": "1044482027",
+   "given_url": "https://en.wikipedia.org/wiki/Flemish_Giant_rabbit",
+   "given_title": "Flemish Giant rabbit - Wikipedia",
+   "resolved_title": "Flemish Giant rabbit",
+   "resolved_url": "https://en.wikipedia.org/wiki/Flemish_Giant_rabbit",
+   "time_updated": "2018-01-31T15:49:37Z",
+   "time_added": "2018-01-31T15:49:37Z"
+  },
+  {
+   "item_id": "2051862712",
+   "given_url": "https://en.m.wikipedia.org/wiki/Isabella_Stewart_Gardner_Museum_theft?wprov=sfla1",
+   "given_title": "Isabella Stewart Gardner Museum theft - Wikipedia",
+   "resolved_title": "Isabella Stewart Gardner Museum theft",
+   "resolved_url": "https://en.wikipedia.org/wiki/Isabella_Stewart_Gardner_Museum_theft",
+   "time_updated": "2018-01-31T18:29:41Z",
+   "time_added": "2018-01-31T18:29:41Z"
+  },
+  {
+   "item_id": "2053482326",
+   "given_url": "https://egghead.io/lessons/angular-angular-material-components-course-overview",
+   "given_title": "Angular Material Components Course Overview from @btroncone on @eggheadio",
+   "resolved_title": "Angular Material Components Course Overview",
+   "resolved_url": "https://egghead.io/lessons/angular-angular-material-components-course-overview",
+   "time_updated": "2018-02-01T14:28:53Z",
+   "time_added": "2018-02-01T14:28:53Z"
+  },
+  {
+   "item_id": "2055050011",
+   "given_url": "https://gravitational.com/blog/kubernetes-release-cycle/#",
+   "given_title": "The full-time job of keeping up with Kubernetes",
+   "resolved_title": "The full-time job of keeping up with Kubernetes",
+   "resolved_url": "https://gravitational.com/blog/kubernetes-release-cycle/",
+   "time_updated": "2018-02-01T22:24:30Z",
+   "time_added": "2018-02-01T22:24:31Z"
+  },
+  {
+   "item_id": "2055259389",
+   "given_url": "https://news.ycombinator.com/item?id=16286012",
+   "given_title": "A description of -- not a name for -- is corporate control of an open sourc",
+   "resolved_title": "A description of : not a name for : is corporate control of an open source pro... : Hacker News",
+   "resolved_url": "https://news.ycombinator.com/item?id=16286012",
+   "time_updated": "2018-02-01T22:32:34Z",
+   "time_added": "2018-02-01T22:32:32Z"
+  },
+  {
+   "item_id": "491836887",
+   "given_url": "https://danielmiessler.com/study/tmux/",
+   "given_title": "A tmux Primer",
+   "resolved_title": "Tactical tmux: The 10 Most Important Commands",
+   "resolved_url": "https://danielmiessler.com/study/tmux/",
+   "time_updated": "2018-02-02T03:11:49Z",
+   "time_added": "2018-02-02T03:11:49Z"
+  },
+  {
+   "item_id": "76699318",
+   "given_url": "https://en.wikipedia.org/wiki/Bourgeois_nationalism",
+   "given_title": "Bourgeois nationalism - Wikipedia",
+   "resolved_title": "Bourgeois nationalism",
+   "resolved_url": "https://en.wikipedia.org/wiki/Bourgeois_nationalism",
+   "time_updated": "2018-02-02T03:32:12Z",
+   "time_added": "2018-02-02T03:32:13Z"
+  },
+  {
+   "item_id": "66296187",
+   "given_url": "http://www.simplyshredded.com/mega-feature-layne-norton-training-series-full-powerhypertrophy-routine-updated-2011.html",
+   "given_title": "Mega Feature: Layne Norton Training Series   Full Power/Hypertrophy Routine",
+   "resolved_title": "Mega Feature: Layne Norton Training Series + Full Power/Hypertrophy Routine",
+   "resolved_url": "http://simplyshredded.com/mega-feature-layne-norton-training-series-full-powerhypertrophy-routine-updated-2011.html",
+   "time_updated": "2018-02-02T14:48:15Z",
+   "time_added": "2018-02-02T14:48:15Z"
+  },
+  {
    "item_id": "2056534349",
    "given_url": "http://clickeaprenda.uol.com.br/portal/mostrarConteudo.php?idPagina=31575",
    "given_title": "ClickeAprenda - Faça a diferença",
@@ -56,6 +182,24 @@
    "resolved_url": "http://clickeaprenda.uol.com.br/portal/mostrarConteudo.php?idPagina=31575",
    "time_updated": "2018-02-02T18:56:23Z",
    "time_added": "2018-02-02T18:56:21Z"
+  },
+  {
+   "item_id": "18975820",
+   "given_url": "https://en.wikipedia.org/wiki/Heligoland",
+   "given_title": "Heligoland - Wikipedia",
+   "resolved_title": "Heligoland",
+   "resolved_url": "https://en.wikipedia.org/wiki/Heligoland",
+   "time_updated": "2018-02-02T19:30:15Z",
+   "time_added": "2018-02-02T19:30:15Z"
+  },
+  {
+   "item_id": "212696278",
+   "given_url": "http://ultimosegundo.ig.com.br/cultura/musica/a-relacao-de-nick-cave-com-o-brasil/n1237745739433.html",
+   "given_title": "A relação de Nick Cave com o Brasil - Música - iG",
+   "resolved_title": "iG - Últimas notícias, fotos, vídeos, esportes, entretenimento e mais.",
+   "resolved_url": "http://ultimosegundo.ig.com.br/cultura/musica/a-relacao-de-nick-cave-com-o-brasil/n1237745739433.html",
+   "time_updated": "2018-02-02T21:37:42Z",
+   "time_added": "2018-02-02T21:37:42Z"
   },
   {
    "item_id": "2056390479",
@@ -67,13 +211,22 @@
    "time_added": "2018-02-02T22:09:26Z"
   },
   {
-   "item_id": "1677183709",
-   "given_url": "http://enterprisedevops.org/article/ephemeral-environment-why-what-how-and-where",
-   "given_title": "Ephemeral Environments for DevOps: Why, What and How? — Enterprise DevOps",
-   "resolved_title": "Ephemeral Environments for DevOps: Why, What and How?",
-   "resolved_url": "http://enterprisedevops.org/article/ephemeral-environment-why-what-how-and-where",
-   "time_updated": "2018-01-29T15:09:51Z",
-   "time_added": "2018-01-29T15:09:49Z"
+   "item_id": "2057014098",
+   "given_url": "https://lcamtuf.blogspot.com.br/2018/02/on-leadership.html?m=1",
+   "given_title": "",
+   "resolved_title": "Progressing from tech to leadership",
+   "resolved_url": "https://lcamtuf.blogspot.com/2018/02/on-leadership.html",
+   "time_updated": "2018-02-03T04:41:24Z",
+   "time_added": "2018-02-03T04:41:25Z"
+  },
+  {
+   "item_id": "2707736",
+   "given_url": "https://en.wikipedia.org/wiki/Bug-out_bag",
+   "given_title": "Bug-out bag - Wikipedia",
+   "resolved_title": "Bug-out bag",
+   "resolved_url": "https://en.wikipedia.org/wiki/Bug-out_bag",
+   "time_updated": "2018-02-03T04:56:07Z",
+   "time_added": "2018-02-03T04:56:07Z"
   },
   {
    "item_id": "2056590399",
@@ -94,123 +247,6 @@
    "time_added": "2018-02-04T00:47:35Z"
   },
   {
-   "item_id": "2000270106",
-   "given_url": "http://www.gazetadopovo.com.br/ideias/como-a-espionagem-comunista-se-infiltrou-no-governo-de-dois-ex-presidentes-brasileiros-e73p4i3scc55a8th9ycmz2a52",
-   "given_title": "Jânio e Jango foram amigos de espiões a serviço da União Soviética | Gazeta",
-   "resolved_title": "Como a espionagem comunista se infiltrou no governo de dois ex-presidentes brasileiros",
-   "resolved_url": "https://www.gazetadopovo.com.br/ideias/como-a-espionagem-comunista-se-infiltrou-no-governo-de-dois-ex-presidentes-brasileiros-e73p4i3scc55a8th9ycmz2a52/",
-   "time_updated": "2018-01-30T13:02:42Z",
-   "time_added": "2018-01-30T13:02:42Z"
-  },
-  {
-   "item_id": "2049985729",
-   "given_url": "https://www.wired.com/story/apple-podcast-analytics-first-month/amp?__twitter_impression=true",
-   "given_title": "",
-   "resolved_title": "Podcast Listeners Really Are the Holy Grail Advertisers Hoped They'd Be",
-   "resolved_url": "https://www.wired.com/story/apple-podcast-analytics-first-month/",
-   "time_updated": "2018-01-29T22:29:49Z",
-   "time_added": "2018-01-29T22:29:46Z"
-  },
-  {
-   "item_id": "2049822518",
-   "given_url": "https://techbeacon.com/kubernetes-check-next-cloud-revolution-helm?utm_content=buffer6fc0e\u0026utm_medium=social\u0026utm_source=twitter.com\u0026utm_campaign=buffer",
-   "given_title": "",
-   "resolved_title": "Kubernetes: Check. Next up in the cloud revolution: Helm",
-   "resolved_url": "https://techbeacon.com/kubernetes-check-next-cloud-revolution-helm",
-   "time_updated": "2018-01-29T15:09:58Z",
-   "time_added": "2018-01-29T15:09:57Z"
-  },
-  {
-   "item_id": "18975820",
-   "given_url": "https://en.wikipedia.org/wiki/Heligoland",
-   "given_title": "Heligoland - Wikipedia",
-   "resolved_title": "Heligoland",
-   "resolved_url": "https://en.wikipedia.org/wiki/Heligoland",
-   "time_updated": "2018-02-02T19:30:15Z",
-   "time_added": "2018-02-02T19:30:15Z"
-  },
-  {
-   "item_id": "2707736",
-   "given_url": "https://en.wikipedia.org/wiki/Bug-out_bag",
-   "given_title": "Bug-out bag - Wikipedia",
-   "resolved_title": "Bug-out bag",
-   "resolved_url": "https://en.wikipedia.org/wiki/Bug-out_bag",
-   "time_updated": "2018-02-03T04:56:07Z",
-   "time_added": "2018-02-03T04:56:07Z"
-  },
-  {
-   "item_id": "76699318",
-   "given_url": "https://en.wikipedia.org/wiki/Bourgeois_nationalism",
-   "given_title": "Bourgeois nationalism - Wikipedia",
-   "resolved_title": "Bourgeois nationalism",
-   "resolved_url": "https://en.wikipedia.org/wiki/Bourgeois_nationalism",
-   "time_updated": "2018-02-02T03:32:12Z",
-   "time_added": "2018-02-02T03:32:13Z"
-  },
-  {
-   "item_id": "2055259389",
-   "given_url": "https://news.ycombinator.com/item?id=16286012",
-   "given_title": "A description of -- not a name for -- is corporate control of an open sourc",
-   "resolved_title": "A description of : not a name for : is corporate control of an open source pro... : Hacker News",
-   "resolved_url": "https://news.ycombinator.com/item?id=16286012",
-   "time_updated": "2018-02-01T22:32:34Z",
-   "time_added": "2018-02-01T22:32:32Z"
-  },
-  {
-   "item_id": "2055050011",
-   "given_url": "https://gravitational.com/blog/kubernetes-release-cycle/#",
-   "given_title": "The full-time job of keeping up with Kubernetes",
-   "resolved_title": "The full-time job of keeping up with Kubernetes",
-   "resolved_url": "https://gravitational.com/blog/kubernetes-release-cycle/",
-   "time_updated": "2018-02-01T22:24:30Z",
-   "time_added": "2018-02-01T22:24:31Z"
-  },
-  {
-   "item_id": "1044482027",
-   "given_url": "https://en.wikipedia.org/wiki/Flemish_Giant_rabbit",
-   "given_title": "Flemish Giant rabbit - Wikipedia",
-   "resolved_title": "Flemish Giant rabbit",
-   "resolved_url": "https://en.wikipedia.org/wiki/Flemish_Giant_rabbit",
-   "time_updated": "2018-01-31T15:49:37Z",
-   "time_added": "2018-01-31T15:49:37Z"
-  },
-  {
-   "item_id": "2046043445",
-   "given_url": "https://www.uol/esporte/especiais/chico-lang---entrevista.htm#mesa-redonda-oferecia-o-que-a-globo-nao-mostrava",
-   "given_title": "Barraqueiro e sofredor | UOL Esporte",
-   "resolved_title": "",
-   "resolved_url": "",
-   "time_updated": "2018-01-30T16:25:25Z",
-   "time_added": "2018-01-30T16:25:25Z"
-  },
-  {
-   "item_id": "2051862712",
-   "given_url": "https://en.m.wikipedia.org/wiki/Isabella_Stewart_Gardner_Museum_theft?wprov=sfla1",
-   "given_title": "Isabella Stewart Gardner Museum theft - Wikipedia",
-   "resolved_title": "Isabella Stewart Gardner Museum theft",
-   "resolved_url": "https://en.wikipedia.org/wiki/Isabella_Stewart_Gardner_Museum_theft",
-   "time_updated": "2018-01-31T18:29:41Z",
-   "time_added": "2018-01-31T18:29:41Z"
-  },
-  {
-   "item_id": "212696278",
-   "given_url": "http://ultimosegundo.ig.com.br/cultura/musica/a-relacao-de-nick-cave-com-o-brasil/n1237745739433.html",
-   "given_title": "A relação de Nick Cave com o Brasil - Música - iG",
-   "resolved_title": "iG - Últimas notícias, fotos, vídeos, esportes, entretenimento e mais.",
-   "resolved_url": "http://ultimosegundo.ig.com.br/cultura/musica/a-relacao-de-nick-cave-com-o-brasil/n1237745739433.html",
-   "time_updated": "2018-02-02T21:37:42Z",
-   "time_added": "2018-02-02T21:37:42Z"
-  },
-  {
-   "item_id": "1174275658",
-   "given_url": "https://en.wikipedia.org/wiki/Law_of_triviality",
-   "given_title": "Law of triviality - Wikipedia",
-   "resolved_title": "Law of triviality",
-   "resolved_url": "https://en.wikipedia.org/wiki/Law_of_triviality",
-   "time_updated": "2018-01-31T12:49:51Z",
-   "time_added": "2018-01-31T12:49:51Z"
-  },
-  {
    "item_id": "841449049",
    "given_url": "http://www.groovy-lang.org/style-guide.html",
    "given_title": "The Apache Groovy programming language - Style guide",
@@ -218,42 +254,6 @@
    "resolved_url": "https://groovy-lang.org/style-guide.html",
    "time_updated": "2018-02-04T23:42:32Z",
    "time_added": "2018-02-04T23:42:32Z"
-  },
-  {
-   "item_id": "2053482326",
-   "given_url": "https://egghead.io/lessons/angular-angular-material-components-course-overview",
-   "given_title": "Angular Material Components Course Overview from @btroncone on @eggheadio",
-   "resolved_title": "Angular Material Components Course Overview",
-   "resolved_url": "https://egghead.io/lessons/angular-angular-material-components-course-overview",
-   "time_updated": "2018-02-01T14:28:53Z",
-   "time_added": "2018-02-01T14:28:53Z"
-  },
-  {
-   "item_id": "66296187",
-   "given_url": "http://www.simplyshredded.com/mega-feature-layne-norton-training-series-full-powerhypertrophy-routine-updated-2011.html",
-   "given_title": "Mega Feature: Layne Norton Training Series   Full Power/Hypertrophy Routine",
-   "resolved_title": "Mega Feature: Layne Norton Training Series + Full Power/Hypertrophy Routine",
-   "resolved_url": "http://simplyshredded.com/mega-feature-layne-norton-training-series-full-powerhypertrophy-routine-updated-2011.html",
-   "time_updated": "2018-02-02T14:48:15Z",
-   "time_added": "2018-02-02T14:48:15Z"
-  },
-  {
-   "item_id": "2057014098",
-   "given_url": "https://lcamtuf.blogspot.com.br/2018/02/on-leadership.html?m=1",
-   "given_title": "",
-   "resolved_title": "Progressing from tech to leadership",
-   "resolved_url": "https://lcamtuf.blogspot.com/2018/02/on-leadership.html",
-   "time_updated": "2018-02-03T04:41:24Z",
-   "time_added": "2018-02-03T04:41:25Z"
-  },
-  {
-   "item_id": "1851377243",
-   "given_url": "https://blog.angularindepth.com/avoiding-common-confusions-with-modules-in-angular-ada070e6891f",
-   "given_title": "Avoiding common confusions with modules in Angular – Angular In Depth",
-   "resolved_title": "Avoiding common confusions with modules in Angular",
-   "resolved_url": "https://blog.angularindepth.com/avoiding-common-confusions-with-modules-in-angular-ada070e6891f",
-   "time_updated": "2018-01-30T18:24:20Z",
-   "time_added": "2018-01-30T18:24:20Z"
   }
  ]
 }

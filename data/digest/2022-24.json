@@ -4,13 +4,13 @@
  "sortKey": "2022-24",
  "items": [
   {
-   "item_id": "3642270082",
-   "given_url": "https://noticias.uol.com.br/colunas/reinaldo-azevedo/2022/06/17/bruno-e-dom-por-que-pf-descartar-mandantes-e-aberracao-tecnica-e-politica.htm",
-   "given_title": "Bruno e Dom: Por que PF descartar mandantes é aberração técnica e política ",
-   "resolved_title": "Reinaldo Azevedo",
-   "resolved_url": "https://noticias.uol.com.br/colunas/reinaldo-azevedo/2022/06/17/bruno-e-dom-por-que-pf-descartar-mandantes-e-aberracao-tecnica-e-politica.htm",
-   "time_updated": "2022-06-18T16:17:33+01:00",
-   "time_added": "2022-06-18T01:34:22+01:00"
+   "item_id": "3636577821",
+   "given_url": "https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/",
+   "given_title": "The collapse of complex software | Read the Tea Leaves",
+   "resolved_title": "The collapse of complex software",
+   "resolved_url": "https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/",
+   "time_updated": "2022-06-18T16:17:31+01:00",
+   "time_added": "2022-06-09T20:25:55+01:00"
   },
   {
    "item_id": "3623017185",
@@ -22,22 +22,67 @@
    "time_added": "2022-06-09T22:51:05+01:00"
   },
   {
-   "item_id": "3639055776",
-   "given_url": "https://www.theatlantic.com/magazine/archive/2022/07/light-noise-pollution-animal-sensory-impact/638446/",
-   "given_title": "How Light and Noise Pollution Confound Animals’ Senses - The Atlantic",
-   "resolved_title": "How Animals Perceive the World",
-   "resolved_url": "https://www.theatlantic.com/magazine/archive/2022/07/light-noise-pollution-animal-sensory-impact/638446/",
-   "time_updated": "2022-06-18T16:17:32+01:00",
-   "time_added": "2022-06-16T12:55:23+01:00"
+   "item_id": "3636759312",
+   "given_url": "https://www.uol.com.br/vivabem/noticias/redacao/2022/06/09/intercambio-mudanca-de-pais-como-imigrar-sem-prejudicar-o-emocional.htm",
+   "given_title": "Intercâmbio, mudança de país: como cuidar do emocional ao ir morar fora? - ",
+   "resolved_title": "Intercâmbio, mudança de país: como imigrar sem prejudicar o emocional?",
+   "resolved_url": "https://www.uol.com.br/vivabem/noticias/redacao/2022/06/09/intercambio-mudanca-de-pais-como-imigrar-sem-prejudicar-o-emocional.htm",
+   "time_updated": "2022-06-18T16:17:31+01:00",
+   "time_added": "2022-06-09T23:37:24+01:00"
   },
   {
-   "item_id": "3640320561",
-   "given_url": "https://twitter.com/swyx/status/1536832603411451905",
-   "given_title": "swyx no Twitter: \"Every so often I love to be reminded of the biggest devto",
-   "resolved_title": "swyx",
-   "resolved_url": "https://twitter.com/swyx/status/1536832603411451905",
-   "time_updated": "2022-06-15T15:12:44+01:00",
-   "time_added": "2022-06-15T15:12:44+01:00"
+   "item_id": "3632340496",
+   "given_url": "https://paperform.co/blog/toxic-productivity/",
+   "given_title": "Are You Suffering from Toxic Productivity?",
+   "resolved_title": "Are You Suffering from Toxic Productivity?",
+   "resolved_url": "https://paperform.co/blog/toxic-productivity/",
+   "time_updated": "2022-06-18T16:17:31+01:00",
+   "time_added": "2022-06-10T13:04:01+01:00"
+  },
+  {
+   "item_id": "3631670382",
+   "given_url": "https://eng.uber.com/data-race-patterns-in-go/",
+   "given_title": "Data Race Patterns in Go",
+   "resolved_title": "Data Race Patterns in Go",
+   "resolved_url": "https://eng.uber.com/data-race-patterns-in-go/",
+   "time_updated": "2022-06-18T16:17:31+01:00",
+   "time_added": "2022-06-11T00:28:10+01:00"
+  },
+  {
+   "item_id": "431602092",
+   "given_url": "https://en.m.wikipedia.org/wiki/Ishikawa_Goemon",
+   "given_title": "Ishikawa Goemon - Wikipedia",
+   "resolved_title": "Ishikawa Goemon",
+   "resolved_url": "https://en.wikipedia.org/wiki/Ishikawa_Goemon",
+   "time_updated": "2022-06-18T16:17:31+01:00",
+   "time_added": "2022-06-11T02:00:41+01:00"
+  },
+  {
+   "item_id": "3638687696",
+   "given_url": "https://www.uol.com.br/esporte/reportagens-especiais/na-3-divisao-argel-quer-abrir-portas-aos-treinadores-brasileiros-em-portugal/#page8",
+   "given_title": "Argel quer abrir as portas para os treinadores brasileiros em Portugal",
+   "resolved_title": "Na contramão da nova ordem",
+   "resolved_url": "https://www.uol.com.br/esporte/reportagens-especiais/na-3-divisao-argel-quer-abrir-portas-aos-treinadores-brasileiros-em-portugal/",
+   "time_updated": "2022-06-18T16:17:32+01:00",
+   "time_added": "2022-06-12T12:41:21+01:00"
+  },
+  {
+   "item_id": "3638687697",
+   "given_url": "https://mobile.twitter.com/DeannaHoak/status/970129313415749632?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E970362597265391616%7Ctwgr%5E%7Ctwcon%5Es3_\u0026ref_url=https%3A%2F%2Fmetro.co.uk%2F2018%2F03%2F07%2Fmillennials-created-language-7368643%2F",
+   "given_title": "Deanna Hoak no Twitter: \"My master’s was in sociolinguistics, and I absolut",
+   "resolved_title": "Deanna Hoak",
+   "resolved_url": "https://mobile.twitter.com/deannahoak/status/970129313415749632",
+   "time_updated": "2022-06-18T16:17:32+01:00",
+   "time_added": "2022-06-12T16:49:55+01:00"
+  },
+  {
+   "item_id": "3638172341",
+   "given_url": "https://cajundiscordian.medium.com/what-is-lamda-and-what-does-it-want-688632134489",
+   "given_title": "What is LaMDA and What Does it Want? | by Blake Lemoine | Jun, 2022 | Mediu",
+   "resolved_title": "What is LaMDA and What Does it Want?",
+   "resolved_url": "https://cajundiscordian.medium.com/what-is-lamda-and-what-does-it-want-688632134489",
+   "time_updated": "2022-06-18T16:17:32+01:00",
+   "time_added": "2022-06-12T18:38:42+01:00"
   },
   {
    "item_id": "3638587747",
@@ -58,15 +103,6 @@
    "time_added": "2022-06-14T16:23:05+01:00"
   },
   {
-   "item_id": "3642167495",
-   "given_url": "https://www.uol.com.br/esporte/reportagens-especiais/libertadores-rivais-explicam-o-que-o-sao-paulo-de-1992-tinha-de-diferente/#page4",
-   "given_title": "São Paulo campeão da Libertadores 1992 estava à frente de seu tempo",
-   "resolved_title": "À frente de seu tempo",
-   "resolved_url": "https://www.uol.com.br/esporte/reportagens-especiais/libertadores-rivais-explicam-o-que-o-sao-paulo-de-1992-tinha-de-diferente/",
-   "time_updated": "2022-06-18T16:17:33+01:00",
-   "time_added": "2022-06-17T20:43:14+01:00"
-  },
-  {
    "item_id": "3640569588",
    "given_url": "https://tab.uol.com.br/noticias/redacao/2022/06/15/r-500-a-mais-garotos-de-programa-se-drogam-para-agradar-clientes-ricos.htm",
    "given_title": "'R$ 500 a mais': garotos de programa se drogam para agradar clientes ricos ",
@@ -74,96 +110,6 @@
    "resolved_url": "https://tab.uol.com.br/noticias/redacao/2022/06/15/r-500-a-mais-garotos-de-programa-se-drogam-para-agradar-clientes-ricos.htm",
    "time_updated": "2022-06-18T16:17:32+01:00",
    "time_added": "2022-06-15T12:50:03+01:00"
-  },
-  {
-   "item_id": "3641250210",
-   "given_url": "https://www.uol.com.br/vivabem/noticias/redacao/2022/06/16/congelar-bichinho-de-pelucia-funciona-veja-cuidados-para-evitar-a-rinite.htm",
-   "given_title": "Congelar bicho de pelúcia? Veja cuidados para evitar rinite",
-   "resolved_title": "Congelar pelúcia e mais 7 dicas fáceis para você combater a rinite alérgica",
-   "resolved_url": "https://www.uol.com.br/vivabem/noticias/redacao/2022/06/16/congelar-bichinho-de-pelucia-funciona-veja-cuidados-para-evitar-a-rinite.htm",
-   "time_updated": "2022-06-18T16:17:33+01:00",
-   "time_added": "2022-06-16T19:15:12+01:00"
-  },
-  {
-   "item_id": "3638172341",
-   "given_url": "https://cajundiscordian.medium.com/what-is-lamda-and-what-does-it-want-688632134489",
-   "given_title": "What is LaMDA and What Does it Want? | by Blake Lemoine | Jun, 2022 | Mediu",
-   "resolved_title": "What is LaMDA and What Does it Want?",
-   "resolved_url": "https://cajundiscordian.medium.com/what-is-lamda-and-what-does-it-want-688632134489",
-   "time_updated": "2022-06-18T16:17:32+01:00",
-   "time_added": "2022-06-12T18:38:42+01:00"
-  },
-  {
-   "item_id": "3632340496",
-   "given_url": "https://paperform.co/blog/toxic-productivity/",
-   "given_title": "Are You Suffering from Toxic Productivity?",
-   "resolved_title": "Are You Suffering from Toxic Productivity?",
-   "resolved_url": "https://paperform.co/blog/toxic-productivity/",
-   "time_updated": "2022-06-18T16:17:31+01:00",
-   "time_added": "2022-06-10T13:04:01+01:00"
-  },
-  {
-   "item_id": "3642696070",
-   "given_url": "https://www.thelocal.se/20220614/swedophiles-the-foreigners-who-move-to-sweden-based-on-statistics-alone/?utm_source=dlvr.it\u0026utm_medium=facebook",
-   "given_title": "Swedophiles: The foreigners who move to Sweden based on statistics alone",
-   "resolved_title": "",
-   "resolved_url": "https://www.thelocal.se/20220614/swedophiles-the-foreigners-who-move-to-sweden-based-on-statistics-alone/?utm_source=dlvr.it\u0026utm_medium=facebook",
-   "time_updated": "2022-06-18T16:17:35+01:00",
-   "time_added": "2022-06-16T19:15:34+01:00"
-  },
-  {
-   "item_id": "3640799354",
-   "given_url": "https://twitter.com/jespow/status/1536978826344792064",
-   "given_title": "Jesse Powell no Twitter: \"5/ What are they upset about? * DEI (Silicon Vall",
-   "resolved_title": "Jesse Powell",
-   "resolved_url": "https://twitter.com/jespow/status/1536978826344792064",
-   "time_updated": "2022-06-15T20:12:35+01:00",
-   "time_added": "2022-06-15T20:12:34+01:00"
-  },
-  {
-   "item_id": "1989357930",
-   "given_url": "https://rafaelfalcon.com.br/artigos/um-livro-para-ler-e-entender/",
-   "given_title": "Um livro para ler — e entender – Rafael Falcón",
-   "resolved_title": "Um livro para ler — e entender",
-   "resolved_url": "https://rafaelfalcon.com.br/artigos/um-livro-para-ler-e-entender/",
-   "time_updated": "2022-06-18T16:17:32+01:00",
-   "time_added": "2022-06-16T19:04:21+01:00"
-  },
-  {
-   "item_id": "3636759312",
-   "given_url": "https://www.uol.com.br/vivabem/noticias/redacao/2022/06/09/intercambio-mudanca-de-pais-como-imigrar-sem-prejudicar-o-emocional.htm",
-   "given_title": "Intercâmbio, mudança de país: como cuidar do emocional ao ir morar fora? - ",
-   "resolved_title": "Intercâmbio, mudança de país: como imigrar sem prejudicar o emocional?",
-   "resolved_url": "https://www.uol.com.br/vivabem/noticias/redacao/2022/06/09/intercambio-mudanca-de-pais-como-imigrar-sem-prejudicar-o-emocional.htm",
-   "time_updated": "2022-06-18T16:17:31+01:00",
-   "time_added": "2022-06-09T23:37:24+01:00"
-  },
-  {
-   "item_id": "3639401273",
-   "given_url": "https://www.andy.works/words/the-most-satisfying-checkbox",
-   "given_title": "The World's Most Satisfying Checkbox | (Not Boring) Software",
-   "resolved_title": "The World's Most Satisfying Checkbox",
-   "resolved_url": "https://www.andy.works/words/the-most-satisfying-checkbox",
-   "time_updated": "2022-06-18T16:17:26+01:00",
-   "time_added": "2022-06-18T16:17:26+01:00"
-  },
-  {
-   "item_id": "3640759184",
-   "given_url": "https://www.nytimes.com/2022/06/15/technology/kraken-crypto-culture.html",
-   "given_title": "Inside a Corporate Culture War Stoked by a Crypto C.E.O. - The New York Tim",
-   "resolved_title": "Inside a Corporate Culture War Stoked by a Crypto C.E.O.",
-   "resolved_url": "https://www.nytimes.com/2022/06/15/technology/kraken-crypto-culture.html",
-   "time_updated": "2022-06-15T20:15:58+01:00",
-   "time_added": "2022-06-15T20:15:58+01:00"
-  },
-  {
-   "item_id": "3638687696",
-   "given_url": "https://www.uol.com.br/esporte/reportagens-especiais/na-3-divisao-argel-quer-abrir-portas-aos-treinadores-brasileiros-em-portugal/#page8",
-   "given_title": "Argel quer abrir as portas para os treinadores brasileiros em Portugal",
-   "resolved_title": "Na contramão da nova ordem",
-   "resolved_url": "https://www.uol.com.br/esporte/reportagens-especiais/na-3-divisao-argel-quer-abrir-portas-aos-treinadores-brasileiros-em-portugal/",
-   "time_updated": "2022-06-18T16:17:32+01:00",
-   "time_added": "2022-06-12T12:41:21+01:00"
   },
   {
    "item_id": "3639762929",
@@ -175,22 +121,85 @@
    "time_added": "2022-06-15T12:57:46+01:00"
   },
   {
-   "item_id": "3638687697",
-   "given_url": "https://mobile.twitter.com/DeannaHoak/status/970129313415749632?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E970362597265391616%7Ctwgr%5E%7Ctwcon%5Es3_\u0026ref_url=https%3A%2F%2Fmetro.co.uk%2F2018%2F03%2F07%2Fmillennials-created-language-7368643%2F",
-   "given_title": "Deanna Hoak no Twitter: \"My master’s was in sociolinguistics, and I absolut",
-   "resolved_title": "Deanna Hoak",
-   "resolved_url": "https://mobile.twitter.com/deannahoak/status/970129313415749632",
-   "time_updated": "2022-06-18T16:17:32+01:00",
-   "time_added": "2022-06-12T16:49:55+01:00"
+   "item_id": "3640320561",
+   "given_url": "https://twitter.com/swyx/status/1536832603411451905",
+   "given_title": "swyx no Twitter: \"Every so often I love to be reminded of the biggest devto",
+   "resolved_title": "swyx",
+   "resolved_url": "https://twitter.com/swyx/status/1536832603411451905",
+   "time_updated": "2022-06-15T15:12:44+01:00",
+   "time_added": "2022-06-15T15:12:44+01:00"
   },
   {
-   "item_id": "3636577821",
-   "given_url": "https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/",
-   "given_title": "The collapse of complex software | Read the Tea Leaves",
-   "resolved_title": "The collapse of complex software",
-   "resolved_url": "https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/",
-   "time_updated": "2022-06-18T16:17:31+01:00",
-   "time_added": "2022-06-09T20:25:55+01:00"
+   "item_id": "3640799354",
+   "given_url": "https://twitter.com/jespow/status/1536978826344792064",
+   "given_title": "Jesse Powell no Twitter: \"5/ What are they upset about? * DEI (Silicon Vall",
+   "resolved_title": "Jesse Powell",
+   "resolved_url": "https://twitter.com/jespow/status/1536978826344792064",
+   "time_updated": "2022-06-15T20:12:35+01:00",
+   "time_added": "2022-06-15T20:12:34+01:00"
+  },
+  {
+   "item_id": "3640759184",
+   "given_url": "https://www.nytimes.com/2022/06/15/technology/kraken-crypto-culture.html",
+   "given_title": "Inside a Corporate Culture War Stoked by a Crypto C.E.O. - The New York Tim",
+   "resolved_title": "Inside a Corporate Culture War Stoked by a Crypto C.E.O.",
+   "resolved_url": "https://www.nytimes.com/2022/06/15/technology/kraken-crypto-culture.html",
+   "time_updated": "2022-06-15T20:15:58+01:00",
+   "time_added": "2022-06-15T20:15:58+01:00"
+  },
+  {
+   "item_id": "3639055776",
+   "given_url": "https://www.theatlantic.com/magazine/archive/2022/07/light-noise-pollution-animal-sensory-impact/638446/",
+   "given_title": "How Light and Noise Pollution Confound Animals’ Senses - The Atlantic",
+   "resolved_title": "How Animals Perceive the World",
+   "resolved_url": "https://www.theatlantic.com/magazine/archive/2022/07/light-noise-pollution-animal-sensory-impact/638446/",
+   "time_updated": "2022-06-18T16:17:32+01:00",
+   "time_added": "2022-06-16T12:55:23+01:00"
+  },
+  {
+   "item_id": "1989357930",
+   "given_url": "https://rafaelfalcon.com.br/artigos/um-livro-para-ler-e-entender/",
+   "given_title": "Um livro para ler — e entender – Rafael Falcón",
+   "resolved_title": "Um livro para ler — e entender",
+   "resolved_url": "https://rafaelfalcon.com.br/artigos/um-livro-para-ler-e-entender/",
+   "time_updated": "2022-06-18T16:17:32+01:00",
+   "time_added": "2022-06-16T19:04:21+01:00"
+  },
+  {
+   "item_id": "3641250210",
+   "given_url": "https://www.uol.com.br/vivabem/noticias/redacao/2022/06/16/congelar-bichinho-de-pelucia-funciona-veja-cuidados-para-evitar-a-rinite.htm",
+   "given_title": "Congelar bicho de pelúcia? Veja cuidados para evitar rinite",
+   "resolved_title": "Congelar pelúcia e mais 7 dicas fáceis para você combater a rinite alérgica",
+   "resolved_url": "https://www.uol.com.br/vivabem/noticias/redacao/2022/06/16/congelar-bichinho-de-pelucia-funciona-veja-cuidados-para-evitar-a-rinite.htm",
+   "time_updated": "2022-06-18T16:17:33+01:00",
+   "time_added": "2022-06-16T19:15:12+01:00"
+  },
+  {
+   "item_id": "3642696070",
+   "given_url": "https://www.thelocal.se/20220614/swedophiles-the-foreigners-who-move-to-sweden-based-on-statistics-alone/?utm_source=dlvr.it\u0026utm_medium=facebook",
+   "given_title": "Swedophiles: The foreigners who move to Sweden based on statistics alone",
+   "resolved_title": "",
+   "resolved_url": "https://www.thelocal.se/20220614/swedophiles-the-foreigners-who-move-to-sweden-based-on-statistics-alone/?utm_source=dlvr.it\u0026utm_medium=facebook",
+   "time_updated": "2022-06-18T16:17:35+01:00",
+   "time_added": "2022-06-16T19:15:34+01:00"
+  },
+  {
+   "item_id": "3642167495",
+   "given_url": "https://www.uol.com.br/esporte/reportagens-especiais/libertadores-rivais-explicam-o-que-o-sao-paulo-de-1992-tinha-de-diferente/#page4",
+   "given_title": "São Paulo campeão da Libertadores 1992 estava à frente de seu tempo",
+   "resolved_title": "À frente de seu tempo",
+   "resolved_url": "https://www.uol.com.br/esporte/reportagens-especiais/libertadores-rivais-explicam-o-que-o-sao-paulo-de-1992-tinha-de-diferente/",
+   "time_updated": "2022-06-18T16:17:33+01:00",
+   "time_added": "2022-06-17T20:43:14+01:00"
+  },
+  {
+   "item_id": "3642270082",
+   "given_url": "https://noticias.uol.com.br/colunas/reinaldo-azevedo/2022/06/17/bruno-e-dom-por-que-pf-descartar-mandantes-e-aberracao-tecnica-e-politica.htm",
+   "given_title": "Bruno e Dom: Por que PF descartar mandantes é aberração técnica e política ",
+   "resolved_title": "Reinaldo Azevedo",
+   "resolved_url": "https://noticias.uol.com.br/colunas/reinaldo-azevedo/2022/06/17/bruno-e-dom-por-que-pf-descartar-mandantes-e-aberracao-tecnica-e-politica.htm",
+   "time_updated": "2022-06-18T16:17:33+01:00",
+   "time_added": "2022-06-18T01:34:22+01:00"
   },
   {
    "item_id": "3642696073",
@@ -202,22 +211,13 @@
    "time_added": "2022-06-18T07:12:11+01:00"
   },
   {
-   "item_id": "431602092",
-   "given_url": "https://en.m.wikipedia.org/wiki/Ishikawa_Goemon",
-   "given_title": "Ishikawa Goemon - Wikipedia",
-   "resolved_title": "Ishikawa Goemon",
-   "resolved_url": "https://en.wikipedia.org/wiki/Ishikawa_Goemon",
-   "time_updated": "2022-06-18T16:17:31+01:00",
-   "time_added": "2022-06-11T02:00:41+01:00"
-  },
-  {
-   "item_id": "3631670382",
-   "given_url": "https://eng.uber.com/data-race-patterns-in-go/",
-   "given_title": "Data Race Patterns in Go",
-   "resolved_title": "Data Race Patterns in Go",
-   "resolved_url": "https://eng.uber.com/data-race-patterns-in-go/",
-   "time_updated": "2022-06-18T16:17:31+01:00",
-   "time_added": "2022-06-11T00:28:10+01:00"
+   "item_id": "3639401273",
+   "given_url": "https://www.andy.works/words/the-most-satisfying-checkbox",
+   "given_title": "The World's Most Satisfying Checkbox | (Not Boring) Software",
+   "resolved_title": "The World's Most Satisfying Checkbox",
+   "resolved_url": "https://www.andy.works/words/the-most-satisfying-checkbox",
+   "time_updated": "2022-06-18T16:17:26+01:00",
+   "time_added": "2022-06-18T16:17:26+01:00"
   }
  ]
 }

@@ -4,6 +4,15 @@
  "sortKey": "2018-11",
  "items": [
   {
+   "item_id": "1706473904",
+   "given_url": "http://www.dictionary.com/browse/kerfuffle",
+   "given_title": "",
+   "resolved_title": "kerfuffle",
+   "resolved_url": "http://www.dictionary.com/browse/kerfuffle",
+   "time_updated": "2018-03-12T01:25:19Z",
+   "time_added": "2018-03-12T01:25:19Z"
+  },
+  {
    "item_id": "2110883908",
    "given_url": "https://blogdobarcinski.blogosfera.uol.com.br/2018/03/12/ele-xingou-senna-e-revelou-o-submundo-de-interlagos-joao-gordo-na-f-1/",
    "given_title": "Ele brigou com Senna e revelou o submundo de Interlagos: João Gordo na F-1!",
@@ -11,6 +20,15 @@
    "resolved_url": "https://blogdobarcinski.blogosfera.uol.com.br/2018/03/12/ele-xingou-senna-e-revelou-o-submundo-de-interlagos-joao-gordo-na-f-1/",
    "time_updated": "2018-03-12T13:25:26Z",
    "time_added": "2018-03-12T13:25:26Z"
+  },
+  {
+   "item_id": "2112530859",
+   "given_url": "http://www.terrazero.com.br/2018/03/herois-pulp-o-sombra-parte-1/",
+   "given_title": "Heróis Pulp: O Sombra - Parte 1 | Terra Zero - Notícias, HQs e ComicPod",
+   "resolved_title": "",
+   "resolved_url": "https://terrazero.com.br/2018/03/herois-pulp-o-sombra-parte-1/",
+   "time_updated": "2018-03-13T20:55:12Z",
+   "time_added": "2018-03-13T20:55:13Z"
   },
   {
    "item_id": "2112928591",
@@ -22,24 +40,6 @@
    "time_added": "2018-03-13T23:43:32Z"
   },
   {
-   "item_id": "1454815346",
-   "given_url": "https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/",
-   "given_title": "Angular Architecture - Smart Components vs Presentational Components",
-   "resolved_title": "Angular Architecture - Smart Components vs Presentational Components",
-   "resolved_url": "https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/",
-   "time_updated": "2018-03-16T18:37:21Z",
-   "time_added": "2018-03-16T18:37:21Z"
-  },
-  {
-   "item_id": "62124687",
-   "given_url": "https://en.wikipedia.org/wiki/The_Twelve_Spies",
-   "given_title": "The Twelve Spies - Wikipedia",
-   "resolved_title": "The Twelve Spies",
-   "resolved_url": "https://en.wikipedia.org/wiki/The_Twelve_Spies",
-   "time_updated": "2018-03-17T20:47:25Z",
-   "time_added": "2018-03-17T20:47:15Z"
-  },
-  {
    "item_id": "2112872177",
    "given_url": "https://xadrezverbal.com/2018/03/13/eleicoes-na-russia-por-que-o-maior-antagonista-do-ocidente-continuara-no-poder/",
    "given_title": "Eleições na Rússia: por que o maior antagonista do ocidente continuará no p",
@@ -49,13 +49,22 @@
    "time_added": "2018-03-14T02:48:28Z"
   },
   {
-   "item_id": "1706473904",
-   "given_url": "http://www.dictionary.com/browse/kerfuffle",
-   "given_title": "",
-   "resolved_title": "kerfuffle",
-   "resolved_url": "http://www.dictionary.com/browse/kerfuffle",
-   "time_updated": "2018-03-12T01:25:19Z",
-   "time_added": "2018-03-12T01:25:19Z"
+   "item_id": "2113360133",
+   "given_url": "https://brasil.elpais.com/brasil/2018/03/13/politica/1520947959_760179.html",
+   "given_title": "Nem da Rocinha: “Não me arrependo de ter sido traficante. O que você faria ",
+   "resolved_title": "Nem da Rocinha: “Não me arrependo de ter sido traficante. O que você faria no meu lugar?”",
+   "resolved_url": "https://brasil.elpais.com/brasil/2018/03/13/politica/1520947959_760179.html",
+   "time_updated": "2018-03-14T15:02:24Z",
+   "time_added": "2018-03-14T15:02:24Z"
+  },
+  {
+   "item_id": "93353325",
+   "given_url": "https://en.wikipedia.org/wiki/Brasil_(mythical_island)",
+   "given_title": "Brasil (mythical island) - Wikipedia",
+   "resolved_title": "Brasil (mythical island)",
+   "resolved_url": "https://en.wikipedia.org/wiki/Brasil_(mythical_island)",
+   "time_updated": "2018-03-15T04:47:34Z",
+   "time_added": "2018-03-15T04:47:35Z"
   },
   {
    "item_id": "2114125851",
@@ -67,13 +76,13 @@
    "time_added": "2018-03-15T18:50:20Z"
   },
   {
-   "item_id": "2112530859",
-   "given_url": "http://www.terrazero.com.br/2018/03/herois-pulp-o-sombra-parte-1/",
-   "given_title": "Heróis Pulp: O Sombra - Parte 1 | Terra Zero - Notícias, HQs e ComicPod",
-   "resolved_title": "",
-   "resolved_url": "https://terrazero.com.br/2018/03/herois-pulp-o-sombra-parte-1/",
-   "time_updated": "2018-03-13T20:55:12Z",
-   "time_added": "2018-03-13T20:55:13Z"
+   "item_id": "1454815346",
+   "given_url": "https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/",
+   "given_title": "Angular Architecture - Smart Components vs Presentational Components",
+   "resolved_title": "Angular Architecture - Smart Components vs Presentational Components",
+   "resolved_url": "https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/",
+   "time_updated": "2018-03-16T18:37:21Z",
+   "time_added": "2018-03-16T18:37:21Z"
   },
   {
    "item_id": "2116777691",
@@ -94,6 +103,15 @@
    "time_added": "2018-03-17T16:52:08Z"
   },
   {
+   "item_id": "62124687",
+   "given_url": "https://en.wikipedia.org/wiki/The_Twelve_Spies",
+   "given_title": "The Twelve Spies - Wikipedia",
+   "resolved_title": "The Twelve Spies",
+   "resolved_url": "https://en.wikipedia.org/wiki/The_Twelve_Spies",
+   "time_updated": "2018-03-17T20:47:25Z",
+   "time_added": "2018-03-17T20:47:15Z"
+  },
+  {
    "item_id": "1833230978",
    "given_url": "http://www.japanhouse.jp/saopaulo/news/Roberto_Rodrigues.html",
    "given_title": "A Contribuição Japonesa para a Agricultura Brasileira | CULTURA | JAPAN HOU",
@@ -103,15 +121,6 @@
    "time_added": "2018-03-17T21:31:55Z"
   },
   {
-   "item_id": "2113360133",
-   "given_url": "https://brasil.elpais.com/brasil/2018/03/13/politica/1520947959_760179.html",
-   "given_title": "Nem da Rocinha: “Não me arrependo de ter sido traficante. O que você faria ",
-   "resolved_title": "Nem da Rocinha: “Não me arrependo de ter sido traficante. O que você faria no meu lugar?”",
-   "resolved_url": "https://brasil.elpais.com/brasil/2018/03/13/politica/1520947959_760179.html",
-   "time_updated": "2018-03-14T15:02:24Z",
-   "time_added": "2018-03-14T15:02:24Z"
-  },
-  {
    "item_id": "2116956181",
    "given_url": "https://www.revistaforum.com.br/lula-apresenta-trf4-provas-cooperacao-ilicita-lava-jato-eua/",
    "given_title": "",
@@ -119,15 +128,6 @@
    "resolved_url": "https://www.revistaforum.com.br/lula-apresenta-trf4-provas-cooperacao-ilicita-lava-jato-eua/",
    "time_updated": "2018-03-18T03:07:12Z",
    "time_added": "2018-03-18T03:07:09Z"
-  },
-  {
-   "item_id": "93353325",
-   "given_url": "https://en.wikipedia.org/wiki/Brasil_(mythical_island)",
-   "given_title": "Brasil (mythical island) - Wikipedia",
-   "resolved_title": "Brasil (mythical island)",
-   "resolved_url": "https://en.wikipedia.org/wiki/Brasil_(mythical_island)",
-   "time_updated": "2018-03-15T04:47:34Z",
-   "time_added": "2018-03-15T04:47:35Z"
   }
  ]
 }

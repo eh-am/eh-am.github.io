@@ -4,157 +4,13 @@
  "sortKey": "2022-17",
  "items": [
   {
-   "item_id": "3177624134",
-   "given_url": "https://isapplesiliconready.com/",
-   "given_title": "Is Apple Silicon ready?",
-   "resolved_title": "",
-   "resolved_url": "https://isapplesiliconready.com/",
-   "time_updated": "2022-04-25T22:05:31+01:00",
-   "time_added": "2022-04-25T22:05:31+01:00"
-  },
-  {
-   "item_id": "3608610848",
-   "given_url": "https://educacao.uol.com.br/noticias/2022/05/01/veja-cinco-curiosidades-sobre-o-dia-do-trabalho.htm",
-   "given_title": "5 curiosidades sobre o Dia do Trabalho no Brasil e no mundo",
-   "resolved_title": "Dia do Trabalho ou do Trabalhador? Por que é feriado em 1º de maio? Entenda",
-   "resolved_url": "https://educacao.uol.com.br/noticias/2022/05/01/veja-cinco-curiosidades-sobre-o-dia-do-trabalho.htm",
-   "time_updated": "2022-05-01T13:58:57+01:00",
-   "time_added": "2022-05-01T13:58:53+01:00"
-  },
-  {
-   "item_id": "3604489808",
-   "given_url": "https://twitter.com/rakyll/status/1518688444838338560",
-   "given_title": "(1) Jaana Dogan ヤナ ドガン no Twitter: \"I'm switching to an M1 laptop. What do ",
-   "resolved_title": "Jaana Dogan ヤナ ドガン",
-   "resolved_url": "https://twitter.com/rakyll/status/1518688444838338560",
-   "time_updated": "2022-04-25T22:04:00+01:00",
-   "time_added": "2022-04-25T22:04:00+01:00"
-  },
-  {
-   "item_id": "303528171",
-   "given_url": "https://news.ycombinator.com/formatdoc",
-   "given_title": "Formatting Options | Hacker News",
-   "resolved_title": "",
-   "resolved_url": "https://news.ycombinator.com/formatdoc",
-   "time_updated": "2022-05-01T23:52:44+01:00",
-   "time_added": "2022-05-01T23:52:43+01:00"
-  },
-  {
-   "item_id": "3608798569",
-   "given_url": "https://www.vounajanela.com/portugal/chegando_em_lisboa_imigracao_e_transporte/",
-   "given_title": "Chegando em Portugal: como é a imigração em Lisboa - Vou na Janela | Blog d",
-   "resolved_title": "Chegando em Portugal: como é a imigração em Lisboa",
-   "resolved_url": "https://www.vounajanela.com/portugal/chegando_em_lisboa_imigracao_e_transporte/",
-   "time_updated": "2022-05-01T18:35:54+01:00",
-   "time_added": "2022-05-01T18:35:48+01:00"
-  },
-  {
-   "item_id": "2685523042",
-   "given_url": "https://www.hashicorp.com/resources/everybody-talks-gossip-serf-memberlist-raft-swim-hashicorp-consul",
-   "given_title": "Everybody Talks: Gossip, Serf, memberlist, Raft, and SWIM in HashiCorp Cons",
-   "resolved_title": "Webinar: F5 BIG-IP and HashiCorp Vault",
-   "resolved_url": "https://www.hashicorp.com/resources/everybody-talks-gossip-serf-memberlist-raft-swim-hashicorp-consul",
-   "time_updated": "2022-04-28T20:55:41+01:00",
-   "time_added": "2022-04-28T20:55:41+01:00"
-  },
-  {
-   "item_id": "3584877400",
-   "given_url": "https://medium.com/@abhinav.ittekot/granting-iam-permissions-to-pods-in-eks-using-oidc-f2044c88a53",
-   "given_title": "Granting IAM permissions to pods in EKS using OIDC | by Abhinav Ittekot | M",
-   "resolved_title": "Granting IAM permissions to pods in EKS using OIDC",
-   "resolved_url": "https://medium.com/@abhinav.ittekot/granting-iam-permissions-to-pods-in-eks-using-oidc-f2044c88a53",
-   "time_updated": "2022-04-28T20:30:45+01:00",
-   "time_added": "2022-04-28T20:30:45+01:00"
-  },
-  {
-   "item_id": "3606838475",
-   "given_url": "https://www.google.com/search?client=firefox-b-m\u0026q=wooden+stars+band\u0026oq=wooden+stars+band\u0026aqs=heirloom-srp..0l1",
-   "given_title": "wooden stars band - Google Search",
-   "resolved_title": "wooden stars band - Google Search",
-   "resolved_url": "https://www.google.com/search?client=firefox-b-m\u0026q=wooden+stars+band\u0026oq=wooden+stars+band\u0026aqs=heirloom-srp..0l1",
-   "time_updated": "2022-04-28T23:04:02+01:00",
-   "time_added": "2022-04-28T23:03:55+01:00"
-  },
-  {
-   "item_id": "3607730749",
-   "given_url": "https://github.com/shuding/tilg",
-   "given_title": "shuding/tilg: A magical React Hook that helps you debug components.",
-   "resolved_title": "useTilg",
-   "resolved_url": "https://github.com/shuding/tilg",
-   "time_updated": "2022-04-30T18:09:57+01:00",
-   "time_added": "2022-04-30T18:09:56+01:00"
-  },
-  {
-   "item_id": "3607591241",
-   "given_url": "https://news.ycombinator.com/item?id=31210110",
-   "given_title": "I'm an old fart who was around for the dot com days. Huge red flag the minu",
-   "resolved_title": "I'm an old fart who was around for the dot com days. Huge red flag the minute le... : Hacker News",
-   "resolved_url": "https://news.ycombinator.com/item?id=31210110",
-   "time_updated": "2022-04-29T22:39:30+01:00",
-   "time_added": "2022-04-29T22:39:26+01:00"
-  },
-  {
-   "item_id": "3604471925",
-   "given_url": "https://twitter.com/GergelyOrosz/status/1518582378230427648",
-   "given_title": "(1) Gergely Orosz no Twitter: \"The Netherlands is likely to remove the 30% ",
-   "resolved_title": "Gergely Orosz",
-   "resolved_url": "https://twitter.com/gergelyorosz/status/1518582378230427648",
-   "time_updated": "2022-04-25T21:28:50+01:00",
-   "time_added": "2022-04-25T21:28:48+01:00"
-  },
-  {
-   "item_id": "108147360",
-   "given_url": "https://xpra.org/",
-   "given_title": "xpra home page",
-   "resolved_title": "xpra home page",
-   "resolved_url": "https://xpra.org/",
-   "time_updated": "2022-04-29T00:15:29+01:00",
-   "time_added": "2022-04-29T00:15:30+01:00"
-  },
-  {
-   "item_id": "3607323578",
-   "given_url": "https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang",
-   "given_title": "Lies we tell ourselves to keep using Golang",
-   "resolved_title": "Lies we tell ourselves to keep using Golang",
-   "resolved_url": "https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang",
-   "time_updated": "2022-04-29T16:34:26+01:00",
-   "time_added": "2022-04-29T16:34:24+01:00"
-  },
-  {
-   "item_id": "3608629333",
-   "given_url": "https://youtu.be/QOwjVVSNOtY",
-   "given_title": "Watch \"High Fidelity - Rock Snobs\" on YouTube",
-   "resolved_title": "High Fidelity - Rock Snobs",
-   "resolved_url": "https://youtu.be/QOwjVVSNOtY",
-   "time_updated": "2022-05-01T13:08:41+01:00",
-   "time_added": "2022-05-01T13:08:37+01:00"
-  },
-  {
-   "item_id": "125490675",
-   "given_url": "https://en.m.wikipedia.org/wiki/Nomeansno",
-   "given_title": "Nomeansno - Wikipedia",
-   "resolved_title": "Nomeansno",
-   "resolved_url": "http://en.m.wikipedia.org/wiki/Nomeansno",
-   "time_updated": "2022-04-28T23:04:13+01:00",
-   "time_added": "2022-04-28T23:04:14+01:00"
-  },
-  {
-   "item_id": "3606837093",
-   "given_url": "https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/",
-   "given_title": "The Technium: 103 Bits of Advice I Wish I Had Known",
-   "resolved_title": "103 Bits of Advice I Wish I Had Known",
-   "resolved_url": "https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/",
-   "time_updated": "2022-04-29T03:07:39+01:00",
-   "time_added": "2022-04-29T03:07:39+01:00"
-  },
-  {
-   "item_id": "3206414814",
-   "given_url": "https://www.anac.gov.br/assuntos/passageiros/o-que-posso-transportar/itens-pessoais-e-de-consumo/tripe-de-camera-fotografica",
-   "given_title": "Tripé de câmera fotográfica — Agência Nacional de Aviação Civil ANAC",
-   "resolved_title": "Tripé de câmera fotográfica",
-   "resolved_url": "https://www.anac.gov.br/assuntos/passageiros/o-que-posso-transportar/itens-pessoais-e-de-consumo/tripe-de-camera-fotografica",
-   "time_updated": "2022-05-01T15:30:07+01:00",
-   "time_added": "2022-05-01T15:30:04+01:00"
+   "item_id": "582229265",
+   "given_url": "https://youtu.be/_v1J-kGxXds",
+   "given_title": "Watch \"Maynard Ferguson  \" Theme From Star Trek \"\" on YouTube",
+   "resolved_title": "Maynard Ferguson  \" Theme From Star Trek \"",
+   "resolved_url": "https://youtu.be/_v1J-kGxXds",
+   "time_updated": "2022-04-25T12:28:33+01:00",
+   "time_added": "2022-04-25T12:28:34+01:00"
   },
   {
    "item_id": "3537487513",
@@ -166,22 +22,139 @@
    "time_added": "2022-04-25T16:07:36+01:00"
   },
   {
-   "item_id": "3607651072",
-   "given_url": "https://zaplib.com/docs/blog_post_mortem.html",
-   "given_title": "Zaplib post-mortem - Zaplib docs",
-   "resolved_title": "Zaplib post-mortem - Zaplib docs",
-   "resolved_url": "https://zaplib.com/docs/blog_post_mortem.html",
-   "time_updated": "2022-05-01T14:07:44+01:00",
-   "time_added": "2022-05-01T14:07:44+01:00"
+   "item_id": "3604471925",
+   "given_url": "https://twitter.com/GergelyOrosz/status/1518582378230427648",
+   "given_title": "(1) Gergely Orosz no Twitter: \"The Netherlands is likely to remove the 30% ",
+   "resolved_title": "Gergely Orosz",
+   "resolved_url": "https://twitter.com/gergelyorosz/status/1518582378230427648",
+   "time_updated": "2022-04-25T21:28:50+01:00",
+   "time_added": "2022-04-25T21:28:48+01:00"
   },
   {
-   "item_id": "3607904841",
-   "given_url": "https://tab.uol.com.br/colunas/daniela-pinheiro/2022/04/30/brasilia-e-uma-farsa-diz-cineasta-luso-frances-que-foi-morar-no-brasil.htm",
-   "given_title": "'Brasília é uma farsa', diz cineasta luso-francês que foi morar no Brasil -",
-   "resolved_title": "Daniela Pinheiro",
-   "resolved_url": "https://tab.uol.com.br/colunas/daniela-pinheiro/2022/04/30/brasilia-e-uma-farsa-diz-cineasta-luso-frances-que-foi-morar-no-brasil.htm",
-   "time_updated": "2022-04-30T15:56:12+01:00",
-   "time_added": "2022-04-30T15:56:10+01:00"
+   "item_id": "3468878928",
+   "given_url": "https://rebase.co/portugal",
+   "given_title": "Get Portuguese residency with Rebase®",
+   "resolved_title": "Last call (!) to get Portuguese residency with NHR",
+   "resolved_url": "https://rebase.co/portugal",
+   "time_updated": "2022-04-25T21:30:26+01:00",
+   "time_added": "2022-04-25T21:30:26+01:00"
+  },
+  {
+   "item_id": "3604489808",
+   "given_url": "https://twitter.com/rakyll/status/1518688444838338560",
+   "given_title": "(1) Jaana Dogan ヤナ ドガン no Twitter: \"I'm switching to an M1 laptop. What do ",
+   "resolved_title": "Jaana Dogan ヤナ ドガン",
+   "resolved_url": "https://twitter.com/rakyll/status/1518688444838338560",
+   "time_updated": "2022-04-25T22:04:00+01:00",
+   "time_added": "2022-04-25T22:04:00+01:00"
+  },
+  {
+   "item_id": "3177624134",
+   "given_url": "https://isapplesiliconready.com/",
+   "given_title": "Is Apple Silicon ready?",
+   "resolved_title": "",
+   "resolved_url": "https://isapplesiliconready.com/",
+   "time_updated": "2022-04-25T22:05:31+01:00",
+   "time_added": "2022-04-25T22:05:31+01:00"
+  },
+  {
+   "item_id": "3604794879",
+   "given_url": "https://www.johnwhiles.com/posts/music-production-lessons.html",
+   "given_title": "Six things I sort of believe about making music/art - John's internet house",
+   "resolved_title": "Six things I sort of believe about making music",
+   "resolved_url": "https://www.johnwhiles.com/posts/music-production-lessons.html",
+   "time_updated": "2022-04-26T20:54:35+01:00",
+   "time_added": "2022-04-26T20:54:35+01:00"
+  },
+  {
+   "item_id": "3584877400",
+   "given_url": "https://medium.com/@abhinav.ittekot/granting-iam-permissions-to-pods-in-eks-using-oidc-f2044c88a53",
+   "given_title": "Granting IAM permissions to pods in EKS using OIDC | by Abhinav Ittekot | M",
+   "resolved_title": "Granting IAM permissions to pods in EKS using OIDC",
+   "resolved_url": "https://medium.com/@abhinav.ittekot/granting-iam-permissions-to-pods-in-eks-using-oidc-f2044c88a53",
+   "time_updated": "2022-04-28T20:30:45+01:00",
+   "time_added": "2022-04-28T20:30:45+01:00"
+  },
+  {
+   "item_id": "2685523042",
+   "given_url": "https://www.hashicorp.com/resources/everybody-talks-gossip-serf-memberlist-raft-swim-hashicorp-consul",
+   "given_title": "Everybody Talks: Gossip, Serf, memberlist, Raft, and SWIM in HashiCorp Cons",
+   "resolved_title": "Webinar: F5 BIG-IP and HashiCorp Vault",
+   "resolved_url": "https://www.hashicorp.com/resources/everybody-talks-gossip-serf-memberlist-raft-swim-hashicorp-consul",
+   "time_updated": "2022-04-28T20:55:41+01:00",
+   "time_added": "2022-04-28T20:55:41+01:00"
+  },
+  {
+   "item_id": "3606838475",
+   "given_url": "https://www.google.com/search?client=firefox-b-m\u0026q=wooden+stars+band\u0026oq=wooden+stars+band\u0026aqs=heirloom-srp..0l1",
+   "given_title": "wooden stars band - Google Search",
+   "resolved_title": "wooden stars band - Google Search",
+   "resolved_url": "https://www.google.com/search?client=firefox-b-m\u0026q=wooden+stars+band\u0026oq=wooden+stars+band\u0026aqs=heirloom-srp..0l1",
+   "time_updated": "2022-04-28T23:04:02+01:00",
+   "time_added": "2022-04-28T23:03:55+01:00"
+  },
+  {
+   "item_id": "3606838519",
+   "given_url": "https://en.m.wikipedia.org/wiki/Wooden_Stars",
+   "given_title": "Wooden Stars - Wikipedia",
+   "resolved_title": "Wooden Stars",
+   "resolved_url": "https://en.wikipedia.org/wiki/Wooden_Stars",
+   "time_updated": "2022-04-28T23:04:06+01:00",
+   "time_added": "2022-04-28T23:04:02+01:00"
+  },
+  {
+   "item_id": "125490675",
+   "given_url": "https://en.m.wikipedia.org/wiki/Nomeansno",
+   "given_title": "Nomeansno - Wikipedia",
+   "resolved_title": "Nomeansno",
+   "resolved_url": "http://en.m.wikipedia.org/wiki/Nomeansno",
+   "time_updated": "2022-04-28T23:04:13+01:00",
+   "time_added": "2022-04-28T23:04:14+01:00"
+  },
+  {
+   "item_id": "3606737947",
+   "given_url": "https://dubroy.com/blog/core-dumps-feedback-loops-and-a-game-of-telephone/",
+   "given_title": "Core dumps, feedback loops, and a game of telephone",
+   "resolved_title": "Core dumps, feedback loops, and a game of telephone",
+   "resolved_url": "https://dubroy.com/blog/core-dumps-feedback-loops-and-a-game-of-telephone/",
+   "time_updated": "2022-04-28T23:36:35+01:00",
+   "time_added": "2022-04-28T23:36:35+01:00"
+  },
+  {
+   "item_id": "108147360",
+   "given_url": "https://xpra.org/",
+   "given_title": "xpra home page",
+   "resolved_title": "xpra home page",
+   "resolved_url": "https://xpra.org/",
+   "time_updated": "2022-04-29T00:15:29+01:00",
+   "time_added": "2022-04-29T00:15:30+01:00"
+  },
+  {
+   "item_id": "3338173359",
+   "given_url": "https://github.com/Xpra-org/xpra/blob/master/README.md",
+   "given_title": "xpra/README.md at master · Xpra-org/xpra · GitHub",
+   "resolved_title": "Xpra-org/xpra",
+   "resolved_url": "https://github.com/Xpra-org/xpra",
+   "time_updated": "2022-04-29T00:17:02+01:00",
+   "time_added": "2022-04-29T00:17:03+01:00"
+  },
+  {
+   "item_id": "3606837093",
+   "given_url": "https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/",
+   "given_title": "The Technium: 103 Bits of Advice I Wish I Had Known",
+   "resolved_title": "103 Bits of Advice I Wish I Had Known",
+   "resolved_url": "https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/",
+   "time_updated": "2022-04-29T03:07:39+01:00",
+   "time_added": "2022-04-29T03:07:39+01:00"
+  },
+  {
+   "item_id": "3607323578",
+   "given_url": "https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang",
+   "given_title": "Lies we tell ourselves to keep using Golang",
+   "resolved_title": "Lies we tell ourselves to keep using Golang",
+   "resolved_url": "https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang",
+   "time_updated": "2022-04-29T16:34:26+01:00",
+   "time_added": "2022-04-29T16:34:24+01:00"
   },
   {
    "item_id": "3607521034",
@@ -202,22 +175,22 @@
    "time_added": "2022-04-29T20:32:29+01:00"
   },
   {
-   "item_id": "582229265",
-   "given_url": "https://youtu.be/_v1J-kGxXds",
-   "given_title": "Watch \"Maynard Ferguson  \" Theme From Star Trek \"\" on YouTube",
-   "resolved_title": "Maynard Ferguson  \" Theme From Star Trek \"",
-   "resolved_url": "https://youtu.be/_v1J-kGxXds",
-   "time_updated": "2022-04-25T12:28:33+01:00",
-   "time_added": "2022-04-25T12:28:34+01:00"
+   "item_id": "3607591241",
+   "given_url": "https://news.ycombinator.com/item?id=31210110",
+   "given_title": "I'm an old fart who was around for the dot com days. Huge red flag the minu",
+   "resolved_title": "I'm an old fart who was around for the dot com days. Huge red flag the minute le... : Hacker News",
+   "resolved_url": "https://news.ycombinator.com/item?id=31210110",
+   "time_updated": "2022-04-29T22:39:30+01:00",
+   "time_added": "2022-04-29T22:39:26+01:00"
   },
   {
-   "item_id": "2053222875",
-   "given_url": "https://www.tsa.gov/travel/security-screening/whatcanibring/items/tripods",
-   "given_title": "Tripods | Transportation Security Administration",
-   "resolved_title": "Tripods",
-   "resolved_url": "https://www.tsa.gov/travel/security-screening/whatcanibring/items/tripods",
-   "time_updated": "2022-05-01T15:29:59+01:00",
-   "time_added": "2022-05-01T15:29:55+01:00"
+   "item_id": "3607904841",
+   "given_url": "https://tab.uol.com.br/colunas/daniela-pinheiro/2022/04/30/brasilia-e-uma-farsa-diz-cineasta-luso-frances-que-foi-morar-no-brasil.htm",
+   "given_title": "'Brasília é uma farsa', diz cineasta luso-francês que foi morar no Brasil -",
+   "resolved_title": "Daniela Pinheiro",
+   "resolved_url": "https://tab.uol.com.br/colunas/daniela-pinheiro/2022/04/30/brasilia-e-uma-farsa-diz-cineasta-luso-frances-que-foi-morar-no-brasil.htm",
+   "time_updated": "2022-04-30T15:56:12+01:00",
+   "time_added": "2022-04-30T15:56:10+01:00"
   },
   {
    "item_id": "3608105104",
@@ -229,67 +202,13 @@
    "time_added": "2022-04-30T17:16:37+01:00"
   },
   {
-   "item_id": "3338173359",
-   "given_url": "https://github.com/Xpra-org/xpra/blob/master/README.md",
-   "given_title": "xpra/README.md at master · Xpra-org/xpra · GitHub",
-   "resolved_title": "Table of Contents",
-   "resolved_url": "https://github.com/Xpra-org/xpra",
-   "time_updated": "2022-04-29T00:17:02+01:00",
-   "time_added": "2022-04-29T00:17:03+01:00"
-  },
-  {
-   "item_id": "2125973134",
-   "given_url": "https://www.reddit.com/r/valencia/comments/82nxw8/advice_on_what_to_do_when_in_valencia/",
-   "given_title": "advice on what to do when in Valencia : r/valencia",
-   "resolved_title": "advice on what to do when in Valencia",
-   "resolved_url": "https://www.reddit.com/r/valencia/comments/82nxw8/advice_on_what_to_do_when_in_valencia/",
-   "time_updated": "2022-05-01T01:29:33+01:00",
-   "time_added": "2022-05-01T01:29:31+01:00"
-  },
-  {
-   "item_id": "3606838519",
-   "given_url": "https://en.m.wikipedia.org/wiki/Wooden_Stars",
-   "given_title": "Wooden Stars - Wikipedia",
-   "resolved_title": "Wooden Stars",
-   "resolved_url": "https://en.wikipedia.org/wiki/Wooden_Stars",
-   "time_updated": "2022-04-28T23:04:06+01:00",
-   "time_added": "2022-04-28T23:04:02+01:00"
-  },
-  {
-   "item_id": "3608298784",
-   "given_url": "https://www.youtube.com/watch?v=yqCy9pOeUvA",
-   "given_title": "Tema do Malazarte e Zé Carneiro-Canarinho - YouTube",
-   "resolved_title": "Tema do Malazarte e Zé Carneiro-Canarinho",
-   "resolved_url": "https://www.youtube.com/watch?v=yqCy9pOeUvA",
-   "time_updated": "2022-05-01T00:11:53+01:00",
-   "time_added": "2022-05-01T00:11:52+01:00"
-  },
-  {
-   "item_id": "3468878928",
-   "given_url": "https://rebase.co/portugal",
-   "given_title": "Get Portuguese residency with Rebase®",
-   "resolved_title": "Get Portuguese residency with NHR",
-   "resolved_url": "https://rebase.co/portugal",
-   "time_updated": "2022-04-25T21:30:26+01:00",
-   "time_added": "2022-04-25T21:30:26+01:00"
-  },
-  {
-   "item_id": "3606737947",
-   "given_url": "https://dubroy.com/blog/core-dumps-feedback-loops-and-a-game-of-telephone/",
-   "given_title": "Core dumps, feedback loops, and a game of telephone",
-   "resolved_title": "Core dumps, feedback loops, and a game of telephone",
-   "resolved_url": "https://dubroy.com/blog/core-dumps-feedback-loops-and-a-game-of-telephone/",
-   "time_updated": "2022-04-28T23:36:35+01:00",
-   "time_added": "2022-04-28T23:36:35+01:00"
-  },
-  {
-   "item_id": "3604794879",
-   "given_url": "https://www.johnwhiles.com/posts/music-production-lessons.html",
-   "given_title": "Six things I sort of believe about making music/art - John's internet house",
-   "resolved_title": "Six things I sort of believe about making music",
-   "resolved_url": "https://www.johnwhiles.com/posts/music-production-lessons.html",
-   "time_updated": "2022-04-26T20:54:35+01:00",
-   "time_added": "2022-04-26T20:54:35+01:00"
+   "item_id": "3607730749",
+   "given_url": "https://github.com/shuding/tilg",
+   "given_title": "shuding/tilg: A magical React Hook that helps you debug components.",
+   "resolved_title": "useTilg",
+   "resolved_url": "https://github.com/shuding/tilg",
+   "time_updated": "2022-04-30T18:09:57+01:00",
+   "time_added": "2022-04-30T18:09:56+01:00"
   },
   {
    "item_id": "3599177209",
@@ -301,6 +220,24 @@
    "time_added": "2022-04-30T18:59:36+01:00"
   },
   {
+   "item_id": "3356674223",
+   "given_url": "https://nipunbatra.github.io/blog/setup/2021/06/14/setup-ipad.html",
+   "given_title": "My iPad Setup | Nipun Batra",
+   "resolved_title": "My iPad Setup",
+   "resolved_url": "https://nipunbatra.github.io/blog/setup/2021/06/14/setup-ipad.html",
+   "time_updated": "2022-04-30T19:46:57+01:00",
+   "time_added": "2022-04-30T19:46:55+01:00"
+  },
+  {
+   "item_id": "3608298784",
+   "given_url": "https://www.youtube.com/watch?v=yqCy9pOeUvA",
+   "given_title": "Tema do Malazarte e Zé Carneiro-Canarinho - YouTube",
+   "resolved_title": "Tema do Malazarte e Zé Carneiro-Canarinho",
+   "resolved_url": "https://www.youtube.com/watch?v=yqCy9pOeUvA",
+   "time_updated": "2022-05-01T00:11:53+01:00",
+   "time_added": "2022-05-01T00:11:52+01:00"
+  },
+  {
    "item_id": "3608300114",
    "given_url": "https://www.youtube.com/watch?v=LXkOc-WEfN4",
    "given_title": "Zé Tapera \u0026 Teodoro - O Pedro Malazarte - YouTube",
@@ -310,13 +247,76 @@
    "time_added": "2022-05-01T00:15:02+01:00"
   },
   {
-   "item_id": "3356674223",
-   "given_url": "https://nipunbatra.github.io/blog/setup/2021/06/14/setup-ipad.html",
-   "given_title": "My iPad Setup | Nipun Batra",
-   "resolved_title": "My iPad Setup",
-   "resolved_url": "https://nipunbatra.github.io/blog/setup/2021/06/14/setup-ipad.html",
-   "time_updated": "2022-04-30T19:46:57+01:00",
-   "time_added": "2022-04-30T19:46:55+01:00"
+   "item_id": "2125973134",
+   "given_url": "https://www.reddit.com/r/valencia/comments/82nxw8/advice_on_what_to_do_when_in_valencia/",
+   "given_title": "advice on what to do when in Valencia : r/valencia",
+   "resolved_title": "advice on what to do when in Valencia",
+   "resolved_url": "https://www.reddit.com/r/valencia/comments/82nxw8/advice_on_what_to_do_when_in_valencia/",
+   "time_updated": "2022-05-01T01:29:33+01:00",
+   "time_added": "2022-05-01T01:29:31+01:00"
+  },
+  {
+   "item_id": "3608629333",
+   "given_url": "https://youtu.be/QOwjVVSNOtY",
+   "given_title": "Watch \"High Fidelity - Rock Snobs\" on YouTube",
+   "resolved_title": "High Fidelity - Rock Snobs",
+   "resolved_url": "https://youtu.be/QOwjVVSNOtY",
+   "time_updated": "2022-05-01T13:08:41+01:00",
+   "time_added": "2022-05-01T13:08:37+01:00"
+  },
+  {
+   "item_id": "3608610848",
+   "given_url": "https://educacao.uol.com.br/noticias/2022/05/01/veja-cinco-curiosidades-sobre-o-dia-do-trabalho.htm",
+   "given_title": "5 curiosidades sobre o Dia do Trabalho no Brasil e no mundo",
+   "resolved_title": "Dia do Trabalho ou do Trabalhador? Por que é feriado em 1º de maio? Entenda",
+   "resolved_url": "https://educacao.uol.com.br/noticias/2022/05/01/veja-cinco-curiosidades-sobre-o-dia-do-trabalho.htm",
+   "time_updated": "2022-05-01T13:58:57+01:00",
+   "time_added": "2022-05-01T13:58:53+01:00"
+  },
+  {
+   "item_id": "3607651072",
+   "given_url": "https://zaplib.com/docs/blog_post_mortem.html",
+   "given_title": "Zaplib post-mortem - Zaplib docs",
+   "resolved_title": "Zaplib post-mortem - Zaplib docs",
+   "resolved_url": "https://zaplib.com/docs/blog_post_mortem.html",
+   "time_updated": "2022-05-01T14:07:44+01:00",
+   "time_added": "2022-05-01T14:07:44+01:00"
+  },
+  {
+   "item_id": "2053222875",
+   "given_url": "https://www.tsa.gov/travel/security-screening/whatcanibring/items/tripods",
+   "given_title": "Tripods | Transportation Security Administration",
+   "resolved_title": "Tripods",
+   "resolved_url": "https://www.tsa.gov/travel/security-screening/whatcanibring/items/tripods",
+   "time_updated": "2022-05-01T15:29:59+01:00",
+   "time_added": "2022-05-01T15:29:55+01:00"
+  },
+  {
+   "item_id": "3206414814",
+   "given_url": "https://www.anac.gov.br/assuntos/passageiros/o-que-posso-transportar/itens-pessoais-e-de-consumo/tripe-de-camera-fotografica",
+   "given_title": "Tripé de câmera fotográfica — Agência Nacional de Aviação Civil ANAC",
+   "resolved_title": "Tripé de câmera fotográfica",
+   "resolved_url": "https://www.anac.gov.br/assuntos/passageiros/o-que-posso-transportar/itens-pessoais-e-de-consumo/tripe-de-camera-fotografica",
+   "time_updated": "2022-05-01T15:30:07+01:00",
+   "time_added": "2022-05-01T15:30:04+01:00"
+  },
+  {
+   "item_id": "3608798569",
+   "given_url": "https://www.vounajanela.com/portugal/chegando_em_lisboa_imigracao_e_transporte/",
+   "given_title": "Chegando em Portugal: como é a imigração em Lisboa - Vou na Janela | Blog d",
+   "resolved_title": "Chegando em Portugal: como é a imigração em Lisboa",
+   "resolved_url": "https://www.vounajanela.com/portugal/chegando_em_lisboa_imigracao_e_transporte/",
+   "time_updated": "2022-05-01T18:35:54+01:00",
+   "time_added": "2022-05-01T18:35:48+01:00"
+  },
+  {
+   "item_id": "303528171",
+   "given_url": "https://news.ycombinator.com/formatdoc",
+   "given_title": "Formatting Options | Hacker News",
+   "resolved_title": "",
+   "resolved_url": "https://news.ycombinator.com/formatdoc",
+   "time_updated": "2022-05-01T23:52:44+01:00",
+   "time_added": "2022-05-01T23:52:43+01:00"
   }
  ]
 }

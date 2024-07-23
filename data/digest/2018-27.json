@@ -4,33 +4,6 @@
  "sortKey": "2018-27",
  "items": [
   {
-   "item_id": "2244940919",
-   "given_url": "http://www.rollingstone.com/culture/culture-news/d-b-cooper-investigators-claim-theyve-discovered-skyjackers-identity-693912/",
-   "given_title": "D.B. Cooper: Investigators Claim They’ve Discovered Skyjacker’s Identity – ",
-   "resolved_title": "D.B. Cooper: Investigators Claim They’ve Discovered Skyjacker’s Identity",
-   "resolved_url": "https://www.rollingstone.com/culture/culture-news/d-b-cooper-investigators-claim-theyve-discovered-skyjackers-identity-693912/",
-   "time_updated": "2018-07-04T05:31:50+01:00",
-   "time_added": "2018-07-04T05:31:49+01:00"
-  },
-  {
-   "item_id": "2245592999",
-   "given_url": "http://noticias.uol.com.br/ultimas-noticias/bbc/2018/07/02/resgate-na-tailandia-garotos-podem-precisar-permanecer-na-caverna-por-meses.htm",
-   "given_title": "Meninos presos em caverna na Tailândia: mais chuvas podem forçar resgate ur",
-   "resolved_title": "Meninos presos em caverna na Tailândia: mais chuvas podem forçar resgate urgente",
-   "resolved_url": "https://noticias.uol.com.br/ultimas-noticias/bbc/2018/07/02/resgate-na-tailandia-garotos-podem-precisar-permanecer-na-caverna-por-meses.htm",
-   "time_updated": "2018-07-03T12:47:13+01:00",
-   "time_added": "2018-07-03T12:47:10+01:00"
-  },
-  {
-   "item_id": "1802548596",
-   "given_url": "https://thediplomat.com/2017/06/why-is-afghanistan-the-graveyard-of-empires/",
-   "given_title": "Why Is Afghanistan the ‘Graveyard of Empires’? | The Diplomat",
-   "resolved_title": "Why Is Afghanistan the ‘Graveyard of Empires’?",
-   "resolved_url": "https://thediplomat.com/2017/06/why-is-afghanistan-the-graveyard-of-empires/",
-   "time_updated": "2018-07-06T03:50:29+01:00",
-   "time_added": "2018-07-06T03:50:27+01:00"
-  },
-  {
    "item_id": "2237314748",
    "given_url": "https://robertheaton.com/2018/06/25/how-to-read/",
    "given_title": "How to read | Robert Heaton",
@@ -47,6 +20,24 @@
    "resolved_url": "https://blogs.20minutos.es/yaestaellistoquetodolosabe/cual-es-el-origen-de-la-expresion-echar-un-polvo/",
    "time_updated": "2018-07-02T18:58:36+01:00",
    "time_added": "2018-07-02T18:58:33+01:00"
+  },
+  {
+   "item_id": "2245592999",
+   "given_url": "http://noticias.uol.com.br/ultimas-noticias/bbc/2018/07/02/resgate-na-tailandia-garotos-podem-precisar-permanecer-na-caverna-por-meses.htm",
+   "given_title": "Meninos presos em caverna na Tailândia: mais chuvas podem forçar resgate ur",
+   "resolved_title": "Meninos presos em caverna na Tailândia: mais chuvas podem forçar resgate urgente",
+   "resolved_url": "https://noticias.uol.com.br/ultimas-noticias/bbc/2018/07/02/resgate-na-tailandia-garotos-podem-precisar-permanecer-na-caverna-por-meses.htm",
+   "time_updated": "2018-07-03T12:47:13+01:00",
+   "time_added": "2018-07-03T12:47:10+01:00"
+  },
+  {
+   "item_id": "2244940919",
+   "given_url": "http://www.rollingstone.com/culture/culture-news/d-b-cooper-investigators-claim-theyve-discovered-skyjackers-identity-693912/",
+   "given_title": "D.B. Cooper: Investigators Claim They’ve Discovered Skyjacker’s Identity – ",
+   "resolved_title": "D.B. Cooper: Investigators Claim They’ve Discovered Skyjacker’s Identity",
+   "resolved_url": "https://www.rollingstone.com/culture/culture-news/d-b-cooper-investigators-claim-theyve-discovered-skyjackers-identity-693912/",
+   "time_updated": "2018-07-04T05:31:50+01:00",
+   "time_added": "2018-07-04T05:31:49+01:00"
   },
   {
    "item_id": "1380180762",
@@ -83,6 +74,15 @@
    "resolved_url": "https://cyberomin.github.io/startup/2018/07/01/sql-ml-ai.html",
    "time_updated": "2018-07-06T03:42:24+01:00",
    "time_added": "2018-07-06T03:42:15+01:00"
+  },
+  {
+   "item_id": "1802548596",
+   "given_url": "https://thediplomat.com/2017/06/why-is-afghanistan-the-graveyard-of-empires/",
+   "given_title": "Why Is Afghanistan the ‘Graveyard of Empires’? | The Diplomat",
+   "resolved_title": "Why Is Afghanistan the ‘Graveyard of Empires’?",
+   "resolved_url": "https://thediplomat.com/2017/06/why-is-afghanistan-the-graveyard-of-empires/",
+   "time_updated": "2018-07-06T03:50:29+01:00",
+   "time_added": "2018-07-06T03:50:27+01:00"
   }
  ]
 }

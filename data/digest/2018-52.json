@@ -13,15 +13,6 @@
    "time_added": "2018-12-24T19:50:52Z"
   },
   {
-   "item_id": "2436556572",
-   "given_url": "https://mhme-blog.now.sh/2018/december/testing-software.html",
-   "given_title": "Testing Software",
-   "resolved_title": "Testing Software",
-   "resolved_url": "https://mhme-blog.now.sh/2018/december/testing-software.html",
-   "time_updated": "2018-12-29T17:56:53Z",
-   "time_added": "2018-12-29T17:56:40Z"
-  },
-  {
    "item_id": "1613945176",
    "given_url": "https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439",
    "given_title": "UUID or GUID as Primary Keys? Be Careful! – Tom Harrison’s Blog",
@@ -38,6 +29,15 @@
    "resolved_url": "https://mattsencenbaugh.com/on-being-a-junior-developer/",
    "time_updated": "2018-12-27T14:41:18Z",
    "time_added": "2018-12-27T14:41:18Z"
+  },
+  {
+   "item_id": "2436556572",
+   "given_url": "https://mhme-blog.now.sh/2018/december/testing-software.html",
+   "given_title": "Testing Software",
+   "resolved_title": "Testing Software",
+   "resolved_url": "https://mhme-blog.now.sh/2018/december/testing-software.html",
+   "time_updated": "2018-12-29T17:56:53Z",
+   "time_added": "2018-12-29T17:56:40Z"
   }
  ]
 }

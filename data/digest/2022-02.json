@@ -4,24 +4,6 @@
  "sortKey": "2022-02",
  "items": [
   {
-   "item_id": "3073535723",
-   "given_url": "https://dantepfer.com/blog/?p=1005",
-   "given_title": "A Few Things I’ve Learned About Livestreaming | Dan Tepfer",
-   "resolved_title": "A Few Things I’ve Learned About Livestreaming",
-   "resolved_url": "https://dantepfer.com/blog/?p=1005",
-   "time_updated": "2022-01-13T23:47:36Z",
-   "time_added": "2022-01-13T23:47:36Z"
-  },
-  {
-   "item_id": "3526572824",
-   "given_url": "https://www.cambridge.org/core/journals/antiquity/article/hallucinogens-alcohol-and-shifting-leadership-strategies-in-the-ancient-peruvian-andes/15030A62A428B74805BADF7DB4137298",
-   "given_title": "Hallucinogens, alcohol and shifting leadership strategies in the ancient Pe",
-   "resolved_title": "Hallucinogens, alcohol and shifting leadership strategies in the ancient Peruvian Andes",
-   "resolved_url": "https://www.cambridge.org/core/journals/antiquity/article/hallucinogens-alcohol-and-shifting-leadership-strategies-in-the-ancient-peruvian-andes/15030A62A428B74805BADF7DB4137298",
-   "time_updated": "2022-01-15T12:17:50Z",
-   "time_added": "2022-01-15T12:17:45Z"
-  },
-  {
    "item_id": "3524465163",
    "given_url": "https://www.reddit.com/r/AskScienceFiction/comments/e4a0jx/pokemon_how_exactly_are_team_rocket_trying_to/",
    "given_title": "[Pokemon] How exactly are Team Rocket trying to \"protect the world from dev",
@@ -29,69 +11,6 @@
    "resolved_url": "https://www.reddit.com/r/AskScienceFiction/comments/e4a0jx/pokemon_how_exactly_are_team_rocket_trying_to/",
    "time_updated": "2022-01-10T01:09:05Z",
    "time_added": "2022-01-10T01:08:59Z"
-  },
-  {
-   "item_id": "3525767387",
-   "given_url": "https://ably.com/blog/introducing-the-websocket-handbook",
-   "given_title": "The WebSocket Handbook: learn about the technology behind the realtime web ",
-   "resolved_title": "The WebSocket Handbook: learn about the technology behind the realtime web",
-   "resolved_url": "https://ghost.ably.com/blog/introducing-the-websocket-handbook/",
-   "time_updated": "2022-01-11T18:14:57Z",
-   "time_added": "2022-01-11T18:14:53Z"
-  },
-  {
-   "item_id": "3521638765",
-   "given_url": "https://blog.jim-nielsen.com/2022/a-web-for-all/",
-   "given_title": "The Optional Chaining Operator, “Modern” Browsers, and My Mom - Jim Nielsen",
-   "resolved_title": "The Optional Chaining Operator, “Modern” Browsers, and My Mom",
-   "resolved_url": "https://blog.jim-nielsen.com/2022/a-web-for-all/",
-   "time_updated": "2022-01-11T18:13:33Z",
-   "time_added": "2022-01-11T18:13:28Z"
-  },
-  {
-   "item_id": "3525987244",
-   "given_url": "https://cushychicken.github.io/why-you-cant-hire-engineers/",
-   "given_title": "I Think I Know Why You Can't Hire Engineers Right Now",
-   "resolved_title": "I Think I Know Why You Can't Hire Engineers Right Now",
-   "resolved_url": "https://cushychicken.github.io/why-you-cant-hire-engineers/",
-   "time_updated": "2022-01-13T16:00:46Z",
-   "time_added": "2022-01-13T16:00:42Z"
-  },
-  {
-   "item_id": "2763480586",
-   "given_url": "https://youtu.be/0wqUWYx3UrY",
-   "given_title": "Watch \"How To Make A $300 Camera Look Pro!\" on YouTube",
-   "resolved_title": "How To Make A $300 Camera Look Pro!",
-   "resolved_url": "http://www.youtube.com/watch?v=0wqUWYx3UrY",
-   "time_updated": "2022-01-13T23:50:23Z",
-   "time_added": "2022-01-13T23:50:18Z"
-  },
-  {
-   "item_id": "3524245727",
-   "given_url": "http://www.antipope.org/charlie/blog-static/2022/01/oh-2022.html",
-   "given_title": "Oh, 2022! - Charlie's Diary",
-   "resolved_title": "",
-   "resolved_url": "",
-   "time_updated": "2022-01-10T02:00:47Z",
-   "time_added": "2022-01-10T02:00:43Z"
-  },
-  {
-   "item_id": "3517888115",
-   "given_url": "https://www.theguardian.com/lifeandstyle/2022/jan/01/new-year-same-old-you-the-secret-to-self-improvement-is-embracing-your-messy-imperfect-life",
-   "given_title": "New year, same old you! The secret to self-improvement is embracing your me",
-   "resolved_title": "New year, same old you! The secret to self-improvement is embracing your messy, imperfect life",
-   "resolved_url": "https://www.theguardian.com/lifeandstyle/2022/jan/01/new-year-same-old-you-the-secret-to-self-improvement-is-embracing-your-messy-imperfect-life",
-   "time_updated": "2022-01-15T21:07:49Z",
-   "time_added": "2022-01-15T21:07:44Z"
-  },
-  {
-   "item_id": "3292916574",
-   "given_url": "https://www.productlessons.xyz//article/stop-being-hero",
-   "given_title": "Hero complex hurts your product and team",
-   "resolved_title": "Stop being the hero",
-   "resolved_url": "https://productlessons.xyz//article/stop-being-hero",
-   "time_updated": "2022-01-15T14:52:44Z",
-   "time_added": "2022-01-15T14:52:44Z"
   },
   {
    "item_id": "3524123773",
@@ -112,13 +31,76 @@
    "time_added": "2022-01-10T02:45:39Z"
   },
   {
-   "item_id": "3525255368",
-   "given_url": "https://en.m.wikipedia.org/wiki/Terrone",
-   "given_title": "Terrone - Wikipedia",
-   "resolved_title": "Terrone",
-   "resolved_url": "https://en.wikipedia.org/wiki/Terrone",
-   "time_updated": "2022-01-11T00:51:24Z",
-   "time_added": "2022-01-11T00:51:15Z"
+   "item_id": "3521638765",
+   "given_url": "https://blog.jim-nielsen.com/2022/a-web-for-all/",
+   "given_title": "The Optional Chaining Operator, “Modern” Browsers, and My Mom - Jim Nielsen",
+   "resolved_title": "The Optional Chaining Operator, “Modern” Browsers, and My Mom",
+   "resolved_url": "https://blog.jim-nielsen.com/2022/a-web-for-all/",
+   "time_updated": "2022-01-11T18:13:33Z",
+   "time_added": "2022-01-11T18:13:28Z"
+  },
+  {
+   "item_id": "3525767387",
+   "given_url": "https://ably.com/blog/introducing-the-websocket-handbook",
+   "given_title": "The WebSocket Handbook: learn about the technology behind the realtime web ",
+   "resolved_title": "The WebSocket Handbook: learn about the technology behind the realtime web",
+   "resolved_url": "https://ghost.ably.com/blog/introducing-the-websocket-handbook/",
+   "time_updated": "2022-01-11T18:14:57Z",
+   "time_added": "2022-01-11T18:14:53Z"
+  },
+  {
+   "item_id": "3525987244",
+   "given_url": "https://cushychicken.github.io/why-you-cant-hire-engineers/",
+   "given_title": "I Think I Know Why You Can't Hire Engineers Right Now",
+   "resolved_title": "I Think I Know Why You Can't Hire Engineers Right Now",
+   "resolved_url": "https://cushychicken.github.io/why-you-cant-hire-engineers/",
+   "time_updated": "2022-01-13T16:00:46Z",
+   "time_added": "2022-01-13T16:00:42Z"
+  },
+  {
+   "item_id": "3073535723",
+   "given_url": "https://dantepfer.com/blog/?p=1005",
+   "given_title": "A Few Things I’ve Learned About Livestreaming | Dan Tepfer",
+   "resolved_title": "A Few Things I’ve Learned About Livestreaming",
+   "resolved_url": "https://dantepfer.com/blog/?p=1005",
+   "time_updated": "2022-01-13T23:47:36Z",
+   "time_added": "2022-01-13T23:47:36Z"
+  },
+  {
+   "item_id": "2763480586",
+   "given_url": "https://youtu.be/0wqUWYx3UrY",
+   "given_title": "Watch \"How To Make A $300 Camera Look Pro!\" on YouTube",
+   "resolved_title": "How To Make A $300 Camera Look Pro!",
+   "resolved_url": "https://www.youtube.com/watch?v=0wqUWYx3UrY",
+   "time_updated": "2022-01-13T23:50:23Z",
+   "time_added": "2022-01-13T23:50:18Z"
+  },
+  {
+   "item_id": "3526572824",
+   "given_url": "https://www.cambridge.org/core/journals/antiquity/article/hallucinogens-alcohol-and-shifting-leadership-strategies-in-the-ancient-peruvian-andes/15030A62A428B74805BADF7DB4137298",
+   "given_title": "Hallucinogens, alcohol and shifting leadership strategies in the ancient Pe",
+   "resolved_title": "Hallucinogens, alcohol and shifting leadership strategies in the ancient Peruvian Andes",
+   "resolved_url": "https://www.cambridge.org/core/journals/antiquity/article/hallucinogens-alcohol-and-shifting-leadership-strategies-in-the-ancient-peruvian-andes/15030A62A428B74805BADF7DB4137298",
+   "time_updated": "2022-01-15T12:17:50Z",
+   "time_added": "2022-01-15T12:17:45Z"
+  },
+  {
+   "item_id": "3292916574",
+   "given_url": "https://www.productlessons.xyz//article/stop-being-hero",
+   "given_title": "Hero complex hurts your product and team",
+   "resolved_title": "Stop being the hero",
+   "resolved_url": "https://productlessons.xyz//article/stop-being-hero",
+   "time_updated": "2022-01-15T14:52:44Z",
+   "time_added": "2022-01-15T14:52:44Z"
+  },
+  {
+   "item_id": "3517888115",
+   "given_url": "https://www.theguardian.com/lifeandstyle/2022/jan/01/new-year-same-old-you-the-secret-to-self-improvement-is-embracing-your-messy-imperfect-life",
+   "given_title": "New year, same old you! The secret to self-improvement is embracing your me",
+   "resolved_title": "New year, same old you! The secret to self-improvement is embracing your messy, imperfect life",
+   "resolved_url": "https://www.theguardian.com/lifeandstyle/2022/jan/01/new-year-same-old-you-the-secret-to-self-improvement-is-embracing-your-messy-imperfect-life",
+   "time_updated": "2022-01-15T21:07:49Z",
+   "time_added": "2022-01-15T21:07:44Z"
   }
  ]
 }

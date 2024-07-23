@@ -4,15 +4,6 @@
  "sortKey": "2016-27",
  "items": [
   {
-   "item_id": "1340570066",
-   "given_url": "http://www.westword.com/music/michael-gira-of-swans-on-the-new-album-and-his-time-as-a-bassist-5715159",
-   "given_title": "Michael Gira of Swans on the new album and his time as a bassist | Westword",
-   "resolved_title": "Michael Gira of Swans on the new album and his time as a bassist",
-   "resolved_url": "https://www.westword.com/music/michael-gira-of-swans-on-the-new-album-and-his-time-as-a-bassist-5715159",
-   "time_updated": "2016-07-04T21:00:10+01:00",
-   "time_added": "2016-07-04T21:00:08+01:00"
-  },
-  {
    "item_id": "1339524163",
    "given_url": "http://piaui.folha.uol.com.br/materia/o-louco-de-palestra/",
    "given_title": "revista piauí - O louco de palestra",
@@ -22,15 +13,6 @@
    "time_added": "2016-07-04T16:10:14+01:00"
   },
   {
-   "item_id": "511489199",
-   "given_url": "https://magcius.github.io/xplain/article/",
-   "given_title": "",
-   "resolved_title": "Explanations",
-   "resolved_url": "https://magcius.github.io/xplain/article/",
-   "time_updated": "2016-07-07T06:19:20+01:00",
-   "time_added": "2016-07-07T06:19:20+01:00"
-  },
-  {
    "item_id": "611160201",
    "given_url": "http://thequietus.com/articles/15163-michael-gira-swans-to-be-kind-interview",
    "given_title": "The Quietus | Features | A Quietus Interview | This Is My Sermon: M Gira Of",
@@ -38,6 +20,24 @@
    "resolved_url": "http://thequietus.com/articles/15163-michael-gira-swans-to-be-kind-interview",
    "time_updated": "2016-07-04T21:00:02+01:00",
    "time_added": "2016-07-04T21:00:02+01:00"
+  },
+  {
+   "item_id": "1340570066",
+   "given_url": "http://www.westword.com/music/michael-gira-of-swans-on-the-new-album-and-his-time-as-a-bassist-5715159",
+   "given_title": "Michael Gira of Swans on the new album and his time as a bassist | Westword",
+   "resolved_title": "Michael Gira of Swans on the new album and his time as a bassist",
+   "resolved_url": "https://www.westword.com/music/michael-gira-of-swans-on-the-new-album-and-his-time-as-a-bassist-5715159",
+   "time_updated": "2016-07-04T21:00:10+01:00",
+   "time_added": "2016-07-04T21:00:08+01:00"
+  },
+  {
+   "item_id": "511489199",
+   "given_url": "https://magcius.github.io/xplain/article/",
+   "given_title": "",
+   "resolved_title": "Explanations",
+   "resolved_url": "https://magcius.github.io/xplain/article/",
+   "time_updated": "2016-07-07T06:19:20+01:00",
+   "time_added": "2016-07-07T06:19:20+01:00"
   }
  ]
 }

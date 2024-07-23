@@ -4,22 +4,13 @@
  "sortKey": "2018-25",
  "items": [
   {
-   "item_id": "2167381743",
-   "given_url": "https://github.com/DyegoCosta/trabalhando-remoto#impostos",
-   "given_title": "DyegoCosta/trabalhando-remoto: Informações para quem trabalha ou quer traba",
-   "resolved_title": "Trabalhando remoto",
-   "resolved_url": "https://github.com/DyegoCosta/trabalhando-remoto",
-   "time_updated": "2018-06-20T15:48:30+01:00",
-   "time_added": "2018-06-20T15:48:30+01:00"
-  },
-  {
-   "item_id": "2227805760",
-   "given_url": "https://utcc.utoronto.ca/~cks/space/blog/linux/LinuxBootOverview?",
-   "given_title": "Chris's Wiki :: blog/linux/LinuxBootOverview",
-   "resolved_title": "Chris's Wiki : blog/linux/LinuxBootOverview",
-   "resolved_url": "https://utcc.utoronto.ca/~cks/space/blog/linux/LinuxBootOverview",
-   "time_updated": "2018-06-19T02:05:16+01:00",
-   "time_added": "2018-06-19T02:05:16+01:00"
+   "item_id": "2227661386",
+   "given_url": "https://www.workaguide.com/blog/2018/6/15/how-to-get-your-teammates-to-follow-your-lead",
+   "given_title": "How To Get Your Teammates To Follow Your Lead — WORK: A Guide",
+   "resolved_title": "",
+   "resolved_url": "https://www.workaguide.com/blog/2018/6/15/how-to-get-your-teammates-to-follow-your-lead",
+   "time_updated": "2018-06-18T04:35:34+01:00",
+   "time_added": "2018-06-18T04:35:32+01:00"
   },
   {
    "item_id": "2228995041",
@@ -31,6 +22,24 @@
    "time_added": "2018-06-18T19:02:21+01:00"
   },
   {
+   "item_id": "2227805760",
+   "given_url": "https://utcc.utoronto.ca/~cks/space/blog/linux/LinuxBootOverview?",
+   "given_title": "Chris's Wiki :: blog/linux/LinuxBootOverview",
+   "resolved_title": "Chris's Wiki : blog/linux/LinuxBootOverview",
+   "resolved_url": "https://utcc.utoronto.ca/~cks/space/blog/linux/LinuxBootOverview",
+   "time_updated": "2018-06-19T02:05:16+01:00",
+   "time_added": "2018-06-19T02:05:16+01:00"
+  },
+  {
+   "item_id": "47221250",
+   "given_url": "https://en.wikipedia.org/wiki/Moral_Code_of_the_Builder_of_Communism",
+   "given_title": "Moral Code of the Builder of Communism - Wikipedia",
+   "resolved_title": "Moral Code of the Builder of Communism",
+   "resolved_url": "https://en.wikipedia.org/wiki/Moral_Code_of_the_Builder_of_Communism",
+   "time_updated": "2018-06-19T05:27:51+01:00",
+   "time_added": "2018-06-19T05:27:49+01:00"
+  },
+  {
    "item_id": "1876341599",
    "given_url": "https://thinkgrowth.org/startup-founders-this-is-how-to-do-content-marketing-from-day-1-a2e1b9f908b8",
    "given_title": "Startup Founders, This is How to Do Content Marketing from Day 1",
@@ -38,15 +47,6 @@
    "resolved_url": "https://thinkgrowth.org/startup-founders-this-is-how-to-do-content-marketing-from-day-1-a2e1b9f908b8",
    "time_updated": "2018-06-19T16:23:13+01:00",
    "time_added": "2018-06-19T16:23:13+01:00"
-  },
-  {
-   "item_id": "2227661386",
-   "given_url": "https://www.workaguide.com/blog/2018/6/15/how-to-get-your-teammates-to-follow-your-lead",
-   "given_title": "How To Get Your Teammates To Follow Your Lead — WORK: A Guide",
-   "resolved_title": "",
-   "resolved_url": "https://www.workaguide.com/blog/2018/6/15/how-to-get-your-teammates-to-follow-your-lead",
-   "time_updated": "2018-06-18T04:35:34+01:00",
-   "time_added": "2018-06-18T04:35:32+01:00"
   },
   {
    "item_id": "2183389432",
@@ -67,6 +67,15 @@
    "time_added": "2018-06-20T03:48:22+01:00"
   },
   {
+   "item_id": "2167381743",
+   "given_url": "https://github.com/DyegoCosta/trabalhando-remoto#impostos",
+   "given_title": "DyegoCosta/trabalhando-remoto: Informações para quem trabalha ou quer traba",
+   "resolved_title": "Trabalhando remoto",
+   "resolved_url": "https://github.com/DyegoCosta/trabalhando-remoto",
+   "time_updated": "2018-06-20T15:48:30+01:00",
+   "time_added": "2018-06-20T15:48:30+01:00"
+  },
+  {
    "item_id": "509458610",
    "given_url": "https://github.com/tapajos/trabalhando_fora",
    "given_title": "tapajos/trabalhando_fora: Descomplicando o trabalhar para fora",
@@ -85,19 +94,10 @@
    "time_added": "2018-06-20T19:47:06+01:00"
   },
   {
-   "item_id": "47221250",
-   "given_url": "https://en.wikipedia.org/wiki/Moral_Code_of_the_Builder_of_Communism",
-   "given_title": "Moral Code of the Builder of Communism - Wikipedia",
-   "resolved_title": "Moral Code of the Builder of Communism",
-   "resolved_url": "https://en.wikipedia.org/wiki/Moral_Code_of_the_Builder_of_Communism",
-   "time_updated": "2018-06-19T05:27:51+01:00",
-   "time_added": "2018-06-19T05:27:49+01:00"
-  },
-  {
    "item_id": "923230371",
    "given_url": "https://plus.google.com/+DouglasCrockfordEsq/posts/RK8qyGVaGSr",
    "given_title": "Comments in JSON I removed comments from JSON because I saw people were usi",
-   "resolved_title": "Comments in JSON I removed comments from JSON because I saw people were usin...",
+   "resolved_title": "Sign in",
    "resolved_url": "https://plus.google.com/+DouglasCrockfordEsq/posts/RK8qyGVaGSr",
    "time_updated": "2018-06-21T03:35:03+01:00",
    "time_added": "2018-06-21T03:35:01+01:00"

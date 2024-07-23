@@ -12,3 +12,7 @@ digest:
 	cd ./scripts/weekly-digest && go run . last week
 	cp scripts/weekly-digest/output/* data/digest/
 	
+.PHONY: digest-all
+digest-all:
+	cd ./scripts/weekly-digest && go run . all
+	cp scripts/weekly-digest/output/* data/digest/

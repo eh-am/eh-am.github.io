@@ -33,14 +33,10 @@ func TestClient(t *testing.T) {
 		t.Errorf("expected err to be nil but got '%v'", err)
 	}
 
-	if len(pr.List) != 1 {
-		t.Errorf("expected list to have 1 item but found '%d'", len(pr.List))
-	}
+	assert.Len(t, pr.List, 1)
 
-	assert.Equal(t, pr.List["3856231477"], wd.Item{
-		Id:          "3856231477",
-		GivenUrl:    "https://twitter.com/thockin/status/1652112019485773824",
-		GivenTitle:  "Tim Hockin (thockin.yaml) no Twitter: \"Lessons about API design that I inte",
-		TimeUpdated: main.Timestamp{time.Unix(1682805248, 0)},
-	})
+	assert.Equal(t, pr.List["3856231477"].Id, "3856231477")
+	assert.Equal(t, pr.List["3856231477"].GivenTitle, "Tim Hockin (thockin.yaml) no Twitter: \"Lessons about API design that I inte")
+	assert.Equal(t, pr.List["3856231477"].GivenUrl, "https://twitter.com/thockin/status/1652112019485773824")
+	assert.Equal(t, pr.List["3856231477"].TimeUpdated, main.Timestamp{time.Unix(1682805248, 0)})
 }

@@ -53,6 +53,10 @@ func run(from time.Time) error {
 	if err != nil {
 		return err
 	}
+
+	// clientRes
+	fmt.Printf("Found '%d' items\n", len(clientRes.List))
+
 	grouped := GroupByISOWeek(clientRes.List)
 	return Write("output", grouped)
 }

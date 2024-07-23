@@ -4,13 +4,13 @@
  "sortKey": "2022-26",
  "items": [
   {
-   "item_id": "3652251936",
-   "given_url": "https://economia.uol.com.br/noticias/redacao/2022/07/02/celular-desbloqueado-roubado.htm",
-   "given_title": "Celular Roubado: De Quem É A Culpa Se Invadirem Meu Banco",
-   "resolved_title": "Roubaram meu celular e invadiram minha conta no banco: de quem é a culpa?",
-   "resolved_url": "https://economia.uol.com.br/noticias/redacao/2022/07/02/celular-desbloqueado-roubado.htm",
-   "time_updated": "2022-07-02T22:36:10+01:00",
-   "time_added": "2022-07-02T22:36:09+01:00"
+   "item_id": "3648823388",
+   "given_url": "https://www.andrebarcinski.com.br/o-filme-suicida-de-dennis-hopper/",
+   "given_title": "O filme suicida de Dennis Hopper – ANDRÉ BARCINSKI",
+   "resolved_title": "Login",
+   "resolved_url": "https://www.andrebarcinski.com.br/o-filme-suicida-de-dennis-hopper/",
+   "time_updated": "2022-06-27T14:47:57+01:00",
+   "time_added": "2022-06-27T14:47:54+01:00"
   },
   {
    "item_id": "3630113473",
@@ -22,13 +22,13 @@
    "time_added": "2022-06-28T14:44:43+01:00"
   },
   {
-   "item_id": "3648823388",
-   "given_url": "https://www.andrebarcinski.com.br/o-filme-suicida-de-dennis-hopper/",
-   "given_title": "O filme suicida de Dennis Hopper – ANDRÉ BARCINSKI",
-   "resolved_title": "Login",
-   "resolved_url": "https://www.andrebarcinski.com.br/o-filme-suicida-de-dennis-hopper/",
-   "time_updated": "2022-06-27T14:47:57+01:00",
-   "time_added": "2022-06-27T14:47:54+01:00"
+   "item_id": "3652251936",
+   "given_url": "https://economia.uol.com.br/noticias/redacao/2022/07/02/celular-desbloqueado-roubado.htm",
+   "given_title": "Celular Roubado: De Quem É A Culpa Se Invadirem Meu Banco",
+   "resolved_title": "Roubaram meu celular e invadiram minha conta no banco: de quem é a culpa?",
+   "resolved_url": "https://economia.uol.com.br/noticias/redacao/2022/07/02/celular-desbloqueado-roubado.htm",
+   "time_updated": "2022-07-02T22:36:10+01:00",
+   "time_added": "2022-07-02T22:36:09+01:00"
   }
  ]
 }

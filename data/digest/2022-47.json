@@ -4,51 +4,6 @@
  "sortKey": "2022-47",
  "items": [
   {
-   "item_id": "2063987648",
-   "given_url": "https://manticoresearch.com/",
-   "given_title": "Manticore Search",
-   "resolved_title": "Open-source database for search applications",
-   "resolved_url": "https://manticoresearch.com/",
-   "time_updated": "2022-11-24T13:35:54Z",
-   "time_added": "2022-11-24T10:15:12Z"
-  },
-  {
-   "item_id": "14799899",
-   "given_url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_Pok%C3%A9mon_names",
-   "given_title": "List of Japanese Pokémon names - Bulbapedia, the community-driven Pokémon e",
-   "resolved_title": "List of Japanese Pokémon names",
-   "resolved_url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_Pok%C3%A9mon_names",
-   "time_updated": "2022-11-27T19:06:24Z",
-   "time_added": "2022-11-27T19:06:24Z"
-  },
-  {
-   "item_id": "3754203464",
-   "given_url": "https://mobile.twitter.com/aaolomi/status/1595539732909301761",
-   "given_title": "Ali A Olomi no Twitter: \"In popular depictions like Disney’s Aladdin, genie",
-   "resolved_title": "Ali A Olomi",
-   "resolved_url": "https://mobile.twitter.com/aaolomi/status/1595539732909301761",
-   "time_updated": "2022-11-27T19:07:37Z",
-   "time_added": "2022-11-25T09:25:23Z"
-  },
-  {
-   "item_id": "3560705832",
-   "given_url": "https://ieftimov.com/posts/make-resilient-golang-net-http-servers-using-timeouts-deadlines-context-cancellation/",
-   "given_title": "Make resilient Go net/http servers using timeouts, deadlines and context ca",
-   "resolved_title": "Make resilient Go net/http servers using timeouts, deadlines and context cancellation",
-   "resolved_url": "https://ieftimov.com/posts/make-resilient-golang-net-http-servers-using-timeouts-deadlines-context-cancellation/",
-   "time_updated": "2022-11-25T10:36:38Z",
-   "time_added": "2022-11-25T10:36:38Z"
-  },
-  {
-   "item_id": "3750253455",
-   "given_url": "https://mobile.twitter.com/GergelyOrosz/status/1594612869085233153",
-   "given_title": "Gergely Orosz no Twitter: \"Treat your career choices like you would invest ",
-   "resolved_title": "Gergely Orosz",
-   "resolved_url": "https://mobile.twitter.com/gergelyorosz/status/1594612869085233153",
-   "time_updated": "2022-11-24T09:38:55Z",
-   "time_added": "2022-11-21T12:39:38Z"
-  },
-  {
    "item_id": "3748201355",
    "given_url": "https://www.mintpressnews.com/call-of-duty-is-a-government-psyop-these-documents-prove-it/282781/",
    "given_title": "Call of Duty is a Government Psyop: These Documents Prove It",
@@ -56,213 +11,6 @@
    "resolved_url": "https://www.mintpressnews.com/call-of-duty-is-a-government-psyop-these-documents-prove-it/282781/",
    "time_updated": "2022-11-24T09:38:54Z",
    "time_added": "2022-11-19T22:50:07Z"
-  },
-  {
-   "item_id": "669705205",
-   "given_url": "https://www.thecanadianencyclopedia.ca/en/article/basketball",
-   "given_title": "Basketball in Canada | The Canadian Encyclopedia",
-   "resolved_title": "Basketball in Canada",
-   "resolved_url": "https://www.thecanadianencyclopedia.ca/en/article/basketball",
-   "time_updated": "2022-11-23T14:59:31Z",
-   "time_added": "2022-11-23T14:59:31Z"
-  },
-  {
-   "item_id": "3736516387",
-   "given_url": "https://m.youtube.com/watch?v=2bm5ivctdB4",
-   "given_title": "Were the Azores home to an ancient civilisation? – BBC REEL - YouTube",
-   "resolved_title": "Was the Azores home to an ancient civilisation? – BBC REEL",
-   "resolved_url": "http://www.youtube.com/watch?v=2bm5ivctdB4",
-   "time_updated": "2022-11-27T19:07:37Z",
-   "time_added": "2022-11-24T23:25:11Z"
-  },
-  {
-   "item_id": "3752109830",
-   "given_url": "https://mobile.twitter.com/berman66/status/1595488319353372674",
-   "given_title": "Andy Berman • vowel.com no Twitter: \"There's been lots of recent news about",
-   "resolved_title": "Andy Berman • vowel.com",
-   "resolved_url": "https://mobile.twitter.com/berman66/status/1595488319353372674",
-   "time_updated": "2022-11-24T09:38:58Z",
-   "time_added": "2022-11-24T09:38:53Z"
-  },
-  {
-   "item_id": "3752109829",
-   "given_url": "https://m.youtube.com/watch?v=NBAoXDLQ_6w",
-   "given_title": "UCHÔA DÁ AULA SOBRE COMO A COPA DO MUNDO FOI PRO CATAR - YouTube",
-   "resolved_title": "UCHÔA DÁ AULA SOBRE COMO A COPA DO MUNDO FOI PRO CATAR",
-   "resolved_url": "http://www.youtube.com/watch?v=NBAoXDLQ_6w",
-   "time_updated": "2022-11-24T09:38:57Z",
-   "time_added": "2022-11-23T23:52:28Z"
-  },
-  {
-   "item_id": "3745229881",
-   "given_url": "https://uselessdevblog.wordpress.com/2022/11/10/stop-lying-to-yourself-you-will-never-fix-it-later/",
-   "given_title": "Stop lying to yourself – you will never “fix it later” – The Useless Dev bl",
-   "resolved_title": "Stop lying to yourself – you will never “fix it later”",
-   "resolved_url": "https://uselessdevblog.wordpress.com/2022/11/10/stop-lying-to-yourself-you-will-never-fix-it-later/",
-   "time_updated": "2022-11-24T09:38:54Z",
-   "time_added": "2022-11-20T21:09:19Z"
-  },
-  {
-   "item_id": "3447067515",
-   "given_url": "https://knowyourmeme.com/memes/getting-a-lot-of-boss-baby-vibes-from-this",
-   "given_title": "Getting A Lot Of Boss Baby Vibes From This | Know Your Meme",
-   "resolved_title": "",
-   "resolved_url": "https://knowyourmeme.com/memes/getting-a-lot-of-boss-baby-vibes-from-this",
-   "time_updated": "2022-11-27T19:07:37Z",
-   "time_added": "2022-11-27T13:01:18Z"
-  },
-  {
-   "item_id": "3754203465",
-   "given_url": "https://mobile.twitter.com/jadekdd/status/1596574562715860992",
-   "given_title": "jadinha balislava no Twitter: \"o problema do neymar é em quem ele vota? os ",
-   "resolved_title": "jadinha balislava",
-   "resolved_url": "https://mobile.twitter.com/jadekdd/status/1596574562715860992",
-   "time_updated": "2022-11-27T19:07:37Z",
-   "time_added": "2022-11-27T13:15:03Z"
-  },
-  {
-   "item_id": "3750253451",
-   "given_url": "https://mobile.twitter.com/historia_pensar/status/1593973501429415937",
-   "given_title": "Pensar a História no Twitter: \"A Globo mais uma vez difundindo a fake news ",
-   "resolved_title": "Pensar a História",
-   "resolved_url": "https://mobile.twitter.com/historia_pensar/status/1593973501429415937",
-   "time_updated": "2022-11-24T09:38:54Z",
-   "time_added": "2022-11-20T10:38:21Z"
-  },
-  {
-   "item_id": "2659685199",
-   "given_url": "https://supermemo.guru/wiki/Experts_do_not_understand_Khan_Academy",
-   "given_title": "Experts do not understand Khan Academy - supermemo.guru",
-   "resolved_title": "Experts do not understand Khan Academy",
-   "resolved_url": "https://supermemo.guru/wiki/Experts_do_not_understand_Khan_Academy",
-   "time_updated": "2022-11-24T09:38:55Z",
-   "time_added": "2022-11-20T23:46:39Z"
-  },
-  {
-   "item_id": "3752232464",
-   "given_url": "https://t.co/8ycELPVXtw",
-   "given_title": "",
-   "resolved_title": "Solid JJ",
-   "resolved_url": "https://twitter.com/solidusjj/status/1595527411206160384/video/1",
-   "time_updated": "2022-11-24T13:35:56Z",
-   "time_added": "2022-11-24T10:34:24Z"
-  },
-  {
-   "item_id": "3751764901",
-   "given_url": "https://mobile.twitter.com/copyconstruct/status/1595475637200097280",
-   "given_title": "Cindy Sridharan no Twitter: \"The real reason why some startups flounder is ",
-   "resolved_title": "Cindy Sridharan",
-   "resolved_url": "https://mobile.twitter.com/copyconstruct/status/1595475637200097280",
-   "time_updated": "2022-11-27T19:07:37Z",
-   "time_added": "2022-11-23T20:56:18Z"
-  },
-  {
-   "item_id": "3751764896",
-   "given_url": "https://www.publico.pt/2002/06/14/jornal/trekkers-a-portuguesa-171634",
-   "given_title": "Trekkers à portuguesa | PÚBLICO",
-   "resolved_title": "Trekkers à portuguesa",
-   "resolved_url": "https://www.publico.pt/2002/06/14/jornal/trekkers-a-portuguesa-171634",
-   "time_updated": "2022-11-24T09:38:55Z",
-   "time_added": "2022-11-22T09:01:05Z"
-  },
-  {
-   "item_id": "3751478870",
-   "given_url": "https://twitter.com/shadeed9/status/1594761669506383877",
-   "given_title": "Ahmad Shadeed no Twitter: \"I'm experimenting with some video content! ? Her",
-   "resolved_title": "Ahmad Shadeed",
-   "resolved_url": "https://twitter.com/shadeed9/status/1594761669506383877",
-   "time_updated": "2022-11-23T12:15:40Z",
-   "time_added": "2022-11-23T12:15:39Z"
-  },
-  {
-   "item_id": "3752232462",
-   "given_url": "https://mobile.twitter.com/SystemSunday/status/1595418760969846785",
-   "given_title": "Ben Meer no Twitter: \"You don't get what you deserve. You get what you nego",
-   "resolved_title": "Ben Meer",
-   "resolved_url": "https://mobile.twitter.com/systemsunday/status/1595418760969846785",
-   "time_updated": "2022-11-24T13:35:56Z",
-   "time_added": "2022-11-24T10:18:38Z"
-  },
-  {
-   "item_id": "3509577257",
-   "given_url": "https://old.reddit.com/r/antiwork/comments/rkk9qg/im_a_new_supervisor_and_my_direct_reports_are/hpacf5h/",
-   "given_title": "LooseSignificance166 comments on I'm a new Supervisor and my direct reports",
-   "resolved_title": "I'm a new Supervisor and my direct reports are workaholics",
-   "resolved_url": "https://www.reddit.com/r/antiwork/comments/rkk9qg/im_a_new_supervisor_and_my_direct_reports_are/",
-   "time_updated": "2022-11-21T10:19:37Z",
-   "time_added": "2022-11-21T10:19:37Z"
-  },
-  {
-   "item_id": "3750253454",
-   "given_url": "https://mobile.twitter.com/buckysironheart/status/1594404755245260801",
-   "given_title": "jurídico Namor visitando Wakanda ♿️ no Twitter: \"Todas as similaridades que",
-   "resolved_title": "jurídico Namor visitando Wakanda ♿️",
-   "resolved_url": "https://mobile.twitter.com/buckysironheart/status/1594404755245260801",
-   "time_updated": "2022-11-24T09:38:55Z",
-   "time_added": "2022-11-21T08:43:56Z"
-  },
-  {
-   "item_id": "3752109824",
-   "given_url": "https://m.facebook.com/watch/?v=179205214172368\u0026paipv=0\u0026eav=AfZYlwJF0SjSGBdFDXcpK0hd2Jby7CGI2JL8-tIQDVP_DWEJ8gyKkz89yd6LYC-5y20\u0026_rdr",
-   "given_title": "Facebook Watch",
-   "resolved_title": "You’re Temporarily Blocked",
-   "resolved_url": "https://m.facebook.com/watch/?v=179205214172368\u0026paipv=0\u0026eav=AfZYlwJF0SjSGBdFDXcpK0hd2Jby7CGI2JL8-tIQDVP_DWEJ8gyKkz89yd6LYC-5y20\u0026_rdr",
-   "time_updated": "2022-11-24T09:38:57Z",
-   "time_added": "2022-11-23T21:02:45Z"
-  },
-  {
-   "item_id": "3373928964",
-   "given_url": "https://www.safejourney.pt/",
-   "given_title": "SafeJourney - Psicadélicos em Português",
-   "resolved_title": "Safe Journey",
-   "resolved_url": "https://www.safejourney.pt/",
-   "time_updated": "2022-11-24T13:35:55Z",
-   "time_added": "2022-11-24T12:34:00Z"
-  },
-  {
-   "item_id": "3753443478",
-   "given_url": "https://t.co/enZPscWfMr",
-   "given_title": "Mitch Leeuwe no Twitter: \"Here are some background drawing tips and Last ch",
-   "resolved_title": "Mitch Leeuwe",
-   "resolved_url": "https://twitter.com/mitchleeuwe/status/1596414090972467207/photo/1",
-   "time_updated": "2022-11-27T19:07:37Z",
-   "time_added": "2022-11-27T08:54:35Z"
-  },
-  {
-   "item_id": "3665461764",
-   "given_url": "https://www.nhm.ac.uk/discover/news/2022/july/biodiversity-crisis-making-birds-more-similar.html",
-   "given_title": "The biodiversity crisis is making birds more similar | Natural History Muse",
-   "resolved_title": "The biodiversity crisis is making birds more similar",
-   "resolved_url": "https://www.nhm.ac.uk/discover/news/2022/july/biodiversity-crisis-making-birds-more-similar.html",
-   "time_updated": "2022-11-24T15:50:19Z",
-   "time_added": "2022-11-24T15:50:19Z"
-  },
-  {
-   "item_id": "3750109405",
-   "given_url": "https://leaddev.com/building-better-software/five-reasons-you-shouldnt-rewrite-code",
-   "given_title": "Five reasons you shouldn’t rewrite that code | LeadDev",
-   "resolved_title": "Five reasons you shouldn’t rewrite that code",
-   "resolved_url": "https://leaddev.com/building-better-software/five-reasons-you-shouldnt-rewrite-code",
-   "time_updated": "2022-11-25T10:03:06Z",
-   "time_added": "2022-11-25T10:03:06Z"
-  },
-  {
-   "item_id": "3751764897",
-   "given_url": "https://mobile.twitter.com/revistaclaudio/status/1594779821866946568",
-   "given_title": "revista revs no Twitter: \"Sexta-feira fui no Madame que minha namorada quer",
-   "resolved_title": "revista revs",
-   "resolved_url": "https://mobile.twitter.com/revistaclaudio/status/1594779821866946568",
-   "time_updated": "2022-11-24T09:38:55Z",
-   "time_added": "2022-11-22T20:45:06Z"
-  },
-  {
-   "item_id": "3505118002",
-   "given_url": "https://dystroy.org/blog/how-not-to-learn-rust/",
-   "given_title": "How not to learn Rust",
-   "resolved_title": "How not to learn Rust",
-   "resolved_url": "https://dystroy.org/blog/how-not-to-learn-rust/",
-   "time_updated": "2022-11-25T10:49:03Z",
-   "time_added": "2022-11-25T10:49:03Z"
   },
   {
    "item_id": "3749053081",
@@ -274,13 +22,22 @@
    "time_added": "2022-11-19T23:12:53Z"
   },
   {
-   "item_id": "1534683492",
-   "given_url": "https://blog.cloudflare.com/exposing-go-on-the-internet/",
-   "given_title": "So you want to expose Go on the Internet",
-   "resolved_title": "",
-   "resolved_url": "https://blog.cloudflare.com/exposing-go-on-the-internet/",
-   "time_updated": "2022-11-25T10:31:03Z",
-   "time_added": "2022-11-25T10:31:03Z"
+   "item_id": "3750253451",
+   "given_url": "https://mobile.twitter.com/historia_pensar/status/1593973501429415937",
+   "given_title": "Pensar a História no Twitter: \"A Globo mais uma vez difundindo a fake news ",
+   "resolved_title": "Pensar a História",
+   "resolved_url": "https://mobile.twitter.com/historia_pensar/status/1593973501429415937",
+   "time_updated": "2022-11-24T09:38:54Z",
+   "time_added": "2022-11-20T10:38:21Z"
+  },
+  {
+   "item_id": "3745229881",
+   "given_url": "https://uselessdevblog.wordpress.com/2022/11/10/stop-lying-to-yourself-you-will-never-fix-it-later/",
+   "given_title": "Stop lying to yourself – you will never “fix it later” – The Useless Dev bl",
+   "resolved_title": "Stop lying to yourself – you will never “fix it later”",
+   "resolved_url": "https://uselessdevblog.wordpress.com/2022/11/10/stop-lying-to-yourself-you-will-never-fix-it-later/",
+   "time_updated": "2022-11-24T09:38:54Z",
+   "time_added": "2022-11-20T21:09:19Z"
   },
   {
    "item_id": "3745663833",
@@ -292,22 +49,67 @@
    "time_added": "2022-11-20T21:30:11Z"
   },
   {
-   "item_id": "3751764900",
-   "given_url": "https://mobile.twitter.com/Caneleiras/status/1595151758053249024",
-   "given_title": "Caneleiras d'Cortiça no Twitter: \"Ora vamos lá a isto https://t.co/G3XSUyqS",
-   "resolved_title": "Caneleiras d'Cortiça",
-   "resolved_url": "https://mobile.twitter.com/caneleiras/status/1595151758053249024",
+   "item_id": "2659685199",
+   "given_url": "https://supermemo.guru/wiki/Experts_do_not_understand_Khan_Academy",
+   "given_title": "Experts do not understand Khan Academy - supermemo.guru",
+   "resolved_title": "Experts do not understand Khan Academy",
+   "resolved_url": "https://supermemo.guru/wiki/Experts_do_not_understand_Khan_Academy",
    "time_updated": "2022-11-24T09:38:55Z",
-   "time_added": "2022-11-23T20:21:51Z"
+   "time_added": "2022-11-20T23:46:39Z"
   },
   {
-   "item_id": "3752109826",
-   "given_url": "https://japaneserpg.wordpress.com/2014/03/13/games-as-study-pokemon-xy-review/",
-   "given_title": "Games as Study: Pokémon X/Y Review | The Japanese Role Playing Game",
-   "resolved_title": "Games as Study: Pokémon X/Y Review",
-   "resolved_url": "https://japaneserpg.wordpress.com/2014/03/13/games-as-study-pokemon-xy-review/",
-   "time_updated": "2022-11-24T09:39:00Z",
-   "time_added": "2022-11-23T22:37:46Z"
+   "item_id": "3750253454",
+   "given_url": "https://mobile.twitter.com/buckysironheart/status/1594404755245260801",
+   "given_title": "jurídico Namor visitando Wakanda ♿️ no Twitter: \"Todas as similaridades que",
+   "resolved_title": "jurídico Namor visitando Wakanda ♿️",
+   "resolved_url": "https://mobile.twitter.com/buckysironheart/status/1594404755245260801",
+   "time_updated": "2022-11-24T09:38:55Z",
+   "time_added": "2022-11-21T08:43:56Z"
+  },
+  {
+   "item_id": "3509577257",
+   "given_url": "https://old.reddit.com/r/antiwork/comments/rkk9qg/im_a_new_supervisor_and_my_direct_reports_are/hpacf5h/",
+   "given_title": "LooseSignificance166 comments on I'm a new Supervisor and my direct reports",
+   "resolved_title": "I'm a new Supervisor and my direct reports are workaholics",
+   "resolved_url": "https://www.reddit.com/r/antiwork/comments/rkk9qg/im_a_new_supervisor_and_my_direct_reports_are/",
+   "time_updated": "2022-11-21T10:19:37Z",
+   "time_added": "2022-11-21T10:19:37Z"
+  },
+  {
+   "item_id": "3750253455",
+   "given_url": "https://mobile.twitter.com/GergelyOrosz/status/1594612869085233153",
+   "given_title": "Gergely Orosz no Twitter: \"Treat your career choices like you would invest ",
+   "resolved_title": "Gergely Orosz",
+   "resolved_url": "https://mobile.twitter.com/gergelyorosz/status/1594612869085233153",
+   "time_updated": "2022-11-24T09:38:55Z",
+   "time_added": "2022-11-21T12:39:38Z"
+  },
+  {
+   "item_id": "2747840448",
+   "given_url": "https://en.m.wikipedia.org/wiki/Galactic_algorithm",
+   "given_title": "Galactic algorithm - Wikipedia",
+   "resolved_title": "Galactic algorithm",
+   "resolved_url": "https://en.wikipedia.org/wiki/Galactic_algorithm",
+   "time_updated": "2022-11-24T09:38:55Z",
+   "time_added": "2022-11-21T18:44:53Z"
+  },
+  {
+   "item_id": "3751764896",
+   "given_url": "https://www.publico.pt/2002/06/14/jornal/trekkers-a-portuguesa-171634",
+   "given_title": "Trekkers à portuguesa | PÚBLICO",
+   "resolved_title": "Trekkers à portuguesa",
+   "resolved_url": "https://www.publico.pt/2002/06/14/jornal/trekkers-a-portuguesa-171634",
+   "time_updated": "2022-11-24T09:38:55Z",
+   "time_added": "2022-11-22T09:01:05Z"
+  },
+  {
+   "item_id": "3751764897",
+   "given_url": "https://mobile.twitter.com/revistaclaudio/status/1594779821866946568",
+   "given_title": "revista revs no Twitter: \"Sexta-feira fui no Madame que minha namorada quer",
+   "resolved_title": "revista revs",
+   "resolved_url": "https://mobile.twitter.com/revistaclaudio/status/1594779821866946568",
+   "time_updated": "2022-11-24T09:38:55Z",
+   "time_added": "2022-11-22T20:45:06Z"
   },
   {
    "item_id": "1339825432",
@@ -328,13 +130,211 @@
    "time_added": "2022-11-23T11:31:47Z"
   },
   {
-   "item_id": "2747840448",
-   "given_url": "https://en.m.wikipedia.org/wiki/Galactic_algorithm",
-   "given_title": "Galactic algorithm - Wikipedia",
-   "resolved_title": "Galactic algorithm",
-   "resolved_url": "https://en.wikipedia.org/wiki/Galactic_algorithm",
+   "item_id": "3751478870",
+   "given_url": "https://twitter.com/shadeed9/status/1594761669506383877",
+   "given_title": "Ahmad Shadeed no Twitter: \"I'm experimenting with some video content! ? Her",
+   "resolved_title": "Ahmad Shadeed",
+   "resolved_url": "https://twitter.com/shadeed9/status/1594761669506383877",
+   "time_updated": "2022-11-23T12:15:40Z",
+   "time_added": "2022-11-23T12:15:39Z"
+  },
+  {
+   "item_id": "669705205",
+   "given_url": "https://www.thecanadianencyclopedia.ca/en/article/basketball",
+   "given_title": "Basketball in Canada | The Canadian Encyclopedia",
+   "resolved_title": "Basketball in Canada",
+   "resolved_url": "https://www.thecanadianencyclopedia.ca/en/article/basketball",
+   "time_updated": "2022-11-23T14:59:31Z",
+   "time_added": "2022-11-23T14:59:31Z"
+  },
+  {
+   "item_id": "3751764900",
+   "given_url": "https://mobile.twitter.com/Caneleiras/status/1595151758053249024",
+   "given_title": "Caneleiras d'Cortiça no Twitter: \"Ora vamos lá a isto https://t.co/G3XSUyqS",
+   "resolved_title": "Caneleiras d'Cortiça",
+   "resolved_url": "https://mobile.twitter.com/caneleiras/status/1595151758053249024",
    "time_updated": "2022-11-24T09:38:55Z",
-   "time_added": "2022-11-21T18:44:53Z"
+   "time_added": "2022-11-23T20:21:51Z"
+  },
+  {
+   "item_id": "3751764901",
+   "given_url": "https://mobile.twitter.com/copyconstruct/status/1595475637200097280",
+   "given_title": "Cindy Sridharan no Twitter: \"The real reason why some startups flounder is ",
+   "resolved_title": "Cindy Sridharan",
+   "resolved_url": "https://mobile.twitter.com/copyconstruct/status/1595475637200097280",
+   "time_updated": "2022-11-27T19:07:37Z",
+   "time_added": "2022-11-23T20:56:18Z"
+  },
+  {
+   "item_id": "3752109824",
+   "given_url": "https://m.facebook.com/watch/?v=179205214172368\u0026paipv=0\u0026eav=AfZYlwJF0SjSGBdFDXcpK0hd2Jby7CGI2JL8-tIQDVP_DWEJ8gyKkz89yd6LYC-5y20\u0026_rdr",
+   "given_title": "Facebook Watch",
+   "resolved_title": "You’re Temporarily Blocked",
+   "resolved_url": "https://m.facebook.com/watch/?v=179205214172368\u0026paipv=0\u0026eav=AfZYlwJF0SjSGBdFDXcpK0hd2Jby7CGI2JL8-tIQDVP_DWEJ8gyKkz89yd6LYC-5y20\u0026_rdr",
+   "time_updated": "2022-11-24T09:38:57Z",
+   "time_added": "2022-11-23T21:02:45Z"
+  },
+  {
+   "item_id": "3752109826",
+   "given_url": "https://japaneserpg.wordpress.com/2014/03/13/games-as-study-pokemon-xy-review/",
+   "given_title": "Games as Study: Pokémon X/Y Review | The Japanese Role Playing Game",
+   "resolved_title": "Games as Study: Pokémon X/Y Review",
+   "resolved_url": "https://japaneserpg.wordpress.com/2014/03/13/games-as-study-pokemon-xy-review/",
+   "time_updated": "2022-11-24T09:39:00Z",
+   "time_added": "2022-11-23T22:37:46Z"
+  },
+  {
+   "item_id": "1600578784",
+   "given_url": "https://sentoujunbi.wordpress.com/2016/10/26/playing-japanese-games-on-euus-3ds-a-guide/",
+   "given_title": "Playing Japanese games on EU/US 3DS – a guide | 戦闘準備 [Preparing for Battle]",
+   "resolved_title": "Playing Japanese games on EU/US 3DS – a guide",
+   "resolved_url": "https://sentoujunbi.wordpress.com/2016/10/26/playing-japanese-games-on-euus-3ds-a-guide/",
+   "time_updated": "2022-11-24T09:38:56Z",
+   "time_added": "2022-11-23T22:48:44Z"
+  },
+  {
+   "item_id": "3752109829",
+   "given_url": "https://m.youtube.com/watch?v=NBAoXDLQ_6w",
+   "given_title": "UCHÔA DÁ AULA SOBRE COMO A COPA DO MUNDO FOI PRO CATAR - YouTube",
+   "resolved_title": "UCHÔA DÁ AULA SOBRE COMO A COPA DO MUNDO FOI PRO CATAR",
+   "resolved_url": "http://www.youtube.com/watch?v=NBAoXDLQ_6w",
+   "time_updated": "2022-11-24T09:38:57Z",
+   "time_added": "2022-11-23T23:52:28Z"
+  },
+  {
+   "item_id": "3752109830",
+   "given_url": "https://mobile.twitter.com/berman66/status/1595488319353372674",
+   "given_title": "Andy Berman • vowel.com no Twitter: \"There's been lots of recent news about",
+   "resolved_title": "Andy Berman • vowel.com",
+   "resolved_url": "https://mobile.twitter.com/berman66/status/1595488319353372674",
+   "time_updated": "2022-11-24T09:38:58Z",
+   "time_added": "2022-11-24T09:38:53Z"
+  },
+  {
+   "item_id": "2063987648",
+   "given_url": "https://manticoresearch.com/",
+   "given_title": "Manticore Search",
+   "resolved_title": "Open-source database for search applications",
+   "resolved_url": "https://manticoresearch.com/",
+   "time_updated": "2022-11-24T13:35:54Z",
+   "time_added": "2022-11-24T10:15:12Z"
+  },
+  {
+   "item_id": "3752232462",
+   "given_url": "https://mobile.twitter.com/SystemSunday/status/1595418760969846785",
+   "given_title": "Ben Meer no Twitter: \"You don't get what you deserve. You get what you nego",
+   "resolved_title": "Ben Meer",
+   "resolved_url": "https://mobile.twitter.com/systemsunday/status/1595418760969846785",
+   "time_updated": "2022-11-24T13:35:56Z",
+   "time_added": "2022-11-24T10:18:38Z"
+  },
+  {
+   "item_id": "3752232464",
+   "given_url": "https://t.co/8ycELPVXtw",
+   "given_title": "",
+   "resolved_title": "Solid JJ",
+   "resolved_url": "https://twitter.com/solidusjj/status/1595527411206160384/video/1",
+   "time_updated": "2022-11-24T13:35:56Z",
+   "time_added": "2022-11-24T10:34:24Z"
+  },
+  {
+   "item_id": "3373928964",
+   "given_url": "https://www.safejourney.pt/",
+   "given_title": "SafeJourney - Psicadélicos em Português",
+   "resolved_title": "Safe Journey",
+   "resolved_url": "https://www.safejourney.pt/",
+   "time_updated": "2022-11-24T13:35:55Z",
+   "time_added": "2022-11-24T12:34:00Z"
+  },
+  {
+   "item_id": "3665461764",
+   "given_url": "https://www.nhm.ac.uk/discover/news/2022/july/biodiversity-crisis-making-birds-more-similar.html",
+   "given_title": "The biodiversity crisis is making birds more similar | Natural History Muse",
+   "resolved_title": "The biodiversity crisis is making birds more similar",
+   "resolved_url": "https://www.nhm.ac.uk/discover/news/2022/july/biodiversity-crisis-making-birds-more-similar.html",
+   "time_updated": "2022-11-24T15:50:19Z",
+   "time_added": "2022-11-24T15:50:19Z"
+  },
+  {
+   "item_id": "3736516387",
+   "given_url": "https://m.youtube.com/watch?v=2bm5ivctdB4",
+   "given_title": "Were the Azores home to an ancient civilisation? – BBC REEL - YouTube",
+   "resolved_title": "Were the Azores home to an ancient civilisation? – BBC REEL",
+   "resolved_url": "https://www.youtube.com/watch?v=2bm5ivctdB4",
+   "time_updated": "2022-11-27T19:07:37Z",
+   "time_added": "2022-11-24T23:25:11Z"
+  },
+  {
+   "item_id": "3754203464",
+   "given_url": "https://mobile.twitter.com/aaolomi/status/1595539732909301761",
+   "given_title": "Ali A Olomi no Twitter: \"In popular depictions like Disney’s Aladdin, genie",
+   "resolved_title": "Ali A Olomi",
+   "resolved_url": "https://mobile.twitter.com/aaolomi/status/1595539732909301761",
+   "time_updated": "2022-11-27T19:07:37Z",
+   "time_added": "2022-11-25T09:25:23Z"
+  },
+  {
+   "item_id": "3750109405",
+   "given_url": "https://leaddev.com/building-better-software/five-reasons-you-shouldnt-rewrite-code",
+   "given_title": "Five reasons you shouldn’t rewrite that code | LeadDev",
+   "resolved_title": "Five reasons you shouldn’t rewrite that code",
+   "resolved_url": "https://leaddev.com/building-better-software/five-reasons-you-shouldnt-rewrite-code",
+   "time_updated": "2022-11-25T10:03:06Z",
+   "time_added": "2022-11-25T10:03:06Z"
+  },
+  {
+   "item_id": "1534683492",
+   "given_url": "https://blog.cloudflare.com/exposing-go-on-the-internet/",
+   "given_title": "So you want to expose Go on the Internet",
+   "resolved_title": "",
+   "resolved_url": "https://blog.cloudflare.com/exposing-go-on-the-internet/",
+   "time_updated": "2022-11-25T10:31:03Z",
+   "time_added": "2022-11-25T10:31:03Z"
+  },
+  {
+   "item_id": "3560705832",
+   "given_url": "https://ieftimov.com/posts/make-resilient-golang-net-http-servers-using-timeouts-deadlines-context-cancellation/",
+   "given_title": "Make resilient Go net/http servers using timeouts, deadlines and context ca",
+   "resolved_title": "Make resilient Go net/http servers using timeouts, deadlines and context cancellation",
+   "resolved_url": "https://ieftimov.com/posts/make-resilient-golang-net-http-servers-using-timeouts-deadlines-context-cancellation/",
+   "time_updated": "2022-11-25T10:36:38Z",
+   "time_added": "2022-11-25T10:36:38Z"
+  },
+  {
+   "item_id": "3505118002",
+   "given_url": "https://dystroy.org/blog/how-not-to-learn-rust/",
+   "given_title": "How not to learn Rust",
+   "resolved_title": "How not to learn Rust",
+   "resolved_url": "https://dystroy.org/blog/how-not-to-learn-rust/",
+   "time_updated": "2022-11-25T10:49:03Z",
+   "time_added": "2022-11-25T10:49:03Z"
+  },
+  {
+   "item_id": "3753443478",
+   "given_url": "https://t.co/enZPscWfMr",
+   "given_title": "Mitch Leeuwe no Twitter: \"Here are some background drawing tips and Last ch",
+   "resolved_title": "Mitch Leeuwe",
+   "resolved_url": "https://twitter.com/mitchleeuwe/status/1596414090972467207/photo/1",
+   "time_updated": "2022-11-27T19:07:37Z",
+   "time_added": "2022-11-27T08:54:35Z"
+  },
+  {
+   "item_id": "3447067515",
+   "given_url": "https://knowyourmeme.com/memes/getting-a-lot-of-boss-baby-vibes-from-this",
+   "given_title": "Getting A Lot Of Boss Baby Vibes From This | Know Your Meme",
+   "resolved_title": "",
+   "resolved_url": "https://knowyourmeme.com/memes/getting-a-lot-of-boss-baby-vibes-from-this",
+   "time_updated": "2022-11-27T19:07:37Z",
+   "time_added": "2022-11-27T13:01:18Z"
+  },
+  {
+   "item_id": "3754203465",
+   "given_url": "https://mobile.twitter.com/jadekdd/status/1596574562715860992",
+   "given_title": "jadinha balislava no Twitter: \"o problema do neymar é em quem ele vota? os ",
+   "resolved_title": "jadinha balislava",
+   "resolved_url": "https://mobile.twitter.com/jadekdd/status/1596574562715860992",
+   "time_updated": "2022-11-27T19:07:37Z",
+   "time_added": "2022-11-27T13:15:03Z"
   },
   {
    "item_id": "446216421",
@@ -346,13 +346,13 @@
    "time_added": "2022-11-27T14:33:01Z"
   },
   {
-   "item_id": "1600578784",
-   "given_url": "https://sentoujunbi.wordpress.com/2016/10/26/playing-japanese-games-on-euus-3ds-a-guide/",
-   "given_title": "Playing Japanese games on EU/US 3DS – a guide | 戦闘準備 [Preparing for Battle]",
-   "resolved_title": "Playing Japanese games on EU/US 3DS – a guide",
-   "resolved_url": "https://sentoujunbi.wordpress.com/2016/10/26/playing-japanese-games-on-euus-3ds-a-guide/",
-   "time_updated": "2022-11-24T09:38:56Z",
-   "time_added": "2022-11-23T22:48:44Z"
+   "item_id": "14799899",
+   "given_url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_Pok%C3%A9mon_names",
+   "given_title": "List of Japanese Pokémon names - Bulbapedia, the community-driven Pokémon e",
+   "resolved_title": "List of Japanese Pokémon names",
+   "resolved_url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Japanese_Pok%C3%A9mon_names",
+   "time_updated": "2022-11-27T19:06:24Z",
+   "time_added": "2022-11-27T19:06:24Z"
   }
  ]
 }

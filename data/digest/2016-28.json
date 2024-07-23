@@ -4,15 +4,6 @@
  "sortKey": "2016-28",
  "items": [
   {
-   "item_id": "1350659086",
-   "given_url": "https://www.mediafire.com/?l8g23sbjvg5pg",
-   "given_title": "Demo-tapes Brasil",
-   "resolved_title": "My Files",
-   "resolved_url": "https://www.mediafire.com/?l8g23sbjvg5pg",
-   "time_updated": "2016-07-14T19:09:18+01:00",
-   "time_added": "2016-07-14T19:09:17+01:00"
-  },
-  {
    "item_id": "742092097",
    "given_url": "https://arxiv.org/html/1202.4212v2",
    "given_title": "Harmony Explained: Progress Towards A Scientific Theory of Music",
@@ -20,6 +11,15 @@
    "resolved_url": "https://arxiv.org/html/1202.4212v2",
    "time_updated": "2016-07-13T18:13:48+01:00",
    "time_added": "2016-07-13T18:13:48+01:00"
+  },
+  {
+   "item_id": "1350659086",
+   "given_url": "https://www.mediafire.com/?l8g23sbjvg5pg",
+   "given_title": "Demo-tapes Brasil",
+   "resolved_title": "My Files",
+   "resolved_url": "https://www.mediafire.com/?l8g23sbjvg5pg",
+   "time_updated": "2016-07-14T19:09:18+01:00",
+   "time_added": "2016-07-14T19:09:17+01:00"
   }
  ]
 }

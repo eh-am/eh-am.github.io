@@ -4,49 +4,13 @@
  "sortKey": "2021-51",
  "items": [
   {
-   "item_id": "3439942018",
-   "given_url": "https://perell.com/essay/against-3x-speed/",
-   "given_title": "Against 3X Speed - David Perell",
-   "resolved_title": "Against 3X Speed",
-   "resolved_url": "https://perell.com/essay/against-3x-speed/",
-   "time_updated": "2021-12-21T18:24:56Z",
-   "time_added": "2021-12-21T18:24:56Z"
-  },
-  {
-   "item_id": "1830087201",
-   "given_url": "https://tripsafe.org/shrooms/",
-   "given_title": "Shrooms: What You Need to Know | TripSafe.org ?",
-   "resolved_title": "Shrooms: What You Need to Know",
-   "resolved_url": "https://tripsafe.org/shrooms/",
-   "time_updated": "2021-12-25T17:56:31Z",
-   "time_added": "2021-12-25T17:56:28Z"
-  },
-  {
-   "item_id": "2851548472",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Samizdat",
-   "given_title": "Samizdat – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Samizdat",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Samizdat",
-   "time_updated": "2021-12-21T20:13:23Z",
-   "time_added": "2021-12-21T20:13:22Z"
-  },
-  {
-   "item_id": "3511693197",
-   "given_url": "https://atis.substack.com/p/most-advice-is-pretty-bad",
-   "given_title": "Most advice is pretty bad - by Sam - All That is Solid",
-   "resolved_title": "Most advice is pretty bad",
-   "resolved_url": "https://atis.substack.com/p/most-advice-is-pretty-bad",
-   "time_updated": "2021-12-23T20:16:14Z",
-   "time_added": "2021-12-23T20:16:13Z"
-  },
-  {
-   "item_id": "3438220020",
-   "given_url": "https://www.artofmanliness.com/living/leisure/hobbies-for-men/",
-   "given_title": "75  Hobby Ideas For Men | The Art of Manliness",
-   "resolved_title": "The Ultimate List of Hobbies for Men: 75+ Ideas For Your Free Time",
-   "resolved_url": "https://www.artofmanliness.com/living/leisure/hobbies-for-men/",
-   "time_updated": "2021-12-24T20:11:30Z",
-   "time_added": "2021-12-24T20:11:28Z"
+   "item_id": "3480184586",
+   "given_url": "https://datastation.multiprocess.io/blog/2021-11-13-benchmarking-esbuild-swc-typescript-babel.html",
+   "given_title": "Benchmarking esbuild, swc, tsc, and babel for React/JSX projects",
+   "resolved_title": "Benchmarking esbuild, swc, tsc, and babel for React/JSX projects",
+   "resolved_url": "https://datastation.multiprocess.io/blog/2021-11-13-benchmarking-esbuild-swc-typescript-babel.html",
+   "time_updated": "2021-12-20T22:01:25Z",
+   "time_added": "2021-12-20T22:01:24Z"
   },
   {
    "item_id": "2269751632",
@@ -58,22 +22,13 @@
    "time_added": "2021-12-21T02:47:45Z"
   },
   {
-   "item_id": "205293760",
-   "given_url": "http://www.semanticdesigns.com/Products/DMS/LifeAfterParsing.html",
-   "given_title": "Life after Parsing",
-   "resolved_title": "Life After Parsing™: Got My Grammar... uh, now what?",
-   "resolved_url": "http://www.semanticdesigns.com/Products/DMS/LifeAfterParsing.html",
-   "time_updated": "2021-12-23T01:45:11Z",
-   "time_added": "2021-12-23T01:45:11Z"
-  },
-  {
-   "item_id": "995542127",
-   "given_url": "https://www.theguardian.com/books/2015/jul/29/why-the-end-of-the-tour-isnt-really-about-my-friend-david-foster-wallace",
-   "given_title": "Why The End of the Tour isn't really about my friend David Foster Wallace |",
-   "resolved_title": "Why The End of the Tour isn't really about my friend David Foster Wallace",
-   "resolved_url": "http://www.theguardian.com/books/2015/jul/29/why-the-end-of-the-tour-isnt-really-about-my-friend-david-foster-wallace",
-   "time_updated": "2021-12-23T01:16:17Z",
-   "time_added": "2021-12-23T01:16:15Z"
+   "item_id": "2813678420",
+   "given_url": "https://rive.app/",
+   "given_title": "Rive - About Rive",
+   "resolved_title": "About Rive",
+   "resolved_url": "https://rive.app/",
+   "time_updated": "2021-12-21T11:36:45Z",
+   "time_added": "2021-12-21T11:36:43Z"
   },
   {
    "item_id": "3509514852",
@@ -85,13 +40,40 @@
    "time_added": "2021-12-21T18:23:17Z"
   },
   {
-   "item_id": "3512523175",
-   "given_url": "https://stackoverflow.com/a/59518515",
-   "given_title": "",
-   "resolved_title": "How to skip deleting some files when doing hugo deploy?",
-   "resolved_url": "https://stackoverflow.com/questions/59511859/how-to-skip-deleting-some-files-when-doing-hugo-deploy",
-   "time_updated": "2021-12-24T21:29:43Z",
-   "time_added": "2021-12-24T21:29:40Z"
+   "item_id": "3439942018",
+   "given_url": "https://perell.com/essay/against-3x-speed/",
+   "given_title": "Against 3X Speed - David Perell",
+   "resolved_title": "Against 3X Speed",
+   "resolved_url": "https://perell.com/essay/against-3x-speed/",
+   "time_updated": "2021-12-21T18:24:56Z",
+   "time_added": "2021-12-21T18:24:56Z"
+  },
+  {
+   "item_id": "2851548472",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Samizdat",
+   "given_title": "Samizdat – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Samizdat",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Samizdat",
+   "time_updated": "2021-12-21T20:13:23Z",
+   "time_added": "2021-12-21T20:13:22Z"
+  },
+  {
+   "item_id": "995542127",
+   "given_url": "https://www.theguardian.com/books/2015/jul/29/why-the-end-of-the-tour-isnt-really-about-my-friend-david-foster-wallace",
+   "given_title": "Why The End of the Tour isn't really about my friend David Foster Wallace |",
+   "resolved_title": "Why The End of the Tour isn't really about my friend David Foster Wallace",
+   "resolved_url": "http://www.theguardian.com/books/2015/jul/29/why-the-end-of-the-tour-isnt-really-about-my-friend-david-foster-wallace",
+   "time_updated": "2021-12-23T01:16:17Z",
+   "time_added": "2021-12-23T01:16:15Z"
+  },
+  {
+   "item_id": "205293760",
+   "given_url": "http://www.semanticdesigns.com/Products/DMS/LifeAfterParsing.html",
+   "given_title": "Life after Parsing",
+   "resolved_title": "Life After Parsing™: Got My Grammar... uh, now what?",
+   "resolved_url": "http://www.semanticdesigns.com/Products/DMS/LifeAfterParsing.html",
+   "time_updated": "2021-12-23T01:45:11Z",
+   "time_added": "2021-12-23T01:45:11Z"
   },
   {
    "item_id": "2054343465",
@@ -103,6 +85,15 @@
    "time_added": "2021-12-23T01:47:05Z"
   },
   {
+   "item_id": "3511693197",
+   "given_url": "https://atis.substack.com/p/most-advice-is-pretty-bad",
+   "given_title": "Most advice is pretty bad - by Sam - All That is Solid",
+   "resolved_title": "Most advice is pretty bad",
+   "resolved_url": "https://atis.substack.com/p/most-advice-is-pretty-bad",
+   "time_updated": "2021-12-23T20:16:14Z",
+   "time_added": "2021-12-23T20:16:13Z"
+  },
+  {
    "item_id": "3511722170",
    "given_url": "https://www.revyuh.com/news/software/developers/twitters-founder-admits-that-shutting-down-the-api-was-worst-thing-we-did-it-affected-users-and-developers/",
    "given_title": "Twitter's founder admits that shutting down the API was \"Worst thing we did",
@@ -112,22 +103,31 @@
    "time_added": "2021-12-23T20:34:21Z"
   },
   {
-   "item_id": "2813678420",
-   "given_url": "https://rive.app/",
-   "given_title": "Rive - About Rive",
-   "resolved_title": "About Rive",
-   "resolved_url": "https://rive.app/",
-   "time_updated": "2021-12-21T11:36:45Z",
-   "time_added": "2021-12-21T11:36:43Z"
+   "item_id": "3438220020",
+   "given_url": "https://www.artofmanliness.com/living/leisure/hobbies-for-men/",
+   "given_title": "75  Hobby Ideas For Men | The Art of Manliness",
+   "resolved_title": "The Ultimate List of Hobbies for Men: 75+ Ideas For Your Free Time",
+   "resolved_url": "https://www.artofmanliness.com/living/leisure/hobbies-for-men/",
+   "time_updated": "2021-12-24T20:11:30Z",
+   "time_added": "2021-12-24T20:11:28Z"
   },
   {
-   "item_id": "3480184586",
-   "given_url": "https://datastation.multiprocess.io/blog/2021-11-13-benchmarking-esbuild-swc-typescript-babel.html",
-   "given_title": "Benchmarking esbuild, swc, tsc, and babel for React/JSX projects",
-   "resolved_title": "Benchmarking esbuild, swc, tsc, and babel for React/JSX projects",
-   "resolved_url": "https://datastation.multiprocess.io/blog/2021-11-13-benchmarking-esbuild-swc-typescript-babel.html",
-   "time_updated": "2021-12-20T22:01:25Z",
-   "time_added": "2021-12-20T22:01:24Z"
+   "item_id": "3512523175",
+   "given_url": "https://stackoverflow.com/a/59518515",
+   "given_title": "",
+   "resolved_title": "How to skip deleting some files when doing hugo deploy?",
+   "resolved_url": "https://stackoverflow.com/questions/59511859/how-to-skip-deleting-some-files-when-doing-hugo-deploy",
+   "time_updated": "2021-12-24T21:29:43Z",
+   "time_added": "2021-12-24T21:29:40Z"
+  },
+  {
+   "item_id": "1830087201",
+   "given_url": "https://tripsafe.org/shrooms/",
+   "given_title": "Shrooms: What You Need to Know | TripSafe.org ?",
+   "resolved_title": "Shrooms: What You Need to Know",
+   "resolved_url": "https://tripsafe.org/shrooms/",
+   "time_updated": "2021-12-25T17:56:31Z",
+   "time_added": "2021-12-25T17:56:28Z"
   }
  ]
 }

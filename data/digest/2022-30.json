@@ -4,6 +4,15 @@
  "sortKey": "2022-30",
  "items": [
   {
+   "item_id": "3667468034",
+   "given_url": "https://github.com/mozilla-mobile/firefox-ios/issues/11020",
+   "given_title": "Send tab is not functional when sending a tab from desktop to iOS · Issue #",
+   "resolved_title": "Send tab is not functional when sending a tab from desktop to iOS #11020",
+   "resolved_url": "https://github.com/mozilla-mobile/firefox-ios/issues/11020",
+   "time_updated": "2022-07-25T00:57:59+01:00",
+   "time_added": "2022-07-25T00:57:58+01:00"
+  },
+  {
    "item_id": "3155104686",
    "given_url": "http://aumaan.org/form1/tus1/features/dreaming1.htm",
    "given_title": "",
@@ -11,105 +20,6 @@
    "resolved_url": "http://aumaan.org/form1/tus1/features/dreaming1.htm",
    "time_updated": "2022-07-25T00:59:00+01:00",
    "time_added": "2022-07-25T00:59:00+01:00"
-  },
-  {
-   "item_id": "3650231063",
-   "given_url": "https://svgees.us/blog/colorjs-release.html",
-   "given_title": "Color.js Released • Chris Lilley",
-   "resolved_title": "Color.js Released : Chris Lilley",
-   "resolved_url": "https://svgees.us/blog/colorjs-release.html",
-   "time_updated": "2022-07-29T22:54:28+01:00",
-   "time_added": "2022-07-29T22:54:26+01:00"
-  },
-  {
-   "item_id": "2653116996",
-   "given_url": "https://beepb00p.xyz/annotating.html",
-   "given_title": "How to annotate literally everything | beepb00p",
-   "resolved_title": "How to annotate literally everything",
-   "resolved_url": "https://beepb00p.xyz/annotating.html",
-   "time_updated": "2022-07-25T22:54:29+01:00",
-   "time_added": "2022-07-25T22:54:29+01:00"
-  },
-  {
-   "item_id": "3671341859",
-   "given_url": "https://www.uol.com.br/splash/colunas/flavia-guerra/2022/07/30/christiane-f-reestreia-apos-40-anos-e-continua-chocante-e-realista.htm",
-   "given_title": "Christiane F. ainda choca em reestreia após 40 anos",
-   "resolved_title": "Flavia Guerra",
-   "resolved_url": "https://www.uol.com.br/splash/colunas/flavia-guerra/2022/07/30/christiane-f-reestreia-apos-40-anos-e-continua-chocante-e-realista.htm",
-   "time_updated": "2022-07-30T15:24:00+01:00",
-   "time_added": "2022-07-30T15:23:58+01:00"
-  },
-  {
-   "item_id": "3536022538",
-   "given_url": "https://matt-rickard.com/10-years-and-s3-isnt-getting-cheaper/",
-   "given_title": "S3 Isn't Getting Cheaper",
-   "resolved_title": "S3 Isn't Getting Cheaper",
-   "resolved_url": "https://matt-rickard.com/10-years-and-s3-isnt-getting-cheaper/",
-   "time_updated": "2022-07-29T02:33:23+01:00",
-   "time_added": "2022-07-29T02:33:24+01:00"
-  },
-  {
-   "item_id": "3669545448",
-   "given_url": "https://twitter.com/hugoevmelo1/status/1552381382558720000",
-   "given_title": "Hugo Melo no Twitter: \"Para comemorar que a @ucconx entrou no top5 do TT na",
-   "resolved_title": "Hugo Melo",
-   "resolved_url": "https://twitter.com/hugoevmelo1/status/1552381382558720000",
-   "time_updated": "2022-07-28T01:44:18+01:00",
-   "time_added": "2022-07-28T01:44:18+01:00"
-  },
-  {
-   "item_id": "3670949018",
-   "given_url": "https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take/",
-   "given_title": "Remote attestation is coming back. How much freedom will it take? – Gabriel",
-   "resolved_title": "",
-   "resolved_url": "https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take/",
-   "time_updated": "2022-07-30T01:37:33+01:00",
-   "time_added": "2022-07-30T01:37:31+01:00"
-  },
-  {
-   "item_id": "3669525287",
-   "given_url": "https://www.japanesewithanime.com/2019/11/dashi.html?m=1",
-   "given_title": "dashi だし | Japanese with Anime",
-   "resolved_title": "dashi だし",
-   "resolved_url": "https://www.japanesewithanime.com/2019/11/dashi.html",
-   "time_updated": "2022-07-27T23:27:11+01:00",
-   "time_added": "2022-07-27T23:27:09+01:00"
-  },
-  {
-   "item_id": "3666641793",
-   "given_url": "https://devpoga.org/blog/2022-07-23_neovim_godot/",
-   "given_title": "Developing Godot Projects with Neovim | Dev.Poga",
-   "resolved_title": "Developing Godot Projects with Neovim",
-   "resolved_url": "https://devpoga.org/blog/2022-07-23_neovim_godot/",
-   "time_updated": "2022-07-25T17:09:24+01:00",
-   "time_added": "2022-07-25T17:09:25+01:00"
-  },
-  {
-   "item_id": "3669597780",
-   "given_url": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/07/27/entrevista-lula-uol-integra.htm",
-   "given_title": "Leia a entrevista de Lula ao UOL hoje na íntegra",
-   "resolved_title": "Eleições, Dilma, Lava Jato: leia e assista à entrevista de Lula ao UOL",
-   "resolved_url": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/07/27/entrevista-lula-uol-integra.htm",
-   "time_updated": "2022-07-28T03:29:32+01:00",
-   "time_added": "2022-07-28T03:29:32+01:00"
-  },
-  {
-   "item_id": "3667862985",
-   "given_url": "https://www.danielsieger.com/blog/2022/07/25/your-code-doesnt-have-to-be-a-mess.html",
-   "given_title": "Your Code Doesn't Have to Be a Mess ‐ Daniel Sieger",
-   "resolved_title": "Your Code Doesn't Have to Be a Mess",
-   "resolved_url": "https://www.danielsieger.com/blog/2022/07/25/your-code-doesnt-have-to-be-a-mess.html",
-   "time_updated": "2022-07-25T16:25:14+01:00",
-   "time_added": "2022-07-25T16:25:15+01:00"
-  },
-  {
-   "item_id": "2487837591",
-   "given_url": "https://www.blackmagicdesign.com/br/products/davinciresolve/training",
-   "given_title": "DaVinci Resolve 18 – Treinamento | Blackmagic Design",
-   "resolved_title": "DaVinci Resolve 17 – Treinamento | Blackmagic Design",
-   "resolved_url": "https://www.blackmagicdesign.com/br/products/davinciresolve/training",
-   "time_updated": "2022-07-28T12:29:50+01:00",
-   "time_added": "2022-07-28T12:29:50+01:00"
   },
   {
    "item_id": "3628100024",
@@ -121,58 +31,13 @@
    "time_added": "2022-07-25T15:33:13+01:00"
   },
   {
-   "item_id": "3667468034",
-   "given_url": "https://github.com/mozilla-mobile/firefox-ios/issues/11020",
-   "given_title": "Send tab is not functional when sending a tab from desktop to iOS · Issue #",
-   "resolved_title": "Send tab is not functional when sending a tab from desktop to iOS #11020",
-   "resolved_url": "https://github.com/mozilla-mobile/firefox-ios/issues/11020",
-   "time_updated": "2022-07-25T00:57:59+01:00",
-   "time_added": "2022-07-25T00:57:58+01:00"
-  },
-  {
-   "item_id": "1411059328",
-   "given_url": "https://msguides.com/",
-   "given_title": "MS Guides - Using Microsoft software products for FREE",
-   "resolved_title": "MS Guides",
-   "resolved_url": "https://msguides.com/",
-   "time_updated": "2022-07-26T03:30:05+01:00",
-   "time_added": "2022-07-26T03:30:04+01:00"
-  },
-  {
-   "item_id": "3667450020",
-   "given_url": "https://lucasfcosta.com/2022/07/19/finish-what-you-start.html",
-   "given_title": "How finishing what you start makes teams more productive and predictable",
-   "resolved_title": "How finishing what you start makes teams more productive and predictable",
-   "resolved_url": "https://lucasfcosta.com/2022/07/19/finish-what-you-start.html",
-   "time_updated": "2022-07-25T16:28:29+01:00",
-   "time_added": "2022-07-25T16:28:30+01:00"
-  },
-  {
-   "item_id": "3664398020",
-   "given_url": "https://diziet.dreamwidth.org/11840.html",
-   "given_title": "diziet | chiark’s skip-skip-cross-up-grade",
-   "resolved_title": "",
-   "resolved_url": "https://diziet.dreamwidth.org/11840.html",
-   "time_updated": "2022-07-28T15:43:44+01:00",
-   "time_added": "2022-07-28T15:43:45+01:00"
-  },
-  {
-   "item_id": "3671282891",
-   "given_url": "https://noticias.uol.com.br/newsletters/uol-daniela-pinheiro/2022/07/29/a-festa-de-lula-em-lisboa.htm?utm_source=uol.com.br\u0026utm_medium=referral\u0026utm_campaign=daniela-pinheiro\u0026utm_content=ver-edicao",
-   "given_title": "UOL Newsletters",
-   "resolved_title": "UOL Newsletters",
-   "resolved_url": "https://noticias.uol.com.br/newsletters/uol-daniela-pinheiro/2022/07/29/a-festa-de-lula-em-lisboa.htm",
-   "time_updated": "2022-07-30T13:02:40+01:00",
-   "time_added": "2022-07-30T13:02:36+01:00"
-  },
-  {
-   "item_id": "3663928240",
-   "given_url": "https://anu.substack.com/p/what-i-learned-at-clubhouse-",
-   "given_title": "What I Learned at Clubhouse ? - by Anu - Working Theories",
-   "resolved_title": "What I Learned at Clubhouse 📓",
-   "resolved_url": "https://anu.substack.com/p/what-i-learned-at-clubhouse-",
-   "time_updated": "2022-07-25T23:03:56+01:00",
-   "time_added": "2022-07-25T21:30:19+01:00"
+   "item_id": "3667862985",
+   "given_url": "https://www.danielsieger.com/blog/2022/07/25/your-code-doesnt-have-to-be-a-mess.html",
+   "given_title": "Your Code Doesn't Have to Be a Mess ‐ Daniel Sieger",
+   "resolved_title": "Your Code Doesn't Have to Be a Mess",
+   "resolved_url": "https://www.danielsieger.com/blog/2022/07/25/your-code-doesnt-have-to-be-a-mess.html",
+   "time_updated": "2022-07-25T16:25:14+01:00",
+   "time_added": "2022-07-25T16:25:15+01:00"
   },
   {
    "item_id": "6895346",
@@ -184,13 +49,49 @@
    "time_added": "2022-07-25T16:26:54+01:00"
   },
   {
-   "item_id": "3670937625",
-   "given_url": "https://revistaintertelas.com/2021/03/31/uma-odisseia-chinesa-as-expedicoes-do-navegador-zheng-he-que-chegaram-a-costa-da-africa/",
-   "given_title": "Uma odisseia chinesa: as expedições do navegador Zheng He que chegaram à co",
-   "resolved_title": "Uma odisseia chinesa: as expedições do navegador Zheng He que chegaram à costa da África",
-   "resolved_url": "https://revistaintertelas.com/2021/03/31/uma-odisseia-chinesa-as-expedicoes-do-navegador-zheng-he-que-chegaram-a-costa-da-africa/",
-   "time_updated": "2022-07-29T22:44:25+01:00",
-   "time_added": "2022-07-29T22:44:22+01:00"
+   "item_id": "3667450020",
+   "given_url": "https://lucasfcosta.com/2022/07/19/finish-what-you-start.html",
+   "given_title": "How finishing what you start makes teams more productive and predictable",
+   "resolved_title": "How finishing what you start makes teams more productive and predictable",
+   "resolved_url": "https://lucasfcosta.com/2022/07/19/finish-what-you-start.html",
+   "time_updated": "2022-07-25T16:28:29+01:00",
+   "time_added": "2022-07-25T16:28:30+01:00"
+  },
+  {
+   "item_id": "3666641793",
+   "given_url": "https://devpoga.org/blog/2022-07-23_neovim_godot/",
+   "given_title": "Developing Godot Projects with Neovim | Dev.Poga",
+   "resolved_title": "Developing Godot Projects with Neovim",
+   "resolved_url": "https://devpoga.org/blog/2022-07-23_neovim_godot/",
+   "time_updated": "2022-07-25T17:09:24+01:00",
+   "time_added": "2022-07-25T17:09:25+01:00"
+  },
+  {
+   "item_id": "3663928240",
+   "given_url": "https://anu.substack.com/p/what-i-learned-at-clubhouse-",
+   "given_title": "What I Learned at Clubhouse ? - by Anu - Working Theories",
+   "resolved_title": "What I Learned at Clubhouse 📓",
+   "resolved_url": "https://anu.substack.com/p/what-i-learned-at-clubhouse-",
+   "time_updated": "2022-07-25T23:03:56+01:00",
+   "time_added": "2022-07-25T21:30:19+01:00"
+  },
+  {
+   "item_id": "2653116996",
+   "given_url": "https://beepb00p.xyz/annotating.html",
+   "given_title": "How to annotate literally everything | beepb00p",
+   "resolved_title": "How to annotate literally everything",
+   "resolved_url": "https://beepb00p.xyz/annotating.html",
+   "time_updated": "2022-07-25T22:54:29+01:00",
+   "time_added": "2022-07-25T22:54:29+01:00"
+  },
+  {
+   "item_id": "1411059328",
+   "given_url": "https://msguides.com/",
+   "given_title": "MS Guides - Using Microsoft software products for FREE",
+   "resolved_title": "MS Guides",
+   "resolved_url": "https://msguides.com/",
+   "time_updated": "2022-07-26T03:30:05+01:00",
+   "time_added": "2022-07-26T03:30:04+01:00"
   },
   {
    "item_id": "3668465493",
@@ -200,6 +101,105 @@
    "resolved_url": "https://www.theverge.com/23277797/mark-zuckerberg-meta-facebook-employees-pressure",
    "time_updated": "2022-07-26T19:22:35+01:00",
    "time_added": "2022-07-26T19:22:35+01:00"
+  },
+  {
+   "item_id": "3669525287",
+   "given_url": "https://www.japanesewithanime.com/2019/11/dashi.html?m=1",
+   "given_title": "dashi だし | Japanese with Anime",
+   "resolved_title": "dashi だし",
+   "resolved_url": "https://www.japanesewithanime.com/2019/11/dashi.html",
+   "time_updated": "2022-07-27T23:27:11+01:00",
+   "time_added": "2022-07-27T23:27:09+01:00"
+  },
+  {
+   "item_id": "3669545448",
+   "given_url": "https://twitter.com/hugoevmelo1/status/1552381382558720000",
+   "given_title": "Hugo Melo no Twitter: \"Para comemorar que a @ucconx entrou no top5 do TT na",
+   "resolved_title": "Hugo Melo",
+   "resolved_url": "https://twitter.com/hugoevmelo1/status/1552381382558720000",
+   "time_updated": "2022-07-28T01:44:18+01:00",
+   "time_added": "2022-07-28T01:44:18+01:00"
+  },
+  {
+   "item_id": "3669597780",
+   "given_url": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/07/27/entrevista-lula-uol-integra.htm",
+   "given_title": "Leia a entrevista de Lula ao UOL hoje na íntegra",
+   "resolved_title": "Eleições, Dilma, Lava Jato: leia e assista à entrevista de Lula ao UOL",
+   "resolved_url": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/07/27/entrevista-lula-uol-integra.htm",
+   "time_updated": "2022-07-28T03:29:32+01:00",
+   "time_added": "2022-07-28T03:29:32+01:00"
+  },
+  {
+   "item_id": "2487837591",
+   "given_url": "https://www.blackmagicdesign.com/br/products/davinciresolve/training",
+   "given_title": "DaVinci Resolve 18 – Treinamento | Blackmagic Design",
+   "resolved_title": "DaVinci Resolve 17 – Treinamento | Blackmagic Design",
+   "resolved_url": "https://www.blackmagicdesign.com/br/products/davinciresolve/training",
+   "time_updated": "2022-07-28T12:29:50+01:00",
+   "time_added": "2022-07-28T12:29:50+01:00"
+  },
+  {
+   "item_id": "3664398020",
+   "given_url": "https://diziet.dreamwidth.org/11840.html",
+   "given_title": "diziet | chiark’s skip-skip-cross-up-grade",
+   "resolved_title": "",
+   "resolved_url": "https://diziet.dreamwidth.org/11840.html",
+   "time_updated": "2022-07-28T15:43:44+01:00",
+   "time_added": "2022-07-28T15:43:45+01:00"
+  },
+  {
+   "item_id": "3536022538",
+   "given_url": "https://matt-rickard.com/10-years-and-s3-isnt-getting-cheaper/",
+   "given_title": "S3 Isn't Getting Cheaper",
+   "resolved_title": "S3 Isn't Getting Cheaper",
+   "resolved_url": "https://matt-rickard.com/10-years-and-s3-isnt-getting-cheaper/",
+   "time_updated": "2022-07-29T02:33:23+01:00",
+   "time_added": "2022-07-29T02:33:24+01:00"
+  },
+  {
+   "item_id": "3670937625",
+   "given_url": "https://revistaintertelas.com/2021/03/31/uma-odisseia-chinesa-as-expedicoes-do-navegador-zheng-he-que-chegaram-a-costa-da-africa/",
+   "given_title": "Uma odisseia chinesa: as expedições do navegador Zheng He que chegaram à co",
+   "resolved_title": "Uma odisseia chinesa: as expedições do navegador Zheng He que chegaram à costa da África",
+   "resolved_url": "https://revistaintertelas.com/2021/03/31/uma-odisseia-chinesa-as-expedicoes-do-navegador-zheng-he-que-chegaram-a-costa-da-africa/",
+   "time_updated": "2022-07-29T22:44:25+01:00",
+   "time_added": "2022-07-29T22:44:22+01:00"
+  },
+  {
+   "item_id": "3650231063",
+   "given_url": "https://svgees.us/blog/colorjs-release.html",
+   "given_title": "Color.js Released • Chris Lilley",
+   "resolved_title": "Color.js Released : Chris Lilley",
+   "resolved_url": "https://svgees.us/blog/colorjs-release.html",
+   "time_updated": "2022-07-29T22:54:28+01:00",
+   "time_added": "2022-07-29T22:54:26+01:00"
+  },
+  {
+   "item_id": "3670949018",
+   "given_url": "https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take/",
+   "given_title": "Remote attestation is coming back. How much freedom will it take? – Gabriel",
+   "resolved_title": "",
+   "resolved_url": "https://gabrielsieben.tech/2022/07/29/remote-assertion-is-coming-back-how-much-freedom-will-it-take/",
+   "time_updated": "2022-07-30T01:37:33+01:00",
+   "time_added": "2022-07-30T01:37:31+01:00"
+  },
+  {
+   "item_id": "3671282891",
+   "given_url": "https://noticias.uol.com.br/newsletters/uol-daniela-pinheiro/2022/07/29/a-festa-de-lula-em-lisboa.htm?utm_source=uol.com.br\u0026utm_medium=referral\u0026utm_campaign=daniela-pinheiro\u0026utm_content=ver-edicao",
+   "given_title": "UOL Newsletters",
+   "resolved_title": "UOL Newsletters",
+   "resolved_url": "https://noticias.uol.com.br/newsletters/uol-daniela-pinheiro/2022/07/29/a-festa-de-lula-em-lisboa.htm",
+   "time_updated": "2022-07-30T13:02:40+01:00",
+   "time_added": "2022-07-30T13:02:36+01:00"
+  },
+  {
+   "item_id": "3671341859",
+   "given_url": "https://www.uol.com.br/splash/colunas/flavia-guerra/2022/07/30/christiane-f-reestreia-apos-40-anos-e-continua-chocante-e-realista.htm",
+   "given_title": "Christiane F. ainda choca em reestreia após 40 anos",
+   "resolved_title": "Flavia Guerra",
+   "resolved_url": "https://www.uol.com.br/splash/colunas/flavia-guerra/2022/07/30/christiane-f-reestreia-apos-40-anos-e-continua-chocante-e-realista.htm",
+   "time_updated": "2022-07-30T15:24:00+01:00",
+   "time_added": "2022-07-30T15:23:58+01:00"
   }
  ]
 }

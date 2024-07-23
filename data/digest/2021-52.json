@@ -4,22 +4,31 @@
  "sortKey": "2021-52",
  "items": [
   {
-   "item_id": "2172290562",
-   "given_url": "https://queue.acm.org/detail.cfm?id=3212479",
-   "given_title": "C Is Not a Low-level Language - ACM Queue",
-   "resolved_title": "C Is Not a Low-level Language",
-   "resolved_url": "https://queue.acm.org/detail.cfm?id=3212479",
-   "time_updated": "2021-12-29T13:26:57Z",
-   "time_added": "2021-12-29T13:26:57Z"
+   "item_id": "3513566498",
+   "given_url": "https://chaidarun.com/ten-years-of-logging-my-life",
+   "given_title": "Ten Years of Logging My Life - Art Chaidarun",
+   "resolved_title": "Ten Years of Logging My Life",
+   "resolved_url": "https://chaidarun.com/ten-years-of-logging-my-life",
+   "time_updated": "2021-12-27T13:29:18Z",
+   "time_added": "2021-12-27T13:29:16Z"
   },
   {
-   "item_id": "3518601306",
-   "given_url": "https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media",
-   "given_title": "Your attention didn’t collapse. It was stolen | Psychology | The Guardian",
-   "resolved_title": "Your attention didn’t collapse. It was stolen",
-   "resolved_url": "https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media",
-   "time_updated": "2022-01-02T22:35:18Z",
-   "time_added": "2022-01-02T22:35:15Z"
+   "item_id": "3090011986",
+   "given_url": "https://www.captionpop.com/japanese?nl=en",
+   "given_title": "CaptionPop",
+   "resolved_title": "CaptionPop",
+   "resolved_url": "https://www.captionpop.com/japanese?nl=en",
+   "time_updated": "2021-12-27T13:48:39Z",
+   "time_added": "2021-12-27T13:48:36Z"
+  },
+  {
+   "item_id": "3510516066",
+   "given_url": "https://www.theguardian.com/artanddesign/gallery/2021/dec/22/swiss-wanderer-soul-of-japan-werner-bischof",
+   "given_title": "‘I go too far, too deep’: the Swiss wanderer who found the soul of Japan | ",
+   "resolved_title": "‘I go too far, too deep’: the Swiss wanderer who found the soul of 1950s Japan",
+   "resolved_url": "https://www.theguardian.com/artanddesign/gallery/2021/dec/22/swiss-wanderer-soul-of-japan-werner-bischof",
+   "time_updated": "2021-12-27T16:56:36Z",
+   "time_added": "2021-12-27T16:56:34Z"
   },
   {
    "item_id": "3513847247",
@@ -31,13 +40,49 @@
    "time_added": "2021-12-27T22:54:44Z"
   },
   {
+   "item_id": "3514564257",
+   "given_url": "https://www.uol.com.br/nossa/reportagens-especiais/cha-brasileiro-batalha-para-se-popularizar-e-tem-rota-em-sao-paulo/#page15",
+   "given_title": "Chá brasileiro: bebida ganha força no país",
+   "resolved_title": "É hora do chá brasileiro",
+   "resolved_url": "https://www.uol.com.br/nossa/reportagens-especiais/cha-brasileiro-batalha-para-se-popularizar-e-tem-rota-em-sao-paulo/",
+   "time_updated": "2021-12-28T01:51:36Z",
+   "time_added": "2021-12-28T01:51:34Z"
+  },
+  {
    "item_id": "3468879666",
    "given_url": "https://fs.blog/how-to-think/",
    "given_title": "How to Think: The Skill You've Never Been Taught - Farnam Street",
-   "resolved_title": "How to Think Better: The Skill You’ve Never Been Taught",
+   "resolved_title": "",
    "resolved_url": "https://fs.blog/how-to-think/",
    "time_updated": "2021-12-29T12:59:02Z",
    "time_added": "2021-12-28T15:54:22Z"
+  },
+  {
+   "item_id": "3514547919",
+   "given_url": "https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html",
+   "given_title": "Lessons from my PhD - Austin Z. Henley",
+   "resolved_title": "Lessons from my PhD",
+   "resolved_url": "https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html",
+   "time_updated": "2021-12-29T12:59:02Z",
+   "time_added": "2021-12-29T12:58:59Z"
+  },
+  {
+   "item_id": "2172290562",
+   "given_url": "https://queue.acm.org/detail.cfm?id=3212479",
+   "given_title": "C Is Not a Low-level Language - ACM Queue",
+   "resolved_title": "C Is Not a Low-level Language",
+   "resolved_url": "https://queue.acm.org/detail.cfm?id=3212479",
+   "time_updated": "2021-12-29T13:26:57Z",
+   "time_added": "2021-12-29T13:26:57Z"
+  },
+  {
+   "item_id": "3222207949",
+   "given_url": "https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md",
+   "given_title": "README.md · main · LinuxCafeFederation / Awesome Android · GitLab",
+   "resolved_title": "README.md · main · LinuxCafeFederation / Awesome Android",
+   "resolved_url": "https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md",
+   "time_updated": "2021-12-29T14:26:40Z",
+   "time_added": "2021-12-29T14:26:38Z"
   },
   {
    "item_id": "3515625012",
@@ -47,6 +92,15 @@
    "resolved_url": "https://utcc.utoronto.ca/~cks/space/blog/tech/EmailCriticalInfrastructure",
    "time_updated": "2021-12-29T15:25:12Z",
    "time_added": "2021-12-29T15:25:10Z"
+  },
+  {
+   "item_id": "3508898948",
+   "given_url": "https://educatedguesswork.org/posts/dns-security/",
+   "given_title": "DNS Security, Part I: Basic DNS",
+   "resolved_title": "DNS Security, Part I: Basic DNS",
+   "resolved_url": "https://educatedguesswork.org/posts/dns-security/",
+   "time_updated": "2021-12-29T15:50:54Z",
+   "time_added": "2021-12-29T15:50:51Z"
   },
   {
    "item_id": "2441842160",
@@ -67,22 +121,13 @@
    "time_added": "2021-12-31T00:36:57Z"
   },
   {
-   "item_id": "3518296517",
-   "given_url": "https://youtu.be/qrIv9EORYQc",
-   "given_title": "Watch \"The Klingon Bat'leth: Practical or Awkward? Smart or Stupid?\" on You",
-   "resolved_title": "The Klingon Bat'leth: Practical or Awkward? Smart or Stupid?",
-   "resolved_url": "https://youtu.be/qrIv9EORYQc",
-   "time_updated": "2022-01-01T22:23:22Z",
-   "time_added": "2022-01-01T22:23:18Z"
-  },
-  {
-   "item_id": "3513566498",
-   "given_url": "https://chaidarun.com/ten-years-of-logging-my-life",
-   "given_title": "Ten Years of Logging My Life - Art Chaidarun",
-   "resolved_title": "Ten Years of Logging My Life",
-   "resolved_url": "https://chaidarun.com/ten-years-of-logging-my-life",
-   "time_updated": "2021-12-27T13:29:18Z",
-   "time_added": "2021-12-27T13:29:16Z"
+   "item_id": "2544718646",
+   "given_url": "https://lidenz.ru/latvia-colonial-power/",
+   "given_title": "Latvia the colonial power - Liden \u0026 Denz",
+   "resolved_title": "Latvia the colonial power",
+   "resolved_url": "https://lidenz.ru/latvia-colonial-power/",
+   "time_updated": "2022-01-01T16:01:12Z",
+   "time_added": "2022-01-01T16:01:08Z"
   },
   {
    "item_id": "3291652907",
@@ -94,49 +139,13 @@
    "time_added": "2022-01-01T17:20:37Z"
   },
   {
-   "item_id": "3090011986",
-   "given_url": "https://www.captionpop.com/japanese?nl=en",
-   "given_title": "CaptionPop",
-   "resolved_title": "CaptionPop",
-   "resolved_url": "https://www.captionpop.com/japanese?nl=en",
-   "time_updated": "2021-12-27T13:48:39Z",
-   "time_added": "2021-12-27T13:48:36Z"
-  },
-  {
-   "item_id": "3514564257",
-   "given_url": "https://www.uol.com.br/nossa/reportagens-especiais/cha-brasileiro-batalha-para-se-popularizar-e-tem-rota-em-sao-paulo/#page15",
-   "given_title": "Chá brasileiro: bebida ganha força no país",
-   "resolved_title": "É hora do chá brasileiro",
-   "resolved_url": "https://www.uol.com.br/nossa/reportagens-especiais/cha-brasileiro-batalha-para-se-popularizar-e-tem-rota-em-sao-paulo/",
-   "time_updated": "2021-12-28T01:51:36Z",
-   "time_added": "2021-12-28T01:51:34Z"
-  },
-  {
-   "item_id": "3514547919",
-   "given_url": "https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html",
-   "given_title": "Lessons from my PhD - Austin Z. Henley",
-   "resolved_title": "Lessons from my PhD",
-   "resolved_url": "https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html",
-   "time_updated": "2021-12-29T12:59:02Z",
-   "time_added": "2021-12-29T12:58:59Z"
-  },
-  {
-   "item_id": "2544718646",
-   "given_url": "https://lidenz.ru/latvia-colonial-power/",
-   "given_title": "Latvia the colonial power - Liden \u0026 Denz",
-   "resolved_title": "Latvia the colonial power",
-   "resolved_url": "https://lidenz.ru/latvia-colonial-power/",
-   "time_updated": "2022-01-01T16:01:12Z",
-   "time_added": "2022-01-01T16:01:08Z"
-  },
-  {
-   "item_id": "3222207949",
-   "given_url": "https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md",
-   "given_title": "README.md · main · LinuxCafeFederation / Awesome Android · GitLab",
-   "resolved_title": "README.md · main · LinuxCafeFederation / Awesome Android",
-   "resolved_url": "https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md",
-   "time_updated": "2021-12-29T14:26:40Z",
-   "time_added": "2021-12-29T14:26:38Z"
+   "item_id": "3518296517",
+   "given_url": "https://youtu.be/qrIv9EORYQc",
+   "given_title": "Watch \"The Klingon Bat'leth: Practical or Awkward? Smart or Stupid?\" on You",
+   "resolved_title": "The Klingon Bat'leth: Practical or Awkward? Smart or Stupid?",
+   "resolved_url": "https://youtu.be/qrIv9EORYQc",
+   "time_updated": "2022-01-01T22:23:22Z",
+   "time_added": "2022-01-01T22:23:18Z"
   },
   {
    "item_id": "148641489",
@@ -148,24 +157,6 @@
    "time_added": "2022-01-02T11:59:53Z"
   },
   {
-   "item_id": "3510516066",
-   "given_url": "https://www.theguardian.com/artanddesign/gallery/2021/dec/22/swiss-wanderer-soul-of-japan-werner-bischof",
-   "given_title": "‘I go too far, too deep’: the Swiss wanderer who found the soul of Japan | ",
-   "resolved_title": "‘I go too far, too deep’: the Swiss wanderer who found the soul of 1950s Japan",
-   "resolved_url": "https://www.theguardian.com/artanddesign/gallery/2021/dec/22/swiss-wanderer-soul-of-japan-werner-bischof",
-   "time_updated": "2021-12-27T16:56:36Z",
-   "time_added": "2021-12-27T16:56:34Z"
-  },
-  {
-   "item_id": "3508898948",
-   "given_url": "https://educatedguesswork.org/posts/dns-security/",
-   "given_title": "DNS Security, Part I: Basic DNS",
-   "resolved_title": "DNS Security, Part I: Basic DNS",
-   "resolved_url": "https://educatedguesswork.org/posts/dns-security/",
-   "time_updated": "2021-12-29T15:50:54Z",
-   "time_added": "2021-12-29T15:50:51Z"
-  },
-  {
    "item_id": "2174231338",
    "given_url": "https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html",
    "given_title": "Command-line Tools can be 235x Faster than your Hadoop Cluster - Adam Drake",
@@ -173,6 +164,15 @@
    "resolved_url": "https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html",
    "time_updated": "2022-01-02T12:09:56Z",
    "time_added": "2022-01-02T12:09:53Z"
+  },
+  {
+   "item_id": "3518601306",
+   "given_url": "https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media",
+   "given_title": "Your attention didn’t collapse. It was stolen | Psychology | The Guardian",
+   "resolved_title": "Your attention didn’t collapse. It was stolen",
+   "resolved_url": "https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media",
+   "time_updated": "2022-01-02T22:35:18Z",
+   "time_added": "2022-01-02T22:35:15Z"
   }
  ]
 }

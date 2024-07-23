@@ -4,13 +4,22 @@
  "sortKey": "2022-18",
  "items": [
   {
-   "item_id": "3609151208",
-   "given_url": "http://tilde.town/~ramin_hal9001/emacs-for-professionals/index.html",
-   "given_title": "Ramin Honary: Emacs for Professionals",
-   "resolved_title": "Emacs for Professionals",
-   "resolved_url": "https://tilde.town/~ramin_hal9001/emacs-for-professionals/index.html",
-   "time_updated": "2022-05-03T23:42:22+01:00",
-   "time_added": "2022-05-03T23:42:22+01:00"
+   "item_id": "3604247754",
+   "given_url": "https://jolynch.github.io/posts/distsys_shibboleths/",
+   "given_title": "Distributed Systems Shibboleths | Joey Lynch's Site",
+   "resolved_title": "Distributed Systems Shibboleths",
+   "resolved_url": "https://jolynch.github.io/posts/distsys_shibboleths/",
+   "time_updated": "2022-05-02T00:38:46+01:00",
+   "time_added": "2022-05-02T00:38:45+01:00"
+  },
+  {
+   "item_id": "3608981624",
+   "given_url": "https://www.reddit.com/r/portugal/comments/88b4va/comment/dwj9yfs/",
+   "given_title": "Tipos de pessoas em regiões : r/portugal",
+   "resolved_title": "r/portugal - Comment by u/Savixe on ”Tipos de pessoas em regiões”",
+   "resolved_url": "https://www.reddit.com/r/portugal/comments/88b4va/comment/dwj9yfs/",
+   "time_updated": "2022-05-02T01:15:09+01:00",
+   "time_added": "2022-05-02T01:15:06+01:00"
   },
   {
    "item_id": "1939272546",
@@ -31,33 +40,6 @@
    "time_added": "2022-05-02T13:08:52+01:00"
   },
   {
-   "item_id": "3590501452",
-   "given_url": "https://tailscale.com/blog/grafana-auth/",
-   "given_title": "How To Seamlessly Authenticate to Grafana using Tailscale · Tailscale",
-   "resolved_title": "How To Seamlessly Authenticate to Grafana using Tailscale",
-   "resolved_url": "https://tailscale.com/blog/grafana-auth/",
-   "time_updated": "2022-05-05T23:33:44+01:00",
-   "time_added": "2022-05-05T23:33:42+01:00"
-  },
-  {
-   "item_id": "3425310192",
-   "given_url": "https://go.dev/blog/why-generics",
-   "given_title": "",
-   "resolved_title": "Why Generics?",
-   "resolved_url": "https://go.dev/blog/why-generics",
-   "time_updated": "2022-05-05T01:04:37+01:00",
-   "time_added": "2022-05-05T01:04:37+01:00"
-  },
-  {
-   "item_id": "3611814141",
-   "given_url": "https://expresso.pt/desporto/jesus-o-coleccionador-de-inimigos=f545198?utm_source=site\u0026utm_medium=share\u0026utm_campaign=twitter",
-   "given_title": "Expresso | Jesus, o coleccionador de inimigos",
-   "resolved_title": "Jesus, o coleccionador de inimigos",
-   "resolved_url": "https://expresso.pt/desporto/jesus-o-coleccionador-de-inimigos=f545198",
-   "time_updated": "2022-05-05T20:13:51+01:00",
-   "time_added": "2022-05-05T20:13:48+01:00"
-  },
-  {
    "item_id": "3609338557",
    "given_url": "https://www.uol.com.br/nossa/noticias/redacao/2022/05/02/dono-da-worldpackers-trocou-vida-de-banco-para-viajar-em-troca-de-trabalho.htm",
    "given_title": "Dono da Worldpackers trocou vida de banco para viajar o mundo por 3 anos - ",
@@ -67,22 +49,67 @@
    "time_added": "2022-05-02T14:52:03+01:00"
   },
   {
-   "item_id": "3604247754",
-   "given_url": "https://jolynch.github.io/posts/distsys_shibboleths/",
-   "given_title": "Distributed Systems Shibboleths | Joey Lynch's Site",
-   "resolved_title": "Distributed Systems Shibboleths",
-   "resolved_url": "https://jolynch.github.io/posts/distsys_shibboleths/",
-   "time_updated": "2022-05-02T00:38:46+01:00",
-   "time_added": "2022-05-02T00:38:45+01:00"
+   "item_id": "3609424686",
+   "given_url": "https://www.brendangregg.com/blog/2022-05-02/brendan-at-intel.html",
+   "given_title": "Brendan@Intel.com",
+   "resolved_title": "Brendan@Intel.com",
+   "resolved_url": "https://www.brendangregg.com/blog/2022-05-02/brendan-at-intel.html",
+   "time_updated": "2022-05-02T16:57:22+01:00",
+   "time_added": "2022-05-02T16:57:22+01:00"
   },
   {
-   "item_id": "3034990615",
-   "given_url": "https://jvns.ca/blog/2020/06/28/entr/",
-   "given_title": "entr: rerun your build when files change",
-   "resolved_title": "entr: rerun your build when files change",
-   "resolved_url": "https://jvns.ca/blog/2020/06/28/entr/",
-   "time_updated": "2022-05-05T23:54:12+01:00",
-   "time_added": "2022-05-05T23:54:10+01:00"
+   "item_id": "2360143363",
+   "given_url": "https://projectricochet.com/blog/software-development-pareto-principle-and-80-solution",
+   "given_title": "Software development, the Pareto Principle, and the 80% solution | Project ",
+   "resolved_title": "Software development, the Pareto Principle, and the 80% solution",
+   "resolved_url": "https://projectricochet.com/blog/software-development-pareto-principle-and-80-solution",
+   "time_updated": "2022-05-03T01:52:51+01:00",
+   "time_added": "2022-05-03T01:52:50+01:00"
+  },
+  {
+   "item_id": "3610138230",
+   "given_url": "https://twitter.com/ruzzibarbara/status/1521288573881929734",
+   "given_title": "(1) Barbara Ruzzi ? no Twitter: \"Atualmente, existem 10 espécies brasileira",
+   "resolved_title": "Barbara Ruzzi 🐱",
+   "resolved_url": "https://twitter.com/ruzzibarbara/status/1521288573881929734",
+   "time_updated": "2022-05-03T15:08:46+01:00",
+   "time_added": "2022-05-03T15:08:45+01:00"
+  },
+  {
+   "item_id": "3585413019",
+   "given_url": "https://bkardell.com/blog/UAGottaBeKidding.html",
+   "given_title": "UA gotta be kidding",
+   "resolved_title": "UA gotta be kidding",
+   "resolved_url": "https://bkardell.com/blog/UAGottaBeKidding.html",
+   "time_updated": "2022-05-03T16:51:29+01:00",
+   "time_added": "2022-05-03T16:51:29+01:00"
+  },
+  {
+   "item_id": "3610072013",
+   "given_url": "https://news.ycombinator.com/item?id=31247149",
+   "given_title": "Companies That Use Haskell in Production | Hacker News",
+   "resolved_title": "11 Companies That Use Haskell in Production",
+   "resolved_url": "https://news.ycombinator.com/item?id=31247149",
+   "time_updated": "2022-05-03T18:41:35+01:00",
+   "time_added": "2022-05-03T18:41:34+01:00"
+  },
+  {
+   "item_id": "3610430330",
+   "given_url": "https://threadreaderapp.com/thread/1521489115585421314.html",
+   "given_title": "Thread by @aka_pugs on Thread Reader App – Thread Reader App",
+   "resolved_title": "Missing some Tweet in this thread? You can try to force a refresh",
+   "resolved_url": "https://threadreaderapp.com/thread/1521489115585421314.html",
+   "time_updated": "2022-05-03T23:35:22+01:00",
+   "time_added": "2022-05-03T23:35:20+01:00"
+  },
+  {
+   "item_id": "3609151208",
+   "given_url": "http://tilde.town/~ramin_hal9001/emacs-for-professionals/index.html",
+   "given_title": "Ramin Honary: Emacs for Professionals",
+   "resolved_title": "Emacs for Professionals",
+   "resolved_url": "https://tilde.town/~ramin_hal9001/emacs-for-professionals/index.html",
+   "time_updated": "2022-05-03T23:42:22+01:00",
+   "time_added": "2022-05-03T23:42:22+01:00"
   },
   {
    "item_id": "3338905566",
@@ -94,13 +121,31 @@
    "time_added": "2022-05-03T23:42:44+01:00"
   },
   {
-   "item_id": "3611343585",
-   "given_url": "https://twitter.com/iamakulov/status/1522008502398554113",
-   "given_title": "Ivan Akulov ?? no Twitter: \"Oh look, my favorite app Spotify being slow! Al",
-   "resolved_title": "Ivan Akulov 🇺🇦",
-   "resolved_url": "https://twitter.com/iamakulov/status/1522008502398554113",
-   "time_updated": "2022-05-05T17:43:01+01:00",
-   "time_added": "2022-05-05T17:43:01+01:00"
+   "item_id": "826816222",
+   "given_url": "https://www.astropt.org/",
+   "given_title": "AstroPT - Informação e Educação Científica",
+   "resolved_title": "AstroPT – Informação e Educação Científica",
+   "resolved_url": "https://www.astropt.org/",
+   "time_updated": "2022-05-03T23:49:51+01:00",
+   "time_added": "2022-05-03T23:49:51+01:00"
+  },
+  {
+   "item_id": "3282372457",
+   "given_url": "https://adamsilver.io/blog/buttons-shouldnt-have-a-hand-cursor/",
+   "given_title": "Buttons shouldn't have a hand cursor – Adam Silver – Designer, London, UK.",
+   "resolved_title": "Buttons shouldn't have a hand cursor",
+   "resolved_url": "https://adamsilver.io/blog/buttons-shouldnt-have-a-hand-cursor/",
+   "time_updated": "2022-05-04T23:54:10+01:00",
+   "time_added": "2022-05-04T23:54:10+01:00"
+  },
+  {
+   "item_id": "3425310192",
+   "given_url": "https://go.dev/blog/why-generics",
+   "given_title": "",
+   "resolved_title": "Why Generics?",
+   "resolved_url": "https://go.dev/blog/why-generics",
+   "time_updated": "2022-05-05T01:04:37+01:00",
+   "time_added": "2022-05-05T01:04:37+01:00"
   },
   {
    "item_id": "3506228898",
@@ -121,85 +166,40 @@
    "time_added": "2022-05-05T13:58:39+01:00"
   },
   {
-   "item_id": "3282372457",
-   "given_url": "https://adamsilver.io/blog/buttons-shouldnt-have-a-hand-cursor/",
-   "given_title": "Buttons shouldn't have a hand cursor – Adam Silver – Designer, London, UK.",
-   "resolved_title": "Buttons shouldn't have a hand cursor",
-   "resolved_url": "https://adamsilver.io/blog/buttons-shouldnt-have-a-hand-cursor/",
-   "time_updated": "2022-05-04T23:54:10+01:00",
-   "time_added": "2022-05-04T23:54:10+01:00"
+   "item_id": "3611343585",
+   "given_url": "https://twitter.com/iamakulov/status/1522008502398554113",
+   "given_title": "Ivan Akulov ?? no Twitter: \"Oh look, my favorite app Spotify being slow! Al",
+   "resolved_title": "Ivan Akulov 🇺🇦",
+   "resolved_url": "https://twitter.com/iamakulov/status/1522008502398554113",
+   "time_updated": "2022-05-05T17:43:01+01:00",
+   "time_added": "2022-05-05T17:43:01+01:00"
   },
   {
-   "item_id": "826816222",
-   "given_url": "https://www.astropt.org/",
-   "given_title": "AstroPT - Informação e Educação Científica",
-   "resolved_title": "AstroPT – Informação e Educação Científica",
-   "resolved_url": "https://www.astropt.org/",
-   "time_updated": "2022-05-03T23:49:51+01:00",
-   "time_added": "2022-05-03T23:49:51+01:00"
+   "item_id": "3611814141",
+   "given_url": "https://expresso.pt/desporto/jesus-o-coleccionador-de-inimigos=f545198?utm_source=site\u0026utm_medium=share\u0026utm_campaign=twitter",
+   "given_title": "Expresso | Jesus, o coleccionador de inimigos",
+   "resolved_title": "Jesus, o coleccionador de inimigos",
+   "resolved_url": "https://expresso.pt/desporto/jesus-o-coleccionador-de-inimigos=f545198",
+   "time_updated": "2022-05-05T20:13:51+01:00",
+   "time_added": "2022-05-05T20:13:48+01:00"
   },
   {
-   "item_id": "3609424686",
-   "given_url": "https://www.brendangregg.com/blog/2022-05-02/brendan-at-intel.html",
-   "given_title": "Brendan@Intel.com",
-   "resolved_title": "Brendan@Intel.com",
-   "resolved_url": "https://www.brendangregg.com/blog/2022-05-02/brendan-at-intel.html",
-   "time_updated": "2022-05-02T16:57:22+01:00",
-   "time_added": "2022-05-02T16:57:22+01:00"
+   "item_id": "3590501452",
+   "given_url": "https://tailscale.com/blog/grafana-auth/",
+   "given_title": "How To Seamlessly Authenticate to Grafana using Tailscale · Tailscale",
+   "resolved_title": "How To Seamlessly Authenticate to Grafana using Tailscale",
+   "resolved_url": "https://tailscale.com/blog/grafana-auth/",
+   "time_updated": "2022-05-05T23:33:44+01:00",
+   "time_added": "2022-05-05T23:33:42+01:00"
   },
   {
-   "item_id": "3585413019",
-   "given_url": "https://bkardell.com/blog/UAGottaBeKidding.html",
-   "given_title": "UA gotta be kidding",
-   "resolved_title": "UA gotta be kidding",
-   "resolved_url": "https://bkardell.com/blog/UAGottaBeKidding.html",
-   "time_updated": "2022-05-03T16:51:29+01:00",
-   "time_added": "2022-05-03T16:51:29+01:00"
-  },
-  {
-   "item_id": "3610430330",
-   "given_url": "https://threadreaderapp.com/thread/1521489115585421314.html",
-   "given_title": "Thread by @aka_pugs on Thread Reader App – Thread Reader App",
-   "resolved_title": "Missing some Tweet in this thread? You can try to force a refresh",
-   "resolved_url": "https://threadreaderapp.com/thread/1521489115585421314.html",
-   "time_updated": "2022-05-03T23:35:22+01:00",
-   "time_added": "2022-05-03T23:35:20+01:00"
-  },
-  {
-   "item_id": "2360143363",
-   "given_url": "https://projectricochet.com/blog/software-development-pareto-principle-and-80-solution",
-   "given_title": "Software development, the Pareto Principle, and the 80% solution | Project ",
-   "resolved_title": "Software development, the Pareto Principle, and the 80% solution",
-   "resolved_url": "https://projectricochet.com/blog/software-development-pareto-principle-and-80-solution",
-   "time_updated": "2022-05-03T01:52:51+01:00",
-   "time_added": "2022-05-03T01:52:50+01:00"
-  },
-  {
-   "item_id": "3610072013",
-   "given_url": "https://news.ycombinator.com/item?id=31247149",
-   "given_title": "Companies That Use Haskell in Production | Hacker News",
-   "resolved_title": "11 Companies That Use Haskell in Production",
-   "resolved_url": "https://news.ycombinator.com/item?id=31247149",
-   "time_updated": "2022-05-03T18:41:35+01:00",
-   "time_added": "2022-05-03T18:41:34+01:00"
-  },
-  {
-   "item_id": "3608981624",
-   "given_url": "https://www.reddit.com/r/portugal/comments/88b4va/comment/dwj9yfs/",
-   "given_title": "Tipos de pessoas em regiões : r/portugal",
-   "resolved_title": "r/portugal - Comment by u/Savixe on ”Tipos de pessoas em regiões”",
-   "resolved_url": "https://www.reddit.com/r/portugal/comments/88b4va/comment/dwj9yfs/",
-   "time_updated": "2022-05-02T01:15:09+01:00",
-   "time_added": "2022-05-02T01:15:06+01:00"
-  },
-  {
-   "item_id": "3610138230",
-   "given_url": "https://twitter.com/ruzzibarbara/status/1521288573881929734",
-   "given_title": "(1) Barbara Ruzzi ? no Twitter: \"Atualmente, existem 10 espécies brasileira",
-   "resolved_title": "Barbara Ruzzi 🐱",
-   "resolved_url": "https://twitter.com/ruzzibarbara/status/1521288573881929734",
-   "time_updated": "2022-05-03T15:08:46+01:00",
-   "time_added": "2022-05-03T15:08:45+01:00"
+   "item_id": "3034990615",
+   "given_url": "https://jvns.ca/blog/2020/06/28/entr/",
+   "given_title": "entr: rerun your build when files change",
+   "resolved_title": "entr: rerun your build when files change",
+   "resolved_url": "https://jvns.ca/blog/2020/06/28/entr/",
+   "time_updated": "2022-05-05T23:54:12+01:00",
+   "time_added": "2022-05-05T23:54:10+01:00"
   },
   {
    "item_id": "3609180169",

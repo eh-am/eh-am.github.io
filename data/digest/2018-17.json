@@ -4,6 +4,33 @@
  "sortKey": "2018-17",
  "items": [
   {
+   "item_id": "2163629729",
+   "given_url": "https://news.ycombinator.com/item?id=16902536",
+   "given_title": "Ask HN: Uncommon but attainable programmer skillsets valued by employers? |",
+   "resolved_title": "",
+   "resolved_url": "https://news.ycombinator.com/item?id=16902536",
+   "time_updated": "2018-04-23T21:23:41+01:00",
+   "time_added": "2018-04-23T21:23:41+01:00"
+  },
+  {
+   "item_id": "1857170213",
+   "given_url": "https://medium.com/claritydesignsystem/ng-content-the-hidden-docs-96a29d70d11b",
+   "given_title": "ng-content: The hidden docs – Clarity Design System – Medium",
+   "resolved_title": "ng-content: The hidden docs",
+   "resolved_url": "https://medium.com/claritydesignsystem/ng-content-the-hidden-docs-96a29d70d11b",
+   "time_updated": "2018-04-24T05:03:03+01:00",
+   "time_added": "2018-04-24T05:03:03+01:00"
+  },
+  {
+   "item_id": "2163849928",
+   "given_url": "https://www.joelonsoftware.com/2018/04/23/strange-and-maddening-rules/",
+   "given_title": "",
+   "resolved_title": "Strange and maddening rules",
+   "resolved_url": "https://www.joelonsoftware.com/2018/04/23/strange-and-maddening-rules/",
+   "time_updated": "2018-04-24T18:04:11+01:00",
+   "time_added": "2018-04-24T18:04:06+01:00"
+  },
+  {
    "item_id": "2156762073",
    "given_url": "https://fivethirtyeight.com/features/how-msg-got-a-bad-rap-flawed-science-and-xenophobia/amp/?__twitter_impression=true",
    "given_title": "",
@@ -13,13 +40,13 @@
    "time_added": "2018-04-25T18:51:52+01:00"
   },
   {
-   "item_id": "756642050",
-   "given_url": "https://en.wikipedia.org/wiki/Jesuit_reduction",
-   "given_title": "Jesuit reduction - Wikipedia",
-   "resolved_title": "Jesuit reduction",
-   "resolved_url": "https://en.wikipedia.org/wiki/Jesuit_reduction",
-   "time_updated": "2018-04-27T05:17:52+01:00",
-   "time_added": "2018-04-27T05:17:52+01:00"
+   "item_id": "2166651015",
+   "given_url": "https://mobile.twitter.com/OGRANDELITTLE/status/988904525519032321?s=19",
+   "given_title": "pedrenrique no Twitter: \"ALO GALERA DE SP UTILIDADE PÚBLICA ultimamente vi ",
+   "resolved_title": "pedrenrique on Twitter",
+   "resolved_url": "https://twitter.com/OGRANDELITTLE/status/988904525519032321",
+   "time_updated": "2018-04-25T22:53:55+01:00",
+   "time_added": "2018-04-25T22:53:53+01:00"
   },
   {
    "item_id": "1370469408",
@@ -40,6 +67,15 @@
    "time_added": "2018-04-26T23:36:39+01:00"
   },
   {
+   "item_id": "756642050",
+   "given_url": "https://en.wikipedia.org/wiki/Jesuit_reduction",
+   "given_title": "Jesuit reduction - Wikipedia",
+   "resolved_title": "Jesuit reduction",
+   "resolved_url": "https://en.wikipedia.org/wiki/Jesuit_reduction",
+   "time_updated": "2018-04-27T05:17:52+01:00",
+   "time_added": "2018-04-27T05:17:52+01:00"
+  },
+  {
    "item_id": "2168466443",
    "given_url": "http://pragmatic-coder.net/typesafe-jasmine-spies/",
    "given_title": "Type-safe Jasmine Spies",
@@ -47,24 +83,6 @@
    "resolved_url": "http://pragmatic-coder.net/typesafe-jasmine-spies/",
    "time_updated": "2018-04-27T14:44:17+01:00",
    "time_added": "2018-04-27T14:44:15+01:00"
-  },
-  {
-   "item_id": "2166651015",
-   "given_url": "https://mobile.twitter.com/OGRANDELITTLE/status/988904525519032321?s=19",
-   "given_title": "pedrenrique no Twitter: \"ALO GALERA DE SP UTILIDADE PÚBLICA ultimamente vi ",
-   "resolved_title": "pedrenrique on Twitter",
-   "resolved_url": "https://twitter.com/OGRANDELITTLE/status/988904525519032321",
-   "time_updated": "2018-04-25T22:53:55+01:00",
-   "time_added": "2018-04-25T22:53:53+01:00"
-  },
-  {
-   "item_id": "2163849928",
-   "given_url": "https://www.joelonsoftware.com/2018/04/23/strange-and-maddening-rules/",
-   "given_title": "",
-   "resolved_title": "Strange and maddening rules",
-   "resolved_url": "https://www.joelonsoftware.com/2018/04/23/strange-and-maddening-rules/",
-   "time_updated": "2018-04-24T18:04:11+01:00",
-   "time_added": "2018-04-24T18:04:06+01:00"
   },
   {
    "item_id": "2027615288",
@@ -76,13 +94,13 @@
    "time_added": "2018-04-27T18:11:14+01:00"
   },
   {
-   "item_id": "2155525146",
-   "given_url": "https://netbasal.com/angular-services-do-not-have-to-be-singletons-ffa879e62082",
-   "given_title": "Angular Services do NOT have to be Singletons – Netanel Basal",
-   "resolved_title": "Angular Services do NOT have to be Singletons",
-   "resolved_url": "https://netbasal.com/angular-services-do-not-have-to-be-singletons-ffa879e62082",
-   "time_updated": "2018-04-29T00:31:25+01:00",
-   "time_added": "2018-04-29T00:31:25+01:00"
+   "item_id": "1521204525",
+   "given_url": "https://gist.github.com/chuckjaz/65dcc2fd5f4f5463e492ed0cb93bca60",
+   "given_title": "Documentation for Angular Metadata",
+   "resolved_title": "Documentation for Angular Metadata",
+   "resolved_url": "https://gist.github.com/chuckjaz/65dcc2fd5f4f5463e492ed0cb93bca60",
+   "time_updated": "2018-04-28T05:47:50+01:00",
+   "time_added": "2018-04-28T05:47:50+01:00"
   },
   {
    "item_id": "2169163132",
@@ -94,33 +112,6 @@
    "time_added": "2018-04-28T18:21:54+01:00"
   },
   {
-   "item_id": "1608537675",
-   "given_url": "https://netbasal.com/dynamically-creating-components-with-angular-a7346f4a982d",
-   "given_title": "Dynamically Creating Components With Angular – Netanel Basal",
-   "resolved_title": "Dynamically Creating Components with Angular",
-   "resolved_url": "https://netbasal.com/dynamically-creating-components-with-angular-a7346f4a982d",
-   "time_updated": "2018-04-29T00:29:50+01:00",
-   "time_added": "2018-04-29T00:29:50+01:00"
-  },
-  {
-   "item_id": "2163629729",
-   "given_url": "https://news.ycombinator.com/item?id=16902536",
-   "given_title": "Ask HN: Uncommon but attainable programmer skillsets valued by employers? |",
-   "resolved_title": "",
-   "resolved_url": "https://news.ycombinator.com/item?id=16902536",
-   "time_updated": "2018-04-23T21:23:41+01:00",
-   "time_added": "2018-04-23T21:23:41+01:00"
-  },
-  {
-   "item_id": "1521204525",
-   "given_url": "https://gist.github.com/chuckjaz/65dcc2fd5f4f5463e492ed0cb93bca60",
-   "given_title": "Documentation for Angular Metadata",
-   "resolved_title": "Documentation for Angular Metadata",
-   "resolved_url": "https://gist.github.com/chuckjaz/65dcc2fd5f4f5463e492ed0cb93bca60",
-   "time_updated": "2018-04-28T05:47:50+01:00",
-   "time_added": "2018-04-28T05:47:50+01:00"
-  },
-  {
    "item_id": "2084300872",
    "given_url": "https://medium.com/@michelestieven/angular-writing-configurable-modules-69e6ea23ea42",
    "given_title": "Angular: writing configurable modules – Michele Stieven – Medium",
@@ -130,15 +121,6 @@
    "time_added": "2018-04-28T20:28:28+01:00"
   },
   {
-   "item_id": "1857170213",
-   "given_url": "https://medium.com/claritydesignsystem/ng-content-the-hidden-docs-96a29d70d11b",
-   "given_title": "ng-content: The hidden docs – Clarity Design System – Medium",
-   "resolved_title": "ng-content: The hidden docs",
-   "resolved_url": "https://medium.com/claritydesignsystem/ng-content-the-hidden-docs-96a29d70d11b",
-   "time_updated": "2018-04-24T05:03:03+01:00",
-   "time_added": "2018-04-24T05:03:03+01:00"
-  },
-  {
    "item_id": "2169848718",
    "given_url": "https://t.co/BCXdgbXNr9",
    "given_title": "dan_abramov: Idea for a coding screencast series: “I’m Doing It Wrong”. Sho",
@@ -146,6 +128,24 @@
    "resolved_url": "https://twitter.com/holman/status/990311600451076096",
    "time_updated": "2018-04-29T00:07:06+01:00",
    "time_added": "2018-04-29T00:07:05+01:00"
+  },
+  {
+   "item_id": "1608537675",
+   "given_url": "https://netbasal.com/dynamically-creating-components-with-angular-a7346f4a982d",
+   "given_title": "Dynamically Creating Components With Angular – Netanel Basal",
+   "resolved_title": "Dynamically Creating Components with Angular",
+   "resolved_url": "https://netbasal.com/dynamically-creating-components-with-angular-a7346f4a982d",
+   "time_updated": "2018-04-29T00:29:50+01:00",
+   "time_added": "2018-04-29T00:29:50+01:00"
+  },
+  {
+   "item_id": "2155525146",
+   "given_url": "https://netbasal.com/angular-services-do-not-have-to-be-singletons-ffa879e62082",
+   "given_title": "Angular Services do NOT have to be Singletons – Netanel Basal",
+   "resolved_title": "Angular Services do NOT have to be Singletons",
+   "resolved_url": "https://netbasal.com/angular-services-do-not-have-to-be-singletons-ffa879e62082",
+   "time_updated": "2018-04-29T00:31:25+01:00",
+   "time_added": "2018-04-29T00:31:25+01:00"
   }
  ]
 }

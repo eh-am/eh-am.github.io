@@ -4,13 +4,94 @@
  "sortKey": "2022-49",
  "items": [
   {
-   "item_id": "3763358817",
-   "given_url": "https://t.co/3JrhqG9doe",
-   "given_title": "Matt Silverlock ? no Twitter: \"We've archived the Gorilla Toolkit, a set of",
-   "resolved_title": "Gorilla Web Toolkit",
-   "resolved_url": "https://github.com/gorilla",
-   "time_updated": "2022-12-10T14:26:44Z",
-   "time_added": "2022-12-10T14:26:41Z"
+   "item_id": "3759475268",
+   "given_url": "https://t.co/FLwama09gK",
+   "given_title": "Dan Luu no Twitter: \"I feel like this is true for lots of kinds of conversa",
+   "resolved_title": "Halvar Flake",
+   "resolved_url": "https://twitter.com/halvarflake/status/1599497038999457792",
+   "time_updated": "2022-12-05T13:10:47Z",
+   "time_added": "2022-12-05T13:10:45Z"
+  },
+  {
+   "item_id": "844958048",
+   "given_url": "https://danluu.com/customer-service/",
+   "given_title": "AI doesn't have to be that good",
+   "resolved_title": "AI doesn't have to be that good",
+   "resolved_url": "https://danluu.com/customer-service/",
+   "time_updated": "2022-12-05T13:15:41Z",
+   "time_added": "2022-12-05T13:15:40Z"
+  },
+  {
+   "item_id": "3674052582",
+   "given_url": "https://github.com/microsoft/TypeScript/issues/50152",
+   "given_title": "A Proposal For Module Resolution · Issue #50152 · microsoft/TypeScript",
+   "resolved_title": "A Proposal For Module Resolution #50152",
+   "resolved_url": "https://github.com/microsoft/TypeScript/issues/50152",
+   "time_updated": "2022-12-05T14:09:03Z",
+   "time_added": "2022-12-05T14:09:03Z"
+  },
+  {
+   "item_id": "2344289364",
+   "given_url": "https://stackoverflow.com/questions/40823315/x-does-not-implement-y-method-has-a-pointer-receiver",
+   "given_title": "go - X does not implement Y (... method has a pointer receiver) - Stack Ove",
+   "resolved_title": "X does not implement Y (... method has a pointer receiver)",
+   "resolved_url": "https://stackoverflow.com/questions/40823315/x-does-not-implement-y-method-has-a-pointer-receiver",
+   "time_updated": "2022-12-05T14:11:26Z",
+   "time_added": "2022-12-05T14:11:26Z"
+  },
+  {
+   "item_id": "3759748575",
+   "given_url": "https://driftingin.space/posts/you-might-not-need-a-crdt",
+   "given_title": "You might not need a CRDT | Drifting in Space",
+   "resolved_title": "You might not need a CRDT",
+   "resolved_url": "https://driftingin.space/posts/you-might-not-need-a-crdt",
+   "time_updated": "2022-12-05T15:49:26Z",
+   "time_added": "2022-12-05T15:49:25Z"
+  },
+  {
+   "item_id": "3758967229",
+   "given_url": "https://m.youtube.com/watch?v=EplOzQqgstA\u0026feature=youtu.be",
+   "given_title": "AWS re:Invent 2022 - A closer look at AWS Lambda (SVS404) - YouTube",
+   "resolved_title": "AWS re:Invent 2022 - A closer look at AWS Lambda (SVS404)",
+   "resolved_url": "https://www.youtube.com/watch?v=EplOzQqgstA",
+   "time_updated": "2022-12-05T18:52:54Z",
+   "time_added": "2022-12-05T18:52:53Z"
+  },
+  {
+   "item_id": "3651735046",
+   "given_url": "https://twitter.com/jarredsumner/status/1542824445810642946",
+   "given_title": "Jarred Sumner no Twitter: \"runs 266 tests that SSR with react-dom 40% faste",
+   "resolved_title": "Jarred Sumner",
+   "resolved_url": "https://twitter.com/jarredsumner/status/1542824445810642946",
+   "time_updated": "2022-12-05T20:59:42Z",
+   "time_added": "2022-12-05T20:59:42Z"
+  },
+  {
+   "item_id": "3759490236",
+   "given_url": "https://rachelbythebay.com/w/2022/12/04/downfall/",
+   "given_title": "A reader asks how to avoid working for evil",
+   "resolved_title": "",
+   "resolved_url": "https://rachelbythebay.com/w/2022/12/04/downfall/",
+   "time_updated": "2022-12-08T00:48:48Z",
+   "time_added": "2022-12-06T13:45:01Z"
+  },
+  {
+   "item_id": "3644259258",
+   "given_url": "https://beta.reactjs.org/learn/you-might-not-need-an-effect",
+   "given_title": "You Might Not Need an Effect",
+   "resolved_title": "You Might Not Need an Effect",
+   "resolved_url": "https://beta.reactjs.org/learn/you-might-not-need-an-effect",
+   "time_updated": "2022-12-08T00:48:48Z",
+   "time_added": "2022-12-06T18:01:11Z"
+  },
+  {
+   "item_id": "3761130552",
+   "given_url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2012/04/pepe-lamenta-falta-de-reconhecimento-e-descarta-jogar-no-brasil.html",
+   "given_title": "Pepe lamenta falta de reconhecimento e descarta jogar no Brasil | globoespo",
+   "resolved_title": "Pepe lamenta falta de reconhecimento e descarta jogar no Brasil",
+   "resolved_url": "https://globoesporte.globo.com/futebol/futebol-internacional/noticia/2012/04/pepe-lamenta-falta-de-reconhecimento-e-descarta-jogar-no-brasil.html",
+   "time_updated": "2022-12-08T00:48:48Z",
+   "time_added": "2022-12-06T19:40:05Z"
   },
   {
    "item_id": "3761095163",
@@ -22,22 +103,85 @@
    "time_added": "2022-12-07T09:44:14Z"
   },
   {
-   "item_id": "3378634775",
-   "given_url": "https://www.nature.com/articles/480168a",
-   "given_title": "Out-of-body experience: Master of illusion | Nature",
-   "resolved_title": "Out-of-body experience: Master of illusion",
-   "resolved_url": "https://www.nature.com/articles/480168a",
-   "time_updated": "2022-12-10T21:48:58Z",
-   "time_added": "2022-12-10T21:48:58Z"
+   "item_id": "3410854176",
+   "given_url": "https://www.vice.com/en/article/3b75v5/the-vice-guide-to-lisbon-2014-832",
+   "given_title": "The VICE Guide to Lisbon 2014",
+   "resolved_title": "The VICE Guide to Lisbon 2014",
+   "resolved_url": "https://www.vice.com/en/article/3b75v5/the-vice-guide-to-lisbon-2014-832",
+   "time_updated": "2022-12-07T09:51:29Z",
+   "time_added": "2022-12-07T09:51:29Z"
   },
   {
-   "item_id": "3763359477",
-   "given_url": "https://github.com/gorilla#gorilla-toolkit",
-   "given_title": "Gorilla Web Toolkit",
-   "resolved_title": "Gorilla Web Toolkit",
-   "resolved_url": "https://github.com/gorilla",
-   "time_updated": "2022-12-10T14:27:51Z",
-   "time_added": "2022-12-10T14:27:49Z"
+   "item_id": "2128687527",
+   "given_url": "https://www.theguardian.com/travel/2018/mar/26/locals-guide-to-lisbon-portugal-top-10-tips",
+   "given_title": "A local’s guide to Lisbon: 10 top tips | Lisbon holidays | The Guardian",
+   "resolved_title": "A local’s guide to Lisbon: 10 top tips",
+   "resolved_url": "https://www.theguardian.com/travel/2018/mar/26/locals-guide-to-lisbon-portugal-top-10-tips",
+   "time_updated": "2022-12-07T10:00:54Z",
+   "time_added": "2022-12-07T10:00:54Z"
+  },
+  {
+   "item_id": "3754882464",
+   "given_url": "https://www.vice.com/en/article/n7zmvd/beware-of-the-perfect-gentleman",
+   "given_title": "Beware of the Perfect Gentleman",
+   "resolved_title": "Beware of the Perfect Gentleman",
+   "resolved_url": "https://www.vice.com/en/article/n7zmvd/beware-of-the-perfect-gentleman",
+   "time_updated": "2022-12-07T10:10:03Z",
+   "time_added": "2022-12-07T10:10:03Z"
+  },
+  {
+   "item_id": "3761130554",
+   "given_url": "https://m.youtube.com/watch?v=1n42Pwz5F-k",
+   "given_title": "5 Times Rocket League Pros Shattered The Skill Ceiling - YouTube",
+   "resolved_title": "5 Times Rocket League Pros Shattered The Skill Ceiling",
+   "resolved_url": "http://www.youtube.com/watch?v=1n42Pwz5F-k",
+   "time_updated": "2022-12-08T00:48:49Z",
+   "time_added": "2022-12-07T10:55:09Z"
+  },
+  {
+   "item_id": "3761089311",
+   "given_url": "https://twitter.com/lauren_wilford/status/1600337819725365248/photo/1",
+   "given_title": "Página Inicial / Twitter",
+   "resolved_title": "Lauren Wilford",
+   "resolved_url": "https://twitter.com/lauren_wilford/status/1600337819725365248/photo/1",
+   "time_updated": "2022-12-07T16:58:43Z",
+   "time_added": "2022-12-07T16:58:43Z"
+  },
+  {
+   "item_id": "3761582027",
+   "given_url": "https://m.youtube.com/watch?v=1Qd2Nb-oh4I",
+   "given_title": "Μιχάλης Πατρινός - MIKE PATRINOS Μουσουρλού / MISIRLOU (Original, 1930) - Y",
+   "resolved_title": "Μιχάλης Πατρινός - MIKE PATRINOS Μουσουρλού / MISIRLOU (Original, 1930)",
+   "resolved_url": "http://www.youtube.com/watch?v=1Qd2Nb-oh4I",
+   "time_updated": "2022-12-08T00:48:50Z",
+   "time_added": "2022-12-07T20:28:45Z"
+  },
+  {
+   "item_id": "84967387",
+   "given_url": "https://en.m.wikipedia.org/wiki/Misirlou",
+   "given_title": "Misirlou - Wikipedia",
+   "resolved_title": "Misirlou",
+   "resolved_url": "https://en.wikipedia.org/wiki/Misirlou",
+   "time_updated": "2022-12-08T00:48:49Z",
+   "time_added": "2022-12-07T20:37:42Z"
+  },
+  {
+   "item_id": "3695587863",
+   "given_url": "https://thespool.net/features/a-scanner-darkly/",
+   "given_title": "\"A Scanner Darkly\" Is a Richard Linklater Photo Negative - The Spool",
+   "resolved_title": "“A Scanner Darkly” Is a Richard Linklater Photo Negative",
+   "resolved_url": "https://thespool.net/features/a-scanner-darkly/",
+   "time_updated": "2022-12-08T00:48:49Z",
+   "time_added": "2022-12-08T00:48:48Z"
+  },
+  {
+   "item_id": "43138614",
+   "given_url": "https://www.quora.com/",
+   "given_title": "",
+   "resolved_title": "Quora",
+   "resolved_url": "https://www.quora.com/",
+   "time_updated": "2022-12-08T09:49:15Z",
+   "time_added": "2022-12-08T09:49:14Z"
   },
   {
    "item_id": "795796787",
@@ -58,22 +202,13 @@
    "time_added": "2022-12-08T10:02:00Z"
   },
   {
-   "item_id": "3763311624",
-   "given_url": "https://news.ycombinator.com/item?id=33931971",
-   "given_title": "Show HN: Pg_CRDT – an experimental CRDT extension for Postgres | Hacker New",
-   "resolved_title": "Show HN : Pg_CRDT – an experimental CRDT extension for Postgres : Hacker News",
-   "resolved_url": "https://news.ycombinator.com/item?id=33931971",
-   "time_updated": "2022-12-10T18:38:59Z",
-   "time_added": "2022-12-10T18:38:59Z"
-  },
-  {
-   "item_id": "844958048",
-   "given_url": "https://danluu.com/customer-service/",
-   "given_title": "AI doesn't have to be that good",
-   "resolved_title": "AI doesn't have to be that good",
-   "resolved_url": "https://danluu.com/customer-service/",
-   "time_updated": "2022-12-05T13:15:41Z",
-   "time_added": "2022-12-05T13:15:40Z"
+   "item_id": "3365452499",
+   "given_url": "https://hard-drive.net/man-tasked-with-making-score-for-a-monkey-riding-a-swordfish-underwater-creates-transcendent-piece-of-music/",
+   "given_title": "Man Tasked With Making Score for a Monkey Riding a Swordfish Underwater Cre",
+   "resolved_title": "Man Tasked With Making Score for a Monkey Riding a Swordfish Underwater Creates Transcendent Piece of Music",
+   "resolved_url": "https://hard-drive.net/man-tasked-with-making-score-for-a-monkey-riding-a-swordfish-underwater-creates-transcendent-piece-of-music/",
+   "time_updated": "2022-12-08T10:08:14Z",
+   "time_added": "2022-12-08T10:08:13Z"
   },
   {
    "item_id": "30485844",
@@ -85,85 +220,13 @@
    "time_added": "2022-12-08T12:34:27Z"
   },
   {
-   "item_id": "3674052582",
-   "given_url": "https://github.com/microsoft/TypeScript/issues/50152",
-   "given_title": "A Proposal For Module Resolution · Issue #50152 · microsoft/TypeScript",
-   "resolved_title": "A Proposal For Module Resolution #50152",
-   "resolved_url": "https://github.com/microsoft/TypeScript/issues/50152",
-   "time_updated": "2022-12-05T14:09:03Z",
-   "time_added": "2022-12-05T14:09:03Z"
-  },
-  {
-   "item_id": "3758967229",
-   "given_url": "https://m.youtube.com/watch?v=EplOzQqgstA\u0026feature=youtu.be",
-   "given_title": "AWS re:Invent 2022 - A closer look at AWS Lambda (SVS404) - YouTube",
-   "resolved_title": "AWS re:Invent 2022 - A closer look at AWS Lambda (SVS404)",
-   "resolved_url": "http://www.youtube.com/watch?v=EplOzQqgstA",
-   "time_updated": "2022-12-05T18:52:54Z",
-   "time_added": "2022-12-05T18:52:53Z"
-  },
-  {
-   "item_id": "3695587863",
-   "given_url": "https://thespool.net/features/a-scanner-darkly/",
-   "given_title": "\"A Scanner Darkly\" Is a Richard Linklater Photo Negative - The Spool",
-   "resolved_title": "“A Scanner Darkly” Is a Richard Linklater Photo Negative",
-   "resolved_url": "https://thespool.net/features/a-scanner-darkly/",
-   "time_updated": "2022-12-08T00:48:49Z",
-   "time_added": "2022-12-08T00:48:48Z"
-  },
-  {
-   "item_id": "3764075844",
-   "given_url": "https://www.ncbi.nlm.nih.gov/books/NBK62370/",
-   "given_title": "The Role of Physical Activity - Explaining Divergent Levels of Longevity in",
-   "resolved_title": "The Role of Physical Activity",
-   "resolved_url": "https://www.ncbi.nlm.nih.gov/books/NBK62370/",
-   "time_updated": "2022-12-11T17:57:36Z",
-   "time_added": "2022-12-11T17:57:33Z"
-  },
-  {
-   "item_id": "3761130554",
-   "given_url": "https://m.youtube.com/watch?v=1n42Pwz5F-k",
-   "given_title": "5 Times Rocket League Pros Shattered The Skill Ceiling - YouTube",
-   "resolved_title": "5 Times Rocket League Pros Shattered The Skill Ceiling",
-   "resolved_url": "http://www.youtube.com/watch?v=1n42Pwz5F-k",
-   "time_updated": "2022-12-08T00:48:49Z",
-   "time_added": "2022-12-07T10:55:09Z"
-  },
-  {
-   "item_id": "3632149436",
-   "given_url": "https://amensagem.pt/2022/06/03/como-roubar-em-lisboa-maria-do-rosario-pedreira/",
-   "given_title": "Como roubar em Lisboa - Crónica de Maria do Rosário Pedreira",
-   "resolved_title": "Como roubar em Lisboa",
-   "resolved_url": "https://amensagem.pt/2022/06/03/como-roubar-em-lisboa-maria-do-rosario-pedreira/",
-   "time_updated": "2022-12-11T15:12:02Z",
-   "time_added": "2022-12-11T15:12:02Z"
-  },
-  {
-   "item_id": "3761130552",
-   "given_url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2012/04/pepe-lamenta-falta-de-reconhecimento-e-descarta-jogar-no-brasil.html",
-   "given_title": "Pepe lamenta falta de reconhecimento e descarta jogar no Brasil | globoespo",
-   "resolved_title": "Pepe lamenta falta de reconhecimento e descarta jogar no Brasil",
-   "resolved_url": "https://globoesporte.globo.com/futebol/futebol-internacional/noticia/2012/04/pepe-lamenta-falta-de-reconhecimento-e-descarta-jogar-no-brasil.html",
-   "time_updated": "2022-12-08T00:48:48Z",
-   "time_added": "2022-12-06T19:40:05Z"
-  },
-  {
-   "item_id": "3644259258",
-   "given_url": "https://beta.reactjs.org/learn/you-might-not-need-an-effect",
-   "given_title": "You Might Not Need an Effect",
-   "resolved_title": "You Might Not Need an Effect",
-   "resolved_url": "https://beta.reactjs.org/learn/you-might-not-need-an-effect",
-   "time_updated": "2022-12-08T00:48:48Z",
-   "time_added": "2022-12-06T18:01:11Z"
-  },
-  {
-   "item_id": "3759490236",
-   "given_url": "https://rachelbythebay.com/w/2022/12/04/downfall/",
-   "given_title": "A reader asks how to avoid working for evil",
-   "resolved_title": "",
-   "resolved_url": "https://rachelbythebay.com/w/2022/12/04/downfall/",
-   "time_updated": "2022-12-08T00:48:48Z",
-   "time_added": "2022-12-06T13:45:01Z"
+   "item_id": "3762121042",
+   "given_url": "https://mobile.twitter.com/matthew_d_green/status/1600567604015497216",
+   "given_title": "Matthew Green no Twitter: \"Why Apple’s announcements today are a big deal, ",
+   "resolved_title": "Matthew Green",
+   "resolved_url": "https://mobile.twitter.com/matthew_d_green/status/1600567604015497216",
+   "time_updated": "2022-12-08T18:29:59Z",
+   "time_added": "2022-12-08T18:29:57Z"
   },
   {
    "item_id": "3761277291",
@@ -175,105 +238,6 @@
    "time_added": "2022-12-08T18:55:58Z"
   },
   {
-   "item_id": "3764165602",
-   "given_url": "https://m.youtube.com/watch?v=KEZwKsBE6QQ",
-   "given_title": "Mr. Cab Driver (Remastered) - YouTube",
-   "resolved_title": "Mr. Cab Driver (Remastered)",
-   "resolved_url": "http://www.youtube.com/watch?v=KEZwKsBE6QQ",
-   "time_updated": "2022-12-11T21:04:40Z",
-   "time_added": "2022-12-11T21:04:39Z"
-  },
-  {
-   "item_id": "2128687527",
-   "given_url": "https://www.theguardian.com/travel/2018/mar/26/locals-guide-to-lisbon-portugal-top-10-tips",
-   "given_title": "A local’s guide to Lisbon: 10 top tips | Lisbon holidays | The Guardian",
-   "resolved_title": "A local’s guide to Lisbon: 10 top tips",
-   "resolved_url": "https://www.theguardian.com/travel/2018/mar/26/locals-guide-to-lisbon-portugal-top-10-tips",
-   "time_updated": "2022-12-07T10:00:54Z",
-   "time_added": "2022-12-07T10:00:54Z"
-  },
-  {
-   "item_id": "84967387",
-   "given_url": "https://en.m.wikipedia.org/wiki/Misirlou",
-   "given_title": "Misirlou - Wikipedia",
-   "resolved_title": "Misirlou",
-   "resolved_url": "https://en.wikipedia.org/wiki/Misirlou",
-   "time_updated": "2022-12-08T00:48:49Z",
-   "time_added": "2022-12-07T20:37:42Z"
-  },
-  {
-   "item_id": "2344289364",
-   "given_url": "https://stackoverflow.com/questions/40823315/x-does-not-implement-y-method-has-a-pointer-receiver",
-   "given_title": "go - X does not implement Y (... method has a pointer receiver) - Stack Ove",
-   "resolved_title": "X does not implement Y (... method has a pointer receiver)",
-   "resolved_url": "https://stackoverflow.com/questions/40823315/x-does-not-implement-y-method-has-a-pointer-receiver",
-   "time_updated": "2022-12-05T14:11:26Z",
-   "time_added": "2022-12-05T14:11:26Z"
-  },
-  {
-   "item_id": "141424670",
-   "given_url": "https://en.m.wikipedia.org/wiki/Urban_exploration",
-   "given_title": "Urban exploration - Wikipedia",
-   "resolved_title": "Urban exploration",
-   "resolved_url": "https://en.wikipedia.org/wiki/Urban_exploration",
-   "time_updated": "2022-12-11T08:43:10Z",
-   "time_added": "2022-12-11T08:43:09Z"
-  },
-  {
-   "item_id": "43138614",
-   "given_url": "https://www.quora.com/",
-   "given_title": "",
-   "resolved_title": "Quora",
-   "resolved_url": "https://www.quora.com/",
-   "time_updated": "2022-12-08T09:49:15Z",
-   "time_added": "2022-12-08T09:49:14Z"
-  },
-  {
-   "item_id": "3763284698",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Afares",
-   "given_title": "Afares – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Afares",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Afares",
-   "time_updated": "2022-12-10T11:53:17Z",
-   "time_added": "2022-12-10T11:53:14Z"
-  },
-  {
-   "item_id": "3762699098",
-   "given_url": "https://redmonk.com/sogrady/2022/12/09/faster-horse/",
-   "given_title": "A Faster Horse – tecosystems",
-   "resolved_title": "A Faster Horse",
-   "resolved_url": "https://redmonk.com/sogrady/2022/12/09/faster-horse/",
-   "time_updated": "2022-12-10T11:50:17Z",
-   "time_added": "2022-12-10T11:50:16Z"
-  },
-  {
-   "item_id": "3761582027",
-   "given_url": "https://m.youtube.com/watch?v=1Qd2Nb-oh4I",
-   "given_title": "Μιχάλης Πατρινός - MIKE PATRINOS Μουσουρλού / MISIRLOU (Original, 1930) - Y",
-   "resolved_title": "Μιχάλης Πατρινός - MIKE PATRINOS Μουσουρλού / MISIRLOU (Original, 1930)",
-   "resolved_url": "http://www.youtube.com/watch?v=1Qd2Nb-oh4I",
-   "time_updated": "2022-12-08T00:48:50Z",
-   "time_added": "2022-12-07T20:28:45Z"
-  },
-  {
-   "item_id": "2274500817",
-   "given_url": "https://acoupleofcountries.com/2015/10/abandoned-places-in-lisbon/",
-   "given_title": "Abandoned places in Lisbon – Time machine – A Couple of Countries",
-   "resolved_title": "Abandoned places in Lisbon – Time machine",
-   "resolved_url": "http://acoupleofcountries.com/2015/10/abandoned-places-in-lisbon/",
-   "time_updated": "2022-12-11T10:54:11Z",
-   "time_added": "2022-12-11T10:54:10Z"
-  },
-  {
-   "item_id": "3759748575",
-   "given_url": "https://driftingin.space/posts/you-might-not-need-a-crdt",
-   "given_title": "You might not need a CRDT | Drifting in Space",
-   "resolved_title": "You might not need a CRDT",
-   "resolved_url": "https://driftingin.space/posts/you-might-not-need-a-crdt",
-   "time_updated": "2022-12-05T15:49:26Z",
-   "time_added": "2022-12-05T15:49:25Z"
-  },
-  {
    "item_id": "3762134618",
    "given_url": "https://www.rwx.com/blog/strategies-for-handling-flaky-tests",
    "given_title": "Strategies for Handling Flaky Tests",
@@ -281,51 +245,6 @@
    "resolved_url": "https://www.rwx.com/blog/strategies-for-handling-flaky-tests",
    "time_updated": "2022-12-08T21:22:56Z",
    "time_added": "2022-12-08T21:22:56Z"
-  },
-  {
-   "item_id": "3764135051",
-   "given_url": "https://t.co/tbaimScELh",
-   "given_title": "Marcio Hack no Twitter: \"O testemunho do Paulo Rónai, que aprendeu o idioma",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/philoantonio/status/1579089751113871360",
-   "time_updated": "2022-12-11T19:58:37Z",
-   "time_added": "2022-12-11T19:58:34Z"
-  },
-  {
-   "item_id": "3365452499",
-   "given_url": "https://hard-drive.net/man-tasked-with-making-score-for-a-monkey-riding-a-swordfish-underwater-creates-transcendent-piece-of-music/",
-   "given_title": "Man Tasked With Making Score for a Monkey Riding a Swordfish Underwater Cre",
-   "resolved_title": "Man Tasked With Making Score for a Monkey Riding a Swordfish Underwater Creates Transcendent Piece of Music",
-   "resolved_url": "https://hard-drive.net/man-tasked-with-making-score-for-a-monkey-riding-a-swordfish-underwater-creates-transcendent-piece-of-music/",
-   "time_updated": "2022-12-08T10:08:14Z",
-   "time_added": "2022-12-08T10:08:13Z"
-  },
-  {
-   "item_id": "3764243805",
-   "given_url": "https://m.youtube.com/watch?v=IwEyob2jmXI",
-   "given_title": "Donkey Kong Country - YouTube",
-   "resolved_title": "Donkey Kong Country",
-   "resolved_url": "http://www.youtube.com/watch?v=IwEyob2jmXI",
-   "time_updated": "2022-12-11T23:57:56Z",
-   "time_added": "2022-12-11T23:57:54Z"
-  },
-  {
-   "item_id": "3763216974",
-   "given_url": "https://m.youtube.com/watch?v=XHyynL75EgA",
-   "given_title": "7 Rip-Off Games You Thought Were Original - YouTube",
-   "resolved_title": "7 Rip-Off Games You Thought Were Original",
-   "resolved_url": "http://www.youtube.com/watch?v=XHyynL75EgA",
-   "time_updated": "2022-12-10T09:11:24Z",
-   "time_added": "2022-12-10T09:11:22Z"
-  },
-  {
-   "item_id": "3761089311",
-   "given_url": "https://twitter.com/lauren_wilford/status/1600337819725365248/photo/1",
-   "given_title": "Página Inicial / Twitter",
-   "resolved_title": "Lauren Wilford",
-   "resolved_url": "https://twitter.com/lauren_wilford/status/1600337819725365248/photo/1",
-   "time_updated": "2022-12-07T16:58:43Z",
-   "time_added": "2022-12-07T16:58:43Z"
   },
   {
    "item_id": "3762240487",
@@ -337,6 +256,69 @@
    "time_added": "2022-12-08T22:09:56Z"
   },
   {
+   "item_id": "3763216974",
+   "given_url": "https://m.youtube.com/watch?v=XHyynL75EgA",
+   "given_title": "7 Rip-Off Games You Thought Were Original - YouTube",
+   "resolved_title": "7 Rip-Off Games You Thought Were Original",
+   "resolved_url": "http://www.youtube.com/watch?v=XHyynL75EgA",
+   "time_updated": "2022-12-10T09:11:24Z",
+   "time_added": "2022-12-10T09:11:22Z"
+  },
+  {
+   "item_id": "3762699098",
+   "given_url": "https://redmonk.com/sogrady/2022/12/09/faster-horse/",
+   "given_title": "A Faster Horse – tecosystems",
+   "resolved_title": "A Faster Horse",
+   "resolved_url": "https://redmonk.com/sogrady/2022/12/09/faster-horse/",
+   "time_updated": "2022-12-10T11:50:17Z",
+   "time_added": "2022-12-10T11:50:16Z"
+  },
+  {
+   "item_id": "3763284698",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Afares",
+   "given_title": "Afares – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Afares",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Afares",
+   "time_updated": "2022-12-10T11:53:17Z",
+   "time_added": "2022-12-10T11:53:14Z"
+  },
+  {
+   "item_id": "3763358817",
+   "given_url": "https://t.co/3JrhqG9doe",
+   "given_title": "Matt Silverlock ? no Twitter: \"We've archived the Gorilla Toolkit, a set of",
+   "resolved_title": "Gorilla Web Toolkit",
+   "resolved_url": "https://github.com/gorilla",
+   "time_updated": "2022-12-10T14:26:44Z",
+   "time_added": "2022-12-10T14:26:41Z"
+  },
+  {
+   "item_id": "3763359477",
+   "given_url": "https://github.com/gorilla#gorilla-toolkit",
+   "given_title": "Gorilla Web Toolkit",
+   "resolved_title": "Gorilla Web Toolkit",
+   "resolved_url": "https://github.com/gorilla",
+   "time_updated": "2022-12-10T14:27:51Z",
+   "time_added": "2022-12-10T14:27:49Z"
+  },
+  {
+   "item_id": "3763311624",
+   "given_url": "https://news.ycombinator.com/item?id=33931971",
+   "given_title": "Show HN: Pg_CRDT – an experimental CRDT extension for Postgres | Hacker New",
+   "resolved_title": "Show HN : Pg_CRDT – an experimental CRDT extension for Postgres : Hacker News",
+   "resolved_url": "https://news.ycombinator.com/item?id=33931971",
+   "time_updated": "2022-12-10T18:38:59Z",
+   "time_added": "2022-12-10T18:38:59Z"
+  },
+  {
+   "item_id": "3378634775",
+   "given_url": "https://www.nature.com/articles/480168a",
+   "given_title": "Out-of-body experience: Master of illusion | Nature",
+   "resolved_title": "Out-of-body experience: Master of illusion",
+   "resolved_url": "https://www.nature.com/articles/480168a",
+   "time_updated": "2022-12-10T21:48:58Z",
+   "time_added": "2022-12-10T21:48:58Z"
+  },
+  {
    "item_id": "3763573805",
    "given_url": "https://m.youtube.com/watch?v=Dpwvaj0Kgqc",
    "given_title": "FINALE │ Parasite Eve #16 - YouTube",
@@ -346,67 +328,67 @@
    "time_added": "2022-12-10T22:14:23Z"
   },
   {
-   "item_id": "3754882464",
-   "given_url": "https://www.vice.com/en/article/n7zmvd/beware-of-the-perfect-gentleman",
-   "given_title": "Beware of the Perfect Gentleman",
-   "resolved_title": "Beware of the Perfect Gentleman",
-   "resolved_url": "https://www.vice.com/en/article/n7zmvd/beware-of-the-perfect-gentleman",
-   "time_updated": "2022-12-07T10:10:03Z",
-   "time_added": "2022-12-07T10:10:03Z"
+   "item_id": "141424670",
+   "given_url": "https://en.m.wikipedia.org/wiki/Urban_exploration",
+   "given_title": "Urban exploration - Wikipedia",
+   "resolved_title": "Urban exploration",
+   "resolved_url": "https://en.wikipedia.org/wiki/Urban_exploration",
+   "time_updated": "2022-12-11T08:43:10Z",
+   "time_added": "2022-12-11T08:43:09Z"
   },
   {
-   "item_id": "3651735046",
-   "given_url": "https://twitter.com/jarredsumner/status/1542824445810642946",
-   "given_title": "Jarred Sumner no Twitter: \"runs 266 tests that SSR with react-dom 40% faste",
-   "resolved_title": "Jarred Sumner",
-   "resolved_url": "https://twitter.com/jarredsumner/status/1542824445810642946",
-   "time_updated": "2022-12-05T20:59:42Z",
-   "time_added": "2022-12-05T20:59:42Z"
+   "item_id": "2274500817",
+   "given_url": "https://acoupleofcountries.com/2015/10/abandoned-places-in-lisbon/",
+   "given_title": "Abandoned places in Lisbon – Time machine – A Couple of Countries",
+   "resolved_title": "Abandoned places in Lisbon – Time machine",
+   "resolved_url": "http://acoupleofcountries.com/2015/10/abandoned-places-in-lisbon/",
+   "time_updated": "2022-12-11T10:54:11Z",
+   "time_added": "2022-12-11T10:54:10Z"
   },
   {
-   "item_id": "3759475268",
-   "given_url": "https://t.co/FLwama09gK",
-   "given_title": "Dan Luu no Twitter: \"I feel like this is true for lots of kinds of conversa",
-   "resolved_title": "Halvar Flake",
-   "resolved_url": "https://twitter.com/halvarflake/status/1599497038999457792",
-   "time_updated": "2022-12-05T13:10:47Z",
-   "time_added": "2022-12-05T13:10:45Z"
+   "item_id": "3632149436",
+   "given_url": "https://amensagem.pt/2022/06/03/como-roubar-em-lisboa-maria-do-rosario-pedreira/",
+   "given_title": "Como roubar em Lisboa - Crónica de Maria do Rosário Pedreira",
+   "resolved_title": "Como roubar em Lisboa",
+   "resolved_url": "https://amensagem.pt/2022/06/03/como-roubar-em-lisboa-maria-do-rosario-pedreira/",
+   "time_updated": "2022-12-11T15:12:02Z",
+   "time_added": "2022-12-11T15:12:02Z"
   },
   {
-   "item_id": "3762121042",
-   "given_url": "https://mobile.twitter.com/matthew_d_green/status/1600567604015497216",
-   "given_title": "Matthew Green no Twitter: \"Why Apple’s announcements today are a big deal, ",
-   "resolved_title": "Matthew Green",
-   "resolved_url": "https://mobile.twitter.com/matthew_d_green/status/1600567604015497216",
-   "time_updated": "2022-12-08T18:29:59Z",
-   "time_added": "2022-12-08T18:29:57Z"
+   "item_id": "3764075844",
+   "given_url": "https://www.ncbi.nlm.nih.gov/books/NBK62370/",
+   "given_title": "The Role of Physical Activity - Explaining Divergent Levels of Longevity in",
+   "resolved_title": "The Role of Physical Activity",
+   "resolved_url": "https://www.ncbi.nlm.nih.gov/books/NBK62370/",
+   "time_updated": "2022-12-11T17:57:36Z",
+   "time_added": "2022-12-11T17:57:33Z"
   },
   {
-   "item_id": "3763440124",
-   "given_url": "https://www.amazingcto.com/postgres-for-everything/",
-   "given_title": "Just Use Postgres for Everything | Amazing CTO",
-   "resolved_title": "",
-   "resolved_url": "",
-   "time_updated": "2022-12-11T21:38:07Z",
-   "time_added": "2022-12-11T21:38:07Z"
+   "item_id": "3764135051",
+   "given_url": "https://t.co/tbaimScELh",
+   "given_title": "Marcio Hack no Twitter: \"O testemunho do Paulo Rónai, que aprendeu o idioma",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/philoantonio/status/1579089751113871360",
+   "time_updated": "2022-12-11T19:58:37Z",
+   "time_added": "2022-12-11T19:58:34Z"
   },
   {
-   "item_id": "3760982289",
-   "given_url": "https://open-next.js.org/",
-   "given_title": "OpenNext",
-   "resolved_title": "OpenNext",
-   "resolved_url": "https://open-next.js.org/",
-   "time_updated": "2022-12-07T18:08:25Z",
-   "time_added": "2022-12-07T18:08:25Z"
+   "item_id": "3764165602",
+   "given_url": "https://m.youtube.com/watch?v=KEZwKsBE6QQ",
+   "given_title": "Mr. Cab Driver (Remastered) - YouTube",
+   "resolved_title": "Mr. Cab Driver (Remastered)",
+   "resolved_url": "http://www.youtube.com/watch?v=KEZwKsBE6QQ",
+   "time_updated": "2022-12-11T21:04:40Z",
+   "time_added": "2022-12-11T21:04:39Z"
   },
   {
-   "item_id": "3410854176",
-   "given_url": "https://www.vice.com/en/article/3b75v5/the-vice-guide-to-lisbon-2014-832",
-   "given_title": "The VICE Guide to Lisbon 2014",
-   "resolved_title": "The VICE Guide to Lisbon 2014",
-   "resolved_url": "https://www.vice.com/en/article/3b75v5/the-vice-guide-to-lisbon-2014-832",
-   "time_updated": "2022-12-07T09:51:29Z",
-   "time_added": "2022-12-07T09:51:29Z"
+   "item_id": "3764243805",
+   "given_url": "https://m.youtube.com/watch?v=IwEyob2jmXI",
+   "given_title": "Donkey Kong Country - YouTube",
+   "resolved_title": "Donkey Kong Country",
+   "resolved_url": "https://www.youtube.com/watch?v=IwEyob2jmXI",
+   "time_updated": "2022-12-11T23:57:56Z",
+   "time_added": "2022-12-11T23:57:54Z"
   }
  ]
 }

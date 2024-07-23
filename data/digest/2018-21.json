@@ -13,6 +13,15 @@
    "time_added": "2018-05-23T03:55:44+01:00"
   },
   {
+   "item_id": "2195646938",
+   "given_url": "https://github.com/trekhleb/javascript-algorithms",
+   "given_title": "trekhleb/javascript-algorithms: Algorithms and data structures implemented ",
+   "resolved_title": "trekhleb/javascript-algorithms",
+   "resolved_url": "https://github.com/trekhleb/javascript-algorithms",
+   "time_updated": "2018-05-24T00:36:27+01:00",
+   "time_added": "2018-05-24T00:36:27+01:00"
+  },
+  {
    "item_id": "313207506",
    "given_url": "http://openresty.org/download/agentzh-nginx-tutorials-en.html",
    "given_title": "agentzh's Nginx Tutorials (version 2016.07.21)",
@@ -29,15 +38,6 @@
    "resolved_url": "http://www.brightball.com/articles/reality-driven-development-fixing-project-management-in-software",
    "time_updated": "2018-05-26T18:29:29+01:00",
    "time_added": "2018-05-26T18:29:29+01:00"
-  },
-  {
-   "item_id": "2195646938",
-   "given_url": "https://github.com/trekhleb/javascript-algorithms",
-   "given_title": "trekhleb/javascript-algorithms: Algorithms and data structures implemented ",
-   "resolved_title": "trekhleb/javascript-algorithms",
-   "resolved_url": "https://github.com/trekhleb/javascript-algorithms",
-   "time_updated": "2018-05-24T00:36:27+01:00",
-   "time_added": "2018-05-24T00:36:27+01:00"
   },
   {
    "item_id": "2202881688",

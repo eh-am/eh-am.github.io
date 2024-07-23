@@ -4,15 +4,6 @@
  "sortKey": "2021-46",
  "items": [
   {
-   "item_id": "2557186649",
-   "given_url": "https://command-not-found.com/",
-   "given_title": "command-not-found.com",
-   "resolved_title": "command-not-found.com",
-   "resolved_url": "https://command-not-found.com/",
-   "time_updated": "2021-11-17T01:43:36Z",
-   "time_added": "2021-11-17T01:43:30Z"
-  },
-  {
    "item_id": "1174516439",
    "given_url": "https://counter-currents.com/2016/01/from-leon-degrelle-to-tintin/",
    "given_title": "Olivier Mathieu, \"From Léon Degrelle to Tintin: European Identity and Anti-",
@@ -22,13 +13,40 @@
    "time_added": "2021-11-15T00:43:33Z"
   },
   {
-   "item_id": "2912013653",
-   "given_url": "https://danluu.com/corp-eng-blogs/",
-   "given_title": "How (some) good corporate engineering blogs are written",
-   "resolved_title": "How (some) good corporate engineering blogs are written",
-   "resolved_url": "https://danluu.com/corp-eng-blogs/",
-   "time_updated": "2021-11-17T14:44:49Z",
-   "time_added": "2021-11-17T14:44:49Z"
+   "item_id": "3481106054",
+   "given_url": "https://en.wikipedia.org/wiki/EastEnders#Popularity_and_viewership",
+   "given_title": "EastEnders - Wikipedia",
+   "resolved_title": "EastEnders",
+   "resolved_url": "https://en.wikipedia.org/wiki/EastEnders",
+   "time_updated": "2021-11-15T00:43:56Z",
+   "time_added": "2021-11-15T00:43:56Z"
+  },
+  {
+   "item_id": "882759069",
+   "given_url": "http://danluu.com/dunning-kruger/",
+   "given_title": "Reading citations is easier than most people realize",
+   "resolved_title": "Reading citations is easier than most people think",
+   "resolved_url": "https://danluu.com/dunning-kruger/",
+   "time_updated": "2021-11-16T02:17:58Z",
+   "time_added": "2021-11-16T02:17:58Z"
+  },
+  {
+   "item_id": "3481916850",
+   "given_url": "https://danluu.com/people-matter/",
+   "given_title": "Individuals matter",
+   "resolved_title": "Individuals matter",
+   "resolved_url": "http://danluu.com/people-matter/",
+   "time_updated": "2021-11-16T19:32:51Z",
+   "time_added": "2021-11-16T19:32:44Z"
+  },
+  {
+   "item_id": "313848938",
+   "given_url": "https://en.m.wikipedia.org/wiki/Effective_altruism",
+   "given_title": "Effective altruism - Wikipedia",
+   "resolved_title": "Effective altruism",
+   "resolved_url": "https://en.wikipedia.org/wiki/Effective_altruism",
+   "time_updated": "2021-11-16T19:53:41Z",
+   "time_added": "2021-11-16T19:53:34Z"
   },
   {
    "item_id": "3482608160",
@@ -38,6 +56,51 @@
    "resolved_url": "https://www.uol.com.br/vivabem/noticias/redacao/2021/11/16/fungos-fantasticos-psicodelicos-estao-por-tras-da-evolucao-humana.htm",
    "time_updated": "2021-11-16T20:22:36Z",
    "time_added": "2021-11-16T20:22:36Z"
+  },
+  {
+   "item_id": "2557186649",
+   "given_url": "https://command-not-found.com/",
+   "given_title": "command-not-found.com",
+   "resolved_title": "command-not-found.com",
+   "resolved_url": "https://command-not-found.com/",
+   "time_updated": "2021-11-17T01:43:36Z",
+   "time_added": "2021-11-17T01:43:30Z"
+  },
+  {
+   "item_id": "2880680078",
+   "given_url": "https://flu.ke/",
+   "given_title": "Fluke - telefonia móvel",
+   "resolved_title": "",
+   "resolved_url": "https://flu.ke/",
+   "time_updated": "2021-11-17T01:43:43Z",
+   "time_added": "2021-11-17T01:43:37Z"
+  },
+  {
+   "item_id": "3482587587",
+   "given_url": "https://github.blog/2021-11-15-githubs-commitment-to-npm-ecosystem-security/#security-issues-related-to-the-npm-registry",
+   "given_title": "GitHub's commitment to npm ecosystem security | The GitHub Blog",
+   "resolved_title": "GitHub’s commitment to npm ecosystem security",
+   "resolved_url": "https://github.blog/2021-11-15-githubs-commitment-to-npm-ecosystem-security/",
+   "time_updated": "2021-11-17T01:43:49Z",
+   "time_added": "2021-11-17T01:43:44Z"
+  },
+  {
+   "item_id": "42990825",
+   "given_url": "https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/",
+   "given_title": "A Big Little Idea Called Legibility",
+   "resolved_title": "A Big Little Idea Called Legibility",
+   "resolved_url": "https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/",
+   "time_updated": "2021-11-17T01:59:28Z",
+   "time_added": "2021-11-17T01:59:28Z"
+  },
+  {
+   "item_id": "2912013653",
+   "given_url": "https://danluu.com/corp-eng-blogs/",
+   "given_title": "How (some) good corporate engineering blogs are written",
+   "resolved_title": "How (some) good corporate engineering blogs are written",
+   "resolved_url": "https://danluu.com/corp-eng-blogs/",
+   "time_updated": "2021-11-17T14:44:49Z",
+   "time_added": "2021-11-17T14:44:49Z"
   },
   {
    "item_id": "1212097347",
@@ -58,58 +121,31 @@
    "time_added": "2021-11-19T16:32:20Z"
   },
   {
-   "item_id": "882759069",
-   "given_url": "http://danluu.com/dunning-kruger/",
-   "given_title": "Reading citations is easier than most people realize",
-   "resolved_title": "Reading citations is easier than most people think",
-   "resolved_url": "https://danluu.com/dunning-kruger/",
-   "time_updated": "2021-11-16T02:17:58Z",
-   "time_added": "2021-11-16T02:17:58Z"
+   "item_id": "3484716745",
+   "given_url": "https://www.andrebarcinski.com.br/cinco-classicos-do-cinema-japones-para-ver-no-youtube/",
+   "given_title": "Cinco clássicos do cinema japonês para ver no Youtube – ANDRÉ BARCINSKI",
+   "resolved_title": "Login",
+   "resolved_url": "https://www.andrebarcinski.com.br/cinco-classicos-do-cinema-japones-para-ver-no-youtube/",
+   "time_updated": "2021-11-19T19:50:16Z",
+   "time_added": "2021-11-19T19:50:14Z"
   },
   {
-   "item_id": "2880680078",
-   "given_url": "https://flu.ke/",
-   "given_title": "Fluke - telefonia móvel",
-   "resolved_title": "",
-   "resolved_url": "https://flu.ke/",
-   "time_updated": "2021-11-17T01:43:43Z",
-   "time_added": "2021-11-17T01:43:37Z"
+   "item_id": "3040642713",
+   "given_url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
+   "given_title": "",
+   "resolved_title": "Design Docs at Google",
+   "resolved_url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
+   "time_updated": "2021-11-19T21:53:34Z",
+   "time_added": "2021-11-19T21:53:32Z"
   },
   {
-   "item_id": "42990825",
-   "given_url": "https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/",
-   "given_title": "A Big Little Idea Called Legibility",
-   "resolved_title": "A Big Little Idea Called Legibility",
-   "resolved_url": "https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/",
-   "time_updated": "2021-11-17T01:59:28Z",
-   "time_added": "2021-11-17T01:59:28Z"
-  },
-  {
-   "item_id": "3481106054",
-   "given_url": "https://en.wikipedia.org/wiki/EastEnders#Popularity_and_viewership",
-   "given_title": "EastEnders - Wikipedia",
-   "resolved_title": "EastEnders",
-   "resolved_url": "https://en.wikipedia.org/wiki/EastEnders",
-   "time_updated": "2021-11-15T00:43:56Z",
-   "time_added": "2021-11-15T00:43:56Z"
-  },
-  {
-   "item_id": "3482587587",
-   "given_url": "https://github.blog/2021-11-15-githubs-commitment-to-npm-ecosystem-security/#security-issues-related-to-the-npm-registry",
-   "given_title": "GitHub's commitment to npm ecosystem security | The GitHub Blog",
-   "resolved_title": "GitHub’s commitment to npm ecosystem security",
-   "resolved_url": "https://github.blog/2021-11-15-githubs-commitment-to-npm-ecosystem-security/",
-   "time_updated": "2021-11-17T01:43:49Z",
-   "time_added": "2021-11-17T01:43:44Z"
-  },
-  {
-   "item_id": "313848938",
-   "given_url": "https://en.m.wikipedia.org/wiki/Effective_altruism",
-   "given_title": "Effective altruism - Wikipedia",
-   "resolved_title": "Effective altruism",
-   "resolved_url": "https://en.wikipedia.org/wiki/Effective_altruism",
-   "time_updated": "2021-11-16T19:53:41Z",
-   "time_added": "2021-11-16T19:53:34Z"
+   "item_id": "3482511119",
+   "given_url": "https://increment.com/planning/planning-with-requests-for-comments/",
+   "given_title": "",
+   "resolved_title": "Planning for change with RFCs",
+   "resolved_url": "https://increment.com/planning/planning-with-requests-for-comments/",
+   "time_updated": "2021-11-19T22:20:52Z",
+   "time_added": "2021-11-19T22:20:51Z"
   },
   {
    "item_id": "1165852502",
@@ -128,42 +164,6 @@
    "resolved_url": "https://siderea.livejournal.com/1260265.html",
    "time_updated": "2021-11-20T15:55:57Z",
    "time_added": "2021-11-20T15:55:57Z"
-  },
-  {
-   "item_id": "3482511119",
-   "given_url": "https://increment.com/planning/planning-with-requests-for-comments/",
-   "given_title": "",
-   "resolved_title": "Planning for change with RFCs",
-   "resolved_url": "https://increment.com/planning/planning-with-requests-for-comments/",
-   "time_updated": "2021-11-19T22:20:52Z",
-   "time_added": "2021-11-19T22:20:51Z"
-  },
-  {
-   "item_id": "3040642713",
-   "given_url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
-   "given_title": "",
-   "resolved_title": "Design Docs at Google",
-   "resolved_url": "https://www.industrialempathy.com/posts/design-docs-at-google/",
-   "time_updated": "2021-11-19T21:53:34Z",
-   "time_added": "2021-11-19T21:53:32Z"
-  },
-  {
-   "item_id": "3484716745",
-   "given_url": "https://www.andrebarcinski.com.br/cinco-classicos-do-cinema-japones-para-ver-no-youtube/",
-   "given_title": "Cinco clássicos do cinema japonês para ver no Youtube – ANDRÉ BARCINSKI",
-   "resolved_title": "Login",
-   "resolved_url": "https://www.andrebarcinski.com.br/cinco-classicos-do-cinema-japones-para-ver-no-youtube/",
-   "time_updated": "2021-11-19T19:50:16Z",
-   "time_added": "2021-11-19T19:50:14Z"
-  },
-  {
-   "item_id": "3481916850",
-   "given_url": "https://danluu.com/people-matter/",
-   "given_title": "Individuals matter",
-   "resolved_title": "Individuals matter",
-   "resolved_url": "https://danluu.com/people-matter/",
-   "time_updated": "2021-11-16T19:32:51Z",
-   "time_added": "2021-11-16T19:32:44Z"
   }
  ]
 }

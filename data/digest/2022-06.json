@@ -4,40 +4,13 @@
  "sortKey": "2022-06",
  "items": [
   {
-   "item_id": "852476",
-   "given_url": "https://web.mit.edu/kerberos/www/dialogue.html",
-   "given_title": "Designing an Authentication System: a Dialogue in Four Scenes",
-   "resolved_title": "Designing an Authentication System: a Dialogue in Four Scenes",
-   "resolved_url": "https://web.mit.edu/kerberos/www/dialogue.html",
-   "time_updated": "2022-02-13T19:54:45Z",
-   "time_added": "2022-02-13T19:54:42Z"
-  },
-  {
-   "item_id": "12853757",
-   "given_url": "http://infinitesummer.org/archives/215",
-   "given_title": "Infinite Summer » Blog Archive",
-   "resolved_title": "How to Read Infinite Jest",
-   "resolved_url": "http://infinitesummer.org/archives/215",
-   "time_updated": "2022-02-13T17:59:57Z",
-   "time_added": "2022-02-13T17:59:54Z"
-  },
-  {
-   "item_id": "3430518305",
-   "given_url": "https://gist.github.com/joepie91/bca2fda868c1e8b2c2caf76af7dfcad3",
-   "given_title": "ES Modules are terrible, actually",
-   "resolved_title": "ES Modules are terrible, actually",
-   "resolved_url": "https://gist.github.com/joepie91/bca2fda868c1e8b2c2caf76af7dfcad3",
-   "time_updated": "2022-02-09T23:12:54Z",
-   "time_added": "2022-02-09T23:12:52Z"
-  },
-  {
-   "item_id": "2847830951",
-   "given_url": "https://www.dotconferences.com/2019/12/james-long-crdts-for-mortals",
-   "given_title": "CRDTs for Mortals - James Long at dotJS 2019",
-   "resolved_title": "CRDTs for Mortals",
-   "resolved_url": "https://www.dotconferences.com/2019/12/james-long-crdts-for-mortals",
-   "time_updated": "2022-02-13T21:16:55Z",
-   "time_added": "2022-02-13T21:16:55Z"
+   "item_id": "3547922687",
+   "given_url": "https://astralcodexten.substack.com/p/heuristics-that-almost-always-work",
+   "given_title": "Heuristics That Almost Always Work - by Scott Alexander",
+   "resolved_title": "Heuristics That Almost Always Work",
+   "resolved_url": "https://astralcodexten.substack.com/p/heuristics-that-almost-always-work",
+   "time_updated": "2022-02-08T22:13:59Z",
+   "time_added": "2022-02-08T22:13:56Z"
   },
   {
    "item_id": "3491536503",
@@ -49,13 +22,13 @@
    "time_added": "2022-02-09T10:33:52Z"
   },
   {
-   "item_id": "3551533828",
-   "given_url": "https://t.co/yeMTvhqXFl",
-   "given_title": "Geir Jordet on Twitter: \"A penalty kick is a team performance! For Chelsea'",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/geirjordet/status/1492785302112546819/photo/1",
-   "time_updated": "2022-02-13T14:35:40Z",
-   "time_added": "2022-02-13T14:35:36Z"
+   "item_id": "3430518305",
+   "given_url": "https://gist.github.com/joepie91/bca2fda868c1e8b2c2caf76af7dfcad3",
+   "given_title": "ES Modules are terrible, actually",
+   "resolved_title": "ES Modules are terrible, actually",
+   "resolved_url": "https://gist.github.com/joepie91/bca2fda868c1e8b2c2caf76af7dfcad3",
+   "time_updated": "2022-02-09T23:12:54Z",
+   "time_added": "2022-02-09T23:12:52Z"
   },
   {
    "item_id": "3548539890",
@@ -67,13 +40,40 @@
    "time_added": "2022-02-10T10:37:26Z"
   },
   {
-   "item_id": "3547922687",
-   "given_url": "https://astralcodexten.substack.com/p/heuristics-that-almost-always-work",
-   "given_title": "Heuristics That Almost Always Work - by Scott Alexander",
-   "resolved_title": "Heuristics That Almost Always Work",
-   "resolved_url": "https://astralcodexten.substack.com/p/heuristics-that-almost-always-work",
-   "time_updated": "2022-02-08T22:13:59Z",
-   "time_added": "2022-02-08T22:13:56Z"
+   "item_id": "3551533828",
+   "given_url": "https://t.co/yeMTvhqXFl",
+   "given_title": "Geir Jordet on Twitter: \"A penalty kick is a team performance! For Chelsea'",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/geirjordet/status/1492785302112546819/photo/1",
+   "time_updated": "2022-02-13T14:35:40Z",
+   "time_added": "2022-02-13T14:35:36Z"
+  },
+  {
+   "item_id": "12853757",
+   "given_url": "http://infinitesummer.org/archives/215",
+   "given_title": "Infinite Summer » Blog Archive",
+   "resolved_title": "How to Read Infinite Jest",
+   "resolved_url": "http://infinitesummer.org/archives/215",
+   "time_updated": "2022-02-13T17:59:57Z",
+   "time_added": "2022-02-13T17:59:54Z"
+  },
+  {
+   "item_id": "852476",
+   "given_url": "https://web.mit.edu/kerberos/www/dialogue.html",
+   "given_title": "Designing an Authentication System: a Dialogue in Four Scenes",
+   "resolved_title": "Designing an Authentication System: a Dialogue in Four Scenes",
+   "resolved_url": "https://web.mit.edu/kerberos/www/dialogue.html",
+   "time_updated": "2022-02-13T19:54:45Z",
+   "time_added": "2022-02-13T19:54:42Z"
+  },
+  {
+   "item_id": "2847830951",
+   "given_url": "https://www.dotconferences.com/2019/12/james-long-crdts-for-mortals",
+   "given_title": "CRDTs for Mortals - James Long at dotJS 2019",
+   "resolved_title": "CRDTs for Mortals",
+   "resolved_url": "https://www.dotconferences.com/2019/12/james-long-crdts-for-mortals",
+   "time_updated": "2022-02-13T21:16:55Z",
+   "time_added": "2022-02-13T21:16:55Z"
   }
  ]
 }

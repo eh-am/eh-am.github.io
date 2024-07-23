@@ -4,85 +4,13 @@
  "sortKey": "2022-05",
  "items": [
   {
-   "item_id": "245877323",
-   "given_url": "https://en.m.wikipedia.org/wiki/The_Little_Match_Girl",
-   "given_title": "The Little Match Girl - Wikipedia",
-   "resolved_title": "The Little Match Girl",
-   "resolved_url": "https://en.wikipedia.org/wiki/The_Little_Match_Girl",
-   "time_updated": "2022-02-06T15:04:11Z",
-   "time_added": "2022-02-06T15:04:09Z"
-  },
-  {
-   "item_id": "3540912945",
-   "given_url": "https://consilienceproject.org/how-to-mislead-with-facts/",
-   "given_title": "How to Mislead with Facts",
-   "resolved_title": "How to Mislead with Facts",
-   "resolved_url": "https://consilienceproject.org/how-to-mislead-with-facts/",
-   "time_updated": "2022-02-04T21:39:44Z",
-   "time_added": "2022-02-04T21:39:43Z"
-  },
-  {
-   "item_id": "3543367321",
-   "given_url": "https://m.youtube.com/watch?v=FYqJ5fwR4Ps",
-   "given_title": "BHAGAVAD GITA - Comentários filosóficos sobre o livro sagrado indiano - You",
-   "resolved_title": "BHAGAVAD GITA - Comentários filosóficos sobre o livro sagrado indiano",
-   "resolved_url": "http://www.youtube.com/watch?v=FYqJ5fwR4Ps",
-   "time_updated": "2022-02-03T01:12:42Z",
-   "time_added": "2022-02-03T01:12:38Z"
-  },
-  {
-   "item_id": "2525834180",
-   "given_url": "https://flatironschool.com/blog/ruby-and-the-japanese-language/",
-   "given_title": "Ruby and the Japanese Language | Flatiron School",
-   "resolved_title": "Ruby and the Japanese Language",
-   "resolved_url": "https://flatironschool.com/blog/ruby-and-the-japanese-language/",
-   "time_updated": "2022-02-05T00:12:31Z",
-   "time_added": "2022-02-05T00:12:29Z"
-  },
-  {
-   "item_id": "3540919199",
-   "given_url": "https://byteofdev.com/posts/static-site-generators/",
-   "given_title": "State of the Web: Static Site Generators",
-   "resolved_title": "State of the Web: Static Site Generators",
-   "resolved_url": "https://byteofdev.com/posts/static-site-generators/",
-   "time_updated": "2022-01-31T11:58:12Z",
-   "time_added": "2022-01-31T11:58:11Z"
-  },
-  {
-   "item_id": "1807085384",
-   "given_url": "https://physiqonomics.com/aspartame/",
-   "given_title": "Is Aspartame Dangerous? No, Here's why | Physiqonomics",
-   "resolved_title": "Is Aspartame Dangerous? No, Here's why",
-   "resolved_url": "https://physiqonomics.com/aspartame/",
-   "time_updated": "2022-02-06T22:56:42Z",
-   "time_added": "2022-02-06T22:56:40Z"
-  },
-  {
-   "item_id": "3546379352",
-   "given_url": "http://moyix.blogspot.com/2022/02/on-building-30k-debian-packages.html?m=1",
-   "given_title": "Push the Red Button: On Building 30K Debian Packages",
-   "resolved_title": "On Building 30K Debian Packages",
-   "resolved_url": "http://moyix.blogspot.com/2022/02/on-building-30k-debian-packages.html",
-   "time_updated": "2022-02-06T23:34:52Z",
-   "time_added": "2022-02-06T23:34:50Z"
-  },
-  {
-   "item_id": "78621989",
-   "given_url": "https://en.m.wikipedia.org/wiki/Troy",
-   "given_title": "Troy - Wikipedia",
-   "resolved_title": "Troy",
-   "resolved_url": "https://en.wikipedia.org/wiki/Troy",
-   "time_updated": "2022-02-03T01:24:06Z",
-   "time_added": "2022-02-03T01:24:04Z"
-  },
-  {
-   "item_id": "2590367347",
-   "given_url": "https://www.psychologytoday.com/us/blog/attraction-evolved/201612/how-testosterone-affects-what-men-find-attractive",
-   "given_title": "How Testosterone Affects What Men Find Attractive | Psychology Today",
-   "resolved_title": "",
-   "resolved_url": "https://www.psychologytoday.com/us/blog/attraction-evolved/201612/how-testosterone-affects-what-men-find-attractive",
-   "time_updated": "2022-02-03T22:33:49Z",
-   "time_added": "2022-02-03T22:33:47Z"
+   "item_id": "3540282073",
+   "given_url": "https://www.uol.com.br/esporte/colunas/milly-lacombe/2022/01/29/milly-documentario-da-netflix-coloca-neymar-em-seu-devido-lugar.htm",
+   "given_title": "Milly Lacombe: Documentário coloca Neymar em seu devido lugar",
+   "resolved_title": "Milly Lacombe",
+   "resolved_url": "https://www.uol.com.br/esporte/colunas/milly-lacombe/2022/01/29/milly-documentario-da-netflix-coloca-neymar-em-seu-devido-lugar.htm",
+   "time_updated": "2022-01-31T02:57:57Z",
+   "time_added": "2022-01-31T02:57:56Z"
   },
   {
    "item_id": "3540165853",
@@ -94,6 +22,78 @@
    "time_added": "2022-01-31T03:02:25Z"
   },
   {
+   "item_id": "3538443138",
+   "given_url": "https://www.science.org/content/article/why-is-harvard-astrophysicist-working-with-ufo-buffs",
+   "given_title": "Why is a Harvard astrophysicist working with UFO buffs? | Science | AAAS",
+   "resolved_title": "",
+   "resolved_url": "https://www.science.org/content/article/why-is-harvard-astrophysicist-working-with-ufo-buffs",
+   "time_updated": "2022-01-31T03:20:05Z",
+   "time_added": "2022-01-31T03:20:04Z"
+  },
+  {
+   "item_id": "3540919199",
+   "given_url": "https://byteofdev.com/posts/static-site-generators/",
+   "given_title": "State of the Web: Static Site Generators",
+   "resolved_title": "State of the Web: Static Site Generators",
+   "resolved_url": "https://byteofdev.com/posts/static-site-generators/",
+   "time_updated": "2022-01-31T11:58:12Z",
+   "time_added": "2022-01-31T11:58:11Z"
+  },
+  {
+   "item_id": "56408110",
+   "given_url": "https://feross.org/gcc-ownage/",
+   "given_title": "GCC Easter Egg: C   Undefined Defined Behavior » Feross.org",
+   "resolved_title": "GCC Easter Egg: C++ Undefined Defined Behavior",
+   "resolved_url": "https://feross.org/gcc-ownage/",
+   "time_updated": "2022-02-01T01:47:04Z",
+   "time_added": "2022-02-01T01:47:02Z"
+  },
+  {
+   "item_id": "3543367321",
+   "given_url": "https://m.youtube.com/watch?v=FYqJ5fwR4Ps",
+   "given_title": "BHAGAVAD GITA - Comentários filosóficos sobre o livro sagrado indiano - You",
+   "resolved_title": "BHAGAVAD GITA - Comentários filosóficos sobre o livro sagrado indiano com a Prof Lúcia Helena Galvão",
+   "resolved_url": "https://www.youtube.com/watch?v=FYqJ5fwR4Ps",
+   "time_updated": "2022-02-03T01:12:42Z",
+   "time_added": "2022-02-03T01:12:38Z"
+  },
+  {
+   "item_id": "78621989",
+   "given_url": "https://en.m.wikipedia.org/wiki/Troy",
+   "given_title": "Troy - Wikipedia",
+   "resolved_title": "Troy",
+   "resolved_url": "https://en.wikipedia.org/wiki/Troy",
+   "time_updated": "2022-02-03T01:24:06Z",
+   "time_added": "2022-02-03T01:24:04Z"
+  },
+  {
+   "item_id": "799561162",
+   "given_url": "https://www.romhacking.net/hacks/1386/",
+   "given_title": "Romhacking.net - Hacks - Final Fantasy VI - Ted Woolsey Uncensored Edition",
+   "resolved_title": "Final Fantasy VI - Ted Woolsey Uncensored Edition",
+   "resolved_url": "https://www.romhacking.net/hacks/1386/",
+   "time_updated": "2022-02-03T02:08:58Z",
+   "time_added": "2022-02-03T02:08:56Z"
+  },
+  {
+   "item_id": "3543851871",
+   "given_url": "http://www.farofeiros.com.br/contato/",
+   "given_title": "Quem Somos e Contato - Blog Farofeiros",
+   "resolved_title": "Quem Somos e Contato",
+   "resolved_url": "https://www.farofeiros.com.br/contato/",
+   "time_updated": "2022-02-03T15:45:02Z",
+   "time_added": "2022-02-03T15:44:56Z"
+  },
+  {
+   "item_id": "2590367347",
+   "given_url": "https://www.psychologytoday.com/us/blog/attraction-evolved/201612/how-testosterone-affects-what-men-find-attractive",
+   "given_title": "How Testosterone Affects What Men Find Attractive | Psychology Today",
+   "resolved_title": "",
+   "resolved_url": "https://www.psychologytoday.com/us/blog/attraction-evolved/201612/how-testosterone-affects-what-men-find-attractive",
+   "time_updated": "2022-02-03T22:33:49Z",
+   "time_added": "2022-02-03T22:33:47Z"
+  },
+  {
    "item_id": "3109209442",
    "given_url": "https://rm-rf.ca/posts/2020/when-not-to-write-kubernetes-operator/",
    "given_title": "When Not to Write a Kubernetes Operator :: rm-rf.ca",
@@ -103,40 +103,40 @@
    "time_added": "2022-02-04T00:27:18Z"
   },
   {
-   "item_id": "3546378972",
-   "given_url": "https://gist.github.com/moyix/95ca9a7a26a639b2322c36c7411dc3be",
-   "given_title": "Script to inject an exit(0) syscall into a running process. NB: only x86_64",
-   "resolved_title": "Script to inject an exit(0) syscall into a running process. NB: only x86_64 for now!",
-   "resolved_url": "https://gist.github.com/moyix/95ca9a7a26a639b2322c36c7411dc3be",
-   "time_updated": "2022-02-06T23:34:10Z",
-   "time_added": "2022-02-06T23:34:07Z"
+   "item_id": "3541621000",
+   "given_url": "https://twitter.com/electricalWSOP/status/1488245883594547201",
+   "given_title": "steve albini no Twitter: \"1/ There's an important thread of continuity over",
+   "resolved_title": "JavaScript is not available.",
+   "resolved_url": "https://twitter.com/electricalwsop/status/1488245883594547201",
+   "time_updated": "2022-02-04T19:26:18Z",
+   "time_added": "2022-02-04T19:26:18Z"
   },
   {
-   "item_id": "3471611717",
-   "given_url": "https://web.dev/smoothness/",
-   "given_title": "Towards an animation smoothness metric",
-   "resolved_title": "Towards an animation smoothness metric",
-   "resolved_url": "https://web.dev/smoothness/",
-   "time_updated": "2022-02-06T15:27:36Z",
-   "time_added": "2022-02-06T15:27:36Z"
+   "item_id": "3543036647",
+   "given_url": "https://erikhoel.substack.com/p/cgi-did-in-fact-ruin-movies",
+   "given_title": "CGI did, in fact, ruin movies - by Erik Hoel",
+   "resolved_title": "CGI did, in fact, ruin movies",
+   "resolved_url": "https://erikhoel.substack.com/p/cgi-did-in-fact-ruin-movies",
+   "time_updated": "2022-02-04T21:25:39Z",
+   "time_added": "2022-02-04T21:25:37Z"
   },
   {
-   "item_id": "3545462607",
-   "given_url": "https://guywaldman.com/blog/web-page-to-pdf",
-   "given_title": "Guy Waldman's blog | Generating a PDF from a web page",
-   "resolved_title": "Generating a PDF from a web page",
-   "resolved_url": "https://guywaldman.com/blog/web-page-to-pdf",
-   "time_updated": "2022-02-05T16:43:58Z",
-   "time_added": "2022-02-05T16:43:55Z"
+   "item_id": "3540912945",
+   "given_url": "https://consilienceproject.org/how-to-mislead-with-facts/",
+   "given_title": "How to Mislead with Facts",
+   "resolved_title": "How to Mislead with Facts",
+   "resolved_url": "https://consilienceproject.org/how-to-mislead-with-facts/",
+   "time_updated": "2022-02-04T21:39:44Z",
+   "time_added": "2022-02-04T21:39:43Z"
   },
   {
-   "item_id": "3053519300",
-   "given_url": "https://en.m.wikipedia.org/wiki/Suite_Punta_del_Este",
-   "given_title": "Suite Punta del Este - Wikipedia",
-   "resolved_title": "Suite Punta del Este",
-   "resolved_url": "https://en.wikipedia.org/wiki/Suite_Punta_del_Este",
-   "time_updated": "2022-02-06T02:29:34Z",
-   "time_added": "2022-02-06T02:29:32Z"
+   "item_id": "2525834180",
+   "given_url": "https://flatironschool.com/blog/ruby-and-the-japanese-language/",
+   "given_title": "Ruby and the Japanese Language | Flatiron School",
+   "resolved_title": "Ruby and the Japanese Language",
+   "resolved_url": "https://flatironschool.com/blog/ruby-and-the-japanese-language/",
+   "time_updated": "2022-02-05T00:12:31Z",
+   "time_added": "2022-02-05T00:12:29Z"
   },
   {
    "item_id": "3545032635",
@@ -157,58 +157,22 @@
    "time_added": "2022-02-05T14:53:20Z"
   },
   {
-   "item_id": "16933324",
-   "given_url": "https://en.m.wikipedia.org/wiki/Eternal_September",
-   "given_title": "Eternal September - Wikipedia",
-   "resolved_title": "Eternal September",
-   "resolved_url": "https://en.wikipedia.org/wiki/Eternal_September",
-   "time_updated": "2022-02-06T18:10:57Z",
-   "time_added": "2022-02-06T18:10:54Z"
+   "item_id": "3545462607",
+   "given_url": "https://guywaldman.com/blog/web-page-to-pdf",
+   "given_title": "Guy Waldman's blog | Generating a PDF from a web page",
+   "resolved_title": "Generating a PDF from a web page",
+   "resolved_url": "https://guywaldman.com/blog/web-page-to-pdf",
+   "time_updated": "2022-02-05T16:43:58Z",
+   "time_added": "2022-02-05T16:43:55Z"
   },
   {
-   "item_id": "3541621000",
-   "given_url": "https://twitter.com/electricalWSOP/status/1488245883594547201",
-   "given_title": "steve albini no Twitter: \"1/ There's an important thread of continuity over",
-   "resolved_title": "JavaScript is not available.",
-   "resolved_url": "https://twitter.com/electricalwsop/status/1488245883594547201",
-   "time_updated": "2022-02-04T19:26:18Z",
-   "time_added": "2022-02-04T19:26:18Z"
-  },
-  {
-   "item_id": "3543851871",
-   "given_url": "http://www.farofeiros.com.br/contato/",
-   "given_title": "Quem Somos e Contato - Blog Farofeiros",
-   "resolved_title": "Quem Somos e Contato",
-   "resolved_url": "https://www.farofeiros.com.br/contato/",
-   "time_updated": "2022-02-03T15:45:02Z",
-   "time_added": "2022-02-03T15:44:56Z"
-  },
-  {
-   "item_id": "3546030534",
-   "given_url": "https://jff.jpf.go.jp/watch/jffonline2022/brazil/",
-   "given_title": "Brazil – JFF ",
-   "resolved_title": "Brazil – JFF+",
-   "resolved_url": "https://jff.jpf.go.jp/watch/jffonline2022/brazil/",
-   "time_updated": "2022-02-06T12:52:16Z",
-   "time_added": "2022-02-06T12:52:09Z"
-  },
-  {
-   "item_id": "799561162",
-   "given_url": "https://www.romhacking.net/hacks/1386/",
-   "given_title": "Romhacking.net - Hacks - Final Fantasy VI - Ted Woolsey Uncensored Edition",
-   "resolved_title": "Final Fantasy VI - Ted Woolsey Uncensored Edition",
-   "resolved_url": "https://www.romhacking.net/hacks/1386/",
-   "time_updated": "2022-02-03T02:08:58Z",
-   "time_added": "2022-02-03T02:08:56Z"
-  },
-  {
-   "item_id": "3543036647",
-   "given_url": "https://erikhoel.substack.com/p/cgi-did-in-fact-ruin-movies",
-   "given_title": "CGI did, in fact, ruin movies - by Erik Hoel",
-   "resolved_title": "CGI did, in fact, ruin movies",
-   "resolved_url": "https://erikhoel.substack.com/p/cgi-did-in-fact-ruin-movies",
-   "time_updated": "2022-02-04T21:25:39Z",
-   "time_added": "2022-02-04T21:25:37Z"
+   "item_id": "3053519300",
+   "given_url": "https://en.m.wikipedia.org/wiki/Suite_Punta_del_Este",
+   "given_title": "Suite Punta del Este - Wikipedia",
+   "resolved_title": "Suite Punta del Este",
+   "resolved_url": "https://en.wikipedia.org/wiki/Suite_Punta_del_Este",
+   "time_updated": "2022-02-06T02:29:34Z",
+   "time_added": "2022-02-06T02:29:32Z"
   },
   {
    "item_id": "3545976980",
@@ -220,31 +184,67 @@
    "time_added": "2022-02-06T12:24:09Z"
   },
   {
-   "item_id": "3538443138",
-   "given_url": "https://www.science.org/content/article/why-is-harvard-astrophysicist-working-with-ufo-buffs",
-   "given_title": "Why is a Harvard astrophysicist working with UFO buffs? | Science | AAAS",
-   "resolved_title": "",
-   "resolved_url": "https://www.science.org/content/article/why-is-harvard-astrophysicist-working-with-ufo-buffs",
-   "time_updated": "2022-01-31T03:20:05Z",
-   "time_added": "2022-01-31T03:20:04Z"
+   "item_id": "3546030534",
+   "given_url": "https://jff.jpf.go.jp/watch/jffonline2022/brazil/",
+   "given_title": "Brazil – JFF ",
+   "resolved_title": "Brazil – JFF+",
+   "resolved_url": "https://jff.jpf.go.jp/watch/jffonline2022/brazil/",
+   "time_updated": "2022-02-06T12:52:16Z",
+   "time_added": "2022-02-06T12:52:09Z"
   },
   {
-   "item_id": "3540282073",
-   "given_url": "https://www.uol.com.br/esporte/colunas/milly-lacombe/2022/01/29/milly-documentario-da-netflix-coloca-neymar-em-seu-devido-lugar.htm",
-   "given_title": "Milly Lacombe: Documentário coloca Neymar em seu devido lugar",
-   "resolved_title": "Milly Lacombe",
-   "resolved_url": "https://www.uol.com.br/esporte/colunas/milly-lacombe/2022/01/29/milly-documentario-da-netflix-coloca-neymar-em-seu-devido-lugar.htm",
-   "time_updated": "2022-01-31T02:57:57Z",
-   "time_added": "2022-01-31T02:57:56Z"
+   "item_id": "245877323",
+   "given_url": "https://en.m.wikipedia.org/wiki/The_Little_Match_Girl",
+   "given_title": "The Little Match Girl - Wikipedia",
+   "resolved_title": "The Little Match Girl",
+   "resolved_url": "https://en.wikipedia.org/wiki/The_Little_Match_Girl",
+   "time_updated": "2022-02-06T15:04:11Z",
+   "time_added": "2022-02-06T15:04:09Z"
   },
   {
-   "item_id": "56408110",
-   "given_url": "https://feross.org/gcc-ownage/",
-   "given_title": "GCC Easter Egg: C   Undefined Defined Behavior » Feross.org",
-   "resolved_title": "GCC Easter Egg: C++ Undefined Defined Behavior",
-   "resolved_url": "https://feross.org/gcc-ownage/",
-   "time_updated": "2022-02-01T01:47:04Z",
-   "time_added": "2022-02-01T01:47:02Z"
+   "item_id": "3471611717",
+   "given_url": "https://web.dev/smoothness/",
+   "given_title": "Towards an animation smoothness metric",
+   "resolved_title": "Towards an animation smoothness metric",
+   "resolved_url": "https://web.dev/smoothness/",
+   "time_updated": "2022-02-06T15:27:36Z",
+   "time_added": "2022-02-06T15:27:36Z"
+  },
+  {
+   "item_id": "16933324",
+   "given_url": "https://en.m.wikipedia.org/wiki/Eternal_September",
+   "given_title": "Eternal September - Wikipedia",
+   "resolved_title": "Eternal September",
+   "resolved_url": "https://en.wikipedia.org/wiki/Eternal_September",
+   "time_updated": "2022-02-06T18:10:57Z",
+   "time_added": "2022-02-06T18:10:54Z"
+  },
+  {
+   "item_id": "1807085384",
+   "given_url": "https://physiqonomics.com/aspartame/",
+   "given_title": "Is Aspartame Dangerous? No, Here's why | Physiqonomics",
+   "resolved_title": "Is Aspartame Dangerous? No, Here's why",
+   "resolved_url": "https://physiqonomics.com/aspartame/",
+   "time_updated": "2022-02-06T22:56:42Z",
+   "time_added": "2022-02-06T22:56:40Z"
+  },
+  {
+   "item_id": "3546378972",
+   "given_url": "https://gist.github.com/moyix/95ca9a7a26a639b2322c36c7411dc3be",
+   "given_title": "Script to inject an exit(0) syscall into a running process. NB: only x86_64",
+   "resolved_title": "Script to inject an exit(0) syscall into a running process. NB: only x86_64 for now!",
+   "resolved_url": "https://gist.github.com/moyix/95ca9a7a26a639b2322c36c7411dc3be",
+   "time_updated": "2022-02-06T23:34:10Z",
+   "time_added": "2022-02-06T23:34:07Z"
+  },
+  {
+   "item_id": "3546379352",
+   "given_url": "http://moyix.blogspot.com/2022/02/on-building-30k-debian-packages.html?m=1",
+   "given_title": "Push the Red Button: On Building 30K Debian Packages",
+   "resolved_title": "On Building 30K Debian Packages",
+   "resolved_url": "http://moyix.blogspot.com/2022/02/on-building-30k-debian-packages.html",
+   "time_updated": "2022-02-06T23:34:52Z",
+   "time_added": "2022-02-06T23:34:50Z"
   }
  ]
 }

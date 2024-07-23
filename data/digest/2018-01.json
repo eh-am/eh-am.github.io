@@ -4,13 +4,13 @@
  "sortKey": "2018-01",
  "items": [
   {
-   "item_id": "1989707394",
-   "given_url": "https://motherboard.vice.com/en_us/article/gydydm/gal-gadot-fake-ai-porn",
-   "given_title": "AI-Assisted Fake Porn Is Here and We’re All Fucked - Motherboard",
-   "resolved_title": "AI-Assisted Fake Porn Is Here and We’re All Fucked",
-   "resolved_url": "https://motherboard.vice.com/en_us/article/gydydm/gal-gadot-fake-ai-porn",
-   "time_updated": "2018-01-04T22:45:34Z",
-   "time_added": "2018-01-04T22:45:35Z"
+   "item_id": "2014141574",
+   "given_url": "http://gbrasil.com/categoria/voce-tem-que-ler/detalhe/assedio-deve-a-obra-pagar-pelos-crimes-de-seu-autor",
+   "given_title": "GBrasil - Assédio: deve a obra pagar pelos crimes de seu autor?",
+   "resolved_title": "",
+   "resolved_url": "http://gbrasil.com/categoria/voce-tem-que-ler/detalhe/assedio-deve-a-obra-pagar-pelos-crimes-de-seu-autor",
+   "time_updated": "2018-01-04T16:43:46Z",
+   "time_added": "2018-01-04T16:43:46Z"
   },
   {
    "item_id": "1716298154",
@@ -22,24 +22,6 @@
    "time_added": "2018-01-04T17:57:17Z"
   },
   {
-   "item_id": "2017115798",
-   "given_url": "https://medium.com/@luiz_mazetto/os-discos-que-mudaram-a-vida-do-neurosis-melvins-e-eyehategod-dbc056cd3723",
-   "given_title": "Os discos que mudaram a vida do Neurosis, Melvins e Eyehategod",
-   "resolved_title": "Os discos que mudaram a vida do Neurosis, Melvins e Eyehategod",
-   "resolved_url": "https://medium.com/@luiz_mazetto/os-discos-que-mudaram-a-vida-do-neurosis-melvins-e-eyehategod-dbc056cd3723",
-   "time_updated": "2018-01-06T12:17:44Z",
-   "time_added": "2018-01-06T12:17:42Z"
-  },
-  {
-   "item_id": "2014141574",
-   "given_url": "http://gbrasil.com/categoria/voce-tem-que-ler/detalhe/assedio-deve-a-obra-pagar-pelos-crimes-de-seu-autor",
-   "given_title": "GBrasil - Assédio: deve a obra pagar pelos crimes de seu autor?",
-   "resolved_title": "",
-   "resolved_url": "http://gbrasil.com/categoria/voce-tem-que-ler/detalhe/assedio-deve-a-obra-pagar-pelos-crimes-de-seu-autor",
-   "time_updated": "2018-01-04T16:43:46Z",
-   "time_added": "2018-01-04T16:43:46Z"
-  },
-  {
    "item_id": "1457037307",
    "given_url": "https://news.ycombinator.com/item?id=12778836",
    "given_title": "Ask HN: What is your favorite internet rabbit hole? | Hacker News",
@@ -47,6 +29,24 @@
    "resolved_url": "https://news.ycombinator.com/item?id=12778836",
    "time_updated": "2018-01-04T20:49:16Z",
    "time_added": "2018-01-04T20:49:16Z"
+  },
+  {
+   "item_id": "1989707394",
+   "given_url": "https://motherboard.vice.com/en_us/article/gydydm/gal-gadot-fake-ai-porn",
+   "given_title": "AI-Assisted Fake Porn Is Here and We’re All Fucked - Motherboard",
+   "resolved_title": "AI-Assisted Fake Porn Is Here and We’re All Fucked",
+   "resolved_url": "https://motherboard.vice.com/en_us/article/gydydm/gal-gadot-fake-ai-porn",
+   "time_updated": "2018-01-04T22:45:34Z",
+   "time_added": "2018-01-04T22:45:35Z"
+  },
+  {
+   "item_id": "2017115798",
+   "given_url": "https://medium.com/@luiz_mazetto/os-discos-que-mudaram-a-vida-do-neurosis-melvins-e-eyehategod-dbc056cd3723",
+   "given_title": "Os discos que mudaram a vida do Neurosis, Melvins e Eyehategod",
+   "resolved_title": "Os discos que mudaram a vida do Neurosis, Melvins e Eyehategod",
+   "resolved_url": "https://medium.com/@luiz_mazetto/os-discos-que-mudaram-a-vida-do-neurosis-melvins-e-eyehategod-dbc056cd3723",
+   "time_updated": "2018-01-06T12:17:44Z",
+   "time_added": "2018-01-06T12:17:42Z"
   },
   {
    "item_id": "1044565753",

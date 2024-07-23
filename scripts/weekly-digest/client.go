@@ -51,8 +51,14 @@ func (p *Timestamp) UnmarshalJSON(bytes []byte) error {
 		return err
 	}
 
+	// Let's assume we are always in UTC, so that build machine and local match
+	utc, err := time.LoadLocation("UTC")
+	if err != nil {
+		return err
+	}
+
 	// 2. Parse the unix timestamp
-	p.Time = time.Unix(rawInt, 0)
+	p.Time = time.Unix(rawInt, 0).In(utc)
 	return nil
 }
 

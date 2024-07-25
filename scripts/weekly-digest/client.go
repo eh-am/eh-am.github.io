@@ -36,6 +36,7 @@ type Timestamp struct {
 }
 
 // UnmarshalJSON decodes an int64 timestamp into a time.Time object
+// It also supports RFC3339
 // https://stackoverflow.com/a/67017059
 func (p *Timestamp) UnmarshalJSON(bytes []byte) error {
 	// 1. Decode the bytes into an int64
@@ -47,8 +48,18 @@ func (p *Timestamp) UnmarshalJSON(bytes []byte) error {
 	}
 
 	rawInt, err := strconv.ParseInt(raw, 10, 64)
+
 	if err != nil {
-		return err
+		// We support RFC3339 too
+		if errors.Is(err, strconv.ErrSyntax) {
+			t, err := time.Parse(time.RFC3339, raw)
+			if err != nil {
+				return err
+			}
+
+			p.Time = t
+			return nil
+		}
 	}
 
 	// Let's assume we are always in UTC, so that build machine and local match

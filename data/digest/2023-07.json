@@ -4,6 +4,51 @@
  "sortKey": "2023-07",
  "items": [
   {
+   "item_id": "3573226846",
+   "given_url": "https://fresh.deno.dev/",
+   "given_title": "fresh - The next-gen web framework.",
+   "resolved_title": "The next-gen web framework.",
+   "resolved_url": "https://fresh.deno.dev/",
+   "time_updated": "2023-02-20T22:57:20Z",
+   "time_added": "2023-02-13T00:24:49Z"
+  },
+  {
+   "item_id": "110157434",
+   "given_url": "https://en.m.wikipedia.org/wiki/The_Market_for_Lemons",
+   "given_title": "The Market for Lemons - Wikipedia",
+   "resolved_title": "The Market for Lemons",
+   "resolved_url": "https://en.wikipedia.org/wiki/The_Market_for_Lemons",
+   "time_updated": "2023-02-20T22:57:20Z",
+   "time_added": "2023-02-13T17:47:17Z"
+  },
+  {
+   "item_id": "3721810629",
+   "given_url": "https://www.epicweb.dev/the-webs-next-transition",
+   "given_title": "The Web’s Next Transition | Epic Web Dev by Kent C. Dodds",
+   "resolved_title": "The Web’s Next Transition",
+   "resolved_url": "https://www.epicweb.dev/the-webs-next-transition",
+   "time_updated": "2023-02-20T22:57:20Z",
+   "time_added": "2023-02-13T18:29:06Z"
+  },
+  {
+   "item_id": "277827764",
+   "given_url": "https://mycelial.com/",
+   "given_title": "Mycelial - The Best Platform for Synchronized Apps | Mycelial",
+   "resolved_title": "Mycelial - Declarative Data Orchestration",
+   "resolved_url": "https://mycelial.com/",
+   "time_updated": "2023-02-20T22:57:21Z",
+   "time_added": "2023-02-13T18:44:06Z"
+  },
+  {
+   "item_id": "3806782682",
+   "given_url": "https://mobile.twitter.com/wongmjane/status/1625166863062958081",
+   "given_title": "Jane Manchun Wong no Twitter: \"This PR in React by @sebmarkbage is somethin",
+   "resolved_title": "Jane Manchun Wong",
+   "resolved_url": "https://mobile.twitter.com/wongmjane/status/1625166863062958081",
+   "time_updated": "2023-02-20T22:57:21Z",
+   "time_added": "2023-02-14T13:25:45Z"
+  },
+  {
    "item_id": "3806034584",
    "given_url": "https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md",
    "given_title": "core-js/2023-02-14-so-whats-next.md at master · zloirock/core-js · GitHub",
@@ -22,6 +67,15 @@
    "time_added": "2023-02-14T22:26:49Z"
   },
   {
+   "item_id": "3806782683",
+   "given_url": "https://m.youtube.com/watch?v=G0U509FSESE",
+   "given_title": "Living for Free in the Mountains of Japan? NEET Documentary (English Subs) ",
+   "resolved_title": "Living for Free in the Mountains of Japan? NEET Documentary (English Subs)",
+   "resolved_url": "http://www.youtube.com/watch?v=G0U509FSESE",
+   "time_updated": "2023-02-20T22:57:21Z",
+   "time_added": "2023-02-14T23:48:55Z"
+  },
+  {
    "item_id": "3805978450",
    "given_url": "https://twitter.com/mattpocockuk/status/1625173884885401600",
    "given_title": "Matt Pocock no Twitter: \"Let's talk about branded types. If I were building",
@@ -31,6 +85,15 @@
    "time_added": "2023-02-15T13:53:00Z"
   },
   {
+   "item_id": "3806969959",
+   "given_url": "https://mainichi.jp/english/articles/20230214/p2g/00m/0bu/043000c",
+   "given_title": "Shoichiro Toyoda, who turned Toyota into global automaker, dies at 97 - The",
+   "resolved_title": "Shoichiro Toyoda, who turned Toyota into global automaker, dies at 97",
+   "resolved_url": "https://mainichi.jp/english/articles/20230214/p2g/00m/0bu/043000c",
+   "time_updated": "2023-02-20T22:57:21Z",
+   "time_added": "2023-02-15T15:45:21Z"
+  },
+  {
    "item_id": "3807437273",
    "given_url": "https://twitter.com/thingskatedid/status/1625361407826087936",
    "given_title": "Kate no Twitter: \"i spent approximately two hours convincing chatgpt that w",
@@ -38,6 +101,15 @@
    "resolved_url": "https://twitter.com/thingskatedid/status/1625361407826087936",
    "time_updated": "2023-02-15T22:19:14Z",
    "time_added": "2023-02-15T22:19:13Z"
+  },
+  {
+   "item_id": "3807221407",
+   "given_url": "https://simonwillison.net/2023/Feb/15/bing/",
+   "given_title": "Bing: “I will not harm you unless you harm me first”",
+   "resolved_title": "Bing: “I will not harm you unless you harm me first”",
+   "resolved_url": "https://simonwillison.net/2023/Feb/15/bing/",
+   "time_updated": "2023-02-20T22:57:21Z",
+   "time_added": "2023-02-16T00:14:51Z"
   },
   {
    "item_id": "127358539",
@@ -67,6 +139,15 @@
    "time_added": "2023-02-16T11:21:27Z"
   },
   {
+   "item_id": "3810717720",
+   "given_url": "https://m.youtube.com/watch?v=Jk6_B5pibt8",
+   "given_title": "Nardwuar: A Misunderstood Superstar - YouTube",
+   "resolved_title": "Nardwuar: A Misunderstood Superstar",
+   "resolved_url": "https://www.youtube.com/watch?v=Jk6_B5pibt8",
+   "time_updated": "2023-02-20T22:57:23Z",
+   "time_added": "2023-02-16T15:13:05Z"
+  },
+  {
    "item_id": "3807975033",
    "given_url": "https://www.youtube.com/watch?v=HMpK2jBz_cQ",
    "given_title": "(4) TROTE / CLONE DO GERSON MENDONÇA - YouTube",
@@ -74,6 +155,15 @@
    "resolved_url": "https://www.youtube.com/watch?v=HMpK2jBz_cQ",
    "time_updated": "2023-02-16T17:13:56Z",
    "time_added": "2023-02-16T17:13:56Z"
+  },
+  {
+   "item_id": "3808370388",
+   "given_url": "https://abcnews.go.com/theview/video/star-trek-generation-cast-reunites-view-97263950",
+   "given_title": "Video ‘Star Trek: The Next Generation’ cast reunites on ‘The View’ - ABC Ne",
+   "resolved_title": "‘Star Trek: The Next Generation’ cast reunites on ‘The View’",
+   "resolved_url": "https://abcnews.go.com/theview/video/star-trek-generation-cast-reunites-view-97263950",
+   "time_updated": "2023-02-20T22:57:22Z",
+   "time_added": "2023-02-17T00:07:28Z"
   },
   {
    "item_id": "3808461575",
@@ -112,6 +202,51 @@
    "time_added": "2023-02-17T19:08:41Z"
   },
   {
+   "item_id": "3810717722",
+   "given_url": "https://mobile.twitter.com/TrungTPhan/status/1626641814748012545",
+   "given_title": "Trung Phan no Twitter: \"Went down a rabbit hole for cross-industry innovati",
+   "resolved_title": "Trung Phan",
+   "resolved_url": "https://mobile.twitter.com/TrungTPhan/status/1626641814748012545",
+   "time_updated": "2023-02-20T22:57:23Z",
+   "time_added": "2023-02-17T22:42:05Z"
+  },
+  {
+   "item_id": "3808055906",
+   "given_url": "https://www.slashfilm.com/1202270/bruce-campbell-prefers-the-original-army-of-darkness-ending/",
+   "given_title": "Bruce Campbell Prefers The Original Army Of Darkness Ending",
+   "resolved_title": "Bruce Campbell Prefers The Original Army Of Darkness Ending",
+   "resolved_url": "https://www.slashfilm.com/1202270/bruce-campbell-prefers-the-original-army-of-darkness-ending/",
+   "time_updated": "2023-02-20T22:57:22Z",
+   "time_added": "2023-02-18T00:18:35Z"
+  },
+  {
+   "item_id": "3802254053",
+   "given_url": "https://caseyaccidental.com/founder-intuition-team-expertise/",
+   "given_title": "Founder Intuition vs. Team Expertise vs. Customer Expertise | Casey Acciden",
+   "resolved_title": "Founder Intuition vs. Team Expertise vs. Customer Expertise",
+   "resolved_url": "https://caseyaccidental.com/founder-intuition-team-expertise/",
+   "time_updated": "2023-02-20T22:57:22Z",
+   "time_added": "2023-02-18T10:16:25Z"
+  },
+  {
+   "item_id": "3806723438",
+   "given_url": "https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/",
+   "given_title": "What Is ChatGPT Doing … and Why Does It Work?—Stephen Wolfram Writings",
+   "resolved_title": "What Is ChatGPT Doing … and Why Does It Work?",
+   "resolved_url": "https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/",
+   "time_updated": "2023-02-20T22:57:22Z",
+   "time_added": "2023-02-18T11:27:36Z"
+  },
+  {
+   "item_id": "3810717724",
+   "given_url": "https://mobile.twitter.com/scarletinked/status/1626348930270208001",
+   "given_title": "Dave Anderson no Twitter: \"12 simple lessons from my time at Amazon. Each o",
+   "resolved_title": "Dave Anderson",
+   "resolved_url": "https://mobile.twitter.com/scarletinked/status/1626348930270208001",
+   "time_updated": "2023-02-20T22:57:23Z",
+   "time_added": "2023-02-18T13:10:49Z"
+  },
+  {
    "item_id": "2605539818",
    "given_url": "https://www.polygon.com/2019/5/26/18636556/battle-royale-games-movie-book-koushun-takami-inspiration",
    "given_title": "How the Battle Royale novel inspired the battle royale Fortnite craze - Pol",
@@ -121,6 +256,33 @@
    "time_added": "2023-02-18T20:51:04Z"
   },
   {
+   "item_id": "2484982185",
+   "given_url": "http://www.sevangelatos.com/john-carmack-on/",
+   "given_title": "John Carmack on Functional Programming in C  ",
+   "resolved_title": "John Carmack on Functional Programming in C++",
+   "resolved_url": "http://www.sevangelatos.com/john-carmack-on/",
+   "time_updated": "2023-02-20T22:57:22Z",
+   "time_added": "2023-02-18T22:09:59Z"
+  },
+  {
+   "item_id": "3810717726",
+   "given_url": "https://mobile.twitter.com/mariserranoadv/status/1626543603248992256",
+   "given_title": "Tweet / Twitter",
+   "resolved_title": "Mari Serrano",
+   "resolved_url": "https://mobile.twitter.com/mariserranoadv/status/1626543603248992256",
+   "time_updated": "2023-02-20T22:57:23Z",
+   "time_added": "2023-02-19T09:26:22Z"
+  },
+  {
+   "item_id": "3809900777",
+   "given_url": "https://t.co/N11cg5eptY",
+   "given_title": "Patrick McKenzie no Twitter: \"This is a very memorable way to phrase how th",
+   "resolved_title": "Turniper",
+   "resolved_url": "https://twitter.com/venemousturnip/status/1626660457464356881",
+   "time_updated": "2023-02-20T22:57:22Z",
+   "time_added": "2023-02-19T12:39:03Z"
+  },
+  {
    "item_id": "3809798416",
    "given_url": "https://twitter.com/mitsuhiko/status/1626904109956694016",
    "given_title": "Armin Ronacher no Twitter: \"@jarshwah @getsentry People in the CIS countrie",
@@ -128,6 +290,15 @@
    "resolved_url": "https://twitter.com/mitsuhiko/status/1626904109956694016",
    "time_updated": "2023-02-19T14:27:17Z",
    "time_added": "2023-02-19T14:27:16Z"
+  },
+  {
+   "item_id": "3085293933",
+   "given_url": "https://w3.impa.br/~landim/lectures.html",
+   "given_title": "",
+   "resolved_title": "Lectures on Youtube",
+   "resolved_url": "https://w3.impa.br/~landim/lectures.html",
+   "time_updated": "2023-02-20T22:57:22Z",
+   "time_added": "2023-02-19T14:52:37Z"
   }
  ]
 }

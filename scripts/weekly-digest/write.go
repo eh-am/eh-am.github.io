@@ -41,8 +41,8 @@ func Write(dest string, groups map[string]GroupedItems) error {
 		if err != nil {
 			return err
 		}
-		// Read all into memory because honestly, these files are pretty small
 
+		fmt.Println("writing", filename)
 		err = ioutil.WriteFile(filename, file, 0644)
 		if err != nil {
 			return err

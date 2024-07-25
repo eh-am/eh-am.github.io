@@ -1,6 +1,7 @@
 package main
 
 import (
+	"flag"
 	"fmt"
 	"log"
 	"os"
@@ -11,11 +12,15 @@ import (
 )
 
 func main() {
+	outPtr := flag.String("out", "./output", "the output dir")
+	flag.Parse()
+
+	args := flag.Args()
 	var since time.Time
-	if os.Args[1] == "all" {
+	if args[0] == "all" {
 		since = time.Time{}
 	} else {
-		args := strings.Join(os.Args[1:], " ")
+		args := strings.Join(args, " ")
 		dt, err := dateparser.Parse(nil, args)
 		if err != nil {
 			log.Fatalf("unknown arg: '%s'", args)
@@ -23,7 +28,7 @@ func main() {
 		since = dt.Time
 	}
 
-	err := run(since)
+	err := run(since, *outPtr)
 	if err != nil {
 		log.Fatalf("err: %v", err)
 	}
@@ -43,7 +48,7 @@ func getAccess() (string, string) {
 	return consumerKey, accessKey
 }
 
-func run(from time.Time) error {
+func run(from time.Time, outDir string) error {
 	fmt.Println("running from", from)
 	url := "https://getpocket.com/v3/get"
 	consumerKey, accessToken := getAccess()
@@ -58,7 +63,7 @@ func run(from time.Time) error {
 	fmt.Printf("Found '%d' items\n", len(clientRes.List))
 
 	grouped := GroupByISOWeek(clientRes.List)
-	return Write("output", grouped)
+	return Write(outDir, grouped)
 }
 
 func findLastSunday(referenceDate time.Time) time.Time {

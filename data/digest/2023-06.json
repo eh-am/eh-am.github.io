@@ -400,6 +400,15 @@
    "time_added": "2023-02-11T17:19:37Z"
   },
   {
+   "item_id": "3773255687",
+   "given_url": "https://github.com/LAION-AI/Open-Assistant",
+   "given_title": "LAION-AI/Open-Assistant: OpenAssistant is a chat-based assistant that under",
+   "resolved_title": "LAION-AI/Open-Assistant",
+   "resolved_url": "https://github.com/LAION-AI/Open-Assistant",
+   "time_updated": "2023-02-20T22:57:20Z",
+   "time_added": "2023-02-11T17:21:36Z"
+  },
+  {
    "item_id": "2147903515",
    "given_url": "https://mathiasbynens.be/notes/javascript-unicode#other-grapheme-clusters",
    "given_title": "JavaScript has a Unicode problem · Mathias Bynens",
@@ -407,6 +416,15 @@
    "resolved_url": "https://mathiasbynens.be/notes/javascript-unicode#accounting-for-lookalikes",
    "time_updated": "2023-02-11T17:39:42Z",
    "time_added": "2023-02-11T17:39:42Z"
+  },
+  {
+   "item_id": "3799186479",
+   "given_url": "https://mattj.io/posts/2023-02-01-page-visibility-api/",
+   "given_title": "Quirks of the Page Visibility API | Matt Joseph",
+   "resolved_title": "Quirks of the Page Visibility API",
+   "resolved_url": "https://mattj.io/posts/2023-02-01-page-visibility-api/",
+   "time_updated": "2023-02-20T22:57:20Z",
+   "time_added": "2023-02-11T18:17:54Z"
   },
   {
    "item_id": "3799391572",
@@ -427,6 +445,51 @@
    "time_added": "2023-02-11T20:58:01Z"
   },
   {
+   "item_id": "2239988685",
+   "given_url": "https://en.m.wikipedia.org/wiki/Silurian_hypothesis",
+   "given_title": "Silurian hypothesis - Wikipedia",
+   "resolved_title": "Silurian hypothesis",
+   "resolved_url": "https://en.wikipedia.org/wiki/Silurian_hypothesis",
+   "time_updated": "2023-02-20T22:57:20Z",
+   "time_added": "2023-02-11T21:10:58Z"
+  },
+  {
+   "item_id": "3805102396",
+   "given_url": "https://en.m.wikipedia.org/wiki/Daimajin",
+   "given_title": "Daimajin - Wikipedia",
+   "resolved_title": "Daimajin",
+   "resolved_url": "https://en.wikipedia.org/wiki/Daimajin",
+   "time_updated": "2023-02-20T22:57:20Z",
+   "time_added": "2023-02-11T23:30:00Z"
+  },
+  {
+   "item_id": "3805102397",
+   "given_url": "https://m.youtube.com/watch?v=e2qcbh92IFo\u0026feature=youtu.be",
+   "given_title": "Adamastor | Mitos e Lendas - YouTube",
+   "resolved_title": "Adamastor | Mitos e Lendas",
+   "resolved_url": "http://www.youtube.com/watch?v=e2qcbh92IFo",
+   "time_updated": "2023-02-20T22:57:20Z",
+   "time_added": "2023-02-12T10:46:24Z"
+  },
+  {
+   "item_id": "3805227404",
+   "given_url": "https://mobile.twitter.com/hogrbe/status/1532254035306217477",
+   "given_title": "Frank Hoogerbeets no Twitter: \"From 1931 to 1975 four major earthquakes occ",
+   "resolved_title": "Frank Hoogerbeets",
+   "resolved_url": "https://mobile.twitter.com/hogrbe/status/1532254035306217477",
+   "time_updated": "2023-02-20T22:57:20Z",
+   "time_added": "2023-02-12T10:49:46Z"
+  },
+  {
+   "item_id": "3277747954",
+   "given_url": "https://aventurasnahistoria.uol.com.br/noticias/almanaque/curiosa-origem-da-palavra-restaurante.phtml",
+   "given_title": "A curiosa origem da palavra 'restaurante'",
+   "resolved_title": "A curiosa origem da palavra 'restaurante'",
+   "resolved_url": "https://aventurasnahistoria.uol.com.br/noticias/almanaque/curiosa-origem-da-palavra-restaurante.phtml",
+   "time_updated": "2023-02-20T22:57:20Z",
+   "time_added": "2023-02-12T15:35:32Z"
+  },
+  {
    "item_id": "3728442145",
    "given_url": "https://etimologia.com.br/restaurante/",
    "given_title": "Etimologia de Restaurante – Origem do Conceito",
@@ -434,6 +497,15 @@
    "resolved_url": "https://etimologia.com.br/restaurante/",
    "time_updated": "2023-02-12T17:47:14Z",
    "time_added": "2023-02-12T17:47:14Z"
+  },
+  {
+   "item_id": "3805410823",
+   "given_url": "https://matklad.github.io/2023/02/12/a-love-letter-to-deno.html",
+   "given_title": "",
+   "resolved_title": "\u003c3 Deno",
+   "resolved_url": "https://matklad.github.io/2023/02/12/a-love-letter-to-deno.html",
+   "time_updated": "2023-02-20T22:57:20Z",
+   "time_added": "2023-02-12T22:49:14Z"
   }
  ]
 }

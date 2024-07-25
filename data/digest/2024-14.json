@@ -182,6 +182,96 @@
    "resolved_url": "https://open.spotify.com/album/6RwJlqDiiZXlszNaLw5XLA",
    "time_updated": "2024-04-07T08:04:47Z",
    "time_added": "2024-04-07T08:04:45Z"
+  },
+  {
+   "item_id": "2634129450",
+   "given_url": "https://evaparish.com/blog/how-i-edit",
+   "given_title": "What I think about when I edit — Eva Parish",
+   "resolved_title": "What I think about when I edit",
+   "resolved_url": "https://evaparish.com/blog/how-i-edit",
+   "time_updated": "2024-04-08T19:20:10Z",
+   "time_added": "2024-04-07T08:07:13Z"
+  },
+  {
+   "item_id": "3945180704",
+   "given_url": "https://en.m.wikipedia.org/wiki/Bordalo_II",
+   "given_title": "Bordalo II - Wikipedia",
+   "resolved_title": "Bordalo II",
+   "resolved_url": "https://en.wikipedia.org/wiki/Bordalo_II",
+   "time_updated": "2024-04-08T19:20:11Z",
+   "time_added": "2024-04-07T08:15:59Z"
+  },
+  {
+   "item_id": "4033038009",
+   "given_url": "https://dahortaparaacozinha.com/home/2021/3/21/arroz-de-carqueja",
+   "given_title": "Arroz de Carqueja — Da Horta Para A Cozinha",
+   "resolved_title": "Arroz de Carqueja — Da Horta Para A Cozinha",
+   "resolved_url": "https://dahortaparaacozinha.com/home/2021/3/21/arroz-de-carqueja",
+   "time_updated": "2024-04-08T19:20:11Z",
+   "time_added": "2024-04-07T08:18:44Z"
+  },
+  {
+   "item_id": "90980968",
+   "given_url": "https://en.m.wikipedia.org/wiki/Geocaching",
+   "given_title": "Geocaching - Wikipedia",
+   "resolved_title": "Geocaching",
+   "resolved_url": "https://en.wikipedia.org/wiki/Geocaching",
+   "time_updated": "2024-04-08T19:20:11Z",
+   "time_added": "2024-04-07T08:23:36Z"
+  },
+  {
+   "item_id": "4033046912",
+   "given_url": "https://www.reddit.com/r/lisboa/comments/1binte8/onde_%C3%A9_que_um_gajo_ainda_pode_ir_aos_fados/",
+   "given_title": "Onde é que um gajo ainda pode ir aos fados? : r/lisboa",
+   "resolved_title": "Onde é que um gajo ainda pode ir aos fados?",
+   "resolved_url": "https://www.reddit.com/r/lisboa/comments/1binte8/onde_%C3%A9_que_um_gajo_ainda_pode_ir_aos_fados/",
+   "time_updated": "2024-04-08T19:20:11Z",
+   "time_added": "2024-04-07T08:53:25Z"
+  },
+  {
+   "item_id": "4032932685",
+   "given_url": "https://blacksmith.sh/blog/cache-is-king-a-guide-for-docker-layer-caching-in-github-actions",
+   "given_title": "Cache is King: A guide for Docker layer caching in GitHub Actions - Blacksm",
+   "resolved_title": "Cache is King: A guide for Docker layer caching in GitHub Actions",
+   "resolved_url": "https://blacksmith.sh/blog/cache-is-king-a-guide-for-docker-layer-caching-in-github-actions",
+   "time_updated": "2024-04-08T19:20:11Z",
+   "time_added": "2024-04-07T09:59:11Z"
+  },
+  {
+   "item_id": "4033694069",
+   "given_url": "https://www.mulherportuguesa.com/receita/farofias-receita-tradicional/?amp",
+   "given_title": "Farófias, a receita tradicional - Mulher Portuguesa",
+   "resolved_title": "",
+   "resolved_url": "https://www.mulherportuguesa.com/receita/farofias-receita-tradicional/?amp",
+   "time_updated": "2024-04-08T19:20:12Z",
+   "time_added": "2024-04-07T13:16:22Z"
+  },
+  {
+   "item_id": "1830945464",
+   "given_url": "https://en.m.wikipedia.org/wiki/He_%26_She",
+   "given_title": "He \u0026 She - Wikipedia",
+   "resolved_title": "He \u0026 She",
+   "resolved_url": "https://en.wikipedia.org/wiki/He_%26_She",
+   "time_updated": "2024-04-08T19:20:11Z",
+   "time_added": "2024-04-07T18:43:51Z"
+  },
+  {
+   "item_id": "4033694072",
+   "given_url": "https://rr.sapo.pt/noticia/economia/2023/03/29/sair-de-portugal-de-comboio-estamos-quase-no-seculo-xix-denuncia-zero/325481/",
+   "given_title": "Sair de Portugal de comboio. “Estamos quase no século XIX”, denuncia Zero -",
+   "resolved_title": "Sair de Portugal de comboio. “Estamos quase no século XIX”, denuncia Zero",
+   "resolved_url": "https://rr.sapo.pt/noticia/economia/2023/03/29/sair-de-portugal-de-comboio-estamos-quase-no-seculo-xix-denuncia-zero/325481/",
+   "time_updated": "2024-04-08T19:20:13Z",
+   "time_added": "2024-04-07T20:44:52Z"
+  },
+  {
+   "item_id": "4033694074",
+   "given_url": "https://archive.org/details/Historical-Jesus/L01.-Many-Faces-Of-Jesus.avi",
+   "given_title": "",
+   "resolved_title": "Historical Jesus by Bart D. Ehrman",
+   "resolved_url": "https://archive.org/details/Historical-Jesus",
+   "time_updated": "2024-04-08T19:20:14Z",
+   "time_added": "2024-04-07T23:49:39Z"
   }
  ]
 }

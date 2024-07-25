@@ -182,6 +182,15 @@
    "resolved_url": "https://www.uol.com.br/splash/colunas/flavia-guerra/2022/07/30/christiane-f-reestreia-apos-40-anos-e-continua-chocante-e-realista.htm",
    "time_updated": "2022-07-30T14:24:00Z",
    "time_added": "2022-07-30T14:23:58Z"
+  },
+  {
+   "item_id": "3672095654",
+   "given_url": "https://iximiuz.com/en/posts/kubernetes-vs-virtual-machines/",
+   "given_title": "How Kubernetes Reinvented Virtual Machines (in a good sense)",
+   "resolved_title": "How Kubernetes Reinvented Virtual Machines (in a good sense)",
+   "resolved_url": "https://iximiuz.com/en/posts/kubernetes-vs-virtual-machines/",
+   "time_updated": "2022-08-01T11:55:19Z",
+   "time_added": "2022-07-31T21:31:01Z"
   }
  ]
 }

@@ -290,6 +290,15 @@
    "resolved_url": "https://youtube.com/watch?v=Y2la199bPtk\u0026si=Ec_3q4a3wLHRpgwS",
    "time_updated": "2023-12-17T21:33:44Z",
    "time_added": "2023-12-17T21:33:43Z"
+  },
+  {
+   "item_id": "121060266",
+   "given_url": "https://en.m.wikipedia.org/wiki/Verlan",
+   "given_title": "Verlan - Wikipedia",
+   "resolved_title": "Verlan",
+   "resolved_url": "https://en.wikipedia.org/wiki/Verlan",
+   "time_updated": "2023-12-18T18:28:28Z",
+   "time_added": "2023-12-17T23:35:00Z"
   }
  ]
 }

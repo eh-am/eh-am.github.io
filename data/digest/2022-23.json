@@ -175,6 +175,15 @@
    "time_added": "2022-06-09T19:11:48Z"
   },
   {
+   "item_id": "3636577821",
+   "given_url": "https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/",
+   "given_title": "The collapse of complex software | Read the Tea Leaves",
+   "resolved_title": "The collapse of complex software",
+   "resolved_url": "https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/",
+   "time_updated": "2022-06-18T15:17:31Z",
+   "time_added": "2022-06-09T19:25:55Z"
+  },
+  {
    "item_id": "3636748796",
    "given_url": "https://github.com/npm/cli/pull/5000",
    "given_title": "feat: add npm query cmd by ruyadorno · Pull Request #5000 · npm/cli",
@@ -182,6 +191,24 @@
    "resolved_url": "https://github.com/npm/cli/pull/5000",
    "time_updated": "2022-06-09T20:29:48Z",
    "time_added": "2022-06-09T20:29:46Z"
+  },
+  {
+   "item_id": "3623017185",
+   "given_url": "https://developer.chrome.com/blog/paint-holding/",
+   "given_title": "Paint Holding - reducing the flash of white on same-origin navigations - Ch",
+   "resolved_title": "Paint Holding - reducing the flash of white on same-origin navigations",
+   "resolved_url": "https://developer.chrome.com/blog/paint-holding/",
+   "time_updated": "2022-06-18T15:17:31Z",
+   "time_added": "2022-06-09T21:51:05Z"
+  },
+  {
+   "item_id": "3636759312",
+   "given_url": "https://www.uol.com.br/vivabem/noticias/redacao/2022/06/09/intercambio-mudanca-de-pais-como-imigrar-sem-prejudicar-o-emocional.htm",
+   "given_title": "Intercâmbio, mudança de país: como cuidar do emocional ao ir morar fora? - ",
+   "resolved_title": "Intercâmbio, mudança de país: como imigrar sem prejudicar o emocional?",
+   "resolved_url": "https://www.uol.com.br/vivabem/noticias/redacao/2022/06/09/intercambio-mudanca-de-pais-como-imigrar-sem-prejudicar-o-emocional.htm",
+   "time_updated": "2022-06-18T15:17:31Z",
+   "time_added": "2022-06-09T22:37:24Z"
   },
   {
    "item_id": "3622969267",
@@ -229,6 +256,15 @@
    "time_added": "2022-06-10T00:30:08Z"
   },
   {
+   "item_id": "3632340496",
+   "given_url": "https://paperform.co/blog/toxic-productivity/",
+   "given_title": "Are You Suffering from Toxic Productivity?",
+   "resolved_title": "Are You Suffering from Toxic Productivity?",
+   "resolved_url": "https://paperform.co/blog/toxic-productivity/",
+   "time_updated": "2022-06-18T15:17:31Z",
+   "time_added": "2022-06-10T12:04:01Z"
+  },
+  {
    "item_id": "924793435",
    "given_url": "http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/",
    "given_title": "50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs",
@@ -236,6 +272,42 @@
    "resolved_url": "http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/",
    "time_updated": "2022-06-10T17:38:56Z",
    "time_added": "2022-06-10T17:38:56Z"
+  },
+  {
+   "item_id": "3631670382",
+   "given_url": "https://eng.uber.com/data-race-patterns-in-go/",
+   "given_title": "Data Race Patterns in Go",
+   "resolved_title": "Data Race Patterns in Go",
+   "resolved_url": "https://eng.uber.com/data-race-patterns-in-go/",
+   "time_updated": "2022-06-18T15:17:31Z",
+   "time_added": "2022-06-10T23:28:10Z"
+  },
+  {
+   "item_id": "431602092",
+   "given_url": "https://en.m.wikipedia.org/wiki/Ishikawa_Goemon",
+   "given_title": "Ishikawa Goemon - Wikipedia",
+   "resolved_title": "Ishikawa Goemon",
+   "resolved_url": "https://en.wikipedia.org/wiki/Ishikawa_Goemon",
+   "time_updated": "2022-06-18T15:17:31Z",
+   "time_added": "2022-06-11T01:00:41Z"
+  },
+  {
+   "item_id": "3638687696",
+   "given_url": "https://www.uol.com.br/esporte/reportagens-especiais/na-3-divisao-argel-quer-abrir-portas-aos-treinadores-brasileiros-em-portugal/#page8",
+   "given_title": "Argel quer abrir as portas para os treinadores brasileiros em Portugal",
+   "resolved_title": "Na contramão da nova ordem",
+   "resolved_url": "https://www.uol.com.br/esporte/reportagens-especiais/na-3-divisao-argel-quer-abrir-portas-aos-treinadores-brasileiros-em-portugal/",
+   "time_updated": "2022-06-18T15:17:32Z",
+   "time_added": "2022-06-12T11:41:21Z"
+  },
+  {
+   "item_id": "3638687697",
+   "given_url": "https://mobile.twitter.com/DeannaHoak/status/970129313415749632?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E970362597265391616%7Ctwgr%5E%7Ctwcon%5Es3_\u0026ref_url=https%3A%2F%2Fmetro.co.uk%2F2018%2F03%2F07%2Fmillennials-created-language-7368643%2F",
+   "given_title": "Deanna Hoak no Twitter: \"My master’s was in sociolinguistics, and I absolut",
+   "resolved_title": "Deanna Hoak",
+   "resolved_url": "https://mobile.twitter.com/deannahoak/status/970129313415749632",
+   "time_updated": "2022-06-18T15:17:32Z",
+   "time_added": "2022-06-12T15:49:55Z"
   },
   {
    "item_id": "3638111784",
@@ -254,6 +326,24 @@
    "resolved_url": "https://en.wikipedia.org/wiki/ELIZA_effect",
    "time_updated": "2022-06-12T16:41:26Z",
    "time_added": "2022-06-12T16:41:26Z"
+  },
+  {
+   "item_id": "3638172341",
+   "given_url": "https://cajundiscordian.medium.com/what-is-lamda-and-what-does-it-want-688632134489",
+   "given_title": "What is LaMDA and What Does it Want? | by Blake Lemoine | Jun, 2022 | Mediu",
+   "resolved_title": "What is LaMDA and What Does it Want?",
+   "resolved_url": "https://cajundiscordian.medium.com/what-is-lamda-and-what-does-it-want-688632134489",
+   "time_updated": "2022-06-18T15:17:32Z",
+   "time_added": "2022-06-12T17:38:42Z"
+  },
+  {
+   "item_id": "3638587747",
+   "given_url": "https://kk.org/thetechnium/what-everyone-knows/",
+   "given_title": "The Technium: What Everyone Knows",
+   "resolved_title": "What Everyone Knows",
+   "resolved_url": "https://kk.org/thetechnium/what-everyone-knows/",
+   "time_updated": "2022-06-18T15:17:32Z",
+   "time_added": "2022-06-12T19:58:43Z"
   }
  ]
 }

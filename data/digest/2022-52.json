@@ -229,6 +229,33 @@
    "time_added": "2022-12-29T23:00:17Z"
   },
   {
+   "item_id": "3776432017",
+   "given_url": "https://mobile.twitter.com/simas_luiz/status/1608759146299686913",
+   "given_title": "LUIZ ANTONIO SIMAS no Twitter: \"O ENIGMA DO 1000 Uma das histórias mais cur",
+   "resolved_title": "LUIZ ANTONIO SIMAS",
+   "resolved_url": "https://mobile.twitter.com/simas_luiz/status/1608759146299686913",
+   "time_updated": "2023-01-03T14:54:33Z",
+   "time_added": "2022-12-30T11:05:42Z"
+  },
+  {
+   "item_id": "3776432018",
+   "given_url": "https://m.youtube.com/watch?v=1taOri_LtVg",
+   "given_title": "3DS Games I Can't Live Without - YouTube",
+   "resolved_title": "3DS Games I Can't Live Without",
+   "resolved_url": "http://www.youtube.com/watch?v=1taOri_LtVg",
+   "time_updated": "2023-01-03T14:54:33Z",
+   "time_added": "2022-12-30T13:17:35Z"
+  },
+  {
+   "item_id": "42147721",
+   "given_url": "https://en.m.wikipedia.org/wiki/Barbary_pirates",
+   "given_title": "Barbary pirates - Wikipedia",
+   "resolved_title": "Barbary pirates",
+   "resolved_url": "https://en.wikipedia.org/wiki/Barbary_pirates",
+   "time_updated": "2023-01-03T14:54:33Z",
+   "time_added": "2022-12-30T13:23:11Z"
+  },
+  {
    "item_id": "3776529014",
    "given_url": "https://unix.stackexchange.com/questions/292137/tmux-script-to-launch-several-commands/292174#292174",
    "given_title": "scripting - tmux script to launch several commands - Unix \u0026 Linux Stack Exc",
@@ -245,6 +272,24 @@
    "resolved_url": "https://hashids.org/",
    "time_updated": "2022-12-30T16:53:40Z",
    "time_added": "2022-12-30T16:53:40Z"
+  },
+  {
+   "item_id": "3776764426",
+   "given_url": "https://m.youtube.com/watch?v=5V5t1JfxzRM\u0026feature=youtu.be",
+   "given_title": "Humidade - YouTube",
+   "resolved_title": "Humidade",
+   "resolved_url": "http://www.youtube.com/watch?v=5V5t1JfxzRM",
+   "time_updated": "2023-01-03T14:54:33Z",
+   "time_added": "2022-12-31T00:35:38Z"
+  },
+  {
+   "item_id": "3191895507",
+   "given_url": "https://clig.dev/#subcommands",
+   "given_title": "Command Line Interface Guidelines",
+   "resolved_title": "Command Line Interface Guidelines",
+   "resolved_url": "https://clig.dev/#subcommands",
+   "time_updated": "2023-01-03T14:54:33Z",
+   "time_added": "2022-12-31T13:28:21Z"
   },
   {
    "item_id": "3180149192",
@@ -274,6 +319,33 @@
    "time_added": "2022-12-31T20:30:00Z"
   },
   {
+   "item_id": "3776181465",
+   "given_url": "https://www.arte.tv/en/videos/107194-056-A/re-sold-out-lisbon/",
+   "given_title": "Re: Sold-Out Lisbon - Gentrification in Portugal - Watch the full documenta",
+   "resolved_title": "Gentrification in Portugal",
+   "resolved_url": "https://www.arte.tv/en/videos/107194-056-A/re-sold-out-lisbon/",
+   "time_updated": "2023-01-03T14:54:33Z",
+   "time_added": "2023-01-01T11:23:11Z"
+  },
+  {
+   "item_id": "3777635296",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Wingdings",
+   "given_title": "Wingdings – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Wingdings",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Wingdings",
+   "time_updated": "2023-01-03T14:54:33Z",
+   "time_added": "2023-01-01T12:29:58Z"
+  },
+  {
+   "item_id": "3777967484",
+   "given_url": "https://mobile.twitter.com/StorySlug/status/1608848688046305280",
+   "given_title": "Sean Kelly no Twitter: \"The other day I saw a meme saying that in Home Alon",
+   "resolved_title": "Sean Kelly",
+   "resolved_url": "https://mobile.twitter.com/storyslug/status/1608848688046305280",
+   "time_updated": "2023-01-03T14:54:33Z",
+   "time_added": "2023-01-01T13:57:14Z"
+  },
+  {
    "item_id": "3146982197",
    "given_url": "https://www.sicpers.info/2020/10/discipline-doesnt-scale/",
    "given_title": "Discipline doesn’t scale | Structure and Interpretation of Computer Program",
@@ -281,6 +353,15 @@
    "resolved_url": "https://www.sicpers.info/2020/10/discipline-doesnt-scale/",
    "time_updated": "2023-01-01T15:19:00Z",
    "time_added": "2023-01-01T15:19:00Z"
+  },
+  {
+   "item_id": "3777967485",
+   "given_url": "https://mobile.twitter.com/nntaleb/status/1609576801168228352?t=Nu91JOIxyFLn684vyYz3aQ\u0026s=19",
+   "given_title": "Nassim Nicholas Taleb no Twitter: \"If you don't get why, between 2019 and 2",
+   "resolved_title": "Nassim Nicholas Taleb",
+   "resolved_url": "https://mobile.twitter.com/nntaleb/status/1609576801168228352",
+   "time_updated": "2023-01-03T14:54:33Z",
+   "time_added": "2023-01-01T17:33:20Z"
   }
  ]
 }

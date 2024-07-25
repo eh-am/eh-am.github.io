@@ -227,6 +227,24 @@
    "resolved_url": "https://www.retro-exo.com/exodos_M.html",
    "time_updated": "2024-07-24T20:08:39Z",
    "time_added": "2024-07-24T20:08:38Z"
+  },
+  {
+   "item_id": "32962837",
+   "given_url": "https://www.milehighcomics.com/tales/main.html",
+   "given_title": "Tales From the Database - Mile High Comics, Chuck Rozanski",
+   "resolved_title": "Tales From the Database",
+   "resolved_url": "http://www.milehighcomics.com/tales/main.html",
+   "time_updated": "2024-07-25T10:24:50Z",
+   "time_added": "2024-07-25T10:24:50Z"
+  },
+  {
+   "item_id": "89845868",
+   "given_url": "http://www.rodsbooks.com/gdisk/whatsgpt.html",
+   "given_title": "What's a GPT?",
+   "resolved_title": "What's a GPT?",
+   "resolved_url": "http://www.rodsbooks.com/gdisk/whatsgpt.html",
+   "time_updated": "2024-07-25T10:32:10Z",
+   "time_added": "2024-07-25T10:32:10Z"
   }
  ]
 }

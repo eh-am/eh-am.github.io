@@ -4,15 +4,6 @@
  "sortKey": "2024-29",
  "items": [
   {
-   "item_id": "1546938555",
-   "given_url": "https://superuser.com/questions/987459/how-to-connect-to-a-3dss-smb-share-from-linux",
-   "given_title": "How to connect to a 3DS's SMB share from Linux? - Super User",
-   "resolved_title": "How to connect to a 3DS's SMB share from Linux?",
-   "resolved_url": "https://superuser.com/questions/987459/how-to-connect-to-a-3dss-smb-share-from-linux",
-   "time_updated": "2024-07-20T13:51:21Z",
-   "time_added": "2024-07-20T13:51:20Z"
-  },
-  {
    "item_id": "3998803607",
    "given_url": "https://www.jeffgeerling.com/blog/2024/mounting-ext4-linux-usb-drive-on-macos-2024",
    "given_title": "Mounting an ext4 linux USB drive on macOS in 2024 | Jeff Geerling",

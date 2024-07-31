@@ -65,6 +65,51 @@
    "resolved_url": "https://twitter.com/x/migrate?tok=7b2265223a222f6d626174656d616e2f7374617475732f31383137373636323938373336333337313337222c2274223a313732323232373633367d26162ec425224fe9ae0a2a46425fe5ab",
    "time_updated": "2024-07-30T12:21:23Z",
    "time_added": "2024-07-30T12:21:20Z"
+  },
+  {
+   "item_id": "4082884151",
+   "given_url": "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2024/07/30/plano-de-ia-de-lula-mira-supercomputador-mas-nao-fara-brasil-superar-eua.htm",
+   "given_title": "Inteligência artificial: plano de Lula mira supercomputador para top 5",
+   "resolved_title": "Plano de IA de Lula mira supercomputador, mas sem superar EUA e China",
+   "resolved_url": "https://www.uol.com.br/tilt/colunas/helton-simoes-gomes/2024/07/30/plano-de-ia-de-lula-mira-supercomputador-mas-nao-fara-brasil-superar-eua.htm",
+   "time_updated": "2024-07-30T14:07:36Z",
+   "time_added": "2024-07-30T14:07:35Z"
+  },
+  {
+   "item_id": "4082914920",
+   "given_url": "https://m.youtube.com/watch?v=BFgg-Gy0E2g",
+   "given_title": "Is GEN ALPHA SLANG just NONSENSE? - YouTube",
+   "resolved_title": "Is GEN ALPHA SLANG just NONSENSE?",
+   "resolved_url": "http://www.youtube.com/watch?v=BFgg-Gy0E2g",
+   "time_updated": "2024-07-30T15:32:48Z",
+   "time_added": "2024-07-30T15:32:44Z"
+  },
+  {
+   "item_id": "3514103745",
+   "given_url": "https://timdeschryver.dev/blog/using-msw-in-an-angular-project#jest-tests",
+   "given_title": "Using MSW (Mock Service Worker) in an Angular project",
+   "resolved_title": "Using MSW (Mock Service Worker) in an Angular project",
+   "resolved_url": "https://timdeschryver.dev/blog/using-msw-in-an-angular-project",
+   "time_updated": "2024-07-30T17:00:00Z",
+   "time_added": "2024-07-30T17:00:00Z"
+  },
+  {
+   "item_id": "4083023962",
+   "given_url": "https://sinalaberto.pt/lusitanos-o-estranho-povo-da-iberia/",
+   "given_title": "Lusitanos: o estranho povo da Ibéria – sinalAberto",
+   "resolved_title": "Lusitanos: o estranho povo da Ibéria",
+   "resolved_url": "https://sinalaberto.pt/lusitanos-o-estranho-povo-da-iberia/",
+   "time_updated": "2024-07-30T21:15:56Z",
+   "time_added": "2024-07-30T21:15:50Z"
+  },
+  {
+   "item_id": "46531047",
+   "given_url": "https://www.arqnet.pt/portal/discursos/maio01.html",
+   "given_title": "O Portal da História - Discurso do mês: Antero de Quental",
+   "resolved_title": "O Portal da História : Discurso do mês : Antero de Quental",
+   "resolved_url": "https://www.arqnet.pt/portal/discursos/maio01.html",
+   "time_updated": "2024-07-30T21:22:49Z",
+   "time_added": "2024-07-30T21:22:48Z"
   }
  ]
 }

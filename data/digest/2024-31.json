@@ -173,6 +173,24 @@
    "resolved_url": "http://terok-nor:8112/",
    "time_updated": "2024-08-01T21:11:17Z",
    "time_added": "2024-08-01T21:11:16Z"
+  },
+  {
+   "item_id": "80714753",
+   "given_url": "https://en.m.wikipedia.org/wiki/Barnum_effect",
+   "given_title": "Barnum effect - Wikipedia",
+   "resolved_title": "Barnum effect",
+   "resolved_url": "https://en.wikipedia.org/wiki/Barnum_effect",
+   "time_updated": "2024-08-02T08:17:32Z",
+   "time_added": "2024-08-02T08:17:31Z"
+  },
+  {
+   "item_id": "4084056148",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Pernilongo",
+   "given_title": "Pernilongo – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Pernilongo",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Pernilongo",
+   "time_updated": "2024-08-02T08:55:33Z",
+   "time_added": "2024-08-02T08:55:30Z"
   }
  ]
 }

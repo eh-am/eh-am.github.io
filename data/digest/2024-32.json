@@ -137,6 +137,33 @@
    "resolved_url": "https://chuck.is/news/",
    "time_updated": "2024-08-08T11:12:16Z",
    "time_added": "2024-08-08T11:12:14Z"
+  },
+  {
+   "item_id": "626148319",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Yuzu",
+   "given_title": "Yuzu – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Yuzu",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Yuzu",
+   "time_updated": "2024-08-08T19:40:46Z",
+   "time_added": "2024-08-08T19:40:45Z"
+  },
+  {
+   "item_id": "3515829813",
+   "given_url": "https://opentabletdriver.net/",
+   "given_title": "OpenTabletDriver",
+   "resolved_title": "OpenTabletDriver",
+   "resolved_url": "https://opentabletdriver.net/",
+   "time_updated": "2024-08-08T22:48:32Z",
+   "time_added": "2024-08-08T22:48:29Z"
+  },
+  {
+   "item_id": "4086833803",
+   "given_url": "https://m.youtube.com/watch?v=DB3I87A-3Qk",
+   "given_title": "? Dr. Slump (PlayStation) Complete Gameplay - YouTube",
+   "resolved_title": "🎮 Dr. Slump (PlayStation) Complete Gameplay",
+   "resolved_url": "http://www.youtube.com/watch?v=DB3I87A-3Qk",
+   "time_updated": "2024-08-08T23:10:39Z",
+   "time_added": "2024-08-08T23:10:37Z"
   }
  ]
 }

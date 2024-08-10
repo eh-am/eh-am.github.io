@@ -4,60 +4,6 @@
  "sortKey": "2024-31",
  "items": [
   {
-   "item_id": "4084140855",
-   "given_url": "https://dotesports.com/streaming/news/zombie-brand-amazon-reportedly-losing-hope-in-1-billion-buy-twitch-as-profits-slump",
-   "given_title": "'Zombie brand': Amazon reportedly losing hope in $1 billion buy Twitch as p",
-   "resolved_title": "‘Zombie brand’: Amazon reportedly losing hope in $1 billion buy Twitch as profits slump",
-   "resolved_url": "https://dotesports.com/streaming/news/zombie-brand-amazon-reportedly-losing-hope-in-1-billion-buy-twitch-as-profits-slump",
-   "time_updated": "2024-08-02T13:16:06Z",
-   "time_added": "2024-08-02T13:16:04Z"
-  },
-  {
-   "item_id": "4084173931",
-   "given_url": "https://www.youtube.com/watch?v=tBpnKTAc5Eo\u0026list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z\u0026index=2",
-   "given_title": "Beginner Blender 4.0 Tutorial - Part 2: Basic Modelling - YouTube",
-   "resolved_title": "Beginner Blender 4.0 Tutorial - Part 2: Basic Modelling",
-   "resolved_url": "https://www.youtube.com/watch?v=tBpnKTAc5Eo\u0026list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z\u0026index=2",
-   "time_updated": "2024-08-02T14:50:27Z",
-   "time_added": "2024-08-02T14:50:26Z"
-  },
-  {
-   "item_id": "4084222009",
-   "given_url": "http://www.cozinhaousada.com/2013/03/coracao-de-bananeira.html?m=1",
-   "given_title": "Cozinha Ousada: Coração de Bananeira",
-   "resolved_title": "Coração de Bananeira",
-   "resolved_url": "http://www.cozinhaousada.com/2013/03/coracao-de-bananeira.html",
-   "time_updated": "2024-08-02T17:00:50Z",
-   "time_added": "2024-08-02T17:00:47Z"
-  },
-  {
-   "item_id": "3353225713",
-   "given_url": "https://viagens.sapo.pt/viajar/viajar-portugal/artigos/salinas-do-samouco-um-santuario-de-natureza-as-portas-de-lisboa",
-   "given_title": "Salinas do Samouco: um santuário de natureza às portas de Lisboa - Portugal",
-   "resolved_title": "Salinas do Samouco: um santuário de natureza às portas de Lisboa",
-   "resolved_url": "https://viagens.sapo.pt/viajar/viajar-portugal/artigos/salinas-do-samouco-um-santuario-de-natureza-as-portas-de-lisboa",
-   "time_updated": "2024-08-02T17:30:17Z",
-   "time_added": "2024-08-02T17:30:16Z"
-  },
-  {
-   "item_id": "4084264706",
-   "given_url": "https://m.youtube.com/watch?v=e2jx7hWJMEA",
-   "given_title": "Top Ten Fencers in Fighting Games - YouTube",
-   "resolved_title": "Top Ten Fencers in Fighting Games",
-   "resolved_url": "http://www.youtube.com/watch?v=e2jx7hWJMEA",
-   "time_updated": "2024-08-02T19:21:11Z",
-   "time_added": "2024-08-02T19:21:07Z"
-  },
-  {
-   "item_id": "4084335498",
-   "given_url": "https://m.youtube.com/watch?v=9eAkr6Lhhsw",
-   "given_title": "The Dominion War Chronicles - YouTube",
-   "resolved_title": "The Dominion War Chronicles",
-   "resolved_url": "http://www.youtube.com/watch?v=9eAkr6Lhhsw",
-   "time_updated": "2024-08-02T23:40:34Z",
-   "time_added": "2024-08-02T23:40:30Z"
-  },
-  {
    "item_id": "565276849",
    "given_url": "https://pt.m.wikipedia.org/wiki/Futev%C3%B4lei",
    "given_title": "Futevôlei – Wikipédia, a enciclopédia livre",

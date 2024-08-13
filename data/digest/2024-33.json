@@ -47,6 +47,24 @@
    "resolved_url": "http://www.youtube.com/watch?v=3PfIMmZ_7NY",
    "time_updated": "2024-08-12T16:23:15Z",
    "time_added": "2024-08-12T16:23:12Z"
+  },
+  {
+   "item_id": "843357785",
+   "given_url": "https://en.m.wikipedia.org/wiki/Skyquake",
+   "given_title": "Skyquake - Wikipedia",
+   "resolved_title": "Skyquake",
+   "resolved_url": "https://en.wikipedia.org/wiki/Skyquake",
+   "time_updated": "2024-08-13T10:00:43Z",
+   "time_added": "2024-08-13T10:00:42Z"
+  },
+  {
+   "item_id": "67318862",
+   "given_url": "https://en.m.wikipedia.org/wiki/Lewis_and_Clark_Expedition",
+   "given_title": "Lewis and Clark Expedition - Wikipedia",
+   "resolved_title": "Lewis and Clark Expedition",
+   "resolved_url": "https://en.wikipedia.org/wiki/Lewis_and_Clark_Expedition",
+   "time_updated": "2024-08-13T10:00:57Z",
+   "time_added": "2024-08-13T10:00:57Z"
   }
  ]
 }

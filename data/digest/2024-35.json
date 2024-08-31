@@ -206,9 +206,36 @@
    "given_url": "https://www.bly.com/Pages/documents/STIKFS.html",
    "given_title": "Six Things I Know For Sure About Marketing To Engineers",
    "resolved_title": "Six Things I Know For Sure About Marketing To Engineers By Robert W. Bly",
-   "resolved_url": "http://www.bly.com/Pages/documents/STIKFS.html",
+   "resolved_url": "https://www.bly.com/Pages/documents/STIKFS.html",
    "time_updated": "2024-08-30T09:57:51Z",
    "time_added": "2024-08-30T09:57:49Z"
+  },
+  {
+   "item_id": "4096077320",
+   "given_url": "https://m.youtube.com/watch?v=HYB2qxt4Dkg",
+   "given_title": "Dj Ketchup ft Pedale King - Senta no Pula Pula (Afro) - YouTube",
+   "resolved_title": "Dj Ketchup ft Pedale King - Senta no Pula Pula (Afro)",
+   "resolved_url": "http://www.youtube.com/watch?v=HYB2qxt4Dkg",
+   "time_updated": "2024-08-30T12:32:33Z",
+   "time_added": "2024-08-30T12:32:30Z"
+  },
+  {
+   "item_id": "111567958",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Mani%C3%A7oba",
+   "given_title": "Maniçoba – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Maniçoba",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Mani%C3%A7oba",
+   "time_updated": "2024-08-30T20:31:18Z",
+   "time_added": "2024-08-30T20:31:16Z"
+  },
+  {
+   "item_id": "457758253",
+   "given_url": "https://www.cryptostorm.is/",
+   "given_title": "cryptostorm",
+   "resolved_title": "cryptostorm",
+   "resolved_url": "https://cryptostorm.is/",
+   "time_updated": "2024-08-30T23:49:36Z",
+   "time_added": "2024-08-30T23:49:34Z"
   }
  ]
 }

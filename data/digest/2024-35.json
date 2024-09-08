@@ -4,42 +4,6 @@
  "sortKey": "2024-35",
  "items": [
   {
-   "item_id": "53818842",
-   "given_url": "https://en.m.wikipedia.org/wiki/Druze",
-   "given_title": "Druze - Wikipedia",
-   "resolved_title": "Druze",
-   "resolved_url": "https://en.wikipedia.org/wiki/Druze",
-   "time_updated": "2024-09-01T08:48:25Z",
-   "time_added": "2024-09-01T08:48:24Z"
-  },
-  {
-   "item_id": "4096826166",
-   "given_url": "https://www1.folha.uol.com.br/poder/2024/08/boulos-muda-de-posicao-em-temas-como-aborto-drogas-e-venezuela.shtml",
-   "given_title": "Boulos recua em temas como aborto, drogas e Venezuela - 31/08/2024 - Poder ",
-   "resolved_title": "Boulos muda de posição em temas como aborto, drogas e Venezuela",
-   "resolved_url": "https://www1.folha.uol.com.br/poder/2024/08/boulos-muda-de-posicao-em-temas-como-aborto-drogas-e-venezuela.shtml",
-   "time_updated": "2024-09-01T09:01:48Z",
-   "time_added": "2024-09-01T09:01:47Z"
-  },
-  {
-   "item_id": "407565329",
-   "given_url": "https://en.m.wikipedia.org/wiki/Benjamin_of_Tudela",
-   "given_title": "Benjamin of Tudela - Wikipedia",
-   "resolved_title": "Benjamin of Tudela",
-   "resolved_url": "https://en.wikipedia.org/wiki/Benjamin_of_Tudela",
-   "time_updated": "2024-09-01T10:43:32Z",
-   "time_added": "2024-09-01T10:43:30Z"
-  },
-  {
-   "item_id": "4096971263",
-   "given_url": "https://en.m.wikipedia.org/wiki/The_Travels_of_Benjamin_III",
-   "given_title": "",
-   "resolved_title": "The Travels of Benjamin III",
-   "resolved_url": "https://en.wikipedia.org/wiki/The_Travels_of_Benjamin_III",
-   "time_updated": "2024-09-01T10:46:24Z",
-   "time_added": "2024-09-01T10:46:22Z"
-  },
-  {
    "item_id": "4096819213",
    "given_url": "https://blog.la-terminal.net/godot-on-ipad-summer-update/",
    "given_title": "Godot on iPad, Toolbars, Importers, Embedding, Debugger",

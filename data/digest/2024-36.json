@@ -207,7 +207,7 @@
    "given_title": "KFC Victoria Wilcher: Why Do So Many Pit Bulls Maul Children? | TIME",
    "resolved_title": "The Problem With Pit Bulls",
    "resolved_url": "https://time.com/2891180/kfc-and-the-pit-bull-attack-of-a-little-girl/",
-   "time_updated": "2024-09-08T07:09:01Z",
+   "time_updated": "2024-09-08T19:28:41Z",
    "time_added": "2024-09-08T07:00:35Z"
   },
   {
@@ -216,8 +216,35 @@
    "given_title": "Barack Obama tan suit controversy - Wikipedia",
    "resolved_title": "Barack Obama tan suit controversy",
    "resolved_url": "https://en.wikipedia.org/wiki/Barack_Obama_tan_suit_controversy",
-   "time_updated": "2024-09-08T07:09:01Z",
+   "time_updated": "2024-09-08T19:28:41Z",
    "time_added": "2024-09-08T07:09:00Z"
+  },
+  {
+   "item_id": "3589913971",
+   "given_url": "https://developer.chrome.com/blog/300ms-tap-delay-gone-away/",
+   "given_title": "300ms tap delay, gone away  |  Blog  |  Chrome for Developers",
+   "resolved_title": "300ms tap delay, gone away",
+   "resolved_url": "https://developer.chrome.com/blog/300ms-tap-delay-gone-away",
+   "time_updated": "2024-09-08T19:28:41Z",
+   "time_added": "2024-09-08T08:22:03Z"
+  },
+  {
+   "item_id": "3004414567",
+   "given_url": "https://www.doppler.com/",
+   "given_title": "Doppler | Centralized Cloud-Based Secrets Management Platform",
+   "resolved_title": "Centralized Secrets Management Without the Chaos",
+   "resolved_url": "https://www.doppler.com/",
+   "time_updated": "2024-09-08T19:28:41Z",
+   "time_added": "2024-09-08T19:05:01Z"
+  },
+  {
+   "item_id": "4099155890",
+   "given_url": "https://exercism.org/blog/september-2024-restructure",
+   "given_title": "2M users but no money in the bank. Tough times ?",
+   "resolved_title": "2M users but no money in the bank. Tough times 😔",
+   "resolved_url": "https://exercism.org/blog/september-2024-restructure",
+   "time_updated": "2024-09-08T19:28:41Z",
+   "time_added": "2024-09-08T19:28:40Z"
   }
  ]
 }

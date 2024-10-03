@@ -4,15 +4,6 @@
  "sortKey": "2024-39",
  "items": [
   {
-   "item_id": "116002337",
-   "given_url": "https://en.m.wikipedia.org/wiki/Irreducible_complexity",
-   "given_title": "Irreducible complexity - Wikipedia",
-   "resolved_title": "Irreducible complexity",
-   "resolved_url": "https://en.wikipedia.org/wiki/Irreducible_complexity",
-   "time_updated": "2024-09-25T22:48:26Z",
-   "time_added": "2024-09-25T22:48:24Z"
-  },
-  {
    "item_id": "4109809436",
    "given_url": "https://techcrunch.com/2024/09/25/wordpress-org-bans-wp-engine-blocks-it-from-accessing-its-resources/",
    "given_title": "WordPress.org bans WP Engine, blocks it from accessing its resources | Tech",

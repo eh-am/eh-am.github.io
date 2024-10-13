@@ -218,6 +218,24 @@
    "resolved_url": "https://cnnportugal.iol.pt/penha-de-franca/fernando-silva/triplo-homicidio-em-lisboa-atirador-ainda-disparou-para-matar-segundo-barbeiro/20241010/67082555d34e94b82906217e",
    "time_updated": "2024-10-11T17:27:27Z",
    "time_added": "2024-10-11T17:27:24Z"
+  },
+  {
+   "item_id": "4118404791",
+   "given_url": "https://www.nytimes.com/2024/10/11/realestate/1-million-homes-in-porto-portugal.html?unlocked_article_code=1.Rk4.mjxV.5qUyHqwdoUXQ\u0026smid=url-share",
+   "given_title": "$1 Million Homes in Porto, Portugal - The New York Times",
+   "resolved_title": "$1 Million Homes in Porto, Portugal",
+   "resolved_url": "https://www.nytimes.com/2024/10/11/realestate/1-million-homes-in-porto-portugal.html",
+   "time_updated": "2024-10-12T13:42:07Z",
+   "time_added": "2024-10-12T13:42:05Z"
+  },
+  {
+   "item_id": "4118502074",
+   "given_url": "https://jser.dev/react/2021/12/04/how-does-useLayoutEffect-work/",
+   "given_title": "How does useLayoutEffect() work internally?",
+   "resolved_title": "How does useLayoutEffect() work internally?",
+   "resolved_url": "https://jser.dev/react/2021/12/04/how-does-useLayoutEffect-work/",
+   "time_updated": "2024-10-12T17:15:33Z",
+   "time_added": "2024-10-12T17:15:32Z"
   }
  ]
 }

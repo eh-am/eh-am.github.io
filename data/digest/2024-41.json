@@ -4,15 +4,6 @@
  "sortKey": "2024-41",
  "items": [
   {
-   "item_id": "4116144747",
-   "given_url": "https://www.timeout.pt/lisboa/pt/noticias/seguranca-em-lisboa-o-cais-do-sodre-tornou-se-uma-bomba-relogio-100724",
-   "given_title": "Insegurança, tráfico, violência, abandono. Empresários pedem acção no Cais ",
-   "resolved_title": "Segurança em Lisboa: o Cais do Sodré tornou-se “uma bomba-relógio”",
-   "resolved_url": "https://www.timeout.pt/lisboa/pt/noticias/seguranca-em-lisboa-o-cais-do-sodre-tornou-se-uma-bomba-relogio-100724",
-   "time_updated": "2024-10-08T08:33:27Z",
-   "time_added": "2024-10-08T08:33:23Z"
-  },
-  {
    "item_id": "2272274327",
    "given_url": "https://www.intrepidtravel.com/adventures/how-to-avoid-delhi-belly-in-india/",
    "given_title": "Tips For Avoiding Delhi Belly | Intrepid Travel Blog - The Journal",
@@ -272,6 +263,15 @@
    "resolved_url": "https://www.rottentomatoes.com/m/naniwa_kinyudo_1",
    "time_updated": "2024-10-13T18:31:57Z",
    "time_added": "2024-10-13T18:31:54Z"
+  },
+  {
+   "item_id": "4119019963",
+   "given_url": "https://www.uol.com.br/esporte/futebol/colunas/juca-kfouri/2024/10/13/washington-olivetto-o-pele-da-publicidade-brasileira.htm",
+   "given_title": "Morre Washington Olivetto, o Pelé da publicidade brasileira",
+   "resolved_title": "Morre Washington Olivetto, o Pelé da publicidade brasileira",
+   "resolved_url": "https://www.uol.com.br/esporte/futebol/colunas/juca-kfouri/2024/10/13/washington-olivetto-o-pele-da-publicidade-brasileira.htm",
+   "time_updated": "2024-10-13T21:25:59Z",
+   "time_added": "2024-10-13T21:25:59Z"
   }
  ]
 }

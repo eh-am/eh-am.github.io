@@ -146,6 +146,33 @@
    "resolved_url": "https://lospec.com/palette-list",
    "time_updated": "2024-10-18T15:46:25Z",
    "time_added": "2024-10-18T15:46:23Z"
+  },
+  {
+   "item_id": "636954834",
+   "given_url": "https://en.m.wikipedia.org/wiki/Cantino_planisphere",
+   "given_title": "Cantino planisphere - Wikipedia",
+   "resolved_title": "Cantino planisphere",
+   "resolved_url": "https://en.wikipedia.org/wiki/Cantino_planisphere",
+   "time_updated": "2024-10-19T04:55:08Z",
+   "time_added": "2024-10-19T04:55:06Z"
+  },
+  {
+   "item_id": "283416089",
+   "given_url": "https://en.m.wikipedia.org/wiki/Supersessionism",
+   "given_title": "Supersessionism - Wikipedia",
+   "resolved_title": "Supersessionism",
+   "resolved_url": "https://en.wikipedia.org/wiki/Supersessionism",
+   "time_updated": "2024-10-19T11:57:58Z",
+   "time_added": "2024-10-19T11:57:57Z"
+  },
+  {
+   "item_id": "324798892",
+   "given_url": "https://en.m.wikipedia.org/wiki/Hellbender",
+   "given_title": "Hellbender - Wikipedia",
+   "resolved_title": "Hellbender",
+   "resolved_url": "https://en.wikipedia.org/wiki/Hellbender",
+   "time_updated": "2024-10-19T12:24:40Z",
+   "time_added": "2024-10-19T12:24:39Z"
   }
  ]
 }

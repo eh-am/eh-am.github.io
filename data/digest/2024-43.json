@@ -4,15 +4,6 @@
  "sortKey": "2024-43",
  "items": [
   {
-   "item_id": "3357070185",
-   "given_url": "https://m.imdb.com/title/tt0100928/",
-   "given_title": "White Hunter Black Heart (1990) - IMDb",
-   "resolved_title": "",
-   "resolved_url": "https://m.imdb.com/title/tt0100928/",
-   "time_updated": "2024-10-21T12:24:17Z",
-   "time_added": "2024-10-21T12:24:13Z"
-  },
-  {
    "item_id": "3997482720",
    "given_url": "https://news.ycombinator.com/item?id=39082633",
    "given_title": "Many many aeons ago when I was still working on the webkit SVG implementati",
@@ -263,6 +254,15 @@
    "resolved_url": "http://www.youtube.com/watch?v=dsI7ZwLnhTY",
    "time_updated": "2024-10-26T20:41:22Z",
    "time_added": "2024-10-26T20:41:20Z"
+  },
+  {
+   "item_id": "4125444219",
+   "given_url": "https://aventurasnahistoria.com.br/noticias/reportagem/fogueteira-do-maracana-como-farsa-de-rojas-quase-tirou-brasil-de-uma-copa-do-mundo.phtml",
+   "given_title": "A fogueteira do Maracanã: Como a farsa de Rojas quase tirou o Brasil de uma",
+   "resolved_title": "A fogueteira do Maracanã: Como a farsa de Rojas quase tirou o Brasil de uma Copa do Mundo",
+   "resolved_url": "https://aventurasnahistoria.com.br/noticias/reportagem/fogueteira-do-maracana-como-farsa-de-rojas-quase-tirou-brasil-de-uma-copa-do-mundo.phtml",
+   "time_updated": "2024-10-26T20:50:53Z",
+   "time_added": "2024-10-26T20:50:52Z"
   }
  ]
 }

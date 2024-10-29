@@ -4,15 +4,6 @@
  "sortKey": "2024-43",
  "items": [
   {
-   "item_id": "91339471",
-   "given_url": "https://en.m.wikipedia.org/wiki/Bhopal_disaster",
-   "given_title": "Bhopal disaster - Wikipedia",
-   "resolved_title": "Bhopal disaster",
-   "resolved_url": "https://en.wikipedia.org/wiki/Bhopal_disaster",
-   "time_updated": "2024-10-22T09:12:51Z",
-   "time_added": "2024-10-22T09:12:49Z"
-  },
-  {
    "item_id": "2668202897",
    "given_url": "https://pitchfork.com/reviews/albums/7781-has-been/",
    "given_title": "William Shatner: Has Been Album Review | Pitchfork",
@@ -263,6 +254,15 @@
    "resolved_url": "https://en.wikiquote.org/wiki/J%C3%B3n_P%C3%A1ll_Sigmarsson",
    "time_updated": "2024-10-27T15:53:03Z",
    "time_added": "2024-10-27T15:53:00Z"
+  },
+  {
+   "item_id": "4125791636",
+   "given_url": "https://fdossena.com/?p=html5cool/blend/i.frag",
+   "given_title": "CSS Blend Modes Explained - Federico Dossena",
+   "resolved_title": "CSS Blend Modes Explained",
+   "resolved_url": "https://fdossena.com/?p=html5cool/blend/i.frag",
+   "time_updated": "2024-10-27T17:16:40Z",
+   "time_added": "2024-10-27T17:16:38Z"
   }
  ]
 }

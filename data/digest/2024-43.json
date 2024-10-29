@@ -4,15 +4,6 @@
  "sortKey": "2024-43",
  "items": [
   {
-   "item_id": "3997482720",
-   "given_url": "https://news.ycombinator.com/item?id=39082633",
-   "given_title": "Many many aeons ago when I was still working on the webkit SVG implementati",
-   "resolved_title": "",
-   "resolved_url": "https://news.ycombinator.com/item?id=39082633",
-   "time_updated": "2024-10-21T14:26:55Z",
-   "time_added": "2024-10-21T14:26:54Z"
-  },
-  {
    "item_id": "91339471",
    "given_url": "https://en.m.wikipedia.org/wiki/Bhopal_disaster",
    "given_title": "Bhopal disaster - Wikipedia",
@@ -34,7 +25,7 @@
    "item_id": "1043906931",
    "given_url": "https://improvephotography.com/34591/photoshop-vs-lightroom/",
    "given_title": "Photoshop vs Lightroom - Improve Photography",
-   "resolved_title": "",
+   "resolved_title": "https://improvephotography.com/34591/photoshop-vs-lightroom/",
    "resolved_url": "http://improvephotography.com/34591/photoshop-vs-lightroom/",
    "time_updated": "2024-10-22T19:06:44Z",
    "time_added": "2024-10-22T19:06:38Z"
@@ -97,7 +88,7 @@
    "item_id": "4124302481",
    "given_url": "https://annas-archive.org/slow_download/1170a6e3d9301f2b8fa0f8da91703c6f/0/0",
    "given_title": "Download from partner website - Anna’s Archive",
-   "resolved_title": "",
+   "resolved_title": "https://annas-archive.org/slow_download/1170a6e3d9301f2b8fa0f8da91703c6f/0/0",
    "resolved_url": "https://annas-archive.org/slow_download/1170a6e3d9301f2b8fa0f8da91703c6f/0/0",
    "time_updated": "2024-10-24T13:37:22Z",
    "time_added": "2024-10-24T13:37:22Z"
@@ -196,7 +187,7 @@
    "item_id": "3180095046",
    "given_url": "https://www.truthchallenge.one/blog/2015/09/28/josephus-women-unacceptable-witnesses/",
    "given_title": "Josephus: Women unacceptable witnesses | Truth Challenge",
-   "resolved_title": "",
+   "resolved_title": "https://www.truthchallenge.one/blog/2015/09/28/josephus-women-unacceptable-witnesses/",
    "resolved_url": "https://www.truthchallenge.one/blog/2015/09/28/josephus-women-unacceptable-witnesses/",
    "time_updated": "2024-10-25T21:38:49Z",
    "time_added": "2024-10-25T21:38:49Z"
@@ -263,6 +254,15 @@
    "resolved_url": "https://aventurasnahistoria.com.br/noticias/reportagem/fogueteira-do-maracana-como-farsa-de-rojas-quase-tirou-brasil-de-uma-copa-do-mundo.phtml",
    "time_updated": "2024-10-26T20:50:53Z",
    "time_added": "2024-10-26T20:50:52Z"
+  },
+  {
+   "item_id": "4125763437",
+   "given_url": "https://en.m.wikiquote.org/wiki/J%C3%B3n_P%C3%A1ll_Sigmarsson",
+   "given_title": "Jón Páll Sigmarsson - Wikiquote",
+   "resolved_title": "Jón Páll Sigmarsson",
+   "resolved_url": "https://en.wikiquote.org/wiki/J%C3%B3n_P%C3%A1ll_Sigmarsson",
+   "time_updated": "2024-10-27T15:53:03Z",
+   "time_added": "2024-10-27T15:53:00Z"
   }
  ]
 }

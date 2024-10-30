@@ -4,51 +4,6 @@
  "sortKey": "2024-43",
  "items": [
   {
-   "item_id": "2668202897",
-   "given_url": "https://pitchfork.com/reviews/albums/7781-has-been/",
-   "given_title": "William Shatner: Has Been Album Review | Pitchfork",
-   "resolved_title": "Has Been",
-   "resolved_url": "https://pitchfork.com/reviews/albums/7781-has-been/",
-   "time_updated": "2024-10-22T19:06:43Z",
-   "time_added": "2024-10-22T10:53:11Z"
-  },
-  {
-   "item_id": "1043906931",
-   "given_url": "https://improvephotography.com/34591/photoshop-vs-lightroom/",
-   "given_title": "Photoshop vs Lightroom - Improve Photography",
-   "resolved_title": "https://improvephotography.com/34591/photoshop-vs-lightroom/",
-   "resolved_url": "http://improvephotography.com/34591/photoshop-vs-lightroom/",
-   "time_updated": "2024-10-22T19:06:44Z",
-   "time_added": "2024-10-22T19:06:38Z"
-  },
-  {
-   "item_id": "4123503558",
-   "given_url": "https://bible.oremus.org/?passage=Exodus%207:10%E2%80%9312\u0026version=nrsv",
-   "given_title": "oremus Bible Browser : Exodus 7:10–12",
-   "resolved_title": "Exodus 7:10–12",
-   "resolved_url": "https://bible.oremus.org/?passage=Exodus%207:10%E2%80%9312\u0026version=nrsv",
-   "time_updated": "2024-10-22T22:56:56Z",
-   "time_added": "2024-10-22T22:56:53Z"
-  },
-  {
-   "item_id": "591395724",
-   "given_url": "https://en.m.wikipedia.org/wiki/Staff_of_Moses",
-   "given_title": "Staff of Moses - Wikipedia",
-   "resolved_title": "Staff of Moses",
-   "resolved_url": "https://en.wikipedia.org/wiki/Staff_of_Moses",
-   "time_updated": "2024-10-22T22:57:04Z",
-   "time_added": "2024-10-22T22:57:02Z"
-  },
-  {
-   "item_id": "374130794",
-   "given_url": "https://www.gotquestions.org/Moses-promised-land.html",
-   "given_title": "Why was Moses not allowed to enter the Promised Land? | GotQuestions.org",
-   "resolved_title": "Why was Moses not allowed to enter the Promised Land?",
-   "resolved_url": "https://www.gotquestions.org/Moses-promised-land.html",
-   "time_updated": "2024-10-22T23:08:25Z",
-   "time_added": "2024-10-22T23:08:24Z"
-  },
-  {
    "item_id": "2925989837",
    "given_url": "https://oeco.org.br/reportagens/1889-oeco_21158/",
    "given_title": "Macaco na panela - ((o))eco",
@@ -263,6 +218,24 @@
    "resolved_url": "https://fdossena.com/?p=html5cool/blend/i.frag",
    "time_updated": "2024-10-27T17:16:40Z",
    "time_added": "2024-10-27T17:16:38Z"
+  },
+  {
+   "item_id": "3121275504",
+   "given_url": "https://projects.verou.me/css3patterns/",
+   "given_title": "CSS3 Patterns Gallery",
+   "resolved_title": "CSS3 Patterns Gallery",
+   "resolved_url": "https://projects.verou.me/css3patterns/",
+   "time_updated": "2024-10-27T17:47:24Z",
+   "time_added": "2024-10-27T17:47:24Z"
+  },
+  {
+   "item_id": "4125885106",
+   "given_url": "https://m.youtube.com/watch?v=UtJ7MpbKkzU",
+   "given_title": "The Indiana Jones game time forgot - YouTube",
+   "resolved_title": "The Indiana Jones game time forgot",
+   "resolved_url": "http://www.youtube.com/watch?v=UtJ7MpbKkzU",
+   "time_updated": "2024-10-27T22:05:44Z",
+   "time_added": "2024-10-27T22:05:39Z"
   }
  ]
 }

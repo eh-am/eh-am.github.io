@@ -38,6 +38,42 @@
    "resolved_url": "http://www.youtube.com/watch?v=mjycmKCQdw8",
    "time_updated": "2024-11-05T23:29:00Z",
    "time_added": "2024-11-05T23:28:56Z"
+  },
+  {
+   "item_id": "4130524446",
+   "given_url": "https://m.youtube.com/watch?v=oEZVwQptvWw",
+   "given_title": "William Shatner Sings To George Lucas - YouTube",
+   "resolved_title": "William Shatner Sings To George Lucas",
+   "resolved_url": "http://www.youtube.com/watch?v=oEZVwQptvWw",
+   "time_updated": "2024-11-06T14:31:49Z",
+   "time_added": "2024-11-06T14:31:46Z"
+  },
+  {
+   "item_id": "4130532075",
+   "given_url": "https://fflorestal.sp.gov.br/2019/12/parque-estadual-da-ilha-do-cardoso-e-destino-de-verde-e-mar-nas-ferias-de-verao/",
+   "given_title": "Fundação Florestal",
+   "resolved_title": "Parque Estadual da Ilha do Cardoso é destino de verde e mar nas férias de verão",
+   "resolved_url": "https://fflorestal.sp.gov.br/2019/12/parque-estadual-da-ilha-do-cardoso-e-destino-de-verde-e-mar-nas-ferias-de-verao/",
+   "time_updated": "2024-11-06T16:58:41Z",
+   "time_added": "2024-11-06T16:58:40Z"
+  },
+  {
+   "item_id": "4130640127",
+   "given_url": "https://ci.nii.ac.jp/ncid/BN06437302",
+   "given_title": "CiNii 図書 - ブラジル・サンパウロ州考古誌",
+   "resolved_title": "ブラジル・サンパウロ州考古誌",
+   "resolved_url": "https://ci.nii.ac.jp/ncid/BN06437302",
+   "time_updated": "2024-11-06T20:06:42Z",
+   "time_added": "2024-11-06T20:06:38Z"
+  },
+  {
+   "item_id": "4130687377",
+   "given_url": "https://revistapesquisa.fapesp.br/escavacoes-orientais/",
+   "given_title": "Escavações orientais : Revista Pesquisa Fapesp",
+   "resolved_title": "Escavações orientais",
+   "resolved_url": "https://revistapesquisa.fapesp.br/escavacoes-orientais/",
+   "time_updated": "2024-11-06T22:29:50Z",
+   "time_added": "2024-11-06T22:29:48Z"
   }
  ]
 }

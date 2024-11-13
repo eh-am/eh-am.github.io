@@ -4,42 +4,6 @@
  "sortKey": "2024-45",
  "items": [
   {
-   "item_id": "4130176684",
-   "given_url": "https://www.reddit.com/r/saopaulo/s/21XPLg4mw4",
-   "given_title": "",
-   "resolved_title": "Estão trocando todos os mapas por QR code",
-   "resolved_url": "https://www.reddit.com/r/saopaulo/comments/1gib73n/comment/lv4wvbo?share_id=8B4aPLiNmgVDAFeoxo_Yg\u0026utm_content=2\u0026utm_medium=android_app\u0026utm_name=androidcss\u0026utm_source=share\u0026utm_term=2",
-   "time_updated": "2024-11-05T19:34:59Z",
-   "time_added": "2024-11-03T22:23:40Z"
-  },
-  {
-   "item_id": "428987751",
-   "given_url": "https://en.m.wikipedia.org/wiki/Coin-operated-locker_babies",
-   "given_title": "Coin-operated-locker babies - Wikipedia",
-   "resolved_title": "Coin-operated-locker babies",
-   "resolved_url": "https://en.wikipedia.org/wiki/Coin-operated-locker_babies",
-   "time_updated": "2024-11-05T19:35:00Z",
-   "time_added": "2024-11-03T22:45:38Z"
-  },
-  {
-   "item_id": "4130176700",
-   "given_url": "https://pt.m.wikipedia.org/wiki/Ratazana-do-capim",
-   "given_title": "Ratazana-do-capim – Wikipédia, a enciclopédia livre",
-   "resolved_title": "Ratazana-do-capim",
-   "resolved_url": "https://pt.wikipedia.org/wiki/Ratazana-do-capim",
-   "time_updated": "2024-11-05T19:35:01Z",
-   "time_added": "2024-11-05T19:34:57Z"
-  },
-  {
-   "item_id": "2916201197",
-   "given_url": "https://m.youtube.com/watch?v=mjycmKCQdw8",
-   "given_title": "Exploring Galaxy of Terror - The 2 Million Dollar Alien Ripoff That Changed",
-   "resolved_title": "Exploring Galaxy of Terror - The 2 Million Dollar Alien Ripoff That Changed Cinematic History",
-   "resolved_url": "http://www.youtube.com/watch?v=mjycmKCQdw8",
-   "time_updated": "2024-11-05T23:29:00Z",
-   "time_added": "2024-11-05T23:28:56Z"
-  },
-  {
    "item_id": "4130524446",
    "given_url": "https://m.youtube.com/watch?v=oEZVwQptvWw",
    "given_title": "William Shatner Sings To George Lucas - YouTube",
@@ -272,6 +236,24 @@
    "resolved_url": "http://www.youtube.com/watch?v=yOWX9LVUt2w",
    "time_updated": "2024-11-08T23:52:04Z",
    "time_added": "2024-11-08T23:52:01Z"
+  },
+  {
+   "item_id": "4131685457",
+   "given_url": "https://inf.news/en/military/e70be0080e8899e88cf57d3047fc62cb.html",
+   "given_title": "The beginning and end of Japan's partition plan - iNEWS",
+   "resolved_title": "https://inf.news/en/military/e70be0080e8899e88cf57d3047fc62cb.html",
+   "resolved_url": "https://inf.news/en/military/e70be0080e8899e88cf57d3047fc62cb.html",
+   "time_updated": "2024-11-08T23:56:11Z",
+   "time_added": "2024-11-08T23:56:10Z"
+  },
+  {
+   "item_id": "392238297",
+   "given_url": "https://en.m.wikipedia.org/wiki/Supernormal_stimulus",
+   "given_title": "Supernormal stimulus - Wikipedia",
+   "resolved_title": "Supernormal stimulus",
+   "resolved_url": "https://en.wikipedia.org/wiki/Supernormal_stimulus",
+   "time_updated": "2024-11-09T09:41:54Z",
+   "time_added": "2024-11-09T09:41:53Z"
   }
  ]
 }

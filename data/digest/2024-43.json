@@ -4,238 +4,40 @@
  "sortKey": "2024-43",
  "items": [
   {
-   "item_id": "3357070185",
-   "given_url": "https://m.imdb.com/title/tt0100928/",
-   "given_title": "White Hunter Black Heart (1990) - IMDb",
-   "resolved_title": "",
-   "resolved_url": "https://m.imdb.com/title/tt0100928/",
-   "time_updated": "2024-10-21T12:24:17Z",
-   "time_added": "2024-10-21T12:24:13Z"
+   "item_id": "4125763437",
+   "given_url": "https://en.m.wikiquote.org/wiki/J%C3%B3n_P%C3%A1ll_Sigmarsson",
+   "given_title": "Jón Páll Sigmarsson - Wikiquote",
+   "resolved_title": "Jón Páll Sigmarsson",
+   "resolved_url": "https://en.wikiquote.org/wiki/J%C3%B3n_P%C3%A1ll_Sigmarsson",
+   "time_updated": "2024-10-27T15:53:03Z",
+   "time_added": "2024-10-27T15:53:00Z"
   },
   {
-   "item_id": "3997482720",
-   "given_url": "https://news.ycombinator.com/item?id=39082633",
-   "given_title": "Many many aeons ago when I was still working on the webkit SVG implementati",
-   "resolved_title": "",
-   "resolved_url": "https://news.ycombinator.com/item?id=39082633",
-   "time_updated": "2024-10-21T14:26:55Z",
-   "time_added": "2024-10-21T14:26:54Z"
+   "item_id": "4125791636",
+   "given_url": "https://fdossena.com/?p=html5cool/blend/i.frag",
+   "given_title": "CSS Blend Modes Explained - Federico Dossena",
+   "resolved_title": "CSS Blend Modes Explained",
+   "resolved_url": "https://fdossena.com/?p=html5cool/blend/i.frag",
+   "time_updated": "2024-10-27T17:16:40Z",
+   "time_added": "2024-10-27T17:16:38Z"
   },
   {
-   "item_id": "91339471",
-   "given_url": "https://en.m.wikipedia.org/wiki/Bhopal_disaster",
-   "given_title": "Bhopal disaster - Wikipedia",
-   "resolved_title": "Bhopal disaster",
-   "resolved_url": "https://en.wikipedia.org/wiki/Bhopal_disaster",
-   "time_updated": "2024-10-22T09:12:51Z",
-   "time_added": "2024-10-22T09:12:49Z"
+   "item_id": "3121275504",
+   "given_url": "https://projects.verou.me/css3patterns/",
+   "given_title": "CSS3 Patterns Gallery",
+   "resolved_title": "CSS3 Patterns Gallery",
+   "resolved_url": "https://projects.verou.me/css3patterns/",
+   "time_updated": "2024-10-27T17:47:24Z",
+   "time_added": "2024-10-27T17:47:24Z"
   },
   {
-   "item_id": "2668202897",
-   "given_url": "https://pitchfork.com/reviews/albums/7781-has-been/",
-   "given_title": "William Shatner: Has Been Album Review | Pitchfork",
-   "resolved_title": "Has Been",
-   "resolved_url": "https://pitchfork.com/reviews/albums/7781-has-been/",
-   "time_updated": "2024-10-22T19:06:43Z",
-   "time_added": "2024-10-22T10:53:11Z"
-  },
-  {
-   "item_id": "1043906931",
-   "given_url": "https://improvephotography.com/34591/photoshop-vs-lightroom/",
-   "given_title": "Photoshop vs Lightroom - Improve Photography",
-   "resolved_title": "",
-   "resolved_url": "http://improvephotography.com/34591/photoshop-vs-lightroom/",
-   "time_updated": "2024-10-22T19:06:44Z",
-   "time_added": "2024-10-22T19:06:38Z"
-  },
-  {
-   "item_id": "4123503558",
-   "given_url": "https://bible.oremus.org/?passage=Exodus%207:10%E2%80%9312\u0026version=nrsv",
-   "given_title": "oremus Bible Browser : Exodus 7:10–12",
-   "resolved_title": "Exodus 7:10–12",
-   "resolved_url": "https://bible.oremus.org/?passage=Exodus%207:10%E2%80%9312\u0026version=nrsv",
-   "time_updated": "2024-10-22T22:56:56Z",
-   "time_added": "2024-10-22T22:56:53Z"
-  },
-  {
-   "item_id": "591395724",
-   "given_url": "https://en.m.wikipedia.org/wiki/Staff_of_Moses",
-   "given_title": "Staff of Moses - Wikipedia",
-   "resolved_title": "Staff of Moses",
-   "resolved_url": "https://en.wikipedia.org/wiki/Staff_of_Moses",
-   "time_updated": "2024-10-22T22:57:04Z",
-   "time_added": "2024-10-22T22:57:02Z"
-  },
-  {
-   "item_id": "374130794",
-   "given_url": "https://www.gotquestions.org/Moses-promised-land.html",
-   "given_title": "Why was Moses not allowed to enter the Promised Land? | GotQuestions.org",
-   "resolved_title": "Why was Moses not allowed to enter the Promised Land?",
-   "resolved_url": "https://www.gotquestions.org/Moses-promised-land.html",
-   "time_updated": "2024-10-22T23:08:25Z",
-   "time_added": "2024-10-22T23:08:24Z"
-  },
-  {
-   "item_id": "2925989837",
-   "given_url": "https://oeco.org.br/reportagens/1889-oeco_21158/",
-   "given_title": "Macaco na panela - ((o))eco",
-   "resolved_title": "Macaco na panela",
-   "resolved_url": "https://oeco.org.br/reportagens/1889-oeco_21158/",
-   "time_updated": "2024-10-23T14:24:11Z",
-   "time_added": "2024-10-23T14:24:11Z"
-  },
-  {
-   "item_id": "4123838956",
-   "given_url": "https://www.youtube.com/watch?v=b4P7IO1qVlE",
-   "given_title": "Significados de NOMES nos ANIMES e TOKUSATSU ? | NihonGO - YouTube",
-   "resolved_title": "Significados de NOMES nos ANIMES e TOKUSATSU 🤔 | NihonGO",
-   "resolved_url": "https://www.youtube.com/watch?v=b4P7IO1qVlE",
-   "time_updated": "2024-10-23T15:09:04Z",
-   "time_added": "2024-10-23T15:09:04Z"
-  },
-  {
-   "item_id": "230377295",
-   "given_url": "https://en.m.wikipedia.org/wiki/David_Strauss",
-   "given_title": "David Strauss - Wikipedia",
-   "resolved_title": "David Strauss",
-   "resolved_url": "https://en.wikipedia.org/wiki/David_Strauss",
-   "time_updated": "2024-10-24T07:24:59Z",
-   "time_added": "2024-10-24T07:24:58Z"
-  },
-  {
-   "item_id": "4124302481",
-   "given_url": "https://annas-archive.org/slow_download/1170a6e3d9301f2b8fa0f8da91703c6f/0/0",
-   "given_title": "Download from partner website - Anna’s Archive",
-   "resolved_title": "",
-   "resolved_url": "https://annas-archive.org/slow_download/1170a6e3d9301f2b8fa0f8da91703c6f/0/0",
-   "time_updated": "2024-10-24T13:37:22Z",
-   "time_added": "2024-10-24T13:37:22Z"
-  },
-  {
-   "item_id": "4124309206",
-   "given_url": "https://www.reddit.com/r/brasil/s/6sWOLEDk50",
-   "given_title": "Qual o maior \"e se\" do Brasil?",
-   "resolved_title": "Qual o maior \"e se\" do Brasil?",
-   "resolved_url": "https://www.reddit.com/r/brasil/comments/1gb1o3h/comment/ltictah?share_id=JPfHpOuMW7cprRDpHtT50\u0026utm_content=2\u0026utm_medium=android_app\u0026utm_name=androidcss\u0026utm_source=share\u0026utm_term=2",
-   "time_updated": "2024-10-24T13:52:52Z",
-   "time_added": "2024-10-24T13:52:50Z"
-  },
-  {
-   "item_id": "4124434890",
-   "given_url": "https://www1.folha.uol.com.br/esporte/2024/10/morre-maguila-66-maior-boxeador-peso-pesado-do-brasil.shtml",
-   "given_title": "Morre Adilson Maguila, lutador de boxe, aos 66 anos - 24/10/2024 - Esporte ",
-   "resolved_title": "Morre Maguila, 66, maior boxeador peso-pesado do Brasil",
-   "resolved_url": "https://www1.folha.uol.com.br/esporte/2024/10/morre-maguila-66-maior-boxeador-peso-pesado-do-brasil.shtml",
-   "time_updated": "2024-10-24T19:58:17Z",
-   "time_added": "2024-10-24T19:58:16Z"
-  },
-  {
-   "item_id": "4124481988",
-   "given_url": "https://www.epicweb.dev/the-difference-between-clearing-resetting-and-restoring-mocks?ck_subscriber_id=363851350",
-   "given_title": "The Difference Between Clearing, Resetting, and Restoring Mocks | Epic Web ",
-   "resolved_title": "The Difference Between Clearing, Resetting, and Restoring Mocks",
-   "resolved_url": "https://www.epicweb.dev/the-difference-between-clearing-resetting-and-restoring-mocks?ck_subscriber_id=363851350",
-   "time_updated": "2024-10-24T20:54:56Z",
-   "time_added": "2024-10-24T20:54:55Z"
-  },
-  {
-   "item_id": "4124489332",
-   "given_url": "http://mayersononanimation.blogspot.com/2008/01/hanna-and-barbera.html?m=1",
-   "given_title": "Mayerson on Animation: Hanna and Barbera",
-   "resolved_title": "Hanna and Barbera",
-   "resolved_url": "http://mayersononanimation.blogspot.com/2008/01/hanna-and-barbera.html",
-   "time_updated": "2024-10-24T21:13:03Z",
-   "time_added": "2024-10-24T21:13:00Z"
-  },
-  {
-   "item_id": "4124509616",
-   "given_url": "https://www.youtube.com/watch?v=4Sq3CVopsPY\u0026t=453s",
-   "given_title": "The Ultimate Guide For How To Edit In Adobe Lightroom (End-To-End) - YouTub",
-   "resolved_title": "The Ultimate Guide For How To Edit In Adobe Lightroom (End-To-End)",
-   "resolved_url": "https://www.youtube.com/watch?v=4Sq3CVopsPY\u0026t=453s",
-   "time_updated": "2024-10-24T22:10:37Z",
-   "time_added": "2024-10-24T22:10:36Z"
-  },
-  {
-   "item_id": "4124804891",
-   "given_url": "http://www.michaelbarrier.com/Commentary/Hanna-Barbera%20Treasury/HBTreasury.html",
-   "given_title": "MichaelBarrier.com -- Commentary: The Hanna-Barbera Treasury",
-   "resolved_title": "The Hanna-Barbera Treasury",
-   "resolved_url": "http://www.michaelbarrier.com/Commentary/Hanna-Barbera%20Treasury/HBTreasury.html",
-   "time_updated": "2024-10-25T13:24:06Z",
-   "time_added": "2024-10-25T13:24:06Z"
-  },
-  {
-   "item_id": "849355627",
-   "given_url": "https://www.awn.com/animationworld/fred-seibert-interview-part-1",
-   "given_title": "The Fred Seibert Interview — Part 1",
-   "resolved_title": "The Fred Seibert Interview — Part 1",
-   "resolved_url": "https://www.awn.com/animationworld/fred-seibert-interview-part-1",
-   "time_updated": "2024-10-25T13:42:16Z",
-   "time_added": "2024-10-25T13:42:14Z"
-  },
-  {
-   "item_id": "3150820893",
-   "given_url": "https://www.awn.com/animationworld/fred-seibert-interview-part-2",
-   "given_title": "The Fred Seibert Interview — Part 2",
-   "resolved_title": "The Fred Seibert Interview — Part 2",
-   "resolved_url": "https://www.awn.com/animationworld/fred-seibert-interview-part-2",
-   "time_updated": "2024-10-25T13:45:45Z",
-   "time_added": "2024-10-25T13:45:44Z"
-  },
-  {
-   "item_id": "4109893572",
-   "given_url": "https://pt.christianitytoday.com/2023/04/ressurreicao-testemunho-mulheres-abuso-pascoa-evangelho-pt/",
-   "given_title": "Do túmulo vazio aos abusos de hoje: acredite nas mulheres - Christianity To",
-   "resolved_title": "Do túmulo vazio aos abusos de hoje: acredite nas mulheres",
-   "resolved_url": "https://pt.christianitytoday.com/2023/04/ressurreicao-testemunho-mulheres-abuso-pascoa-evangelho-pt/",
-   "time_updated": "2024-10-25T17:03:01Z",
-   "time_added": "2024-10-25T17:03:01Z"
-  },
-  {
-   "item_id": "4124947342",
-   "given_url": "https://youtube.com/watch?v=Q4514iSmwwc\u0026si=mJtCi0HHwyYVhFmG",
-   "given_title": "Advogado e cliente tentam enganar juiz e homem se esconde embaixo de mes...",
-   "resolved_title": "Advogado e cliente tentam enganar juiz e homem se esconde embaixo de mesa em audiência; veja vídeo",
-   "resolved_url": "https://youtube.com/watch?v=Q4514iSmwwc\u0026si=mJtCi0HHwyYVhFmG",
-   "time_updated": "2024-10-25T19:10:05Z",
-   "time_added": "2024-10-25T19:10:03Z"
-  },
-  {
-   "item_id": "3180095046",
-   "given_url": "https://www.truthchallenge.one/blog/2015/09/28/josephus-women-unacceptable-witnesses/",
-   "given_title": "Josephus: Women unacceptable witnesses | Truth Challenge",
-   "resolved_title": "",
-   "resolved_url": "https://www.truthchallenge.one/blog/2015/09/28/josephus-women-unacceptable-witnesses/",
-   "time_updated": "2024-10-25T21:38:49Z",
-   "time_added": "2024-10-25T21:38:49Z"
-  },
-  {
-   "item_id": "3250200450",
-   "given_url": "https://academic.kellogg.edu/marklinl/Bible/Assignments/Doublets.htm",
-   "given_title": "Doublets",
-   "resolved_title": "Doublets",
-   "resolved_url": "https://academic.kellogg.edu/marklinl/Bible/Assignments/Doublets.htm",
-   "time_updated": "2024-10-26T11:47:58Z",
-   "time_added": "2024-10-26T11:47:56Z"
-  },
-  {
-   "item_id": "113544590",
-   "given_url": "https://en.m.wikipedia.org/wiki/Doublet_(linguistics)",
-   "given_title": "Doublet (linguistics) - Wikipedia",
-   "resolved_title": "Doublet (linguistics)",
-   "resolved_url": "https://en.wikipedia.org/wiki/Doublet_(linguistics)",
-   "time_updated": "2024-10-26T12:01:02Z",
-   "time_added": "2024-10-26T12:01:00Z"
-  },
-  {
-   "item_id": "4125265187",
-   "given_url": "https://www.grammarly.com/blog/literary-devices/common-literary-devices/",
-   "given_title": "28 Common Literary Devices to Know | Grammarly",
-   "resolved_title": "28 Common Literary Devices to Know",
-   "resolved_url": "https://www.grammarly.com/blog/literary-devices/common-literary-devices/",
-   "time_updated": "2024-10-26T12:05:28Z",
-   "time_added": "2024-10-26T12:05:27Z"
+   "item_id": "4125885106",
+   "given_url": "https://m.youtube.com/watch?v=UtJ7MpbKkzU",
+   "given_title": "The Indiana Jones game time forgot - YouTube",
+   "resolved_title": "The Indiana Jones game time forgot",
+   "resolved_url": "http://www.youtube.com/watch?v=UtJ7MpbKkzU",
+   "time_updated": "2024-10-27T22:05:44Z",
+   "time_added": "2024-10-27T22:05:39Z"
   }
  ]
 }

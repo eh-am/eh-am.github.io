@@ -155,6 +155,42 @@
    "resolved_url": "https://pgsync.com/",
    "time_updated": "2024-11-21T17:05:04Z",
    "time_added": "2024-11-21T17:05:04Z"
+  },
+  {
+   "item_id": "4022035898",
+   "given_url": "https://estuary.dev/postgres-to-elasticsearch-streaming/",
+   "given_title": "3 Ways to Stream Data from Postgres to Elasticsearch | Estuary",
+   "resolved_title": "3 Ways to Stream Data from Postgres to Elasticsearch",
+   "resolved_url": "https://estuary.dev/postgres-to-elasticsearch-streaming",
+   "time_updated": "2024-11-21T17:17:35Z",
+   "time_added": "2024-11-21T17:17:35Z"
+  },
+  {
+   "item_id": "4137964174",
+   "given_url": "https://www.publico.pt/2005/05/14/jornal/mae-de-luis-fabiano-diz-que-renasceu-apos-61-dias-de-sequestro-20597",
+   "given_title": "Mãe de Luís Fabiano diz que renasceu após 61 dias de sequestro | PÚBLICO",
+   "resolved_title": "Mãe de Luís Fabiano diz que renasceu após 61 dias de sequestro",
+   "resolved_url": "https://www.publico.pt/2005/05/14/jornal/mae-de-luis-fabiano-diz-que-renasceu-apos-61-dias-de-sequestro-20597",
+   "time_updated": "2024-11-21T22:08:10Z",
+   "time_added": "2024-11-21T22:08:07Z"
+  },
+  {
+   "item_id": "4135115935",
+   "given_url": "https://abenezer.org/blog/hyrum-law-in-golang",
+   "given_title": "Hyrum's Law in Golang / Abenezer Belachew",
+   "resolved_title": "Hyrum's Law in Golang",
+   "resolved_url": "https://abenezer.org/blog/hyrum-law-in-golang",
+   "time_updated": "2024-11-22T21:46:48Z",
+   "time_added": "2024-11-22T13:08:11Z"
+  },
+  {
+   "item_id": "4138459649",
+   "given_url": "https://gamingtrend.com/feature/reviews/shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey-review-couldnt-wait-for-summer-to-end/",
+   "given_title": "Shin-chan: Me and the Professor on Summer Vacation - The Endless Seven-Day ",
+   "resolved_title": "Shin-chan: Me and the Professor on Summer Vacation – The Endless Seven-Day Journey – review — Couldn’t wait for summer to end",
+   "resolved_url": "https://gamingtrend.com/feature/reviews/shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey-review-couldnt-wait-for-summer-to-end/",
+   "time_updated": "2024-11-22T21:46:50Z",
+   "time_added": "2024-11-22T15:41:31Z"
   }
  ]
 }

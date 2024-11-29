@@ -4,42 +4,6 @@
  "sortKey": "2024-47",
  "items": [
   {
-   "item_id": "4136304506",
-   "given_url": "https://www.ualberta.ca/en/folio/2024/11/weight-loss-drug-found-to-shrink-heart-muscle.html",
-   "given_title": "Weight-loss drug found to shrink heart muscle in mice, human cells | Folio",
-   "resolved_title": "Weight-loss drug found to shrink heart muscle in mice, human cells",
-   "resolved_url": "https://www.ualberta.ca/en/folio/2024/11/weight-loss-drug-found-to-shrink-heart-muscle.html",
-   "time_updated": "2024-11-21T13:44:51Z",
-   "time_added": "2024-11-21T13:44:49Z"
-  },
-  {
-   "item_id": "2785604957",
-   "given_url": "https://pgsync.com/",
-   "given_title": "PGSync",
-   "resolved_title": "PGSync",
-   "resolved_url": "https://pgsync.com/",
-   "time_updated": "2024-11-21T17:05:04Z",
-   "time_added": "2024-11-21T17:05:04Z"
-  },
-  {
-   "item_id": "4022035898",
-   "given_url": "https://estuary.dev/postgres-to-elasticsearch-streaming/",
-   "given_title": "3 Ways to Stream Data from Postgres to Elasticsearch | Estuary",
-   "resolved_title": "3 Ways to Stream Data from Postgres to Elasticsearch",
-   "resolved_url": "https://estuary.dev/postgres-to-elasticsearch-streaming",
-   "time_updated": "2024-11-21T17:17:35Z",
-   "time_added": "2024-11-21T17:17:35Z"
-  },
-  {
-   "item_id": "4137964174",
-   "given_url": "https://www.publico.pt/2005/05/14/jornal/mae-de-luis-fabiano-diz-que-renasceu-apos-61-dias-de-sequestro-20597",
-   "given_title": "Mãe de Luís Fabiano diz que renasceu após 61 dias de sequestro | PÚBLICO",
-   "resolved_title": "Mãe de Luís Fabiano diz que renasceu após 61 dias de sequestro",
-   "resolved_url": "https://www.publico.pt/2005/05/14/jornal/mae-de-luis-fabiano-diz-que-renasceu-apos-61-dias-de-sequestro-20597",
-   "time_updated": "2024-11-21T22:08:10Z",
-   "time_added": "2024-11-21T22:08:07Z"
-  },
-  {
    "item_id": "4135115935",
    "given_url": "https://abenezer.org/blog/hyrum-law-in-golang",
    "given_title": "Hyrum's Law in Golang / Abenezer Belachew",

@@ -74,6 +74,24 @@
    "resolved_url": "https://en.wikipedia.org/wiki/Metal_Gear_Acid_2",
    "time_updated": "2024-12-26T00:53:28Z",
    "time_added": "2024-12-26T00:53:27Z"
+  },
+  {
+   "item_id": "4112455489",
+   "given_url": "https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/",
+   "given_title": "Rust needs a web framework for lazy developers | nicole@web",
+   "resolved_title": "Rust needs a web framework for lazy developers",
+   "resolved_url": "https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/",
+   "time_updated": "2024-12-27T00:01:27Z",
+   "time_added": "2024-12-27T00:01:27Z"
+  },
+  {
+   "item_id": "4107459919",
+   "given_url": "https://hermanradtke.com/why-your-rails-like-framework-is-not-widely-used/",
+   "given_title": "Why Your Rails-like Framework Is Not Widely Used",
+   "resolved_title": "Why Your Rails-like Framework Is Not Widely Used",
+   "resolved_url": "https://hermanradtke.com/why-your-rails-like-framework-is-not-widely-used/",
+   "time_updated": "2024-12-27T00:45:06Z",
+   "time_added": "2024-12-27T00:45:06Z"
   }
  ]
 }

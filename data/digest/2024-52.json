@@ -52,7 +52,7 @@
    "item_id": "4119194576",
    "given_url": "https://minds.md/zakirullin/cognitive",
    "given_title": "Cognitive load is what matters",
-   "resolved_title": "Cognitive load",
+   "resolved_title": "Cognitive load is what matters",
    "resolved_url": "https://minds.md/zakirullin/cognitive",
    "time_updated": "2024-12-25T18:33:31Z",
    "time_added": "2024-12-25T18:33:28Z"
@@ -119,6 +119,15 @@
    "resolved_url": "https://twitter.com/x/migrate?tok=7b2265223a222f57696c6c69616d4272796b2f7374617475732f31383731393436393638313438343339323630222c2274223a313733353232303632307d2fcc8747feae90e55dbd83879dc61efc",
    "time_updated": "2024-12-28T03:07:18Z",
    "time_added": "2024-12-28T03:07:13Z"
+  },
+  {
+   "item_id": "3499854511",
+   "given_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2019/08/15/sorocaba-completa-365-anos-com-personagens-e-fatos-peculiares.ghtml",
+   "given_title": "Sorocaba completa 365 anos com personagens e fatos peculiares | Sorocaba e ",
+   "resolved_title": "Sorocaba completa 365 anos com personagens e fatos peculiares",
+   "resolved_url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2019/08/15/sorocaba-completa-365-anos-com-personagens-e-fatos-peculiares.ghtml",
+   "time_updated": "2024-12-28T22:47:28Z",
+   "time_added": "2024-12-28T22:47:26Z"
   }
  ]
 }

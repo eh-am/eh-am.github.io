@@ -1,0 +1,34 @@
+{
+ "year": "2025",
+ "week": "1",
+ "sortKey": "2025-01",
+ "items": [
+  {
+   "item_id": "4158471063",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Houttuynia_cordata",
+   "given_title": "Houttuynia cordata – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Houttuynia cordata",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Houttuynia_cordata",
+   "time_updated": "2025-01-04T13:41:26Z",
+   "time_added": "2024-12-29T00:44:40Z"
+  },
+  {
+   "item_id": "4158471070",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Pagode_baiano",
+   "given_title": "Pagode baiano – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Pagode baiano",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Pagode_baiano",
+   "time_updated": "2025-01-04T13:41:27Z",
+   "time_added": "2024-12-29T02:10:41Z"
+  },
+  {
+   "item_id": "4158471079",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Golfinho_Ti%C3%A3o#:~:text=Entre%2027%20a%2029%20pessoas,animal%20na%20cabe%C3%A7a%20e%20t%C3%B3rax",
+   "given_title": "Golfinho Tião – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Golfinho Tião",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Golfinho_Ti%C3%A3o",
+   "time_updated": "2025-01-04T13:41:28Z",
+   "time_added": "2025-01-04T13:41:23Z"
+  }
+ ]
+}

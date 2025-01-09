@@ -65,6 +65,24 @@
    "resolved_url": "https://en.wikipedia.org/wiki/I_Ching",
    "time_updated": "2025-01-07T23:27:31Z",
    "time_added": "2025-01-07T23:27:29Z"
+  },
+  {
+   "item_id": "2794764815",
+   "given_url": "https://www.honeybadger.io/blog/ruby-custom-exceptions/",
+   "given_title": "Custom exceptions in Ruby - Honeybadger Developer Blog",
+   "resolved_title": "Custom exceptions in Ruby",
+   "resolved_url": "https://www.honeybadger.io/blog/ruby-custom-exceptions/",
+   "time_updated": "2025-01-08T13:38:38Z",
+   "time_added": "2025-01-08T13:38:38Z"
+  },
+  {
+   "item_id": "4160337800",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Festa_da_Circuncis%C3%A3o",
+   "given_title": "Festa da Circuncisão – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Festa da Circuncisão",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Festa_da_Circuncis%C3%A3o",
+   "time_updated": "2025-01-08T23:05:28Z",
+   "time_added": "2025-01-08T23:05:24Z"
   }
  ]
 }

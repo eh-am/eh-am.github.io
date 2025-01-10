@@ -29,23 +29,23 @@ func Write(dest string, groups map[string]GroupedItems) error {
 		// File already exists?
 		maybeExistingData, err := loadFile(filename)
 		if err != nil {
-			return err
+			return fmt.Errorf("error loading file '%s': %w", filename, err)
 		}
 
 		out, err := merge(maybeExistingData, g)
 		if err != nil {
-			return err
+			return fmt.Errorf("error merging with existing data: %w", err)
 		}
 
 		file, err := json.MarshalIndent(out, "", " ")
 		if err != nil {
-			return err
+			return fmt.Errorf("error marshalling %w", err)
 		}
 
 		fmt.Println("writing", filename)
 		err = ioutil.WriteFile(filename, file, 0644)
 		if err != nil {
-			return err
+			return fmt.Errorf("error writing file %w", err)
 		}
 	}
 

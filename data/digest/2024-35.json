@@ -1,0 +1,25 @@
+{
+ "year": "2024",
+ "week": "35",
+ "sortKey": "2024-35",
+ "items": [
+  {
+   "item_id": "4096819213",
+   "given_url": "https://blog.la-terminal.net/godot-on-ipad-summer-update/",
+   "given_title": "Godot on iPad, Toolbars, Importers, Embedding, Debugger",
+   "resolved_title": "Godot on iPad, Toolbars, Importers, Embedding, Debugger",
+   "resolved_url": "https://blog.la-terminal.net/godot-on-ipad-summer-update/",
+   "time_updated": "2024-09-01T15:58:01Z",
+   "time_added": "2024-09-01T15:58:00Z"
+  },
+  {
+   "item_id": "1546578565",
+   "given_url": "https://quickposes.com/en/gestures/random",
+   "given_title": "Quickposes: free image library and gesture drawing tool for artists",
+   "resolved_title": "QuickPoses",
+   "resolved_url": "https://quickposes.com",
+   "time_updated": "2024-09-01T17:34:22Z",
+   "time_added": "2024-09-01T17:34:22Z"
+  }
+ ]
+}

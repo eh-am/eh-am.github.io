@@ -4,3 +4,4 @@ resources
 node_modules
 .envrc
 scripts/weekly-digest/output
+scripts/weekly-digest/weekly-digest

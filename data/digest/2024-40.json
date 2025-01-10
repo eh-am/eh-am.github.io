@@ -1,0 +1,43 @@
+{
+ "year": "2024",
+ "week": "40",
+ "sortKey": "2024-40",
+ "items": [
+  {
+   "item_id": "4115438529",
+   "given_url": "https://www.opiniaocaete.com.br/o-que-significa-o-cao-chupando-manga/",
+   "given_title": "O que significa \"o cão chupando manga\"? - .: Jornal Opinião :. Caeté MG",
+   "resolved_title": "",
+   "resolved_url": "https://www.opiniaocaete.com.br/o-que-significa-o-cao-chupando-manga/",
+   "time_updated": "2024-10-06T13:18:57Z",
+   "time_added": "2024-10-06T13:18:55Z"
+  },
+  {
+   "item_id": "353806980",
+   "given_url": "https://en.m.wikipedia.org/wiki/Nata_de_coco",
+   "given_title": "Nata de coco - Wikipedia",
+   "resolved_title": "Nata de coco",
+   "resolved_url": "https://en.wikipedia.org/wiki/Nata_de_coco",
+   "time_updated": "2024-10-06T16:00:59Z",
+   "time_added": "2024-10-06T16:00:57Z"
+  },
+  {
+   "item_id": "4072914464",
+   "given_url": "https://github.com/vercel/next.js/discussions/47020",
+   "given_title": "Conditionally Block Navigation - nextjs - appDir · vercel/next.js · Discuss",
+   "resolved_title": "Conditionally Block Navigation - nextjs - appDir #47020",
+   "resolved_url": "https://github.com/vercel/next.js/discussions/47020",
+   "time_updated": "2024-10-06T17:06:30Z",
+   "time_added": "2024-10-06T17:06:30Z"
+  },
+  {
+   "item_id": "164642280",
+   "given_url": "https://stackoverflow.com/questions/2507766/merge-convert-multiple-pdf-files-into-one-pdf",
+   "given_title": "linux - Merge / convert multiple PDF files into one PDF - Stack Overflow",
+   "resolved_title": "Merge / convert multiple PDF files into one PDF [closed]",
+   "resolved_url": "https://stackoverflow.com/questions/2507766/merge-convert-multiple-pdf-files-into-one-pdf",
+   "time_updated": "2024-10-06T21:32:51Z",
+   "time_added": "2024-10-06T21:32:51Z"
+  }
+ ]
+}

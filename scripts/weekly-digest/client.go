@@ -92,6 +92,7 @@ func (c *Client) Do(since time.Time) (pr PocketResponse, err error) {
 		AccessToken string `json:"access_token"`
 		Since       int    `json:"since"`
 		Sort        string `json:"sort"`
+		//		Count       int    `json:"count"`
 	}
 
 	b := body{
@@ -99,38 +100,39 @@ func (c *Client) Do(since time.Time) (pr PocketResponse, err error) {
 		AccessToken: c.accessToken,
 		Since:       int(since.Unix()),
 		Sort:        "oldest",
+		//		Count:       60,
 	}
 
 	marshalled, err := json.Marshal(b)
 	if err != nil {
-		return pr, err
+		return pr, fmt.Errorf("error marshalling request: %v", err)
 	}
 
 	// url "https://getpocket.com/v3/get"
 	req, err := http.NewRequest(http.MethodPost, c.url, bytes.NewBuffer(marshalled))
 	if err != nil {
-		return pr, err
+		return pr, fmt.Errorf("error creating request: %v", err)
 	}
 
 	req.Header.Add("Content-Type", "application/json")
 
 	res, err := c.httpClient.Do(req)
 	if err != nil {
-		return pr, err
+		return pr, fmt.Errorf("error making request: %v", err)
 	}
 
 	// TODO: other status code may happen
 	if res.StatusCode != http.StatusOK {
 		bodyBytes, err := io.ReadAll(res.Body)
 		if err != nil {
-			return pr, err
+			return pr, fmt.Errorf("error reading err body: %v", err)
 		}
 		return pr, errors.New(fmt.Sprintf("statusCode: '%d'. body: '%s'", res.StatusCode, string(bodyBytes)))
 	}
 
 	err = json.NewDecoder(res.Body).Decode(&pr)
 	if err != nil {
-		return pr, err
+		return pr, fmt.Errorf("error decoding response: %v", err)
 	}
 
 	return pr, nil

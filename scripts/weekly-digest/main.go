@@ -16,6 +16,10 @@ func main() {
 	flag.Parse()
 
 	args := flag.Args()
+	if len(args) <= 0 {
+		log.Fatalf("missing mandatory argument")
+	}
+
 	var since time.Time
 	if args[0] == "all" {
 		since = time.Time{}
@@ -56,14 +60,19 @@ func run(from time.Time, outDir string) error {
 	client := NewClient(url, consumerKey, accessToken)
 	clientRes, err := client.Do(from)
 	if err != nil {
-		return err
+		return fmt.Errorf("error calling client: %v", err)
 	}
 
 	// clientRes
 	fmt.Printf("Found '%d' items\n", len(clientRes.List))
 
 	grouped := GroupByISOWeek(clientRes.List)
-	return Write(outDir, grouped)
+	err = Write(outDir, grouped)
+	if err != nil {
+		return fmt.Errorf("error writing to dir: %v", err)
+	}
+
+	return nil
 }
 
 func findLastSunday(referenceDate time.Time) time.Time {

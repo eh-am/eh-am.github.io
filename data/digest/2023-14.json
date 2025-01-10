@@ -211,6 +211,24 @@
    "time_added": "2023-04-07T23:07:46Z"
   },
   {
+   "item_id": "3839839892",
+   "given_url": "https://astralcodexten.substack.com/p/most-technologies-arent-races",
+   "given_title": "Most Technologies Aren't Races - by Scott Alexander",
+   "resolved_title": "Most Technologies Aren't Races",
+   "resolved_url": "https://astralcodexten.substack.com/p/most-technologies-arent-races",
+   "time_updated": "2023-04-11T07:59:12Z",
+   "time_added": "2023-04-08T12:35:26Z"
+  },
+  {
+   "item_id": "652986003",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Boimate",
+   "given_title": "Boimate – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Boimate",
+   "resolved_url": "http://pt.m.wikipedia.org/wiki/Boimate",
+   "time_updated": "2023-04-11T07:59:12Z",
+   "time_added": "2023-04-09T10:42:34Z"
+  },
+  {
    "item_id": "3842819775",
    "given_url": "https://www.twitlonger.com/show/n_1ss9b4g",
    "given_title": "TwitLonger — When you talk too much for Twitter",
@@ -218,6 +236,15 @@
    "resolved_url": "https://www.twitlonger.com/show/n_1ss9b4g",
    "time_updated": "2023-04-09T17:26:55Z",
    "time_added": "2023-04-09T17:26:52Z"
+  },
+  {
+   "item_id": "3842891161",
+   "given_url": "https://cinemacao.com/2019/10/10/coringa-joker-the-boys-e-as-traducoes/",
+   "given_title": "Coringa, Joker, The Boys e as traduções - Cinem(ação)",
+   "resolved_title": "Coringa, Joker, The Boys e as traduções",
+   "resolved_url": "https://cinemacao.com/2019/10/10/coringa-joker-the-boys-e-as-traducoes/",
+   "time_updated": "2023-04-11T07:59:13Z",
+   "time_added": "2023-04-09T20:15:45Z"
   }
  ]
 }

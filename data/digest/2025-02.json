@@ -101,6 +101,24 @@
    "resolved_url": "https://www.youtube.com/playlist?list=PL0QzUlsjD3k3UnRBLz_Y3DYQGv-mQAqy0",
    "time_updated": "2025-01-10T05:52:37Z",
    "time_added": "2025-01-10T05:52:31Z"
+  },
+  {
+   "item_id": "4161289172",
+   "given_url": "https://www.youtube.com/watch?v=Ai35l2OGyvo",
+   "given_title": "(109) Nossa Língua Portuguesa - Vinheta de Encerramento - YouTube",
+   "resolved_title": "Nossa Língua Portuguesa - Vinheta de Encerramento",
+   "resolved_url": "https://www.youtube.com/watch?v=Ai35l2OGyvo",
+   "time_updated": "2025-01-10T20:58:49Z",
+   "time_added": "2025-01-10T20:58:49Z"
+  },
+  {
+   "item_id": "144225880",
+   "given_url": "https://rebuilding-rails.com/",
+   "given_title": "Rebuilding Rails - Understand Rails by Building a Ruby Web Framework",
+   "resolved_title": "Understand Rails by Building a Ruby Web Framework",
+   "resolved_url": "http://rebuilding-rails.com/",
+   "time_updated": "2025-01-10T22:50:06Z",
+   "time_added": "2025-01-10T22:50:06Z"
   }
  ]
 }

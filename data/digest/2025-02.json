@@ -137,6 +137,15 @@
    "resolved_url": "https://mahjong.guide/a-beginners-guide-to-riichi-mahjong/",
    "time_updated": "2025-01-11T02:19:34Z",
    "time_added": "2025-01-11T02:19:29Z"
+  },
+  {
+   "item_id": "2803980588",
+   "given_url": "https://pawelurbanek.com/uuid-order-rails",
+   "given_title": "UUID Primary Key in Rails 6 with PostgreSQL and ActiveRecord",
+   "resolved_title": "https://pawelurbanek.com/uuid-order-rails",
+   "resolved_url": "https://pawelurbanek.com/uuid-order-rails",
+   "time_updated": "2025-01-11T14:32:21Z",
+   "time_added": "2025-01-11T14:32:18Z"
   }
  ]
 }

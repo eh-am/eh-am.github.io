@@ -137,6 +137,69 @@
    "resolved_url": "https://g1.globo.com/fantastico/noticia/2019/08/25/bonecos-de-neve-na-avenida-paulista-sao-presente-japones-de-retribuicao.ghtml",
    "time_updated": "2025-02-13T20:51:41Z",
    "time_added": "2025-02-13T20:51:39Z"
+  },
+  {
+   "item_id": "3393020498",
+   "given_url": "https://www.cold-takes.com/does-x-cause-y-an-in-depth-evidence-review/",
+   "given_title": "Does X cause Y? An in-depth evidence review",
+   "resolved_title": "Does X cause Y? An in-depth evidence review",
+   "resolved_url": "https://www.cold-takes.com/does-x-cause-y-an-in-depth-evidence-review/",
+   "time_updated": "2025-02-14T12:35:15Z",
+   "time_added": "2025-02-14T12:34:18Z"
+  },
+  {
+   "item_id": "2205539579",
+   "given_url": "https://dave.cheney.net/2018/05/29/how-the-go-runtime-implements-maps-efficiently-without-generics",
+   "given_title": "How the Go runtime implements maps efficiently (without generics) | Dave Ch",
+   "resolved_title": "How the Go runtime implements maps efficiently (without generics)",
+   "resolved_url": "https://dave.cheney.net/2018/05/29/how-the-go-runtime-implements-maps-efficiently-without-generics",
+   "time_updated": "2025-02-14T15:16:11Z",
+   "time_added": "2025-02-14T15:16:11Z"
+  },
+  {
+   "item_id": "4177738008",
+   "given_url": "https://github.com/koekeishiya/yabai/discussions/1226",
+   "given_title": "Simulating a 3 Way Tile View · koekeishiya/yabai · Discussion #1226",
+   "resolved_title": "Simulating a 3 Way Tile View #1226",
+   "resolved_url": "https://github.com/koekeishiya/yabai/discussions/1226",
+   "time_updated": "2025-02-14T15:30:39Z",
+   "time_added": "2025-02-14T15:30:38Z"
+  },
+  {
+   "item_id": "4177759938",
+   "given_url": "https://softwareleadweekly.com/issues/638",
+   "given_title": "Issue #638, 14th February 2025 - SoftwareLeadWeekly",
+   "resolved_title": "Software Lead Weekly",
+   "resolved_url": "http://softwareleadweekly.com/issues/638",
+   "time_updated": "2025-02-14T18:17:42Z",
+   "time_added": "2025-02-14T18:17:42Z"
+  },
+  {
+   "item_id": "181139177",
+   "given_url": "https://www.dictionaryofobscuresorrows.com/post/25422386446/mauerbauertraurigkeit",
+   "given_title": "The Dictionary of Obscure Sorrows — Mauerbauertraurigkeit",
+   "resolved_title": "Mauerbauertraurigkeit",
+   "resolved_url": "https://www.dictionaryofobscuresorrows.com/post/25422386446/mauerbauertraurigkeit",
+   "time_updated": "2025-02-14T18:19:56Z",
+   "time_added": "2025-02-14T18:19:56Z"
+  },
+  {
+   "item_id": "4177905649",
+   "given_url": "https://medium.com/@futte/dog-poisoning-in-portugal-623cbe9db726",
+   "given_title": "Dog Poisoning in Portugal. “The greatness of a nation and its… | by Futte |",
+   "resolved_title": "Dog Poisoning in Portugal",
+   "resolved_url": "https://medium.com/@futte/dog-poisoning-in-portugal-623cbe9db726",
+   "time_updated": "2025-02-15T00:08:18Z",
+   "time_added": "2025-02-15T00:08:15Z"
+  },
+  {
+   "item_id": "4177914639",
+   "given_url": "https://www.biblegateway.com/passage/?search=Mark%2010:35-45\u0026version=NIV",
+   "given_title": "Mark 10:35-45 NIV - The Request of James and John - Then - Bible Gateway",
+   "resolved_title": "Mark 10:35-45 New International Version",
+   "resolved_url": "https://www.biblegateway.com/passage/?search=Mark%2010%3A35-45\u0026version=NIV",
+   "time_updated": "2025-02-15T00:44:42Z",
+   "time_added": "2025-02-15T00:44:40Z"
   }
  ]
 }

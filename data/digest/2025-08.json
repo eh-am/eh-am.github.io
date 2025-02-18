@@ -29,6 +29,96 @@
    "resolved_url": "https://www.youtube.com/watch?v=fj1M3RcieRQ",
    "time_updated": "2025-02-17T12:05:44Z",
    "time_added": "2025-02-17T12:05:43Z"
+  },
+  {
+   "item_id": "3935397551",
+   "given_url": "https://100go.co/",
+   "given_title": "Common Go Mistakes - 100 Go Mistakes and How to Avoid Them",
+   "resolved_title": "100 Go Mistakes and How to Avoid Them",
+   "resolved_url": "https://100go.co/",
+   "time_updated": "2025-02-17T14:19:56Z",
+   "time_added": "2025-02-17T14:19:56Z"
+  },
+  {
+   "item_id": "4086749138",
+   "given_url": "https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/",
+   "given_title": "Go structs are copied on assignment (and other things about Go I'd missed)",
+   "resolved_title": "Go structs are copied on assignment (and other things about Go I'd missed)",
+   "resolved_url": "https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/",
+   "time_updated": "2025-02-17T14:20:05Z",
+   "time_added": "2025-02-17T14:20:05Z"
+  },
+  {
+   "item_id": "4179023070",
+   "given_url": "https://www.tnh1.com.br/noticia/nid/adolescente-morre-na-bahia-apos-injetar-na-perna-mistura-de-borboleta-esmagada-com-agua/",
+   "given_title": "Adolescente morre na Bahia após injetar na perna mistura de borboleta esmag",
+   "resolved_title": "Adolescente morre na Bahia após injetar na perna mistura de borboleta esmagada com água",
+   "resolved_url": "https://www.tnh1.com.br/noticia/nid/adolescente-morre-na-bahia-apos-injetar-na-perna-mistura-de-borboleta-esmagada-com-agua/",
+   "time_updated": "2025-02-17T23:53:12Z",
+   "time_added": "2025-02-17T15:38:45Z"
+  },
+  {
+   "item_id": "3458051764",
+   "given_url": "https://www.andreinc.net/2021/10/02/implementing-hash-tables-in-c-part-1#table-of-contents",
+   "given_title": "Implementing Hash Tables in C | andreinc",
+   "resolved_title": "Implementing Hash Tables in C",
+   "resolved_url": "https://www.andreinc.net/2021/10/02/implementing-hash-tables-in-c-part-1",
+   "time_updated": "2025-02-17T17:54:54Z",
+   "time_added": "2025-02-17T17:54:54Z"
+  },
+  {
+   "item_id": "4179080474",
+   "given_url": "https://news.ycombinator.com/item?id=36779292",
+   "given_title": "SIZE_MAX is the largest possible value of type size_t. size_t is defined as",
+   "resolved_title": "https://news.ycombinator.com/item?id=36779292",
+   "resolved_url": "https://news.ycombinator.com/item?id=36779292",
+   "time_updated": "2025-02-17T18:22:51Z",
+   "time_added": "2025-02-17T18:22:21Z"
+  },
+  {
+   "item_id": "1724639032",
+   "given_url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om",
+   "given_title": "Somethin' Else (Rudy Van Gelder Edition) - Album by Cannonball Adderley | S",
+   "resolved_title": "Somethin' Else (Rudy Van Gelder Edition)",
+   "resolved_url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om",
+   "time_updated": "2025-02-17T18:28:04Z",
+   "time_added": "2025-02-17T18:28:04Z"
+  },
+  {
+   "item_id": "2835643882",
+   "given_url": "https://attractivechaos.wordpress.com/2019/12/28/deletion-from-hash-tables-without-tombstones/",
+   "given_title": "Deletion from hash tables without tombstones | Attractive Chaos",
+   "resolved_title": "Deletion from hash tables without tombstones",
+   "resolved_url": "https://attractivechaos.wordpress.com/2019/12/28/deletion-from-hash-tables-without-tombstones/",
+   "time_updated": "2025-02-17T18:45:53Z",
+   "time_added": "2025-02-17T18:45:53Z"
+  },
+  {
+   "item_id": "830156397",
+   "given_url": "https://en.m.wikipedia.org/wiki/Hopscotch_hashing",
+   "given_title": "Hopscotch hashing - Wikipedia",
+   "resolved_title": "Hopscotch hashing",
+   "resolved_url": "https://en.wikipedia.org/wiki/Hopscotch_hashing",
+   "time_updated": "2025-02-17T19:05:23Z",
+   "time_added": "2025-02-17T19:05:23Z"
+  },
+  {
+   "item_id": "4179191010",
+   "given_url": "https://en.m.wikipedia.org/wiki/American_Pygmy",
+   "given_title": "American Pygmy - Wikipedia",
+   "resolved_title": "American Pygmy",
+   "resolved_url": "https://en.wikipedia.org/wiki/American_Pygmy",
+   "time_updated": "2025-02-17T23:52:05Z",
+   "time_added": "2025-02-17T23:21:13Z"
+  },
+  {
+   "item_id": "4179191012",
+   "given_url": "https://marvel.fandom.com/wiki/Thing_Rings",
+   "given_title": "Thing Rings | Marvel Database | Fandom",
+   "resolved_title": "Thing Rings",
+   "resolved_url": "https://marvel.fandom.com/wiki/Thing_Rings",
+   "time_updated": "2025-02-17T23:52:06Z",
+   "time_added": "2025-02-17T23:51:01Z"
   }
  ]
 }

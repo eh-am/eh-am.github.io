@@ -119,6 +119,60 @@
    "resolved_url": "https://marvel.fandom.com/wiki/Thing_Rings",
    "time_updated": "2025-02-17T23:52:06Z",
    "time_added": "2025-02-17T23:51:01Z"
+  },
+  {
+   "item_id": "4084025899",
+   "given_url": "https://victoriametrics.com/blog/go-array/index.html",
+   "given_title": "How Go Arrays Work and Get Tricky with For-Range",
+   "resolved_title": "How Go Arrays Work and Get Tricky with For-Range",
+   "resolved_url": "https://victoriametrics.com/blog/go-array/",
+   "time_updated": "2025-02-18T10:59:55Z",
+   "time_added": "2025-02-18T10:59:55Z"
+  },
+  {
+   "item_id": "4179387022",
+   "given_url": "https://www.amazon.com/Star-Trek-Deep-Space-Nine/dp/0671035002",
+   "given_title": "Star Trek Deep Space Nine: Roleplaying Game: Moore, Christian: 978067103500",
+   "resolved_title": "Star Trek Deep Space Nine: Roleplaying Game Hardcover – January 1, 1999",
+   "resolved_url": "https://www.amazon.com/Star-Trek-Deep-Space-Nine/dp/0671035002",
+   "time_updated": "2025-02-18T11:07:32Z",
+   "time_added": "2025-02-18T11:07:30Z"
+  },
+  {
+   "item_id": "4095915992",
+   "given_url": "https://victoriametrics.com/blog/go-slice/",
+   "given_title": "Slices in Go: Grow Big or Go Home",
+   "resolved_title": "Slices in Go: Grow Big or Go Home",
+   "resolved_url": "https://victoriametrics.com/blog/go-slice/",
+   "time_updated": "2025-02-18T11:25:49Z",
+   "time_added": "2025-02-18T11:25:49Z"
+  },
+  {
+   "item_id": "4098068922",
+   "given_url": "https://www1.folha.uol.com.br/educacao/2024/09/fui-bolsista-em-um-colegio-de-elite-de-sp-e-vi-a-segregacao-de-perto.shtml",
+   "given_title": "Fui bolsista em colégio de elite e vi segregação de perto - 03/09/2024 - Ed",
+   "resolved_title": "Fui bolsista em um colégio de elite de SP e vi a segregação de perto",
+   "resolved_url": "https://www1.folha.uol.com.br/educacao/2024/09/fui-bolsista-em-um-colegio-de-elite-de-sp-e-vi-a-segregacao-de-perto.shtml",
+   "time_updated": "2025-02-18T12:23:23Z",
+   "time_added": "2025-02-18T11:59:46Z"
+  },
+  {
+   "item_id": "4179406310",
+   "given_url": "https://www.youtube.com/watch?v=K4g6fgbe5Qk\u0026t=2s",
+   "given_title": "Tetinhas Inocentes Acabou o Papel - YouTube",
+   "resolved_title": "Tetinhas Inocentes  Acabou o Papel",
+   "resolved_url": "https://www.youtube.com/watch?v=K4g6fgbe5Qk\u0026t=2s",
+   "time_updated": "2025-02-18T12:01:59Z",
+   "time_added": "2025-02-18T12:01:58Z"
+  },
+  {
+   "item_id": "4093166167",
+   "given_url": "https://victoriametrics.com/blog/go-sync-pool/",
+   "given_title": "Go sync.Pool and the Mechanics Behind It",
+   "resolved_title": "Go sync.Pool and the Mechanics Behind It",
+   "resolved_url": "https://victoriametrics.com/blog/go-sync-pool/",
+   "time_updated": "2025-02-18T12:08:38Z",
+   "time_added": "2025-02-18T12:08:38Z"
   }
  ]
 }

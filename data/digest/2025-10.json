@@ -65,6 +65,24 @@
    "resolved_url": "https://sicilyenjoy.com/en/listing/the-frog-festival-in-paterno/",
    "time_updated": "2025-03-06T06:22:06Z",
    "time_added": "2025-03-06T06:21:56Z"
+  },
+  {
+   "item_id": "379050103",
+   "given_url": "https://en.m.wikipedia.org/wiki/Briscola",
+   "given_title": "Briscola - Wikipedia",
+   "resolved_title": "Briscola",
+   "resolved_url": "https://en.wikipedia.org/wiki/Briscola",
+   "time_updated": "2025-03-06T21:42:58Z",
+   "time_added": "2025-03-06T21:42:56Z"
+  },
+  {
+   "item_id": "96830463",
+   "given_url": "https://en.m.wikipedia.org/wiki/Scopa",
+   "given_title": "Scopa - Wikipedia",
+   "resolved_title": "Scopa",
+   "resolved_url": "https://en.wikipedia.org/wiki/Scopa",
+   "time_updated": "2025-03-06T21:43:04Z",
+   "time_added": "2025-03-06T21:43:00Z"
   }
  ]
 }

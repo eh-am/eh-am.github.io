@@ -344,6 +344,42 @@
    "resolved_url": "https://www.nytimes.com/2008/11/23/magazine/23Netflix-t.html",
    "time_updated": "2025-03-29T22:43:23Z",
    "time_added": "2025-03-29T22:43:22Z"
+  },
+  {
+   "item_id": "4196194871",
+   "given_url": "https://m.youtube.com/watch?v=ofVvN1iFWeI",
+   "given_title": "YouTube",
+   "resolved_title": "Skank - Balada do Amor Inabalável (Áudio Oficial)",
+   "resolved_url": "http://www.google.com/sorry/index?continue=http://www.youtube.com/watch%3Fv%3DofVvN1iFWeI\u0026q=EgQi4kIDGJmFpr8GIjAcum3vxIga_bN5NaNhzymporiHgQfUSCITqBidPiyIE9o43wk3awqhoew3ucjupp4yAnJSWgFD",
+   "time_updated": "2025-03-30T17:42:49Z",
+   "time_added": "2025-03-30T17:42:46Z"
+  },
+  {
+   "item_id": "1425590928",
+   "given_url": "https://pt.m.wikipedia.org/wiki/Fausto_Fawcett",
+   "given_title": "Fausto Fawcett – Wikipédia, a enciclopédia livre",
+   "resolved_title": "Fausto Fawcett",
+   "resolved_url": "https://pt.wikipedia.org/wiki/Fausto_Fawcett",
+   "time_updated": "2025-03-30T17:51:46Z",
+   "time_added": "2025-03-30T17:51:44Z"
+  },
+  {
+   "item_id": "256056625",
+   "given_url": "https://en.m.wikipedia.org/wiki/Middlebrow",
+   "given_title": "Middlebrow",
+   "resolved_title": "Middlebrow",
+   "resolved_url": "https://en.wikipedia.org/wiki/Middlebrow",
+   "time_updated": "2025-03-30T18:00:00Z",
+   "time_added": "2025-03-30T17:59:59Z"
+  },
+  {
+   "item_id": "4196200516",
+   "given_url": "https://www.dailymotion.com/video/x8u8f44",
+   "given_title": "A Roupa dos Brancos Mortos - video Dailymotion",
+   "resolved_title": "A Roupa dos Brancos Mortos",
+   "resolved_url": "https://www.dailymotion.com/video/x8u8f44",
+   "time_updated": "2025-03-30T18:36:42Z",
+   "time_added": "2025-03-30T18:36:41Z"
   }
  ]
 }

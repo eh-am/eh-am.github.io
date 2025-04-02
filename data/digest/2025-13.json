@@ -197,7 +197,7 @@
    "given_url": "https://m.youtube.com/watch?v=mmCnQDUSO4I",
    "given_title": "Dmitri Shostakovich - Waltz No. 2 - YouTube",
    "resolved_title": "Dmitri Shostakovich - Waltz No. 2",
-   "resolved_url": "https://www.youtube.com/watch?v=mmCnQDUSO4I",
+   "resolved_url": "http://www.youtube.com/watch?v=mmCnQDUSO4I",
    "time_updated": "2025-03-27T20:34:51Z",
    "time_added": "2025-03-27T17:20:44Z"
   },
@@ -340,8 +340,8 @@
    "item_id": "2706247202",
    "given_url": "https://www.nytimes.com/2008/11/23/magazine/23Netflix-t.html?referer=",
    "given_title": "If You Liked This, Sure to Love That - Winning the Netflix Prize - The New ",
-   "resolved_title": "If You Liked This, You’re Sure to Love That",
-   "resolved_url": "https://www.nytimes.com/2008/11/23/magazine/23Netflix-t.html",
+   "resolved_title": "https://www.nytimes.com/2008/11/23/magazine/23Netflix-t.html?referer=",
+   "resolved_url": "https://www.nytimes.com/2008/11/23/magazine/23Netflix-t.html?referer=",
    "time_updated": "2025-03-29T22:43:23Z",
    "time_added": "2025-03-29T22:43:22Z"
   },

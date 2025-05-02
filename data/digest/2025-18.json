@@ -119,6 +119,51 @@
    "resolved_url": "http://www.google.com/sorry/index?continue=http://www.youtube.com/watch%3Fv%3DLrle0x_DHBM\u0026q=EgQi4kIDGOaqtMAGIjCnJrK4AvCqbfleLIqrggfiBTPV2A_5nydem7Cf2SlhbC0gHTXte0hr3R5pTHZyleYyAnJSWgFD",
    "time_updated": "2025-05-01T12:20:37Z",
    "time_added": "2025-05-01T12:20:37Z"
+  },
+  {
+   "item_id": "4208949370",
+   "given_url": "https://m.youtube.com/watch?v=teJrylK2EEc",
+   "given_title": "ERNESTO VARELA: melhores perguntas - YouTube",
+   "resolved_title": "ERNESTO VARELA: melhores perguntas",
+   "resolved_url": "http://www.google.com/sorry/index?continue=http://www.youtube.com/watch%3Fv%3DteJrylK2EEc\u0026q=EgQi4kIDGPGEzsAGIjDCrssbO4j85huaqQRbTD1hJ3cKiFQ-MwnbRyVq3xN1VbYkYFov0uH1MmQrcFKhq2AyAnJSWgFD",
+   "time_updated": "2025-05-01T14:17:22Z",
+   "time_added": "2025-05-01T14:17:19Z"
+  },
+  {
+   "item_id": "4208951570",
+   "given_url": "https://www.metropoles.com/colunas/pipocando/marcus-menna-do-ls-jack-diz-que-errou-ao-fazer-lipoaspiracao-por-vaidade",
+   "given_title": "Marcus Menna, do LS Jack, diz que errou ao fazer lipoaspiração por vaidade ",
+   "resolved_title": "Marcus Menna, do LS Jack, diz que errou ao fazer lipoaspiração por vaidade",
+   "resolved_url": "https://www.metropoles.com/colunas/pipocando/marcus-menna-do-ls-jack-diz-que-errou-ao-fazer-lipoaspiracao-por-vaidade",
+   "time_updated": "2025-05-01T14:22:13Z",
+   "time_added": "2025-05-01T14:22:11Z"
+  },
+  {
+   "item_id": "274725001",
+   "given_url": "https://en.m.wikipedia.org/wiki/Horatio_Hornblower",
+   "given_title": "Horatio Hornblower - Wikipedia",
+   "resolved_title": "Horatio Hornblower",
+   "resolved_url": "https://en.wikipedia.org/wiki/Horatio_Hornblower",
+   "time_updated": "2025-05-01T22:10:41Z",
+   "time_added": "2025-05-01T22:10:39Z"
+  },
+  {
+   "item_id": "170741476",
+   "given_url": "https://en.m.wikipedia.org/wiki/Dead_reckoning",
+   "given_title": "Dead reckoning - Wikipedia",
+   "resolved_title": "Dead reckoning",
+   "resolved_url": "https://en.wikipedia.org/wiki/Dead_reckoning",
+   "time_updated": "2025-05-01T22:31:33Z",
+   "time_added": "2025-05-01T22:31:32Z"
+  },
+  {
+   "item_id": "4209107252",
+   "given_url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2025/04/28/peixe-gigante-da-amazonia-invade-rios-e-leva-perigo-a-sp-e-mais-regioes-saiba-onde.htm",
+   "given_title": "Peixe gigante da Amazônia invade rios de SP e põe população em risco",
+   "resolved_title": "Peixe gigante da Amazônia invade rios de São Paulo e põe população em risco",
+   "resolved_url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2025/04/28/peixe-gigante-da-amazonia-invade-rios-e-leva-perigo-a-sp-e-mais-regioes-saiba-onde.htm",
+   "time_updated": "2025-05-01T23:14:52Z",
+   "time_added": "2025-05-01T23:14:50Z"
   }
  ]
 }

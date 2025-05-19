@@ -36,6 +36,7 @@ type Timestamp struct {
 }
 
 // UnmarshalJSON decodes an int64 timestamp into a time.Time object
+// It also supports RFC3339
 // https://stackoverflow.com/a/67017059
 func (p *Timestamp) UnmarshalJSON(bytes []byte) error {
 	// 1. Decode the bytes into an int64
@@ -47,8 +48,18 @@ func (p *Timestamp) UnmarshalJSON(bytes []byte) error {
 	}
 
 	rawInt, err := strconv.ParseInt(raw, 10, 64)
+
 	if err != nil {
-		return err
+		// We support RFC3339 too
+		if errors.Is(err, strconv.ErrSyntax) {
+			t, err := time.Parse(time.RFC3339, raw)
+			if err != nil {
+				return err
+			}
+
+			p.Time = t
+			return nil
+		}
 	}
 
 	// Let's assume we are always in UTC, so that build machine and local match
@@ -81,6 +92,7 @@ func (c *Client) Do(since time.Time) (pr PocketResponse, err error) {
 		AccessToken string `json:"access_token"`
 		Since       int    `json:"since"`
 		Sort        string `json:"sort"`
+		//		Count       int    `json:"count"`
 	}
 
 	b := body{
@@ -88,38 +100,39 @@ func (c *Client) Do(since time.Time) (pr PocketResponse, err error) {
 		AccessToken: c.accessToken,
 		Since:       int(since.Unix()),
 		Sort:        "oldest",
+		//		Count:       60,
 	}
 
 	marshalled, err := json.Marshal(b)
 	if err != nil {
-		return pr, err
+		return pr, fmt.Errorf("error marshalling request: %v", err)
 	}
 
 	// url "https://getpocket.com/v3/get"
 	req, err := http.NewRequest(http.MethodPost, c.url, bytes.NewBuffer(marshalled))
 	if err != nil {
-		return pr, err
+		return pr, fmt.Errorf("error creating request: %v", err)
 	}
 
 	req.Header.Add("Content-Type", "application/json")
 
 	res, err := c.httpClient.Do(req)
 	if err != nil {
-		return pr, err
+		return pr, fmt.Errorf("error making request: %v", err)
 	}
 
 	// TODO: other status code may happen
 	if res.StatusCode != http.StatusOK {
 		bodyBytes, err := io.ReadAll(res.Body)
 		if err != nil {
-			return pr, err
+			return pr, fmt.Errorf("error reading err body: %v", err)
 		}
 		return pr, errors.New(fmt.Sprintf("statusCode: '%d'. body: '%s'", res.StatusCode, string(bodyBytes)))
 	}
 
 	err = json.NewDecoder(res.Body).Decode(&pr)
 	if err != nil {
-		return pr, err
+		return pr, fmt.Errorf("error decoding response: %v", err)
 	}
 
 	return pr, nil

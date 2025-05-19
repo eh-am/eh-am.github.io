@@ -1,0 +1,322 @@
+{
+ "year": "2025",
+ "week": "8",
+ "sortKey": "2025-08",
+ "items": [
+  {
+   "item_id": "3241280802",
+   "given_url": "https://www.youtube.com/watch?v=BwgkBZ-FLW0",
+   "given_title": "(189) AMM - AMMMusic 1966 [FULL ALBUM] - YouTube",
+   "resolved_title": "AMM - AMMMusic 1966 [FULL ALBUM]",
+   "resolved_url": "https://www.youtube.com/watch?v=BwgkBZ-FLW0",
+   "time_updated": "2025-02-17T11:58:42Z",
+   "time_added": "2025-02-17T11:58:42Z"
+  },
+  {
+   "item_id": "2134476045",
+   "given_url": "https://www.amazon.com/Very-Irregular-Head-Life-Barrett/dp/0306821435",
+   "given_title": "A Very Irregular Head: The Life of Syd Barrett: Chapman, Rob: 9780306821431",
+   "resolved_title": "A Very Irregular Head: The Life of Syd Barrett",
+   "resolved_url": "https://www.amazon.com/Very-Irregular-Head-Life-Barrett/dp/0306821435",
+   "time_updated": "2025-02-17T11:59:48Z",
+   "time_added": "2025-02-17T11:59:48Z"
+  },
+  {
+   "item_id": "4178947812",
+   "given_url": "https://www.youtube.com/watch?v=fj1M3RcieRQ",
+   "given_title": "(190) Pink Floyd - John Latham session (minus keys) - YouTube",
+   "resolved_title": "Pink Floyd - John Latham session (minus keys)",
+   "resolved_url": "https://www.youtube.com/watch?v=fj1M3RcieRQ",
+   "time_updated": "2025-02-17T12:05:44Z",
+   "time_added": "2025-02-17T12:05:43Z"
+  },
+  {
+   "item_id": "3935397551",
+   "given_url": "https://100go.co/",
+   "given_title": "Common Go Mistakes - 100 Go Mistakes and How to Avoid Them",
+   "resolved_title": "100 Go Mistakes and How to Avoid Them",
+   "resolved_url": "https://100go.co/",
+   "time_updated": "2025-02-17T14:19:56Z",
+   "time_added": "2025-02-17T14:19:56Z"
+  },
+  {
+   "item_id": "4086749138",
+   "given_url": "https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/",
+   "given_title": "Go structs are copied on assignment (and other things about Go I'd missed)",
+   "resolved_title": "Go structs are copied on assignment (and other things about Go I'd missed)",
+   "resolved_url": "https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/",
+   "time_updated": "2025-02-17T14:20:05Z",
+   "time_added": "2025-02-17T14:20:05Z"
+  },
+  {
+   "item_id": "4179023070",
+   "given_url": "https://www.tnh1.com.br/noticia/nid/adolescente-morre-na-bahia-apos-injetar-na-perna-mistura-de-borboleta-esmagada-com-agua/",
+   "given_title": "Adolescente morre na Bahia após injetar na perna mistura de borboleta esmag",
+   "resolved_title": "Adolescente morre na Bahia após injetar na perna mistura de borboleta esmagada com água",
+   "resolved_url": "https://www.tnh1.com.br/noticia/nid/adolescente-morre-na-bahia-apos-injetar-na-perna-mistura-de-borboleta-esmagada-com-agua/",
+   "time_updated": "2025-02-19T13:20:33Z",
+   "time_added": "2025-02-17T15:38:45Z"
+  },
+  {
+   "item_id": "3458051764",
+   "given_url": "https://www.andreinc.net/2021/10/02/implementing-hash-tables-in-c-part-1#table-of-contents",
+   "given_title": "Implementing Hash Tables in C | andreinc",
+   "resolved_title": "Implementing Hash Tables in C",
+   "resolved_url": "https://www.andreinc.net/2021/10/02/implementing-hash-tables-in-c-part-1",
+   "time_updated": "2025-02-17T17:54:54Z",
+   "time_added": "2025-02-17T17:54:54Z"
+  },
+  {
+   "item_id": "4179080474",
+   "given_url": "https://news.ycombinator.com/item?id=36779292",
+   "given_title": "SIZE_MAX is the largest possible value of type size_t. size_t is defined as",
+   "resolved_title": "https://news.ycombinator.com/item?id=36779292",
+   "resolved_url": "https://news.ycombinator.com/item?id=36779292",
+   "time_updated": "2025-02-17T18:22:51Z",
+   "time_added": "2025-02-17T18:22:21Z"
+  },
+  {
+   "item_id": "1724639032",
+   "given_url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om",
+   "given_title": "Somethin' Else (Rudy Van Gelder Edition) - Album by Cannonball Adderley | S",
+   "resolved_title": "Somethin' Else (Rudy Van Gelder Edition)",
+   "resolved_url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om",
+   "time_updated": "2025-02-17T18:28:04Z",
+   "time_added": "2025-02-17T18:28:04Z"
+  },
+  {
+   "item_id": "2835643882",
+   "given_url": "https://attractivechaos.wordpress.com/2019/12/28/deletion-from-hash-tables-without-tombstones/",
+   "given_title": "Deletion from hash tables without tombstones | Attractive Chaos",
+   "resolved_title": "Deletion from hash tables without tombstones",
+   "resolved_url": "https://attractivechaos.wordpress.com/2019/12/28/deletion-from-hash-tables-without-tombstones/",
+   "time_updated": "2025-02-17T18:45:53Z",
+   "time_added": "2025-02-17T18:45:53Z"
+  },
+  {
+   "item_id": "830156397",
+   "given_url": "https://en.m.wikipedia.org/wiki/Hopscotch_hashing",
+   "given_title": "Hopscotch hashing - Wikipedia",
+   "resolved_title": "Hopscotch hashing",
+   "resolved_url": "https://en.wikipedia.org/wiki/Hopscotch_hashing",
+   "time_updated": "2025-02-17T19:05:23Z",
+   "time_added": "2025-02-17T19:05:23Z"
+  },
+  {
+   "item_id": "4179191010",
+   "given_url": "https://en.m.wikipedia.org/wiki/American_Pygmy",
+   "given_title": "American Pygmy - Wikipedia",
+   "resolved_title": "American Pygmy",
+   "resolved_url": "https://en.wikipedia.org/wiki/American_Pygmy",
+   "time_updated": "2025-02-17T23:52:05Z",
+   "time_added": "2025-02-17T23:21:13Z"
+  },
+  {
+   "item_id": "4179191012",
+   "given_url": "https://marvel.fandom.com/wiki/Thing_Rings",
+   "given_title": "Thing Rings | Marvel Database | Fandom",
+   "resolved_title": "Thing Rings",
+   "resolved_url": "https://marvel.fandom.com/wiki/Thing_Rings",
+   "time_updated": "2025-02-17T23:52:06Z",
+   "time_added": "2025-02-17T23:51:01Z"
+  },
+  {
+   "item_id": "4084025899",
+   "given_url": "https://victoriametrics.com/blog/go-array/index.html",
+   "given_title": "How Go Arrays Work and Get Tricky with For-Range",
+   "resolved_title": "How Go Arrays Work and Get Tricky with For-Range",
+   "resolved_url": "https://victoriametrics.com/blog/go-array/",
+   "time_updated": "2025-02-18T10:59:55Z",
+   "time_added": "2025-02-18T10:59:55Z"
+  },
+  {
+   "item_id": "4179387022",
+   "given_url": "https://www.amazon.com/Star-Trek-Deep-Space-Nine/dp/0671035002",
+   "given_title": "Star Trek Deep Space Nine: Roleplaying Game: Moore, Christian: 978067103500",
+   "resolved_title": "Star Trek Deep Space Nine: Roleplaying Game Hardcover – January 1, 1999",
+   "resolved_url": "https://www.amazon.com/Star-Trek-Deep-Space-Nine/dp/0671035002",
+   "time_updated": "2025-02-18T11:07:32Z",
+   "time_added": "2025-02-18T11:07:30Z"
+  },
+  {
+   "item_id": "4095915992",
+   "given_url": "https://victoriametrics.com/blog/go-slice/",
+   "given_title": "Slices in Go: Grow Big or Go Home",
+   "resolved_title": "Slices in Go: Grow Big or Go Home",
+   "resolved_url": "https://victoriametrics.com/blog/go-slice/",
+   "time_updated": "2025-02-18T11:25:49Z",
+   "time_added": "2025-02-18T11:25:49Z"
+  },
+  {
+   "item_id": "4098068922",
+   "given_url": "https://www1.folha.uol.com.br/educacao/2024/09/fui-bolsista-em-um-colegio-de-elite-de-sp-e-vi-a-segregacao-de-perto.shtml",
+   "given_title": "Fui bolsista em colégio de elite e vi segregação de perto - 03/09/2024 - Ed",
+   "resolved_title": "Fui bolsista em um colégio de elite de SP e vi a segregação de perto",
+   "resolved_url": "https://www1.folha.uol.com.br/educacao/2024/09/fui-bolsista-em-um-colegio-de-elite-de-sp-e-vi-a-segregacao-de-perto.shtml",
+   "time_updated": "2025-02-18T12:23:23Z",
+   "time_added": "2025-02-18T11:59:46Z"
+  },
+  {
+   "item_id": "4179406310",
+   "given_url": "https://www.youtube.com/watch?v=K4g6fgbe5Qk\u0026t=2s",
+   "given_title": "Tetinhas Inocentes Acabou o Papel - YouTube",
+   "resolved_title": "Tetinhas Inocentes  Acabou o Papel",
+   "resolved_url": "https://www.youtube.com/watch?v=K4g6fgbe5Qk\u0026t=2s",
+   "time_updated": "2025-02-18T12:01:59Z",
+   "time_added": "2025-02-18T12:01:58Z"
+  },
+  {
+   "item_id": "4093166167",
+   "given_url": "https://victoriametrics.com/blog/go-sync-pool/",
+   "given_title": "Go sync.Pool and the Mechanics Behind It",
+   "resolved_title": "Go sync.Pool and the Mechanics Behind It",
+   "resolved_url": "https://victoriametrics.com/blog/go-sync-pool/",
+   "time_updated": "2025-02-18T12:08:38Z",
+   "time_added": "2025-02-18T12:08:38Z"
+  },
+  {
+   "item_id": "360882663",
+   "given_url": "https://en.m.wikipedia.org/wiki/Twinkie_defense",
+   "given_title": "Twinkie defense - Wikipedia",
+   "resolved_title": "Twinkie defense",
+   "resolved_url": "https://en.wikipedia.org/wiki/Twinkie_defense",
+   "time_updated": "2025-02-18T14:07:02Z",
+   "time_added": "2025-02-18T13:59:15Z"
+  },
+  {
+   "item_id": "4179599112",
+   "given_url": "https://www.reddit.com/r/TwoXChromosomes/comments/1bp0hnl/dressing_like_a_woman_is_a_humiliation_ritual_say/",
+   "given_title": "Dressing like a woman is a HuMiLiAtIoN rItUaL - say what now? : r/TwoXChrom",
+   "resolved_title": "Dressing like a woman is a HuMiLiAtIoN rItUaL - say what now?",
+   "resolved_url": "https://www.reddit.com/r/TwoXChromosomes/comments/1bp0hnl/dressing_like_a_woman_is_a_humiliation_ritual_say/",
+   "time_updated": "2025-02-18T20:42:09Z",
+   "time_added": "2025-02-18T20:40:50Z"
+  },
+  {
+   "item_id": "4022282830",
+   "given_url": "https://knowyourmeme.com/memes/hollywood-illuminati-humiliation-ritual",
+   "given_title": "Hollywood Illuminati Humiliation Ritual | Know Your Meme",
+   "resolved_title": "Hollywood Illuminati Humiliation Ritual",
+   "resolved_url": "https://knowyourmeme.com/memes/hollywood-illuminati-humiliation-ritual",
+   "time_updated": "2025-02-18T20:44:58Z",
+   "time_added": "2025-02-18T20:43:57Z"
+  },
+  {
+   "item_id": "1173060897",
+   "given_url": "https://en.m.wikipedia.org/wiki/Lapta_(game)",
+   "given_title": "Lapta (game) - Wikipedia",
+   "resolved_title": "Lapta (game)",
+   "resolved_url": "https://en.wikipedia.org/wiki/Lapta_(game)",
+   "time_updated": "2025-02-19T09:38:52Z",
+   "time_added": "2025-02-19T09:37:50Z"
+  },
+  {
+   "item_id": "3818146443",
+   "given_url": "https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops#masking",
+   "given_title": "Demystifying bitwise operations, a gentle C tutorial | andreinc",
+   "resolved_title": "Demystifying bitwise operations, a gentle C tutorial",
+   "resolved_url": "https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops",
+   "time_updated": "2025-02-19T11:22:51Z",
+   "time_added": "2025-02-19T11:22:51Z"
+  },
+  {
+   "item_id": "4179892402",
+   "given_url": "https://x.com/ohmypy/status/1866078171340185706",
+   "given_title": "Anton Zhiyanov on X: \"An easy way to create a silent logger in Go (e.g. for",
+   "resolved_title": "x.com",
+   "resolved_url": "https://twitter.com/x/migrate?tok=7b2265223a222f6f686d7970792f7374617475732f31383636303738313731333430313835373036222c2274223a313733393936393338307d7517637c8f895d691a12a4d85a5619fb",
+   "time_updated": "2025-02-19T12:49:40Z",
+   "time_added": "2025-02-19T12:49:39Z"
+  },
+  {
+   "item_id": "3206122525",
+   "given_url": "https://boyter.org/posts/bloom-filter/",
+   "given_title": "Bloom Filters - Much, much more than a space efficient hashmap! | Ben E. C.",
+   "resolved_title": "Bloom Filters - Much, much more than a space efficient hashmap!",
+   "resolved_url": "https://boyter.org/posts/bloom-filter/",
+   "time_updated": "2025-02-19T13:20:34Z",
+   "time_added": "2025-02-19T13:19:41Z"
+  },
+  {
+   "item_id": "4180121134",
+   "given_url": "https://github.com/ItsJokerZz/FPKGi",
+   "given_title": "GitHub - ItsJokerZz/FPKGi: FPKGi is an open-source app for downloading and ",
+   "resolved_title": "ItsJokerZz/FPKGi",
+   "resolved_url": "https://github.com/ItsJokerZz/FPKGi",
+   "time_updated": "2025-02-20T00:00:00Z",
+   "time_added": "2025-02-19T23:56:18Z"
+  },
+  {
+   "item_id": "4180362430",
+   "given_url": "https://en.m.wikipedia.org/wiki/Butsukari_otoko",
+   "given_title": "Butsukari otoko - Wikipedia",
+   "resolved_title": "Butsukari otoko",
+   "resolved_url": "https://en.wikipedia.org/wiki/Butsukari_otoko",
+   "time_updated": "2025-02-20T13:45:30Z",
+   "time_added": "2025-02-20T13:45:28Z"
+  },
+  {
+   "item_id": "4180722128",
+   "given_url": "https://www.mashew.com/japan-2/love-village/what-happened-to-makio-and-tamiflu-from-love-village-after-the-show",
+   "given_title": "What happened to Makio and Tamiflu from Love Village after the show? – Mash",
+   "resolved_title": "What happened to Makio and Tamiflu from Love Village after the show?",
+   "resolved_url": "https://www.mashew.com/japan-2/love-village/what-happened-to-makio-and-tamiflu-from-love-village-after-the-show",
+   "time_updated": "2025-02-21T09:10:41Z",
+   "time_added": "2025-02-21T09:10:38Z"
+  },
+  {
+   "item_id": "4180723378",
+   "given_url": "https://www.mashew.com/japan-2/love-village/love-village-season-2-cast-instagram-accounts",
+   "given_title": "Love Village Season 2 Cast Instagram Accounts – Mashew.com",
+   "resolved_title": "Love Village Season 2 Cast Instagram Accounts",
+   "resolved_url": "https://www.mashew.com/japan-2/love-village/love-village-season-2-cast-instagram-accounts",
+   "time_updated": "2025-02-21T09:15:09Z",
+   "time_added": "2025-02-21T09:15:08Z"
+  },
+  {
+   "item_id": "4180894290",
+   "given_url": "https://prehistoricportugal.com/",
+   "given_title": "Prehistoric Portugal",
+   "resolved_title": "https://prehistoricportugal.com/",
+   "resolved_url": "https://prehistoricportugal.com/",
+   "time_updated": "2025-02-21T17:03:42Z",
+   "time_added": "2025-02-21T17:03:38Z"
+  },
+  {
+   "item_id": "4181029757",
+   "given_url": "https://m.youtube.com/watch?v=XGLGGzt5Xaw\u0026pp=ygUIcGF0ZXJuw7M%3D",
+   "given_title": "SICILIA | PATERNO IN 1 DAY | 05/25/2022 - YouTube",
+   "resolved_title": "SICILIA | PATERNO IN 1 DAY | 05/25/2022",
+   "resolved_url": "http://www.google.com/sorry/index?continue=http://www.youtube.com/watch%3Fv%3DXGLGGzt5Xaw\u0026q=EgQi4kIDGNe-5L0GIjDTGJKpir47zqCPkbxcDRaZuR7J4JRgRz4nT3Wjg5BKXRgBHUKI-CovxMe67pWp6CUyAXJaAUM",
+   "time_updated": "2025-02-22T00:50:32Z",
+   "time_added": "2025-02-22T00:50:27Z"
+  },
+  {
+   "item_id": "4181051665",
+   "given_url": "https://m.youtube.com/watch?v=2RS7AF1pW_Q",
+   "given_title": "An Analysis of Peep Show - YouTube",
+   "resolved_title": "An Analysis of Peep Show",
+   "resolved_url": "http://www.google.com/sorry/index?continue=http://www.youtube.com/watch%3Fv%3D2RS7AF1pW_Q\u0026q=EgQi4kIDGJ3t5L0GIjABY7LsavAN8eaiNOuVPFFcWIOF_YRhKvlVNMBLvjosbuhu95TWABsk-o0XzW7H63YyAXJaAUM",
+   "time_updated": "2025-02-22T02:29:50Z",
+   "time_added": "2025-02-22T02:29:46Z"
+  },
+  {
+   "item_id": "4181585558",
+   "given_url": "https://www1.folha.uol.com.br/cotidiano/2025/02/vitimas-de-roubos-violentos-em-sp-restringem-rotina-e-ate-mudam-de-pais.shtml",
+   "given_title": "Violência: Vítimas de roubos restringem rotina - 23/02/2025 - Cotidiano - F",
+   "resolved_title": "Vítimas de roubos violentos em SP restringem rotina e até mudam de país",
+   "resolved_url": "https://www1.folha.uol.com.br/cotidiano/2025/02/vitimas-de-roubos-violentos-em-sp-restringem-rotina-e-ate-mudam-de-pais.shtml",
+   "time_updated": "2025-02-27T21:50:34Z",
+   "time_added": "2025-02-23T21:33:56Z"
+  },
+  {
+   "item_id": "4183467704",
+   "given_url": "https://community.ricksteves.com/travel-forum/italy/sicily-shall-we-skip-catania",
+   "given_title": "Sicily - shall we skip Catania? - Rick Steves Travel Forum",
+   "resolved_title": "Sicily - shall we skip Catania?",
+   "resolved_url": "https://community.ricksteves.com/travel-forum/italy/sicily-shall-we-skip-catania",
+   "time_updated": "2025-02-27T21:50:34Z",
+   "time_added": "2025-02-23T22:27:56Z"
+  }
+ ]
+}

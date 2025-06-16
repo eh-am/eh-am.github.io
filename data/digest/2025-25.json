@@ -1,0 +1,34 @@
+{
+ "year": "2025",
+ "week": "25",
+ "sortKey": "2025-25",
+ "items": [
+  {
+   "item_id": "2302876967",
+   "given_url": "https://github.com/mvasin/react-div-100vh",
+   "given_title": "mvasin/react-div-100vh: A workaround for the '100vh' issue in mobile browse",
+   "resolved_title": "mvasin/react-div-100vh",
+   "resolved_url": "https://github.com/mvasin/react-div-100vh",
+   "time_updated": "2025-06-16T10:34:10Z",
+   "time_added": "2025-06-16T10:34:10Z"
+  },
+  {
+   "item_id": "3376021810",
+   "given_url": "https://www.bram.us/2021/07/08/the-large-small-and-dynamic-viewports/",
+   "given_title": "The Large, Small, and Dynamic Viewports – Bram.us",
+   "resolved_title": "The Large, Small, and Dynamic Viewports",
+   "resolved_url": "https://www.bram.us/2021/07/08/the-large-small-and-dynamic-viewports/",
+   "time_updated": "2025-06-16T10:42:50Z",
+   "time_added": "2025-06-16T10:42:50Z"
+  },
+  {
+   "item_id": "4225571750",
+   "given_url": "https://old.reddit.com/r/mac/comments/e1tral/macbook_hinge_design_overlooked_and_criminally/",
+   "given_title": "MacBook hinge design: overlooked and criminally underrated : mac",
+   "resolved_title": "https://old.reddit.com/r/mac/comments/e1tral/macbook_hinge_design_overlooked_and_criminally/",
+   "resolved_url": "https://old.reddit.com/r/mac/comments/e1tral/macbook_hinge_design_overlooked_and_criminally/",
+   "time_updated": "2025-06-16T12:19:17Z",
+   "time_added": "2025-06-16T12:19:16Z"
+  }
+ ]
+}

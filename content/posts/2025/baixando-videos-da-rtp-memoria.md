@@ -25,3 +25,15 @@ mp4decrypt --key b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be
 
 Essa chave peguei [daqui](https://forum.videohelp.com/threads/416939-DRM-Protected-on-RTP-Arquivos#post2760881),
 mas você pode sempre conseguir você mesmo usando a extensão [WidevineProxy2](https://forum.videohelp.com/threads/416316-%5BRelease%5D-WidevineProxy2-Extension-Bypass-HMAC-1-timetokens-Lic-wrapping).
+
+Para decriptar o áudio, faça o mesmo
+```bash
+mp4decrypt --key b57fd50083e83bfd85bbc31a32cf47e1:3d5f6bcf52c213ac76f5b896ee95be4e 'manifest [manifest].fa1-x3.m4a' audio.m4a
+```
+
+
+aí para mergear os áudios, use `ffmpeg`
+
+```bash
+ffmpeg -i video.mp4 -i audio.m4a -c:v copy merged.mp4
+```
